@@ -1,0 +1,72 @@
+{
+  "id": 1260220505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.11407,18.39411,-67.11407,18.39411",
+    "geom:latitude":18.39411,
+    "geom:longitude":-67.11407,
+    "gn:admin1_code":"099",
+    "gn:admin2_code":"7268664",
+    "gn:asciiname":"Comunidad Ramos",
+    "gn:country_code":"PR",
+    "gn:dem":46,
+    "gn:elevation":"40.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4563952,
+    "gn:latitude":18.39411,
+    "gn:longitude":-67.11407,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Comunidad Ramos",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4563952
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"dfd545e5e17c3a99a2405eb5730b3a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080423,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1260220505,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1260220505,
+    "wof:lastmodified":1536797582,
+    "wof:name":"Comunidad Ramos",
+    "wof:parent_id":102080423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.11407,
+    18.39411,
+    -67.11407,
+    18.39411
+],
+  "geometry": {"coordinates":[-67.11407,18.39411],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343692937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.63684,17.99441,-66.63684,17.99441",
+    "geom:latitude":17.99441,
+    "geom:longitude":-66.63684,
+    "gn:admin1_code":"113",
+    "gn:admin2_code":"7268315",
+    "gn:asciiname":"Hacienda Matilde",
+    "gn:country_code":"PR",
+    "gn:dem":10,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565260,
+    "gn:latitude":17.99441,
+    "gn:longitude":-66.63684,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda Matilde",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matilde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565260
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"659fc1cf050dc12bcd39524a6a843af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080299,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343692937,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343692937,
+    "wof:lastmodified":1537683114,
+    "wof:name":"Hacienda Matilde",
+    "wof:parent_id":102080299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.63684,
+    17.99441000000001,
+    -66.63684,
+    17.99441000000001
+],
+  "geometry": {"coordinates":[-66.63684000000001,17.99441000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293237797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.44478,18.14655,-65.44478,18.14655",
+    "geom:latitude":18.14655,
+    "geom:longitude":-65.44478,
+    "gn:admin1_code":"147",
+    "gn:admin2_code":"7268495",
+    "gn:asciiname":"Vieques Zona Urbana",
+    "gn:country_code":"PR",
+    "gn:dem":20,
+    "gn:elevation":"11.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7276396,
+    "gn:latitude":18.14655,
+    "gn:longitude":-65.44478,
+    "gn:modification_date":"2017-11-10",
+    "gn:name":"Vieques Zona Urbana",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vieques"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044c\u0435\u043a\u0435\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7276396
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"1c334d2b7947c2cd3e07e184de1e9160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080315,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1293237797,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1293237797,
+    "wof:lastmodified":1537683121,
+    "wof:name":"Vieques Zona Urbana",
+    "wof:parent_id":102080315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.44478000000001,
+    18.14655,
+    -65.44478000000001,
+    18.14655
+],
+  "geometry": {"coordinates":[-65.44478000000001,18.14655],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243590821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.63656,18.03719,-66.63656,18.03719",
+    "geom:latitude":18.03719,
+    "geom:longitude":-66.63656,
+    "gn:admin1_code":"113",
+    "gn:admin2_code":"7268592",
+    "gn:asciiname":"El Madrigal",
+    "gn:country_code":"PR",
+    "gn:dem":69,
+    "gn:elevation":"62.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4564204,
+    "gn:latitude":18.03719,
+    "gn:longitude":-66.63656,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"El Madrigal",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564204
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"2099183d5438a2a915a7d4e9c665f083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080299,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1243590821,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1243590821,
+    "wof:lastmodified":1537091011,
+    "wof:name":"El Madrigal",
+    "wof:parent_id":102080299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.63656,
+    18.03719,
+    -66.63656,
+    18.03719
+],
+  "geometry": {"coordinates":[-66.63656,18.03719],"type":"Point"}
+}

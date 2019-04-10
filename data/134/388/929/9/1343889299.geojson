@@ -1,0 +1,72 @@
+{
+  "id": 1343889299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.87883,18.27253,-65.87883,18.27253",
+    "geom:latitude":18.27253,
+    "geom:longitude":-65.87883,
+    "gn:admin1_code":"029",
+    "gn:admin2_code":"7268573",
+    "gn:asciiname":"Benitez Comunidad",
+    "gn:country_code":"PR",
+    "gn:dem":403,
+    "gn:elevation":"402.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7275027,
+    "gn:latitude":18.27253,
+    "gn:longitude":-65.87883,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Ben\u00edtez Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7275027
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"b3bcfc8e71db12700152388ae93aa458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080387,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343889299,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343889299,
+    "wof:lastmodified":1536623073,
+    "wof:name":"Benitez Comunidad",
+    "wof:parent_id":102080387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.87883000000001,
+    18.27253,
+    -65.87883000000001,
+    18.27253
+],
+  "geometry": {"coordinates":[-65.87883000000001,18.27253],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209552295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.65684,17.98691,-66.65684,17.98691",
+    "geom:latitude":17.98691,
+    "geom:longitude":-66.65684,
+    "gn:admin1_code":"113",
+    "gn:admin2_code":"7268315",
+    "gn:asciiname":"Tuque",
+    "gn:country_code":"PR",
+    "gn:dem":18,
+    "gn:elevation":"15.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568458,
+    "gn:latitude":17.98691,
+    "gn:longitude":-66.65684,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Tuque",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Tuque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568458
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"3839a54ef80b4d286fb0015284e9d43b",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209552295
+        }
+    ],
+    "wof:id":1209552295,
+    "wof:lastmodified":1537683119,
+    "wof:name":"Tuque",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.65684,
+    17.98691,
+    -66.65684,
+    17.98691
+],
+  "geometry": {"coordinates":[-66.65684,17.98691],"type":"Point"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 1125889801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.68323,18.42661,-66.68323,18.42661",
+    "geom:latitude":18.42661,
+    "geom:longitude":-66.68323,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3877,
+    "gn:population":3877,
+    "iso:country":"PR",
+    "lbl:latitude":18.42661,
+    "lbl:longitude":-66.68323,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bajadero"
+    ],
+    "name:eng_x_preferred":[
+        "Bajadero"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0445\u0430\u0434\u0435\u0440\u043e"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4562709,
+    "qs_pg:gn_pop":3877,
+    "qs_pg:name":"Bajadero",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Arecibo",
+    "qs_pg:photos":786,
+    "qs_pg:photos_1k":159,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":786,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":211127,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":160678,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Arecibo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562709,
+        "gp:id":160678,
+        "qs_pg:id":211127,
+        "wd:id":"Q2641072"
+    },
+    "wof:country":"PR",
+    "wof:created":1497295262,
+    "wof:geomhash":"c9c3decb160b17697ff0c356240eb860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080283,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125889801,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125889801,
+    "wof:lastmodified":1553816605,
+    "wof:name":"Bajadero",
+    "wof:parent_id":102080283,
+    "wof:placetype":"locality",
+    "wof:population":3877,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[
+        101919127
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.68323,
+    18.42661,
+    -66.68323,
+    18.42661
+],
+  "geometry": {"coordinates":[-66.68322999999999,18.42661],"type":"Point"}
+}

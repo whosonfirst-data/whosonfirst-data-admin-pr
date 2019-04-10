@@ -1,0 +1,75 @@
+{
+  "id": 1260116211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.64183,18.33912,-65.64183,18.33912",
+    "geom:latitude":18.33912,
+    "geom:longitude":-65.64183,
+    "gn:admin1_code":"053",
+    "gn:admin2_code":"7269003",
+    "gn:asciiname":"Isidra",
+    "gn:country_code":"PR",
+    "gn:dem":12,
+    "gn:elevation":"11.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565582,
+    "gn:latitude":18.33912,
+    "gn:longitude":-65.64183,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Isidra",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Isidra 3 Estension"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565582
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"9ef5220f720518c4b8e46195c6b3f964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080287,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1260116211,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1260116211,
+    "wof:lastmodified":1537683115,
+    "wof:name":"Isidra",
+    "wof:parent_id":102080287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.64183,
+    18.33912,
+    -65.64183,
+    18.33912
+],
+  "geometry": {"coordinates":[-65.64183,18.33912],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293329125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.0935,18.34995,-66.0935,18.34995",
+    "geom:latitude":18.34995,
+    "geom:longitude":-66.0935,
+    "gn:admin1_code":"127",
+    "gn:admin2_code":"7269050",
+    "gn:asciiname":"Sierra Brava",
+    "gn:country_code":"PR",
+    "gn:dem":53,
+    "gn:elevation":"50.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568323,
+    "gn:latitude":18.34995,
+    "gn:longitude":-66.0935,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Sierra Brava",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568323
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"a6dab86aaa53d8e498b41a5be227d794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1293329125,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1293329125,
+    "wof:lastmodified":1537014589,
+    "wof:name":"Sierra Brava",
+    "wof:parent_id":102080441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.0935,
+    18.34995,
+    -66.0935,
+    18.34995
+],
+  "geometry": {"coordinates":[-66.09350000000001,18.34995],"type":"Point"}
+}

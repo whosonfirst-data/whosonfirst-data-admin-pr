@@ -1,0 +1,70 @@
+{
+  "id": 101874835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.782699,41.396352,-8.782699,41.396352",
+    "geom:latitude":41.396352,
+    "geom:longitude":-8.782699,
+    "iso:country":"PR",
+    "lbl:latitude":41.396352,
+    "lbl:longitude":-8.782699,
+    "mps:latitude":41.396352,
+    "mps:longitude":-8.782699,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Paranho de Areia",
+    "qs:loc_alt":"Paranho de Areia",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PR",
+    "wof:geomhash":"f4f478e4898af4d68d08046fb3182381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":101874835,
+            "region_id":-1
+        }
+    ],
+    "wof:id":101874835,
+    "wof:lastmodified":1544751815,
+    "wof:name":"Paranho de Areia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.782699,
+    41.396352,
+    -8.782699,
+    41.396352
+],
+  "geometry": {"coordinates":[-8.782699,41.396352],"type":"Point"}
+}

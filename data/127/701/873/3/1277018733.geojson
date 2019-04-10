@@ -1,0 +1,72 @@
+{
+  "id": 1277018733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.18017,18.35967,-66.18017,18.35967",
+    "geom:latitude":18.35967,
+    "geom:longitude":-66.18017,
+    "gn:admin1_code":"021",
+    "gn:admin2_code":"7268065",
+    "gn:asciiname":"Villa del Olimpio",
+    "gn:country_code":"PR",
+    "gn:dem":98,
+    "gn:elevation":"106.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568675,
+    "gn:latitude":18.35967,
+    "gn:longitude":-66.18017,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Villa del Olimpio",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568675
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"bd39bffa66d4f15ac076d0542b33e161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080443,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1277018733,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1277018733,
+    "wof:lastmodified":1536853842,
+    "wof:name":"Villa del Olimpio",
+    "wof:parent_id":102080443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.18016999999999,
+    18.35967,
+    -66.18016999999999,
+    18.35967
+],
+  "geometry": {"coordinates":[-66.18016999999999,18.35967],"type":"Point"}
+}

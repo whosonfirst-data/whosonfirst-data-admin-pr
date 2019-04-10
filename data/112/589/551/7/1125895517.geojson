@@ -1,0 +1,151 @@
+{
+  "id": 1125895517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.10294,18.2569,-66.10294,18.2569",
+    "geom:latitude":18.2569,
+    "geom:longitude":-66.10294,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4576,
+    "gn:population":4576,
+    "iso:country":"PR",
+    "lbl:latitude":18.2569,
+    "lbl:longitude":-66.10294,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0531\u0563\u0578\u0582\u0561\u057d \u0532\u0578\u0582\u0565\u0576\u0561\u057d"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0986\u0997\u09c1\u09f1\u09be\u09b8 \u09ac\u09c1\u09af\u09bc\u09c7\u09a8\u09be\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Aguas Buenas"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u74dc\u65af\u5e03\u57c3\u7d0d\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Aguas Buenas"
+    ],
+    "name:eng_x_preferred":[
+        "Aguas Buenas"
+    ],
+    "name:fre_x_preferred":[
+        "Aguas Buenas"
+    ],
+    "name:ita_x_preferred":[
+        "Aguas Buenas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b0\u30a2\u30b9\u30fb\u30d6\u30a8\u30ca\u30b9"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06af\u0648\u0627\u0633 \u0628\u0648\u0626\u0646\u0627\u0633\u060c \u067e\u0648\u0631\u062a\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Aguas Buenas"
+    ],
+    "name:scn_x_preferred":[
+        "Aguas Buenas"
+    ],
+    "name:spa_x_preferred":[
+        "Aguas Buenas"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0433\u0432\u0430\u0441 \u0411\u0443\u0435\u043d\u0430\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0433\u0443\u0430\u0441-\u0411\u0443\u0435\u043d\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u0648\u0627\u0633 \u0628\u0648\u0626\u0646\u0627\u0633\u060c \u067e\u0648\u0631\u0679\u06cc \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Aguas Buenas"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4562513,
+    "qs_pg:gn_pop":4576,
+    "qs_pg:name":"Aguas Buenas",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Aguas Buenas",
+    "qs_pg:photos":32,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":211126,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":160645,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Aguas Buenas",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562513,
+        "gp:id":160645,
+        "qs_pg:id":211126,
+        "wd:id":"Q2361568"
+    },
+    "wof:country":"PR",
+    "wof:created":1497295537,
+    "wof:geomhash":"5f6857ac7e8385b678061b6d69c295d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080321,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125895517,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125895517,
+    "wof:lastmodified":1553816609,
+    "wof:name":"Aguas Buenas",
+    "wof:parent_id":102080321,
+    "wof:placetype":"locality",
+    "wof:population":4576,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[
+        101919009
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.10294,
+    18.2569,
+    -66.10294,
+    18.2569
+],
+  "geometry": {"coordinates":[-66.10294,18.2569],"type":"Point"}
+}

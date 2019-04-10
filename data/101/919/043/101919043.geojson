@@ -1,0 +1,139 @@
+{
+  "id": 101919043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":328806.446864,
+    "geom:bbox":"-67.140155,18.027609,-67.126866,18.030956",
+    "geom:latitude":18.029568,
+    "geom:longitude":-67.133546,
+    "geonames:id":"4562866,7275028",
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":835,
+    "gn:population":835,
+    "iso:country":"PR",
+    "lbl:latitude":18.029682,
+    "lbl:longitude":-67.133546,
+    "mps:latitude":18.029682,
+    "mps:longitude":-67.133546,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u043c\u043e\u043d \u0415\u043c\u0435\u0442\u0435\u0440\u0438\u043e \u0411\u0435\u0442\u0430\u043d\u0441\u0435\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Ram\u00f3n Emeterio Betances Alac\u00e1n"
+    ],
+    "name:deu_x_preferred":[
+        "Ram\u00f3n Emeterio Betances"
+    ],
+    "name:fra_x_preferred":[
+        "Ram\u00f3n Emeterio Betances"
+    ],
+    "name:ind_x_preferred":[
+        "Ram\u00f3n Emeterio Betances"
+    ],
+    "name:ita_x_preferred":[
+        "Ram\u00f3n Emeterio Betances"
+    ],
+    "name:por_x_preferred":[
+        "Ram\u00f3n Emeterio Betances"
+    ],
+    "name:que_x_preferred":[
+        "Ram\u00f3n Betances"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0442\u0430\u043d\u0441\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Ram\u00f3n Emeterio Betances"
+    ],
+    "qs:a0":"Puerto Rico",
+    "qs:a1":"*Puerto Rico",
+    "qs:a1_lc":"72",
+    "qs:a1r":"*",
+    "qs:adm0":"Puerto Rico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Betances",
+    "qs:loc_alt":"Betances comunidad",
+    "qs:loc_lc":"7207668",
+    "qs:pop":0,
+    "qs:source":"IUS Census",
+    "qs:type":"G4210",
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4562866,
+    "qs_pg:gn_pop":835,
+    "qs_pg:name":"Betances",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Cabo Rojo",
+    "qs_pg:photos":84,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":84,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1174585,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":160709,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562866,
+        "gp:id":160709,
+        "qs_pg:id":1174585
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"92c41c7438d8593ca6e51bfc489fe80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080409,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919043,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":101919043,
+    "wof:lastmodified":1534379437,
+    "wof:name":"Betances",
+    "wof:parent_id":102080409,
+    "wof:placetype":"locality",
+    "wof:population":835,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125847167
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.140155,
+    18.027609,
+    -67.126866,
+    18.030956
+],
+  "geometry": {"coordinates":[[[-67.138313,18.030202],[-67.136146,18.030666],[-67.135654,18.030692],[-67.135481,18.030701],[-67.13501100000001,18.030711],[-67.134503,18.030725],[-67.133472,18.030753],[-67.13307,18.030762],[-67.132544,18.030777],[-67.13110500000001,18.030823],[-67.12841400000001,18.030886],[-67.128378,18.030886],[-67.127443,18.030915],[-67.12699600000001,18.030956],[-67.12692300000001,18.030827],[-67.12686600000001,18.030556],[-67.12687099999999,18.030464],[-67.12692300000001,18.030391],[-67.127077,18.030249],[-67.12712999999999,18.030148],[-67.127135,18.030056],[-67.12712500000001,18.029959],[-67.12706300000001,18.029881],[-67.12702,18.029771],[-67.12702400000001,18.029643],[-67.127003,18.028802],[-67.127742,18.028777],[-67.12832299999999,18.028757],[-67.128406,18.028753],[-67.12857700000001,18.02875],[-67.12879,18.028748],[-67.13104199999999,18.028699],[-67.13114,18.028695],[-67.13179700000001,18.02867],[-67.133016,18.028625],[-67.13303999999999,18.028625],[-67.13364199999999,18.028612],[-67.133887,18.028607],[-67.134952,18.028579],[-67.135974,18.028523],[-67.137764,18.028146],[-67.137834,18.028131],[-67.138012,18.028089],[-67.138413,18.027996],[-67.139588,18.027638],[-67.139686,18.027609],[-67.140017,18.02874],[-67.14015499999999,18.029296],[-67.14012700000001,18.02954],[-67.140094,18.029829],[-67.138313,18.030202]]],"type":"Polygon"}
+}

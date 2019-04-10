@@ -1,0 +1,72 @@
+{
+  "id": 1344187983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.04767,18.41828,-66.04767,18.41828",
+    "geom:latitude":18.41828,
+    "geom:longitude":-66.04767,
+    "gn:admin1_code":"127",
+    "gn:admin2_code":"7268463",
+    "gn:asciiname":"Davita y Llenza",
+    "gn:country_code":"PR",
+    "gn:dem":7,
+    "gn:elevation":"6.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4564090,
+    "gn:latitude":18.41828,
+    "gn:longitude":-66.04767,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Davita y Llenza",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564090
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"925d5d4612ad30039f57526ff1c844aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1344187983,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1344187983,
+    "wof:lastmodified":1536691832,
+    "wof:name":"Davita y Llenza",
+    "wof:parent_id":102080441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.04767,
+    18.41828,
+    -66.04767,
+    18.41828
+],
+  "geometry": {"coordinates":[-66.04767,18.41828],"type":"Point"}
+}

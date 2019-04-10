@@ -1,0 +1,72 @@
+{
+  "id": 1226074357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.35684,18.07663,-66.35684,18.07663",
+    "geom:latitude":18.07663,
+    "geom:longitude":-66.35684,
+    "gn:admin1_code":"043",
+    "gn:admin2_code":"7268092",
+    "gn:asciiname":"Barriada Sambrana",
+    "gn:country_code":"PR",
+    "gn:dem":120,
+    "gn:elevation":"118.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4562794,
+    "gn:latitude":18.07663,
+    "gn:longitude":-66.35684,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Barriada Sambrana",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562794
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"8de96706d4162995a99a1fa173712271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080279,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1226074357,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1226074357,
+    "wof:lastmodified":1536684001,
+    "wof:name":"Barriada Sambrana",
+    "wof:parent_id":102080279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.35684,
+    18.07663,
+    -66.35684,
+    18.07663
+],
+  "geometry": {"coordinates":[-66.35684000000001,18.07663],"type":"Point"}
+}

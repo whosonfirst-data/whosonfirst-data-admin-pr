@@ -1,0 +1,63 @@
+{
+  "id": 1209249183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.04046,18.05996,-67.04046,18.05996",
+    "geom:latitude":18.05996,
+    "geom:longitude":-67.04046,
+    "gn:admin1_code":"079",
+    "gn:admin2_code":"7268993",
+    "gn:asciiname":"Parada de Senal Fulminante",
+    "gn:country_code":"PR",
+    "gn:dem":114,
+    "gn:elevation":"105.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566504,
+    "gn:latitude":18.05996,
+    "gn:longitude":-67.04046,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Parada de Se\u00f1al Fulminante",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566504
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"c0dd198943e9313a5a272abfe7984afe",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209249183
+        }
+    ],
+    "wof:id":1209249183,
+    "wof:lastmodified":1536293061,
+    "wof:name":"Parada de Senal Fulminante",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.04046,
+    18.05996,
+    -67.04046,
+    18.05996
+],
+  "geometry": {"coordinates":[-67.04046,18.05996],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343992157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.71351,18.41911,-66.71351,18.41911",
+    "geom:latitude":18.41911,
+    "geom:longitude":-66.71351,
+    "gn:admin1_code":"013",
+    "gn:admin2_code":"7269028",
+    "gn:asciiname":"El Dique",
+    "gn:country_code":"PR",
+    "gn:dem":22,
+    "gn:elevation":"13.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4564186,
+    "gn:latitude":18.41911,
+    "gn:longitude":-66.71351,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"El Dique",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564186
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"33a52ff27e20c2add819d28ea10af317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080283,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343992157,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343992157,
+    "wof:lastmodified":1536973807,
+    "wof:name":"El Dique",
+    "wof:parent_id":102080283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.71351,
+    18.41911,
+    -66.71351,
+    18.41911
+],
+  "geometry": {"coordinates":[-66.71351,18.41911],"type":"Point"}
+}

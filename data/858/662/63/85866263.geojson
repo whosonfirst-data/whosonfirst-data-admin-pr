@@ -1,0 +1,118 @@
+{
+  "id": 85866263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":1355221.24401,
+    "geom:bbox":"-66.063398,18.428254,-66.063398,18.428254",
+    "geom:latitude":18.428254,
+    "geom:longitude":-66.063398,
+    "gn:elevation":2,
+    "iso:country":"PR",
+    "lbl:latitude":18.428254,
+    "lbl:longitude":-66.063398,
+    "mps:latitude":18.428583,
+    "mps:longitude":-66.063231,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:deu_x_preferred":[
+        "Mart\u00edn Pe\u00f1a"
+    ],
+    "name:spa_x_preferred":[
+        "Martin Pena"
+    ],
+    "name:unk_x_variant":[
+        "Martin Pena"
+    ],
+    "qs:gn_adm0_cc":"PR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":4568220,
+    "qs:gn_nam_loc":"aguacate",
+    "qs:gn_namadm1":"127",
+    "qs:gn_name":"Mart\u00edn Pe\u00f1a",
+    "qs:local_max":29505,
+    "qs:local_sum":50313,
+    "qs:localhoods":63,
+    "qs:name":"Martin Pena",
+    "qs:name_adm0":"Puerto Rico",
+    "qs:name_adm1":"San Juan",
+    "qs:name_adm2":"Hato Rey Central",
+    "qs:name_local":"San Juan",
+    "qs:photo_max":232,
+    "qs:photo_sum":493,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424935,
+    "qs:woe_adm1":2346815,
+    "qs:woe_adm2":26806695,
+    "qs:woe_lau":0,
+    "qs:woe_local":161685,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        85633729,
+        102191575,
+        101919427,
+        136253057,
+        102080441,
+        85687331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566195,
+        "gp:id":24550962,
+        "qs:id":1330399
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"9d282a696ca0f77d7c37936aadd13c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919427,
+            "neighbourhood_id":85866263,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":85866263,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379432,
+    "wof:name":"Martin Pena",
+    "wof:parent_id":101919427,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[
+        1126070427
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.063398,
+    18.428254,
+    -66.063398,
+    18.428254
+],
+  "geometry": {"coordinates":[-66.06339800000001,18.428254],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243001851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.13768,18.18662,-67.13768,18.18662",
+    "geom:latitude":18.18662,
+    "geom:longitude":-67.13768,
+    "gn:admin1_code":"097",
+    "gn:admin2_code":"7268933",
+    "gn:asciiname":"San Benito",
+    "gn:country_code":"PR",
+    "gn:dem":28,
+    "gn:elevation":"24.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568083,
+    "gn:latitude":18.18662,
+    "gn:longitude":-67.13768,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"San Benito",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568083
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"8e5122241d3a8f8ae9ffd8e912f29d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080311,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1243001851,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1243001851,
+    "wof:lastmodified":1536949953,
+    "wof:name":"San Benito",
+    "wof:parent_id":102080311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.13768,
+    18.18662,
+    -67.13768,
+    18.18662
+],
+  "geometry": {"coordinates":[-67.13768,18.18662],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243300359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.13685,18.28884,-67.13685,18.28884",
+    "geom:latitude":18.28884,
+    "geom:longitude":-67.13685,
+    "gn:admin1_code":"011",
+    "gn:admin2_code":"7268143",
+    "gn:asciiname":"Jardines de Anasco",
+    "gn:country_code":"PR",
+    "gn:dem":16,
+    "gn:elevation":"11.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565636,
+    "gn:latitude":18.28884,
+    "gn:longitude":-67.13685,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Jardines de Anasco",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565636
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"afb54ab4d726c83856d8d6f7093efe41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080323,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1243300359,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1243300359,
+    "wof:lastmodified":1537015284,
+    "wof:name":"Jardines de Anasco",
+    "wof:parent_id":102080323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.13685,
+    18.28884,
+    -67.13685,
+    18.28884
+],
+  "geometry": {"coordinates":[-67.13685,18.28884],"type":"Point"}
+}

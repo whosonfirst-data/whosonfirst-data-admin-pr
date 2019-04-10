@@ -1,0 +1,72 @@
+{
+  "id": 1343792657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.04433,18.23551,-66.04433,18.23551",
+    "geom:latitude":18.23551,
+    "geom:longitude":-66.04433,
+    "gn:admin1_code":"025",
+    "gn:admin2_code":"7268287",
+    "gn:asciiname":"Tierra Linda",
+    "gn:country_code":"PR",
+    "gn:dem":65,
+    "gn:elevation":"63.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568397,
+    "gn:latitude":18.23551,
+    "gn:longitude":-66.04433,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Tierra Linda",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568397
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"dc2de1fcdd1b7b276a59342ea3f57de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080425,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343792657,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343792657,
+    "wof:lastmodified":1536764984,
+    "wof:name":"Tierra Linda",
+    "wof:parent_id":102080425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.04433,
+    18.23551,
+    -66.04433,
+    18.23551
+],
+  "geometry": {"coordinates":[-66.04433,18.23551],"type":"Point"}
+}

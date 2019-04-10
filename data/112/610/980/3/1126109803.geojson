@@ -1,0 +1,103 @@
+{
+  "id": 1126109803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.98378,18.37995,-65.98378,18.37995",
+    "geom:latitude":18.37995,
+    "geom:longitude":-65.98378,
+    "gn:elevation":23,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PR",
+    "lbl:latitude":18.37995,
+    "lbl:longitude":-65.98378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Bolling Hills"
+    ],
+    "name:unk_x_variant":[
+        "Bolling Hills"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4567987,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bolling Hills",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Carolina",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":41,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":888275,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":24551235,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Carolina",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85633729,
+        102191575,
+        101919197,
+        136253057,
+        102080347,
+        85687331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567987,
+        "gp:id":24551235,
+        "qs:id":888275,
+        "qs_pg:id":888275
+    },
+    "wof:country":"PR",
+    "wof:created":1497318008,
+    "wof:geomhash":"2a43a0b4b547097f0e74ee53e755e391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080347,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919197,
+            "neighbourhood_id":1126109803,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1126109803,
+    "wof:lastmodified":1534379443,
+    "wof:name":"Bolling Hills",
+    "wof:parent_id":101919197,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85866361
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.98378,
+    18.37995,
+    -65.98378,
+    18.37995
+],
+  "geometry": {"coordinates":[-65.98378,18.37995],"type":"Point"}
+}

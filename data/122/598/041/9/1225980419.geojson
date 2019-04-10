@@ -1,0 +1,72 @@
+{
+  "id": 1225980419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.23046,18.3755,-67.23046,18.3755",
+    "geom:latitude":18.3755,
+    "geom:longitude":-67.23046,
+    "gn:admin1_code":"003",
+    "gn:admin2_code":"7268905",
+    "gn:asciiname":"Santoni",
+    "gn:country_code":"PR",
+    "gn:dem":5,
+    "gn:elevation":"5.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568255,
+    "gn:latitude":18.3755,
+    "gn:longitude":-67.23046,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Santoni",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568255
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"685262a9757dce7168e8abd84529886e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080353,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1225980419,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1225980419,
+    "wof:lastmodified":1536818370,
+    "wof:name":"Santoni",
+    "wof:parent_id":102080353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.23046,
+    18.3755,
+    -67.23046,
+    18.3755
+],
+  "geometry": {"coordinates":[-67.23045999999999,18.3755],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243002551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.47073,18.45995,-66.47073,18.45995",
+    "geom:latitude":18.45995,
+    "geom:longitude":-66.47073,
+    "gn:admin1_code":"091",
+    "gn:admin2_code":"7269037",
+    "gn:asciiname":"El Pulguero",
+    "gn:country_code":"PR",
+    "gn:dem":9,
+    "gn:elevation":"7.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4564229,
+    "gn:latitude":18.45995,
+    "gn:longitude":-66.47073,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"El Pulguero",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564229
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"1f0227cbb6ba0ea9c2b73828821e28ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080271,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1243002551,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1243002551,
+    "wof:lastmodified":1536948919,
+    "wof:name":"El Pulguero",
+    "wof:parent_id":102080271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.47073,
+    18.45995,
+    -66.47073,
+    18.45995
+],
+  "geometry": {"coordinates":[-66.47073,18.45995],"type":"Point"}
+}

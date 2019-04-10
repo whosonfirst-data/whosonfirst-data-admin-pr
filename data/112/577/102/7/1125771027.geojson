@@ -1,0 +1,81 @@
+{
+  "id": 1125771027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.10405,18.12746,-66.10405,18.12746",
+    "geom:latitude":18.12746,
+    "geom:longitude":-66.10405,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1798,
+    "gn:population":1798,
+    "iso:country":"PR",
+    "lbl:latitude":18.12746,
+    "lbl:longitude":-66.10405,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4565032,
+    "qs_pg:gn_pop":1798,
+    "qs_pg:name":"G. L. Garcia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":154500,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565032,
+        "qs_pg:id":154500
+    },
+    "wof:country":"PR",
+    "wof:created":1497290066,
+    "wof:geomhash":"94f8be77d0f2c4ad02b576c88a6538c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080419,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125771027,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125771027,
+    "wof:lastmodified":1509998595,
+    "wof:name":"G. L. Garcia",
+    "wof:parent_id":102080419,
+    "wof:placetype":"locality",
+    "wof:population":1798,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.10405,
+    18.12746,
+    -66.10405,
+    18.12746
+],
+  "geometry": {"coordinates":[-66.10405,18.12746],"type":"Point"}
+}

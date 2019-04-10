@@ -1,0 +1,119 @@
+{
+  "id": 101919131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":597840.783126,
+    "geom:bbox":"-66.640826,18.441528,-66.632407,18.451123",
+    "geom:latitude":18.445744,
+    "geom:longitude":-66.636436,
+    "geonames:id":"4562615,7275019",
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1450,
+    "gn:population":1450,
+    "iso:country":"PR",
+    "lbl:latitude":18.44538,
+    "lbl:longitude":-66.637273,
+    "mps:latitude":18.44538,
+    "mps:longitude":-66.637273,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:hbs_x_preferred":[
+        "Animas"
+    ],
+    "name:por_x_preferred":[
+        "Animas"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043d\u0438\u043c\u0430\u0441"
+    ],
+    "qs:a0":"Puerto Rico",
+    "qs:a1":"*Puerto Rico",
+    "qs:a1_lc":"72",
+    "qs:a1r":"*",
+    "qs:adm0":"Puerto Rico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Animas",
+    "qs:loc_alt":"Animas comunidad",
+    "qs:loc_lc":"7203024",
+    "qs:pop":0,
+    "qs:source":"IUS Census",
+    "qs:type":"G4210",
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4562615,
+    "qs_pg:gn_pop":1450,
+    "qs_pg:name":"Animas",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Arecibo",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1049311,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":24550877,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562615,
+        "gp:id":24550877,
+        "qs_pg:id":1049311
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"6908dfbd29ebe296f0c735c10790c98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080283,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919131,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":101919131,
+    "wof:lastmodified":1534379421,
+    "wof:name":"Animas",
+    "wof:parent_id":102080283,
+    "wof:placetype":"locality",
+    "wof:population":1450,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125961077
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.640826,
+    18.441528,
+    -66.632407,
+    18.451123
+],
+  "geometry": {"coordinates":[[[-66.640807,18.443519],[-66.640789,18.443635],[-66.640698,18.44418],[-66.640576,18.444812],[-66.640396,18.4457],[-66.640293,18.44621],[-66.640184,18.446762],[-66.640113,18.447126],[-66.640024,18.447372],[-66.639842,18.447502],[-66.639307,18.447733],[-66.63940100000001,18.447984],[-66.639427,18.448053],[-66.63952999999999,18.448163],[-66.63964,18.44828],[-66.63969400000001,18.448379],[-66.639686,18.448814],[-66.63968,18.449073],[-66.638268,18.449167],[-66.637187,18.449432],[-66.63655900000001,18.449487],[-66.635902,18.449631],[-66.635109,18.449746],[-66.63512900000001,18.450254],[-66.634969,18.450246],[-66.63491,18.450242],[-66.634865,18.45024],[-66.634728,18.450474],[-66.634568,18.450978],[-66.633903,18.451078],[-66.633607,18.451123],[-66.633504,18.450347],[-66.633465,18.449568],[-66.633594,18.448925],[-66.633905,18.448214],[-66.633994,18.447625],[-66.634131,18.447168],[-66.634253,18.446715],[-66.634424,18.445886],[-66.633213,18.446018],[-66.633121,18.444659],[-66.633081,18.444218],[-66.633043,18.444145],[-66.632481,18.444344],[-66.632474,18.443369],[-66.632487,18.442063],[-66.632488,18.441973],[-66.632407,18.441956],[-66.632451,18.441603],[-66.632515,18.441528],[-66.634879,18.441875],[-66.635228,18.441931],[-66.63700900000001,18.442214],[-66.637305,18.442318],[-66.63785300000001,18.442508],[-66.638531,18.442745],[-66.639208,18.443009],[-66.639275,18.443055],[-66.639617,18.443218],[-66.64048699999999,18.443334],[-66.640826,18.443391],[-66.640807,18.443519]]],"type":"Polygon"}
+}

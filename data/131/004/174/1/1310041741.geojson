@@ -1,0 +1,72 @@
+{
+  "id": 1310041741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.15212,18.19995,-67.15212,18.19995",
+    "geom:latitude":18.19995,
+    "geom:longitude":-67.15212,
+    "gn:admin1_code":"097",
+    "gn:admin2_code":"7268645",
+    "gn:asciiname":"Marina",
+    "gn:country_code":"PR",
+    "gn:dem":3,
+    "gn:elevation":"1.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566182,
+    "gn:latitude":18.19995,
+    "gn:longitude":-67.15212,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Marina",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566182
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"f10dbae52e36b1368aca7755744f5f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080311,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1310041741,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1310041741,
+    "wof:lastmodified":1537085163,
+    "wof:name":"Marina",
+    "wof:parent_id":102080311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.15212,
+    18.19995,
+    -67.15212,
+    18.19995
+],
+  "geometry": {"coordinates":[-67.15212,18.19995],"type":"Point"}
+}

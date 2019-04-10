@@ -1,0 +1,72 @@
+{
+  "id": 1292942055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.93157,18.18107,-66.93157,18.18107",
+    "geom:latitude":18.18107,
+    "geom:longitude":-66.93157,
+    "gn:admin1_code":"093",
+    "gn:admin2_code":"7268268",
+    "gn:asciiname":"Hacienda Santa Barbara (historical)",
+    "gn:country_code":"PR",
+    "gn:dem":730,
+    "gn:elevation":"713.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":4565314,
+    "gn:latitude":18.18107,
+    "gn:longitude":-66.93157,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda Santa Barbara (historical)",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565314
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"33130a419ffb81f7c2196ba12488e528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080437,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1292942055,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1292942055,
+    "wof:lastmodified":1537073238,
+    "wof:name":"Hacienda Santa Barbara (historical)",
+    "wof:parent_id":102080437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.93157,
+    18.18107,
+    -66.93157,
+    18.18107
+],
+  "geometry": {"coordinates":[-66.93156999999999,18.18107],"type":"Point"}
+}

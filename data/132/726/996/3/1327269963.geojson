@@ -1,0 +1,72 @@
+{
+  "id": 1327269963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.01044,18.00719,-66.01044,18.00719",
+    "geom:latitude":18.00719,
+    "geom:longitude":-66.01044,
+    "gn:admin1_code":"109",
+    "gn:admin2_code":"7268604",
+    "gn:asciiname":"Marian I",
+    "gn:country_code":"PR",
+    "gn:dem":38,
+    "gn:elevation":"36.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566173,
+    "gn:latitude":18.00719,
+    "gn:longitude":-66.01044,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Marian I",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566173
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"26fb8d0ecf9c4ff38d87c350921e5b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080445,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1327269963,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1327269963,
+    "wof:lastmodified":1536915837,
+    "wof:name":"Marian I",
+    "wof:parent_id":102080445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.01044,
+    18.00718999999999,
+    -66.01044,
+    18.00718999999999
+],
+  "geometry": {"coordinates":[-66.01044,18.00718999999999],"type":"Point"}
+}

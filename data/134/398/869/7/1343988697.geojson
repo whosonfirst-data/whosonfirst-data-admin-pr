@@ -1,0 +1,72 @@
+{
+  "id": 1343988697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.56712,18.30912,-66.56712,18.30912",
+    "geom:latitude":18.30912,
+    "geom:longitude":-66.56712,
+    "gn:admin1_code":"039",
+    "gn:admin2_code":"7268401",
+    "gn:asciiname":"Segui",
+    "gn:country_code":"PR",
+    "gn:dem":333,
+    "gn:elevation":"331.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568304,
+    "gn:latitude":18.30912,
+    "gn:longitude":-66.56712,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Segui",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568304
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"a1355227bea983bf5abad387625e5dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080317,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343988697,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343988697,
+    "wof:lastmodified":1536978728,
+    "wof:name":"Segui",
+    "wof:parent_id":102080317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.56711999999999,
+    18.30912,
+    -66.56711999999999,
+    18.30912
+],
+  "geometry": {"coordinates":[-66.56711999999999,18.30912],"type":"Point"}
+}

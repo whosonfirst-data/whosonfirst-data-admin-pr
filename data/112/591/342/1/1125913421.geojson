@@ -1,0 +1,108 @@
+{
+  "id": 1125913421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.05183,17.99635,-66.05183,17.99635",
+    "geom:latitude":17.99635,
+    "geom:longitude":-66.05183,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2026,
+    "gn:population":2026,
+    "iso:country":"PR",
+    "lbl:latitude":17.99635,
+    "lbl:longitude":-66.05183,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:eng_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:spa_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0648\u06cc\u0646\u0627 \u0648\u0633\u0679\u0627"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4562972,
+    "qs_pg:gn_pop":2026,
+    "qs_pg:name":"Buena Vista",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Arroyo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":59756,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":24550879,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Arroyo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562972,
+        "gp:id":24550879,
+        "qs_pg:id":59756,
+        "wd:id":"Q4985431"
+    },
+    "wof:country":"PR",
+    "wof:created":1497296237,
+    "wof:geomhash":"67fe24381a312f3a68ff00d64db7e017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080285,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125913421,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125913421,
+    "wof:lastmodified":1553816624,
+    "wof:name":"Buena Vista",
+    "wof:parent_id":102080285,
+    "wof:placetype":"locality",
+    "wof:population":2026,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[
+        101919055
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.05183,
+    17.99635,
+    -66.05183,
+    17.99635
+],
+  "geometry": {"coordinates":[-66.05183,17.99635],"type":"Point"}
+}

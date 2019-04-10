@@ -1,0 +1,63 @@
+{
+  "id": 1209549463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.99879,18.20968,-66.99879,18.20968",
+    "geom:latitude":18.20968,
+    "geom:longitude":-66.99879,
+    "gn:admin1_code":"083",
+    "gn:admin2_code":"7268615",
+    "gn:asciiname":"Naranjales",
+    "gn:country_code":"PR",
+    "gn:dem":555,
+    "gn:elevation":"542.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566401,
+    "gn:latitude":18.20968,
+    "gn:longitude":-66.99879,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Naranjales",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566401
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"f0646af9f0025895e5bcc64c53053bd0",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209549463
+        }
+    ],
+    "wof:id":1209549463,
+    "wof:lastmodified":1536283740,
+    "wof:name":"Naranjales",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.99879,
+    18.20968,
+    -66.99879,
+    18.20968
+],
+  "geometry": {"coordinates":[-66.99879,18.20968],"type":"Point"}
+}

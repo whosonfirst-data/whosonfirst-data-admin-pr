@@ -1,0 +1,72 @@
+{
+  "id": 1292934875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.03211,18.38884,-66.03211,18.38884",
+    "geom:latitude":18.38884,
+    "geom:longitude":-66.03211,
+    "gn:admin1_code":"127",
+    "gn:admin2_code":"7268945",
+    "gn:asciiname":"Park Gardens",
+    "gn:country_code":"PR",
+    "gn:dem":56,
+    "gn:elevation":"52.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566517,
+    "gn:latitude":18.38884,
+    "gn:longitude":-66.03211,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Park Gardens",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566517
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"4b228ec8ea7619d79803cd4649331b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1292934875,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1292934875,
+    "wof:lastmodified":1537083737,
+    "wof:name":"Park Gardens",
+    "wof:parent_id":102080441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.03211,
+    18.38884,
+    -66.03211,
+    18.38884
+],
+  "geometry": {"coordinates":[-66.03211,18.38884],"type":"Point"}
+}

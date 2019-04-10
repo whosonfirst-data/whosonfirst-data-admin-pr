@@ -1,0 +1,71 @@
+{
+  "id": 1243584375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.17211,18.42606,-66.17211,18.42606",
+    "geom:latitude":18.42606,
+    "geom:longitude":-66.17211,
+    "gn:admin1_code":"135",
+    "gn:asciiname":"Villa Marasol",
+    "gn:country_code":"PR",
+    "gn:dem":6,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568629,
+    "gn:latitude":18.42606,
+    "gn:longitude":-66.17211,
+    "gn:modification_date":"2007-02-16",
+    "gn:name":"Villa Marasol",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568629
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"13c0de82c15b309050b1aee21081e7ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080329,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1243584375,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1243584375,
+    "wof:lastmodified":1536603870,
+    "wof:name":"Villa Marasol",
+    "wof:parent_id":102080329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.17211,
+    18.42606,
+    -66.17211,
+    18.42606
+],
+  "geometry": {"coordinates":[-66.17211,18.42606],"type":"Point"}
+}

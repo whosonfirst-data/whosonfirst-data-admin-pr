@@ -1,0 +1,114 @@
+{
+  "id": 85862597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1430910.010201,
+    "geom:bbox":"-8.60273,41.172448,-8.60273,41.172448",
+    "geom:latitude":41.172448,
+    "geom:longitude":-8.60273,
+    "iso:country":"PR",
+    "lbl:latitude":41.172448,
+    "lbl:longitude":-8.60273,
+    "mps:latitude":41.171418,
+    "mps:longitude":-8.600875,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:nld_x_preferred":[
+        "Sert\u00e3"
+    ],
+    "name:por_x_preferred":[
+        "Amial",
+        "Sert\u00e3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0442\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Sert\u00e3"
+    ],
+    "name:unk_x_variant":[
+        "Amial"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":6458924,
+    "qs:gn_nam_loc":"Porto, Porto, PT",
+    "qs:gn_namadm1":"22",
+    "qs:gn_name":"Amial",
+    "qs:local_max":15142,
+    "qs:local_sum":27062,
+    "qs:localhoods":8,
+    "qs:name":"Amial",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Porto",
+    "qs:name_adm2":"Porto",
+    "qs:name_local":"Porto",
+    "qs:photo_max":332,
+    "qs:photo_sum":578,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346575,
+    "qs:woe_adm2":12596515,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596515,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101752093,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742934,
+        "gp:id":20105225,
+        "qs:id":1179658
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"59be984cb37264aaaef09a69e26a7203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752093,
+            "neighbourhood_id":85862597,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":85862597,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1531870604,
+    "wof:name":"Amial",
+    "wof:parent_id":101752093,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.60273,
+    41.172448,
+    -8.60273,
+    41.172448
+],
+  "geometry": {"coordinates":[-8.60273,41.172448],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 85859539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2141767.138003,
+    "geom:bbox":"-66.055434,18.422479,-66.055434,18.422479",
+    "geom:latitude":18.422479,
+    "geom:longitude":-66.055434,
+    "gn:id":"",
+    "iso:country":"PR",
+    "lbl:latitude":18.422479,
+    "lbl:longitude":-66.055434,
+    "mps:latitude":18.423512,
+    "mps:longitude":-66.052019,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:ita_x_preferred":[
+        "Hato Rey"
+    ],
+    "name:spa_x_preferred":[
+        "Hato Rey"
+    ],
+    "name:unk_x_variant":[
+        "Hato Rey"
+    ],
+    "qs:gn_adm0_cc":"PR",
+    "qs:gn_id":0,
+    "qs:gn_local":4568220,
+    "qs:gn_nam_loc":"aguacate",
+    "qs:gn_namadm1":"025",
+    "qs:local_max":29505,
+    "qs:local_sum":50313,
+    "qs:localhoods":63,
+    "qs:name":"Hato Rey",
+    "qs:name_adm0":"Puerto Rico",
+    "qs:name_adm1":"San Juan",
+    "qs:name_adm2":"Hato Rey Central",
+    "qs:name_local":"San Juan",
+    "qs:photo_max":52,
+    "qs:photo_sum":114,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424935,
+    "qs:woe_adm1":2346815,
+    "qs:woe_adm2":26806695,
+    "qs:woe_lau":0,
+    "qs:woe_local":161685,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":483,
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        101919427,
+        136253057,
+        102080441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15021132,
+        "qs:id":229724,
+        "wd:id":"Q3783649"
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"73deb6fac3d96917e0c6aad7dd507e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919427,
+            "neighbourhood_id":85859539,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":85859539,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531870387,
+    "wof:name":"Hato Rey",
+    "wof:parent_id":101919427,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.055434,
+    18.422479,
+    -66.055434,
+    18.422479
+],
+  "geometry": {"coordinates":[-66.05543400000001,18.422479],"type":"Point"}
+}

@@ -1,0 +1,147 @@
+{
+  "id": 1125848697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.83127,18.38023,-65.83127,18.38023",
+    "geom:latitude":18.38023,
+    "geom:longitude":-65.83127,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":13467,
+    "gn:population":13467,
+    "iso:country":"PR",
+    "lbl:latitude":18.38023,
+    "lbl:longitude":-65.83127,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u09b0\u09bf\u0993 \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
+    ],
+    "name:cat_x_preferred":[
+        "Rio Grande"
+    ],
+    "name:chi_x_preferred":[
+        "\u91cc\u5967\u683c\u862d\u5fb7"
+    ],
+    "name:dut_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:ger_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30aa\u30fb\u30b0\u30e9\u30f3\u30c7"
+    ],
+    "name:pol_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:por_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u043e \u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u043e-\u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0648 \u06af\u0631\u06cc\u0646\u0688\u06d2\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Rio Grande"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5967\u683c\u862d\u5fb7"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4567817,
+    "qs_pg:gn_pop":13467,
+    "qs_pg:name":"Rio Grande",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"R\u00edo Grande",
+    "qs_pg:photos":455,
+    "qs_pg:photos_1k":92,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":455,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":489382,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":161624,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"R\u00edo Grande",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567817,
+        "gp:id":161624,
+        "qs_pg:id":489382,
+        "wd:id":"Q979996"
+    },
+    "wof:country":"PR",
+    "wof:created":1497293289,
+    "wof:geomhash":"5cd7d2df337606955d1f64b926d9f64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080399,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125848697,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125848697,
+    "wof:lastmodified":1553816570,
+    "wof:name":"Rio Grande",
+    "wof:parent_id":102080399,
+    "wof:placetype":"locality",
+    "wof:population":13467,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.83127,
+    18.38023,
+    -65.83127,
+    18.38023
+],
+  "geometry": {"coordinates":[-65.83127,18.38023],"type":"Point"}
+}

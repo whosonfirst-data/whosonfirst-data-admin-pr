@@ -1,0 +1,66 @@
+{
+  "id": 1209651635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.94878,18.40495,-65.94878,18.40495",
+    "geom:latitude":18.40495,
+    "geom:longitude":-65.94878,
+    "gn:admin1_code":"031",
+    "gn:admin2_code":"7268484",
+    "gn:asciiname":"Monserrate",
+    "gn:country_code":"PR",
+    "gn:dem":8,
+    "gn:elevation":"7.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566283,
+    "gn:latitude":18.40495,
+    "gn:longitude":-65.94878,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Monserrate",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia Monserrate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566283
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"50f4cb53516a5f2af78ea088747f13fe",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209651635
+        }
+    ],
+    "wof:id":1209651635,
+    "wof:lastmodified":1537683117,
+    "wof:name":"Monserrate",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.94878,
+    18.40495,
+    -65.94878,
+    18.40495
+],
+  "geometry": {"coordinates":[-65.94878,18.40495],"type":"Point"}
+}

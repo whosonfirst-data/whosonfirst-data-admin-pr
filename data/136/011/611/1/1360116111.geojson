@@ -1,0 +1,72 @@
+{
+  "id": 1360116111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.95489,18.39328,-65.95489,18.39328",
+    "geom:latitude":18.39328,
+    "geom:longitude":-65.95489,
+    "gn:admin1_code":"031",
+    "gn:admin2_code":"7268484",
+    "gn:asciiname":"Buena Vista",
+    "gn:country_code":"PR",
+    "gn:dem":7,
+    "gn:elevation":"7.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4562973,
+    "gn:latitude":18.39328,
+    "gn:longitude":-65.95489,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Buena Vista",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562973
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"8b5a022b5e1cee12fd7195de92547e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080347,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1360116111,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1360116111,
+    "wof:lastmodified":1536901014,
+    "wof:name":"Buena Vista",
+    "wof:parent_id":102080347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.95489,
+    18.39328,
+    -65.95489,
+    18.39328
+],
+  "geometry": {"coordinates":[-65.95489000000001,18.39328],"type":"Point"}
+}

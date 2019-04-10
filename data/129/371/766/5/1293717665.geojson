@@ -1,0 +1,72 @@
+{
+  "id": 1293717665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.36906,18.33356,-66.36906,18.33356",
+    "geom:latitude":18.33356,
+    "geom:longitude":-66.36906,
+    "gn:admin1_code":"101",
+    "gn:admin2_code":"7269057",
+    "gn:asciiname":"Ramon Pabon",
+    "gn:country_code":"PR",
+    "gn:dem":179,
+    "gn:elevation":"180.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4567583,
+    "gn:latitude":18.33356,
+    "gn:longitude":-66.36906,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Ram\u00f3n Pab\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567583
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"413f2951d5392cb393434a7a64a587fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080401,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1293717665,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1293717665,
+    "wof:lastmodified":1536952885,
+    "wof:name":"Ramon Pabon",
+    "wof:parent_id":102080401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.36906,
+    18.33356,
+    -66.36906,
+    18.33356
+],
+  "geometry": {"coordinates":[-66.36906,18.33356],"type":"Point"}
+}

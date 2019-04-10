@@ -1,0 +1,72 @@
+{
+  "id": 1292941929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.63656,18.00274,-66.63656,18.00274",
+    "geom:latitude":18.00274,
+    "geom:longitude":-66.63656,
+    "gn:admin1_code":"113",
+    "gn:admin2_code":"7268316",
+    "gn:asciiname":"Rio Canas",
+    "gn:country_code":"PR",
+    "gn:dem":15,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4567767,
+    "gn:latitude":18.00274,
+    "gn:longitude":-66.63656,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Rio Canas",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567767
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"45d8502f1b0b5cb0a847c928ba559e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080299,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1292941929,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1292941929,
+    "wof:lastmodified":1537073432,
+    "wof:name":"Rio Canas",
+    "wof:parent_id":102080299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.63656,
+    18.00274,
+    -66.63656,
+    18.00274
+],
+  "geometry": {"coordinates":[-66.63656,18.00274],"type":"Point"}
+}

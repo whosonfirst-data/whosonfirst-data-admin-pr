@@ -1,0 +1,71 @@
+{
+  "id": 1310630219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.06629,18.49078,-67.06629,18.49078",
+    "geom:latitude":18.49078,
+    "geom:longitude":-67.06629,
+    "gn:admin1_code":"005",
+    "gn:asciiname":"Santiago",
+    "gn:country_code":"PR",
+    "gn:dem":86,
+    "gn:elevation":"84.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568248,
+    "gn:latitude":18.49078,
+    "gn:longitude":-67.06629,
+    "gn:modification_date":"2007-02-16",
+    "gn:name":"Santiago",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568248
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"2d331e97aa4e05364b4e0c1ea7948b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080383,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1310630219,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1310630219,
+    "wof:lastmodified":1536737069,
+    "wof:name":"Santiago",
+    "wof:parent_id":102080383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.06629000000001,
+    18.49078,
+    -67.06629000000001,
+    18.49078
+],
+  "geometry": {"coordinates":[-67.06629000000001,18.49078],"type":"Point"}
+}

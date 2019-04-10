@@ -1,0 +1,72 @@
+{
+  "id": 1243202969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.906,18.0183,-65.906,18.0183",
+    "geom:latitude":18.0183,
+    "geom:longitude":-65.906,
+    "gn:admin1_code":"095",
+    "gn:admin2_code":"7269022",
+    "gn:asciiname":"Jardines Los Almendros",
+    "gn:country_code":"PR",
+    "gn:dem":33,
+    "gn:elevation":"27.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565633,
+    "gn:latitude":18.0183,
+    "gn:longitude":-65.906,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Jardines Los Almendros",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565633
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"f86351db7d4ebb68af79129a42356993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080389,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1243202969,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1243202969,
+    "wof:lastmodified":1536659778,
+    "wof:name":"Jardines Los Almendros",
+    "wof:parent_id":102080389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.906,
+    18.0183,
+    -65.906,
+    18.0183
+],
+  "geometry": {"coordinates":[-65.90600000000001,18.0183],"type":"Point"}
+}

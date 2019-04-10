@@ -1,0 +1,72 @@
+{
+  "id": 1242910567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.72933,18.36717,-65.72933,18.36717",
+    "geom:latitude":18.36717,
+    "geom:longitude":-65.72933,
+    "gn:admin1_code":"089",
+    "gn:admin2_code":"7268637",
+    "gn:asciiname":"Comunidad Villa Angelina",
+    "gn:country_code":"PR",
+    "gn:dem":20,
+    "gn:elevation":"33.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4563958,
+    "gn:latitude":18.36717,
+    "gn:longitude":-65.72933,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Comunidad Villa Angelina",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4563958
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"2d5c75d7a5c77741876c3082940dd344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080339,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1242910567,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1242910567,
+    "wof:lastmodified":1537077880,
+    "wof:name":"Comunidad Villa Angelina",
+    "wof:parent_id":102080339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.72933,
+    18.36717,
+    -65.72933,
+    18.36717
+],
+  "geometry": {"coordinates":[-65.72933,18.36717],"type":"Point"}
+}

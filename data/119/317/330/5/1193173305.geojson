@@ -1,0 +1,72 @@
+{
+  "id": 1193173305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.71183,18.23635,-65.71183,18.23635",
+    "geom:latitude":18.23635,
+    "geom:longitude":-65.71183,
+    "gn:admin1_code":"103",
+    "gn:admin2_code":"7268619",
+    "gn:asciiname":"Mariana",
+    "gn:country_code":"PR",
+    "gn:dem":32,
+    "gn:elevation":"29.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566175,
+    "gn:latitude":18.23635,
+    "gn:longitude":-65.71183,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Mariana",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566175
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"33ad8ce4e78c4e2e2847634a500968d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080355,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1193173305,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1193173305,
+    "wof:lastmodified":1536378000,
+    "wof:name":"Mariana",
+    "wof:parent_id":102080355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.71183,
+    18.23635,
+    -65.71183,
+    18.23635
+],
+  "geometry": {"coordinates":[-65.71183000000001,18.23635],"type":"Point"}
+}

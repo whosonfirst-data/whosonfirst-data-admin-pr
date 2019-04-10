@@ -1,0 +1,72 @@
+{
+  "id": 1209945899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.05072,18.22912,-66.05072,18.22912",
+    "geom:latitude":18.22912,
+    "geom:longitude":-66.05072,
+    "gn:admin1_code":"025",
+    "gn:admin2_code":"7268314",
+    "gn:asciiname":"Parque de Bonneville",
+    "gn:country_code":"PR",
+    "gn:dem":81,
+    "gn:elevation":"82.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566602,
+    "gn:latitude":18.22912,
+    "gn:longitude":-66.05072,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Parque de Bonneville",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566602
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"5f43a569b230678b4e274804b9da7ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080425,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1209945899,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1209945899,
+    "wof:lastmodified":1536386399,
+    "wof:name":"Parque de Bonneville",
+    "wof:parent_id":102080425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.05072,
+    18.22912,
+    -66.05072,
+    18.22912
+],
+  "geometry": {"coordinates":[-66.05072,18.22912],"type":"Point"}
+}

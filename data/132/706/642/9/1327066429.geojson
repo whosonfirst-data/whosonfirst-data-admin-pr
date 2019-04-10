@@ -1,0 +1,72 @@
+{
+  "id": 1327066429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.98268,18.07718,-66.98268,18.07718",
+    "geom:latitude":18.07718,
+    "geom:longitude":-66.98268,
+    "gn:admin1_code":"125",
+    "gn:admin2_code":"7268654",
+    "gn:asciiname":"Minillas",
+    "gn:country_code":"PR",
+    "gn:dem":84,
+    "gn:elevation":"79.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566252,
+    "gn:latitude":18.07718,
+    "gn:longitude":-66.98268,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Minillas",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566252
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"98efcde87a05504863ca7dc652b9eef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080357,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1327066429,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1327066429,
+    "wof:lastmodified":1536711567,
+    "wof:name":"Minillas",
+    "wof:parent_id":102080357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.98268,
+    18.07718,
+    -66.98268,
+    18.07718
+],
+  "geometry": {"coordinates":[-66.98268,18.07718],"type":"Point"}
+}

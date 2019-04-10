@@ -1,0 +1,72 @@
+{
+  "id": 1292940707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.53351,18.11191,-66.53351,18.11191",
+    "geom:latitude":18.11191,
+    "geom:longitude":-66.53351,
+    "gn:admin1_code":"075",
+    "gn:admin2_code":"7268096",
+    "gn:asciiname":"Hacienda Guayo",
+    "gn:country_code":"PR",
+    "gn:dem":254,
+    "gn:elevation":"244.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565212,
+    "gn:latitude":18.11191,
+    "gn:longitude":-66.53351,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda Guayo",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565212
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"cb7d2b5d3cb8a0f773546ed0e03c11dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080415,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1292940707,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1292940707,
+    "wof:lastmodified":1537075247,
+    "wof:name":"Hacienda Guayo",
+    "wof:parent_id":102080415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.53350999999999,
+    18.11191,
+    -66.53350999999999,
+    18.11191
+],
+  "geometry": {"coordinates":[-66.53350999999999,18.11191],"type":"Point"}
+}

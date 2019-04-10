@@ -1,0 +1,83 @@
+{
+  "id": 1125994789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.991994,18.460345,-65.991994,18.460345",
+    "geom:latitude":18.460345,
+    "geom:longitude":-65.991994,
+    "gn:gn_country":"PR",
+    "iso:country":"PR",
+    "lbl:latitude":18.460345,
+    "lbl:longitude":-65.991994,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:name":"Cangrejo Arriba",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Carolina",
+    "qs_pg:photos":113,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":113,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":239539,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":55869933,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Carolina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        102080363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55869933,
+        "qs_pg:id":239539
+    },
+    "wof:country":"PR",
+    "wof:created":1497299253,
+    "wof:geomhash":"b45dbeda71382c9d64ab1706d031602b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080363,
+            "dependency_id":85633729,
+            "locality_id":1125994789,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125994789,
+    "wof:lastmodified":1509405655,
+    "wof:name":"Cangrejo Arriba",
+    "wof:parent_id":102080363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.991994,
+    18.460345,
+    -65.991994,
+    18.460345
+],
+  "geometry": {"coordinates":[-65.99199400000001,18.460345],"type":"Point"}
+}

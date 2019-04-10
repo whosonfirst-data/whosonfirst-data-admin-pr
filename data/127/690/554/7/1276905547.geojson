@@ -1,0 +1,72 @@
+{
+  "id": 1276905547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.6949,18.26968,-66.6949,18.26968",
+    "geom:latitude":18.26968,
+    "geom:longitude":-66.6949,
+    "gn:admin1_code":"141",
+    "gn:admin2_code":"7269082",
+    "gn:asciiname":"Jardines de Utuado",
+    "gn:country_code":"PR",
+    "gn:dem":157,
+    "gn:elevation":"154.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565667,
+    "gn:latitude":18.26968,
+    "gn:longitude":-66.6949,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Jardines de Utuado",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565667
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"63ce1c77b089912552d1276ab5411f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080433,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1276905547,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1276905547,
+    "wof:lastmodified":1537006252,
+    "wof:name":"Jardines de Utuado",
+    "wof:parent_id":102080433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.6949,
+    18.26968,
+    -66.6949,
+    18.26968
+],
+  "geometry": {"coordinates":[-66.6949,18.26968],"type":"Point"}
+}

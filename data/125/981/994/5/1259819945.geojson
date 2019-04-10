@@ -1,0 +1,72 @@
+{
+  "id": 1259819945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.03239,18.41661,-66.03239,18.41661",
+    "geom:latitude":18.41661,
+    "geom:longitude":-66.03239,
+    "gn:admin1_code":"127",
+    "gn:admin2_code":"7268708",
+    "gn:asciiname":"Rosendo Matienzo Cintron",
+    "gn:country_code":"PR",
+    "gn:dem":4,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4567997,
+    "gn:latitude":18.41661,
+    "gn:longitude":-66.03239,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Rosendo Matienzo Cintron",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567997
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"f8b81994e9cc2adb7b9fb9be7b3ff6eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1259819945,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1259819945,
+    "wof:lastmodified":1536869641,
+    "wof:name":"Rosendo Matienzo Cintron",
+    "wof:parent_id":102080441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.03239,
+    18.41661,
+    -66.03239,
+    18.41661
+],
+  "geometry": {"coordinates":[-66.03239000000001,18.41661],"type":"Point"}
+}

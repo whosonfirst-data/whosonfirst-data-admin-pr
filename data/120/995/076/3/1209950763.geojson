@@ -1,0 +1,72 @@
+{
+  "id": 1209950763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.71795,18.16024,-66.71795,18.16024",
+    "geom:latitude":18.16024,
+    "geom:longitude":-66.71795,
+    "gn:admin1_code":"001",
+    "gn:admin2_code":"7268167",
+    "gn:asciiname":"Barriada Vega",
+    "gn:country_code":"PR",
+    "gn:dem":516,
+    "gn:elevation":"523.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4562800,
+    "gn:latitude":18.16024,
+    "gn:longitude":-66.71795,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Barriada Vega",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562800
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"fc87ec2df13d46e80f658f3d2402ef08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080393,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1209950763,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1209950763,
+    "wof:lastmodified":1536383871,
+    "wof:name":"Barriada Vega",
+    "wof:parent_id":102080393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.71795,
+    18.16024,
+    -66.71795,
+    18.16024
+],
+  "geometry": {"coordinates":[-66.71795,18.16024],"type":"Point"}
+}

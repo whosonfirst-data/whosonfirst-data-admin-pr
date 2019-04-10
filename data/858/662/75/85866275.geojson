@@ -1,0 +1,110 @@
+{
+  "id": 85866275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10706827.634453,
+    "geom:bbox":"-66.013742,18.444783,-66.013742,18.444783",
+    "geom:latitude":18.444783,
+    "geom:longitude":-66.013742,
+    "gn:elevation":3,
+    "iso:country":"PR",
+    "lbl:latitude":18.444783,
+    "lbl:longitude":-66.013742,
+    "mps:latitude":18.454485,
+    "mps:longitude":-66.000426,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Biascochea"
+    ],
+    "name:unk_x_variant":[
+        "Biascochea"
+    ],
+    "qs:gn_adm0_cc":"PR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":4568220,
+    "qs:gn_nam_loc":"aguacate",
+    "qs:gn_namadm1":"127",
+    "qs:gn_name":"Biascoechea",
+    "qs:local_max":29505,
+    "qs:local_sum":50313,
+    "qs:localhoods":63,
+    "qs:name":"Biascochea",
+    "qs:name_adm0":"Puerto Rico",
+    "qs:name_adm1":"Carolina",
+    "qs:name_adm2":"Cangrejo Arriba",
+    "qs:name_local":"San Juan",
+    "qs:photo_max":378,
+    "qs:photo_sum":957,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424935,
+    "qs:woe_adm1":2346854,
+    "qs:woe_adm2":26806152,
+    "qs:woe_lau":0,
+    "qs:woe_local":161685,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        101919197,
+        136253057,
+        102080347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562869,
+        "gp:id":24550972,
+        "qs:id":1086159
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"0a1032e0b86d47f0f6e2f3ba03710cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080347,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919197,
+            "neighbourhood_id":85866275,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":85866275,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531871149,
+    "wof:name":"Biascochea",
+    "wof:parent_id":101919197,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.013742,
+    18.444783,
+    -66.013742,
+    18.444783
+],
+  "geometry": {"coordinates":[-66.01374199999999,18.444783],"type":"Point"}
+}

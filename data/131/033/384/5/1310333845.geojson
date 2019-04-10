@@ -1,0 +1,75 @@
+{
+  "id": 1310333845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.44795,18.42856,-66.44795,18.42856",
+    "geom:latitude":18.42856,
+    "geom:longitude":-66.44795,
+    "gn:admin1_code":"091",
+    "gn:admin2_code":"7268116",
+    "gn:asciiname":"El Pueblito",
+    "gn:country_code":"PR",
+    "gn:dem":81,
+    "gn:elevation":"82.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4564227,
+    "gn:latitude":18.42856,
+    "gn:longitude":-66.44795,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"El Pueblito",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia El Pueblito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564227
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"b7a097b2e27a24dcd96ad93b782e98eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080271,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1310333845,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1310333845,
+    "wof:lastmodified":1537683113,
+    "wof:name":"El Pueblito",
+    "wof:parent_id":102080271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.44795,
+    18.42856,
+    -66.44795,
+    18.42856
+],
+  "geometry": {"coordinates":[-66.44795000000001,18.42856],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326661501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.72851,18.16857,-66.72851,18.16857",
+    "geom:latitude":18.16857,
+    "geom:longitude":-66.72851,
+    "gn:admin1_code":"001",
+    "gn:admin2_code":"7268167",
+    "gn:asciiname":"Residencial Valle Verde",
+    "gn:country_code":"PR",
+    "gn:dem":474,
+    "gn:elevation":"466.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4567706,
+    "gn:latitude":18.16857,
+    "gn:longitude":-66.72851,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Residencial Valle Verde",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567706
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"fe0837ecf090aa9b1a5e580a46ddb54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080393,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1326661501,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1326661501,
+    "wof:lastmodified":1536797834,
+    "wof:name":"Residencial Valle Verde",
+    "wof:parent_id":102080393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.72851,
+    18.16857000000001,
+    -66.72851,
+    18.16857000000001
+],
+  "geometry": {"coordinates":[-66.72851,18.16857000000001],"type":"Point"}
+}

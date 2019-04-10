@@ -1,0 +1,72 @@
+{
+  "id": 1327164917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.72129,18.15968,-66.72129,18.15968",
+    "geom:latitude":18.15968,
+    "geom:longitude":-66.72129,
+    "gn:admin1_code":"001",
+    "gn:admin2_code":"7268167",
+    "gn:asciiname":"Jardin de Adjuntas",
+    "gn:country_code":"PR",
+    "gn:dem":496,
+    "gn:elevation":"492.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565632,
+    "gn:latitude":18.15968,
+    "gn:longitude":-66.72129,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Jardin de Adjuntas",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565632
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"2058152271fcee39b27e72121efea526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080393,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1327164917,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1327164917,
+    "wof:lastmodified":1537064291,
+    "wof:name":"Jardin de Adjuntas",
+    "wof:parent_id":102080393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.72129,
+    18.15968,
+    -66.72129,
+    18.15968
+],
+  "geometry": {"coordinates":[-66.72129,18.15968],"type":"Point"}
+}

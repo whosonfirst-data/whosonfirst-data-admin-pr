@@ -1,0 +1,63 @@
+{
+  "id": 1209250931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.83851,18.11635,-66.83851,18.11635",
+    "geom:latitude":18.11635,
+    "geom:longitude":-66.83851,
+    "gn:admin1_code":"153",
+    "gn:admin2_code":"7268172",
+    "gn:asciiname":"Hacienda Pietri",
+    "gn:country_code":"PR",
+    "gn:dem":475,
+    "gn:elevation":"462.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565280,
+    "gn:latitude":18.11635,
+    "gn:longitude":-66.83851,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda Pietri",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565280
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"02d262397b3edf93a1b2c70a8ff67aeb",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209250931
+        }
+    ],
+    "wof:id":1209250931,
+    "wof:lastmodified":1536293007,
+    "wof:name":"Hacienda Pietri",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.83851,
+    18.11635,
+    -66.83851,
+    18.11635
+],
+  "geometry": {"coordinates":[-66.83851,18.11635],"type":"Point"}
+}

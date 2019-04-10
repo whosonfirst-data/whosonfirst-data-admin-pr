@@ -1,0 +1,74 @@
+{
+  "id": 1327170541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.26198,17.95293,-66.26198,17.95293",
+    "geom:latitude":17.95293,
+    "geom:longitude":-66.26198,
+    "gn:admin1_code":"123",
+    "gn:admin2_code":"7268174",
+    "gn:asciiname":"Aguirre",
+    "gn:country_code":"PR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8335063,
+    "gn:latitude":17.95293,
+    "gn:longitude":-66.26198,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Aguirre",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aguirre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8335063
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"9c582fecc8a7551cdf210d6e4eea84c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080337,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1327170541,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1327170541,
+    "wof:lastmodified":1537560530,
+    "wof:name":"Aguirre",
+    "wof:parent_id":102080337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.26198000000001,
+    17.95293,
+    -66.26198000000001,
+    17.95293
+],
+  "geometry": {"coordinates":[-66.26198000000001,17.95293],"type":"Point"}
+}

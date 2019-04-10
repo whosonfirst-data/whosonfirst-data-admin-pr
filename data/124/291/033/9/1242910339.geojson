@@ -1,0 +1,72 @@
+{
+  "id": 1242910339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.64351,18.04496,-66.64351,18.04496",
+    "geom:latitude":18.04496,
+    "geom:longitude":-66.64351,
+    "gn:admin1_code":"113",
+    "gn:admin2_code":"7268592",
+    "gn:asciiname":"Granada Hills",
+    "gn:country_code":"PR",
+    "gn:dem":95,
+    "gn:elevation":"94.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565073,
+    "gn:latitude":18.04496,
+    "gn:longitude":-66.64351,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Granada Hills",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565073
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"59360144d09337cd781e3ed3e12b1f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080299,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1242910339,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1242910339,
+    "wof:lastmodified":1537078207,
+    "wof:name":"Granada Hills",
+    "wof:parent_id":102080299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.64350999999999,
+    18.04496,
+    -66.64350999999999,
+    18.04496
+],
+  "geometry": {"coordinates":[-66.64350999999999,18.04496],"type":"Point"}
+}

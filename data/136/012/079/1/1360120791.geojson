@@ -1,0 +1,72 @@
+{
+  "id": 1360120791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.40045,17.95552,-66.40045,17.95552",
+    "geom:latitude":17.95552,
+    "geom:longitude":-66.40045,
+    "gn:admin1_code":"133",
+    "gn:admin2_code":"7268771",
+    "gn:asciiname":"Comunidad Villa Pulga",
+    "gn:country_code":"PR",
+    "gn:dem":-2,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4563960,
+    "gn:latitude":17.95552,
+    "gn:longitude":-66.40045,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Comunidad Villa Pulga",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4563960
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"99d2f42e06273d41a4e7ac07f5b4788d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080335,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1360120791,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1360120791,
+    "wof:lastmodified":1536893815,
+    "wof:name":"Comunidad Villa Pulga",
+    "wof:parent_id":102080335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.40045,
+    17.95552,
+    -66.40045,
+    17.95552
+],
+  "geometry": {"coordinates":[-66.40045000000001,17.95552],"type":"Point"}
+}

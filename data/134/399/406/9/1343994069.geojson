@@ -1,0 +1,72 @@
+{
+  "id": 1343994069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.00628,18.21857,-66.00628,18.21857",
+    "geom:latitude":18.21857,
+    "geom:longitude":-66.00628,
+    "gn:admin1_code":"025",
+    "gn:admin2_code":"7269043",
+    "gn:asciiname":"Parque Las Mercedes",
+    "gn:country_code":"PR",
+    "gn:dem":68,
+    "gn:elevation":"61.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566577,
+    "gn:latitude":18.21857,
+    "gn:longitude":-66.00628,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Parque Las Mercedes",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566577
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"3a54995f2e6587969547c98d2fa8f48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080425,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343994069,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343994069,
+    "wof:lastmodified":1536971045,
+    "wof:name":"Parque Las Mercedes",
+    "wof:parent_id":102080425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.00628,
+    18.21857,
+    -66.00628,
+    18.21857
+],
+  "geometry": {"coordinates":[-66.00628,18.21857],"type":"Point"}
+}

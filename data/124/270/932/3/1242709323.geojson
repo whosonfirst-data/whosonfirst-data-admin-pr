@@ -1,0 +1,72 @@
+{
+  "id": 1242709323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.62045,18.18357,-66.62045,18.18357",
+    "geom:latitude":18.18357,
+    "geom:longitude":-66.62045,
+    "gn:admin1_code":"073",
+    "gn:admin2_code":"7268095",
+    "gn:asciiname":"Hacienda Santa Rosa",
+    "gn:country_code":"PR",
+    "gn:dem":588,
+    "gn:elevation":"607.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565323,
+    "gn:latitude":18.18357,
+    "gn:longitude":-66.62045,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565323
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"0fc9c28fbbd21d73a28c68bd8723139e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080405,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1242709323,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1242709323,
+    "wof:lastmodified":1536873077,
+    "wof:name":"Hacienda Santa Rosa",
+    "wof:parent_id":102080405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.62045,
+    18.18357,
+    -66.62045,
+    18.18357
+],
+  "geometry": {"coordinates":[-66.62045000000001,18.18357],"type":"Point"}
+}

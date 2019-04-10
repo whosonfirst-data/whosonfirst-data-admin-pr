@@ -1,0 +1,72 @@
+{
+  "id": 1226278595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.29295,17.97997,-66.29295,17.97997",
+    "geom:latitude":17.97997,
+    "geom:longitude":-66.29295,
+    "gn:admin1_code":"123",
+    "gn:admin2_code":"7268953",
+    "gn:asciiname":"Las Antillas",
+    "gn:country_code":"PR",
+    "gn:dem":10,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565916,
+    "gn:latitude":17.97997,
+    "gn:longitude":-66.29295,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Las Antillas",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565916
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"2d3d86b865dfbc529c3e74e2461ee039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080337,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1226278595,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1226278595,
+    "wof:lastmodified":1536885760,
+    "wof:name":"Las Antillas",
+    "wof:parent_id":102080337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.29295,
+    17.97997,
+    -66.29295,
+    17.97997
+],
+  "geometry": {"coordinates":[-66.29295,17.97997],"type":"Point"}
+}

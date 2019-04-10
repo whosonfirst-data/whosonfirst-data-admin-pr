@@ -1,0 +1,63 @@
+{
+  "id": 1209249469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.65349,18.32606,-65.65349,18.32606",
+    "geom:latitude":18.32606,
+    "geom:longitude":-65.65349,
+    "gn:admin1_code":"053",
+    "gn:admin2_code":"7268385",
+    "gn:asciiname":"Boulevarda Montanez",
+    "gn:country_code":"PR",
+    "gn:dem":15,
+    "gn:elevation":"11.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4562941,
+    "gn:latitude":18.32606,
+    "gn:longitude":-65.65349,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Boulevarda Montanez",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562941
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"1fdcb254e031c3cb958bc794c8b7defd",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209249469
+        }
+    ],
+    "wof:id":1209249469,
+    "wof:lastmodified":1536293052,
+    "wof:name":"Boulevarda Montanez",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.65349,
+    18.32606,
+    -65.65349,
+    18.32606
+],
+  "geometry": {"coordinates":[-65.65349000000001,18.32606],"type":"Point"}
+}

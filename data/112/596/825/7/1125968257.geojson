@@ -1,0 +1,144 @@
+{
+  "id": 1125968257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.24822,18.38828,-66.24822,18.38828",
+    "geom:latitude":18.38828,
+    "geom:longitude":-66.24822,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4483,
+    "gn:population":4483,
+    "iso:country":"PR",
+    "lbl:latitude":18.38828,
+    "lbl:longitude":-66.24822,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u099f\u09f1\u09be \u0986\u09b2\u099f\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Toa Alta"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e0a\u6258\u963f"
+    ],
+    "name:dut_x_preferred":[
+        "Toa Alta"
+    ],
+    "name:eng_x_preferred":[
+        "Toa Alta"
+    ],
+    "name:fre_x_preferred":[
+        "Toa Alta"
+    ],
+    "name:ita_x_preferred":[
+        "Toa Alta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a2\u30fb\u30a2\u30eb\u30bf"
+    ],
+    "name:por_x_preferred":[
+        "Toa Alta"
+    ],
+    "name:scn_x_preferred":[
+        "Toa Alta"
+    ],
+    "name:spa_x_preferred":[
+        "Toa Alta"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u0430 \u0410\u043b\u0442\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0430-\u0410\u043b\u044c\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0648\u0627 \u0627\u0644\u062a\u0627\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Toa Alta"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u6258\u963f"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4568403,
+    "qs_pg:gn_pop":4483,
+    "qs_pg:name":"Toa Alta",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Toa Alta",
+    "qs_pg:photos":55,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":55,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":154521,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":161765,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Toa Alta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568403,
+        "gp:id":161765,
+        "qs_pg:id":154521,
+        "wd:id":"Q2485509"
+    },
+    "wof:country":"PR",
+    "wof:created":1497298059,
+    "wof:geomhash":"3ab087643ee6ab9c5cb4df5516bcb07e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080359,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125968257,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125968257,
+    "wof:lastmodified":1514497758,
+    "wof:name":"Toa Alta",
+    "wof:parent_id":102080359,
+    "wof:placetype":"locality",
+    "wof:population":4483,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.24822,
+    18.38828,
+    -66.24822,
+    18.38828
+],
+  "geometry": {"coordinates":[-66.24822,18.38828],"type":"Point"}
+}

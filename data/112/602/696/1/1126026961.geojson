@@ -1,0 +1,106 @@
+{
+  "id": 1126026961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.93712,18.43661,-66.93712,18.43661",
+    "geom:latitude":18.43661,
+    "geom:longitude":-66.93712,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2068,
+    "gn:population":2068,
+    "iso:country":"PR",
+    "lbl:latitude":18.43661,
+    "lbl:longitude":-66.93712,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Cacao"
+    ],
+    "name:eng_x_preferred":[
+        "Cacao"
+    ],
+    "name:spa_x_preferred":[
+        "Cacao"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043a\u0430\u043e"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4563003,
+    "qs_pg:gn_pop":2068,
+    "qs_pg:name":"Cacao",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Quebradillas",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":956354,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":24550920,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Quebradillas",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4563003,
+        "gp:id":24550920,
+        "qs_pg:id":956354,
+        "wd:id":"Q2522691"
+    },
+    "wof:country":"PR",
+    "wof:created":1497301202,
+    "wof:geomhash":"61cd293a73079cff4b95dc239500aed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080325,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1126026961,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1126026961,
+    "wof:lastmodified":1553816709,
+    "wof:name":"Cacao",
+    "wof:parent_id":102080325,
+    "wof:placetype":"locality",
+    "wof:population":2068,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.93712,
+    18.43661,
+    -66.93712,
+    18.43661
+],
+  "geometry": {"coordinates":[-66.93711999999999,18.43661],"type":"Point"}
+}

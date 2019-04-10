@@ -1,0 +1,72 @@
+{
+  "id": 1293328497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.95822,17.97163,-65.95822,17.97163",
+    "geom:latitude":17.97163,
+    "geom:longitude":-65.95822,
+    "gn:admin1_code":"109",
+    "gn:admin2_code":"7268429",
+    "gn:asciiname":"Recio",
+    "gn:country_code":"PR",
+    "gn:dem":7,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4567596,
+    "gn:latitude":17.97163,
+    "gn:longitude":-65.95822,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Recio",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567596
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"fe7a461a4f8b0e504f5a7f8e763965df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080445,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1293328497,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1293328497,
+    "wof:lastmodified":1537015537,
+    "wof:name":"Recio",
+    "wof:parent_id":102080445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.95822,
+    17.97162999999999,
+    -65.95822,
+    17.97162999999999
+],
+  "geometry": {"coordinates":[-65.95822,17.97162999999999],"type":"Point"}
+}

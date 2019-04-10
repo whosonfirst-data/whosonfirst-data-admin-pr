@@ -1,0 +1,72 @@
+{
+  "id": 1360020605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.85823,18.18996,-66.85823,18.18996",
+    "geom:latitude":18.18996,
+    "geom:longitude":-66.85823,
+    "gn:admin1_code":"081",
+    "gn:admin2_code":"7268241",
+    "gn:asciiname":"Hacienda Iberia",
+    "gn:country_code":"PR",
+    "gn:dem":606,
+    "gn:elevation":"594.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565214,
+    "gn:latitude":18.18996,
+    "gn:longitude":-66.85823,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda Iberia",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565214
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"0c36657f9b0d2b62975ff19e5f557bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080379,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1360020605,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1360020605,
+    "wof:lastmodified":1537037028,
+    "wof:name":"Hacienda Iberia",
+    "wof:parent_id":102080379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.85823,
+    18.18996,
+    -66.85823,
+    18.18996
+],
+  "geometry": {"coordinates":[-66.85823000000001,18.18996],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327370521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.15156,18.17051,-66.15156,18.17051",
+    "geom:latitude":18.17051,
+    "geom:longitude":-66.15156,
+    "gn:admin1_code":"041",
+    "gn:admin2_code":"7268211",
+    "gn:asciiname":"Sector Los Flores",
+    "gn:country_code":"PR",
+    "gn:dem":418,
+    "gn:elevation":"421.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568284,
+    "gn:latitude":18.17051,
+    "gn:longitude":-66.15156,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Sector Los Flores",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568284
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"4c39c4f28aa4f8ff030c01ff7eccb699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080345,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1327370521,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1327370521,
+    "wof:lastmodified":1536770585,
+    "wof:name":"Sector Los Flores",
+    "wof:parent_id":102080345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.15156,
+    18.17051,
+    -66.15156,
+    18.17051
+],
+  "geometry": {"coordinates":[-66.15156,18.17051],"type":"Point"}
+}

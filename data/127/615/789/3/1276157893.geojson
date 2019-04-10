@@ -1,0 +1,72 @@
+{
+  "id": 1276157893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.64961,18.2669,-65.64961,18.2669",
+    "geom:latitude":18.2669,
+    "geom:longitude":-65.64961,
+    "gn:admin1_code":"037",
+    "gn:admin2_code":"7268054",
+    "gn:asciiname":"Villa Avila",
+    "gn:country_code":"PR",
+    "gn:dem":26,
+    "gn:elevation":"22.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568587,
+    "gn:latitude":18.2669,
+    "gn:longitude":-65.64961,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Villa Avila",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568587
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"e8eff302c1d64264f0a32f8a15541680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080341,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1276157893,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1276157893,
+    "wof:lastmodified":1537013179,
+    "wof:name":"Villa Avila",
+    "wof:parent_id":102080341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.64961,
+    18.2669,
+    -65.64961,
+    18.2669
+],
+  "geometry": {"coordinates":[-65.64961,18.2669],"type":"Point"}
+}

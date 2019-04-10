@@ -1,0 +1,63 @@
+{
+  "id": 1209446155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.40795,18.10024,-66.40795,18.10024",
+    "geom:latitude":18.10024,
+    "geom:longitude":-66.40795,
+    "gn:admin1_code":"043",
+    "gn:admin2_code":"7268986",
+    "gn:asciiname":"Zanja Blanca",
+    "gn:country_code":"PR",
+    "gn:dem":208,
+    "gn:elevation":"203.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568932,
+    "gn:latitude":18.10024,
+    "gn:longitude":-66.40795,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Zanja Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568932
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"a1c2d3ea36bf5014289957edebf984fc",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209446155
+        }
+    ],
+    "wof:id":1209446155,
+    "wof:lastmodified":1536286812,
+    "wof:name":"Zanja Blanca",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.40795,
+    18.10024,
+    -66.40795,
+    18.10024
+],
+  "geometry": {"coordinates":[-66.40795,18.10024],"type":"Point"}
+}

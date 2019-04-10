@@ -1,0 +1,75 @@
+{
+  "id": 1276474227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.18435,17.98191,-67.18435,17.98191",
+    "geom:latitude":17.98191,
+    "geom:longitude":-67.18435,
+    "gn:admin1_code":"023",
+    "gn:admin2_code":"7268260",
+    "gn:asciiname":"Corozo",
+    "gn:country_code":"PR",
+    "gn:dem":20,
+    "gn:elevation":"13.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4564008,
+    "gn:latitude":17.98191,
+    "gn:longitude":-67.18435,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Corozo",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Corozo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564008
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"29e911d7cd952a3458f8a16e6e5083a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080409,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1276474227,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1276474227,
+    "wof:lastmodified":1537683113,
+    "wof:name":"Corozo",
+    "wof:parent_id":102080409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.18435,
+    17.98191,
+    -67.18435,
+    17.98191
+],
+  "geometry": {"coordinates":[-67.18434999999999,17.98191],"type":"Point"}
+}

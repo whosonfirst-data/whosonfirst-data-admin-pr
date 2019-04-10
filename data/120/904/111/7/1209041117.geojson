@@ -1,0 +1,63 @@
+{
+  "id": 1209041117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.31989,18.41661,-66.31989,18.41661",
+    "geom:latitude":18.41661,
+    "geom:longitude":-66.31989,
+    "gn:admin1_code":"143",
+    "gn:admin2_code":"7268383",
+    "gn:asciiname":"La Inmaculada",
+    "gn:country_code":"PR",
+    "gn:dem":35,
+    "gn:elevation":"33.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565774,
+    "gn:latitude":18.41661,
+    "gn:longitude":-66.31989,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"La Inmaculada",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565774
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"4d23abd51f544d02c93af3e173cfe0e8",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209041117
+        }
+    ],
+    "wof:id":1209041117,
+    "wof:lastmodified":1536299542,
+    "wof:name":"La Inmaculada",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.31989,
+    18.41661,
+    -66.31989,
+    18.41661
+],
+  "geometry": {"coordinates":[-66.31989,18.41661],"type":"Point"}
+}

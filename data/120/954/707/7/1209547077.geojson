@@ -1,0 +1,63 @@
+{
+  "id": 1209547077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.97073,18.08857,-66.97073,18.08857",
+    "geom:latitude":18.08857,
+    "geom:longitude":-66.97073,
+    "gn:admin1_code":"121",
+    "gn:admin2_code":"7268996",
+    "gn:asciiname":"Alturas de San Jose",
+    "gn:country_code":"PR",
+    "gn:dem":120,
+    "gn:elevation":"118.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4562584,
+    "gn:latitude":18.08857,
+    "gn:longitude":-66.97073,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Alturas de San Jose",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562584
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"fa142054d277cd310ca3b3e4ab2f268e",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209547077
+        }
+    ],
+    "wof:id":1209547077,
+    "wof:lastmodified":1536283811,
+    "wof:name":"Alturas de San Jose",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.97073,
+    18.08857,
+    -66.97073,
+    18.08857
+],
+  "geometry": {"coordinates":[-66.97073,18.08857],"type":"Point"}
+}

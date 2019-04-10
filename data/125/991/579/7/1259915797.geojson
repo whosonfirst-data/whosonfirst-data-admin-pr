@@ -1,0 +1,72 @@
+{
+  "id": 1259915797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.83545,18.3604,-66.83545,18.3604",
+    "geom:latitude":18.3604,
+    "geom:longitude":-66.83545,
+    "gn:admin1_code":"027",
+    "gn:admin2_code":"7268848",
+    "gn:asciiname":"Quebrada Comunidad",
+    "gn:country_code":"PR",
+    "gn:dem":306,
+    "gn:elevation":"308.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7274985,
+    "gn:latitude":18.3604,
+    "gn:longitude":-66.83545,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Quebrada Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7274985
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"ac82c6e27c51452a181f234754b4332a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080293,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1259915797,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1259915797,
+    "wof:lastmodified":1536732811,
+    "wof:name":"Quebrada Comunidad",
+    "wof:parent_id":102080293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.83545,
+    18.3604,
+    -66.83545,
+    18.3604
+],
+  "geometry": {"coordinates":[-66.83544999999999,18.3604],"type":"Point"}
+}

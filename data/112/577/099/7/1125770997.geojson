@@ -1,0 +1,81 @@
+{
+  "id": 1125770997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.56962,18.36662,-66.56962,18.36662",
+    "geom:latitude":18.36662,
+    "geom:longitude":-66.56962,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5972,
+    "gn:population":5972,
+    "iso:country":"PR",
+    "lbl:latitude":18.36662,
+    "lbl:longitude":-66.56962,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4564901,
+    "qs_pg:gn_pop":5972,
+    "qs_pg:name":"Estancias de Florida",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":154498,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564901,
+        "qs_pg:id":154498
+    },
+    "wof:country":"PR",
+    "wof:created":1497290065,
+    "wof:geomhash":"d3a364728e2a0be31accdee18cc01d0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080343,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125770997,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125770997,
+    "wof:lastmodified":1509998595,
+    "wof:name":"Estancias de Florida",
+    "wof:parent_id":102080343,
+    "wof:placetype":"locality",
+    "wof:population":5972,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.56962,
+    18.36662,
+    -66.56962,
+    18.36662
+],
+  "geometry": {"coordinates":[-66.56962,18.36662],"type":"Point"}
+}

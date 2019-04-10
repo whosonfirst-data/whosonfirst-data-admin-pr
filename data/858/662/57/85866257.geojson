@@ -1,0 +1,108 @@
+{
+  "id": 85866257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3192469.312603,
+    "geom:bbox":"-66.073215,18.422146,-66.073215,18.422146",
+    "geom:latitude":18.422146,
+    "geom:longitude":-66.073215,
+    "gn:id":"",
+    "iso:country":"PR",
+    "lbl:latitude":18.422146,
+    "lbl:longitude":-66.073215,
+    "mps:latitude":18.427024,
+    "mps:longitude":-66.081369,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Industrial Tres Monjitas"
+    ],
+    "name:unk_x_variant":[
+        "Industrial Tres Monjitas"
+    ],
+    "qs:gn_adm0_cc":"PR",
+    "qs:gn_id":0,
+    "qs:gn_local":4568220,
+    "qs:gn_nam_loc":"aguacate",
+    "qs:gn_namadm1":"025",
+    "qs:local_max":29505,
+    "qs:local_sum":50313,
+    "qs:localhoods":63,
+    "qs:name":"Industrial Tres Monjitas",
+    "qs:name_adm0":"Puerto Rico",
+    "qs:name_adm1":"San Juan",
+    "qs:name_adm2":"Hato Rey Norte",
+    "qs:name_local":"San Juan",
+    "qs:photo_max":91,
+    "qs:photo_sum":138,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424935,
+    "qs:woe_adm1":2346815,
+    "qs:woe_adm2":26806696,
+    "qs:woe_lau":0,
+    "qs:woe_local":161685,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        101919427,
+        136253057,
+        102080441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24550948,
+        "qs:id":1064850
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"f54bd54ef01c14619c325170aa42dbdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919427,
+            "neighbourhood_id":85866257,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":85866257,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531871142,
+    "wof:name":"Industrial Tres Monjitas",
+    "wof:parent_id":101919427,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.073215,
+    18.422146,
+    -66.073215,
+    18.422146
+],
+  "geometry": {"coordinates":[-66.073215,18.422146],"type":"Point"}
+}

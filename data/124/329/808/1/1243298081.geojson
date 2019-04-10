@@ -1,0 +1,72 @@
+{
+  "id": 1243298081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.90684,18.07024,-66.90684,18.07024",
+    "geom:latitude":18.07024,
+    "geom:longitude":-66.90684,
+    "gn:admin1_code":"153",
+    "gn:admin2_code":"7269017",
+    "gn:asciiname":"Campamento Susua",
+    "gn:country_code":"PR",
+    "gn:dem":150,
+    "gn:elevation":"148.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4563050,
+    "gn:latitude":18.07024,
+    "gn:longitude":-66.90684,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Campamento Sus\u00faa",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4563050
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"36bec480258e7f9b5ce23d41bb533bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080397,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1243298081,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1243298081,
+    "wof:lastmodified":1537018575,
+    "wof:name":"Campamento Susua",
+    "wof:parent_id":102080397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.90684,
+    18.07024,
+    -66.90684,
+    18.07024
+],
+  "geometry": {"coordinates":[-66.90684,18.07024],"type":"Point"}
+}

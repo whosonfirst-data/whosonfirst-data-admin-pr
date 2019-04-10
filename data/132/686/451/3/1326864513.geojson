@@ -1,0 +1,72 @@
+{
+  "id": 1326864513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.10267,17.97663,-66.10267,17.97663",
+    "geom:latitude":17.97663,
+    "geom:longitude":-66.10267,
+    "gn:admin1_code":"057",
+    "gn:admin2_code":"7268439",
+    "gn:asciiname":"Vistamar",
+    "gn:country_code":"PR",
+    "gn:dem":39,
+    "gn:elevation":"38.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568722,
+    "gn:latitude":17.97663,
+    "gn:longitude":-66.10267,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Vistamar",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568722
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"281aad9e479d10677d967857f7be0be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080373,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1326864513,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1326864513,
+    "wof:lastmodified":1537001489,
+    "wof:name":"Vistamar",
+    "wof:parent_id":102080373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.10266999999999,
+    17.97663,
+    -66.10266999999999,
+    17.97663
+],
+  "geometry": {"coordinates":[-66.10266999999999,17.97663],"type":"Point"}
+}

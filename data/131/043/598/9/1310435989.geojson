@@ -1,0 +1,72 @@
+{
+  "id": 1310435989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.83156,18.16357,-66.83156,18.16357",
+    "geom:latitude":18.16357,
+    "geom:longitude":-66.83156,
+    "gn:admin1_code":"153",
+    "gn:admin2_code":"7268917",
+    "gn:asciiname":"Hacienda Asuncion",
+    "gn:country_code":"PR",
+    "gn:dem":826,
+    "gn:elevation":"830.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565144,
+    "gn:latitude":18.16357,
+    "gn:longitude":-66.83156,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda Asunci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565144
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"9f91271d17c1d3ef2e9f9ca8cb997f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080397,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1310435989,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1310435989,
+    "wof:lastmodified":1537016664,
+    "wof:name":"Hacienda Asuncion",
+    "wof:parent_id":102080397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.83156,
+    18.16357,
+    -66.83156,
+    18.16357
+],
+  "geometry": {"coordinates":[-66.83156,18.16357],"type":"Point"}
+}

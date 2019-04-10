@@ -1,0 +1,72 @@
+{
+  "id": 1226785301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.08128,17.97274,-66.08128,17.97274",
+    "geom:latitude":17.97274,
+    "geom:longitude":-66.08128,
+    "gn:admin1_code":"057",
+    "gn:admin2_code":"7268181",
+    "gn:asciiname":"Hacienda Felicia",
+    "gn:country_code":"PR",
+    "gn:dem":15,
+    "gn:elevation":"13.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565200,
+    "gn:latitude":17.97274,
+    "gn:longitude":-66.08128,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda Felicia",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565200
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"8075f878356691af7773f68bcd3dc931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080373,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1226785301,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1226785301,
+    "wof:lastmodified":1536658632,
+    "wof:name":"Hacienda Felicia",
+    "wof:parent_id":102080373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.08128,
+    17.97273999999999,
+    -66.08128,
+    17.97273999999999
+],
+  "geometry": {"coordinates":[-66.08128000000001,17.97273999999999],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226576927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.74544,18.2294,-65.74544,18.2294",
+    "geom:latitude":18.2294,
+    "geom:longitude":-65.74544,
+    "gn:admin1_code":"103",
+    "gn:admin2_code":"7268160",
+    "gn:asciiname":"Jardin Esperanza",
+    "gn:country_code":"PR",
+    "gn:dem":190,
+    "gn:elevation":"176.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565631,
+    "gn:latitude":18.2294,
+    "gn:longitude":-65.74544,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Jardin Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565631
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"0ba93325a5c2b2ee6bd66e0539cc46ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080355,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1226576927,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1226576927,
+    "wof:lastmodified":1536954657,
+    "wof:name":"Jardin Esperanza",
+    "wof:parent_id":102080355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.74544,
+    18.2294,
+    -65.74544,
+    18.2294
+],
+  "geometry": {"coordinates":[-65.74544,18.2294],"type":"Point"}
+}

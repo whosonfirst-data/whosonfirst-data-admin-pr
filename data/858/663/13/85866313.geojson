@@ -1,0 +1,117 @@
+{
+  "id": 85866313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":671758.793122,
+    "geom:bbox":"-66.060509,18.41601,-66.060509,18.41601",
+    "geom:latitude":18.41601,
+    "geom:longitude":-66.060509,
+    "gn:elevation":10,
+    "iso:country":"PR",
+    "lbl:latitude":18.41601,
+    "lbl:longitude":-66.060509,
+    "mps:latitude":18.416953,
+    "mps:longitude":-66.060507,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "El Vedado"
+    ],
+    "name:unk_x_variant":[
+        "El Vedado"
+    ],
+    "qs:gn_adm0_cc":"PR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":4568220,
+    "qs:gn_nam_loc":"aguacate",
+    "qs:gn_namadm1":"127",
+    "qs:gn_name":"El Vedado",
+    "qs:local_max":29505,
+    "qs:local_sum":50313,
+    "qs:localhoods":63,
+    "qs:name":"El Vedado",
+    "qs:name_adm0":"Puerto Rico",
+    "qs:name_adm1":"San Juan",
+    "qs:name_adm2":"Hato Rey Norte",
+    "qs:name_local":"San Juan",
+    "qs:photo_max":10,
+    "qs:photo_sum":25,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424935,
+    "qs:woe_adm1":2346815,
+    "qs:woe_adm2":26806696,
+    "qs:woe_lau":0,
+    "qs:woe_local":161685,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:latitude":23.131111,
+    "wd:longitude":-82.394167,
+    "wd:wordcount":423,
+    "wof:belongsto":[
+        85633729,
+        102191575,
+        101919427,
+        136253057,
+        102080441,
+        85687331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564243,
+        "gp:id":24551036,
+        "qs:id":503628
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"ff544804620a68d4bf09bcc5d0c46198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919427,
+            "neighbourhood_id":85866313,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":85866313,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379440,
+    "wof:name":"El Vedado",
+    "wof:parent_id":101919427,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[
+        1126108495
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.060509,
+    18.41601,
+    -66.060509,
+    18.41601
+],
+  "geometry": {"coordinates":[-66.060509,18.41601],"type":"Point"}
+}

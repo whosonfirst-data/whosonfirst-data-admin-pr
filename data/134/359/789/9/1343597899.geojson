@@ -1,0 +1,72 @@
+{
+  "id": 1343597899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.18406,18.35606,-66.18406,18.35606",
+    "geom:latitude":18.35606,
+    "geom:longitude":-66.18406,
+    "gn:admin1_code":"021",
+    "gn:admin2_code":"7268065",
+    "gn:asciiname":"Pamorama",
+    "gn:country_code":"PR",
+    "gn:dem":111,
+    "gn:elevation":"117.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4050312,
+    "gn:latitude":18.35606,
+    "gn:longitude":-66.18406,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Pamorama",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4050312
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"ef3b6d21077a20fe4a3d32e453dea3ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080443,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343597899,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343597899,
+    "wof:lastmodified":1537043409,
+    "wof:name":"Pamorama",
+    "wof:parent_id":102080443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.18406,
+    18.35606,
+    -66.18406,
+    18.35606
+],
+  "geometry": {"coordinates":[-66.18406,18.35606],"type":"Point"}
+}

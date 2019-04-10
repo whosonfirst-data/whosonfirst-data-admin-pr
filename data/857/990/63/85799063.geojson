@@ -1,0 +1,107 @@
+{
+  "id": 85799063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":23630449.176631,
+    "geom:bbox":"-8.594537,41.109587,-8.594537,41.109587",
+    "geom:latitude":41.109587,
+    "geom:longitude":-8.594537,
+    "gn:latitude":41.12466,
+    "gn:longitude":-8.58463,
+    "gn:population":24407,
+    "iso:country":"PR",
+    "lbl:latitude":41.109587,
+    "lbl:longitude":-8.594537,
+    "mps:latitude":41.109587,
+    "mps:longitude":-8.594537,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:por_x_preferred":[
+        "Oliveira do Douro"
+    ],
+    "name:unk_x_variant":[
+        "Oliveira do Douro"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":8010592,
+    "qs:gn_nam_loc":"Vila Nova de Gaia, Porto, PT",
+    "qs:gn_namadm1":"17",
+    "qs:gn_name":"Oliveira do Douro",
+    "qs:local_max":20031,
+    "qs:local_sum":26947,
+    "qs:localhoods":5,
+    "qs:name":"Oliveira do Douro",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Porto",
+    "qs:name_adm2":"Vila Nova de Gaia",
+    "qs:name_local":"Vila Nova de Gaia",
+    "qs:photo_max":84,
+    "qs:photo_sum":359,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":34,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346575,
+    "qs:woe_adm2":12596513,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596513,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        101752095,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737039,
+        "gp:id":744720,
+        "qs:id":141253
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"0dbe50817e440ee964e7734bb7f14ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752095,
+            "neighbourhood_id":85799063,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":85799063,
+    "wof:lastmodified":1531861973,
+    "wof:name":"Oliveira do Douro",
+    "wof:parent_id":101752095,
+    "wof:placetype":"neighbourhood",
+    "wof:population":24407,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.594537,
+    41.109587,
+    -8.594537,
+    41.109587
+],
+  "geometry": {"coordinates":[-8.594537,41.109587],"type":"Point"}
+}

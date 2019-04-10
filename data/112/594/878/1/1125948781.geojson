@@ -1,0 +1,114 @@
+{
+  "id": 1125948781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.07907,18.47133,-67.07907,18.47133",
+    "geom:latitude":18.47133,
+    "geom:longitude":-67.07907,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1516,
+    "gn:population":1516,
+    "iso:country":"PR",
+    "lbl:latitude":18.47133,
+    "lbl:longitude":-67.07907,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Rafael Hern\u00e1ndez"
+    ],
+    "name:dut_x_preferred":[
+        "Rafael Hern\u00e1ndez"
+    ],
+    "name:eng_x_preferred":[
+        "Rafael Hern\u00e1ndez"
+    ],
+    "name:glg_x_preferred":[
+        "Rafael Hern\u00e1ndez"
+    ],
+    "name:spa_x_preferred":[
+        "Rafael Hern\u00e1ndez"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u0435\u043b \u0415\u0440\u043d\u0430\u043d\u0434\u0435\u0437"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4567575,
+    "qs_pg:gn_pop":1516,
+    "qs_pg:name":"Rafael Hernandez",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Aguadilla",
+    "qs_pg:photos":38,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":38,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1049329,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":24551236,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Aguadilla",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567575,
+        "gp:id":24551236,
+        "qs_pg:id":1049329,
+        "wd:id":"Q2998503"
+    },
+    "wof:country":"PR",
+    "wof:created":1497297381,
+    "wof:geomhash":"186f86288b08fd7cbe66571fa6bb3694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080275,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125948781,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125948781,
+    "wof:lastmodified":1514497742,
+    "wof:name":"Rafael Hernandez",
+    "wof:parent_id":102080275,
+    "wof:placetype":"locality",
+    "wof:population":1516,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.07907,
+    18.47133,
+    -67.07907,
+    18.47133
+],
+  "geometry": {"coordinates":[-67.07907,18.47133],"type":"Point"}
+}

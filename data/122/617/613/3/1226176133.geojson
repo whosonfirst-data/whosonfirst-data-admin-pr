@@ -1,0 +1,72 @@
+{
+  "id": 1226176133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.821,18.38217,-65.821,18.38217",
+    "geom:latitude":18.38217,
+    "geom:longitude":-65.821,
+    "gn:admin1_code":"119",
+    "gn:admin2_code":"7268524",
+    "gn:asciiname":"El Carmen",
+    "gn:country_code":"PR",
+    "gn:dem":2,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4564168,
+    "gn:latitude":18.38217,
+    "gn:longitude":-65.821,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"El Carmen",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564168
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"3830c0f013259bf8872f318c9c6d4cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080399,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1226176133,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1226176133,
+    "wof:lastmodified":1537032524,
+    "wof:name":"El Carmen",
+    "wof:parent_id":102080399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.821,
+    18.38217,
+    -65.821,
+    18.38217
+],
+  "geometry": {"coordinates":[-65.821,18.38217],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276580699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.87794,18.04885,-65.87794,18.04885",
+    "geom:latitude":18.04885,
+    "geom:longitude":-65.87794,
+    "gn:admin1_code":"151",
+    "gn:admin2_code":"7269085",
+    "gn:asciiname":"Cerro del Calvario",
+    "gn:country_code":"PR",
+    "gn:dem":20,
+    "gn:elevation":"17.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4563741,
+    "gn:latitude":18.04885,
+    "gn:longitude":-65.87794,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Cerro del Calvario",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4563741
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"f976cb2a769a1596dbcc4b8e1337c407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080371,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1276580699,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1276580699,
+    "wof:lastmodified":1536945408,
+    "wof:name":"Cerro del Calvario",
+    "wof:parent_id":102080371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.87794,
+    18.04885,
+    -65.87794,
+    18.04885
+],
+  "geometry": {"coordinates":[-65.87794,18.04885],"type":"Point"}
+}

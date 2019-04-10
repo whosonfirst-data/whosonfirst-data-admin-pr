@@ -1,0 +1,75 @@
+{
+  "id": 1243490641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.01044,18.388,-66.01044,18.388",
+    "geom:latitude":18.388,
+    "geom:longitude":-66.01044,
+    "gn:admin1_code":"127",
+    "gn:admin2_code":"7268945",
+    "gn:asciiname":"Jardines de Monte Hatillo",
+    "gn:country_code":"PR",
+    "gn:dem":55,
+    "gn:elevation":"55.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565659,
+    "gn:latitude":18.388,
+    "gn:longitude":-66.01044,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Jardines de Monte Hatillo",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monte Carlo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565659
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"8133a94ccf8623c2fd701e3db6645b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1243490641,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1243490641,
+    "wof:lastmodified":1537683115,
+    "wof:name":"Jardines de Monte Hatillo",
+    "wof:parent_id":102080441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.01044,
+    18.388,
+    -66.01044,
+    18.388
+],
+  "geometry": {"coordinates":[-66.01044,18.388],"type":"Point"}
+}

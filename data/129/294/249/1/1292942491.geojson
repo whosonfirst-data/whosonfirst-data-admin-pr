@@ -1,0 +1,72 @@
+{
+  "id": 1292942491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.67991,18.22169,-65.67991,18.22169",
+    "geom:latitude":18.22169,
+    "geom:longitude":-65.67991,
+    "gn:admin1_code":"103",
+    "gn:admin2_code":"7268142",
+    "gn:asciiname":"Daguao Comunidad",
+    "gn:country_code":"PR",
+    "gn:dem":31,
+    "gn:elevation":"32.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7275054,
+    "gn:latitude":18.22169,
+    "gn:longitude":-65.67991,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Daguao Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7275054
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"463a31aaebe5fccf1ca32bdab0c94531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080355,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1292942491,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1292942491,
+    "wof:lastmodified":1537072567,
+    "wof:name":"Daguao Comunidad",
+    "wof:parent_id":102080355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.67990999999999,
+    18.22169,
+    -65.67990999999999,
+    18.22169
+],
+  "geometry": {"coordinates":[-65.67990999999999,18.22169],"type":"Point"}
+}

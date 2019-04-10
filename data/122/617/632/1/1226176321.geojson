@@ -1,0 +1,72 @@
+{
+  "id": 1226176321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.39878,18.09468,-66.39878,18.09468",
+    "geom:latitude":18.09468,
+    "geom:longitude":-66.39878,
+    "gn:admin1_code":"043",
+    "gn:admin2_code":"7268986",
+    "gn:asciiname":"Zanja Negra",
+    "gn:country_code":"PR",
+    "gn:dem":236,
+    "gn:elevation":"219.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568933,
+    "gn:latitude":18.09468,
+    "gn:longitude":-66.39878,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Zanja Negra",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568933
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"6cd2fd1f0898dc4bb56238f3c373a89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080279,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1226176321,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1226176321,
+    "wof:lastmodified":1537032240,
+    "wof:name":"Zanja Negra",
+    "wof:parent_id":102080279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.39878,
+    18.09468,
+    -66.39878,
+    18.09468
+],
+  "geometry": {"coordinates":[-66.39878,18.09468],"type":"Point"}
+}

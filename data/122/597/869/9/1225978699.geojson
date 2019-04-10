@@ -1,0 +1,75 @@
+{
+  "id": 1225978699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.12207,18.41215,-66.12207,18.41215",
+    "geom:latitude":18.41215,
+    "geom:longitude":-66.12207,
+    "gn:admin1_code":"061",
+    "gn:admin2_code":"7268822",
+    "gn:asciiname":"Fort Buchanan",
+    "gn:country_code":"PR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8335065,
+    "gn:latitude":18.41215,
+    "gn:longitude":-66.12207,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Fort Buchanan",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fort Buchanan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8335065,
+        "wk:page":"Fort_Buchanan,_Puerto_Rico"
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"1a5e98498fd944345dbc1b20c534c47a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080365,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1225978699,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1225978699,
+    "wof:lastmodified":1537571928,
+    "wof:name":"Fort Buchanan",
+    "wof:parent_id":102080365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.12207,
+    18.41215,
+    -66.12207,
+    18.41215
+],
+  "geometry": {"coordinates":[-66.12206999999999,18.41215],"type":"Point"}
+}

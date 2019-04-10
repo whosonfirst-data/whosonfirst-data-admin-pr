@@ -1,0 +1,63 @@
+{
+  "id": 1209035933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.53589,18.01319,-66.53589,18.01319",
+    "geom:latitude":18.01319,
+    "geom:longitude":-66.53589,
+    "gn:admin1_code":"075",
+    "gn:admin2_code":"7268943",
+    "gn:asciiname":"Capitanejo Comunidad",
+    "gn:country_code":"PR",
+    "gn:dem":18,
+    "gn:elevation":"16.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7275041,
+    "gn:latitude":18.01319,
+    "gn:longitude":-66.53589,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Capitanejo Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7275041
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"918fdaa05af0cb9060dd6e4808f46124",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209035933
+        }
+    ],
+    "wof:id":1209035933,
+    "wof:lastmodified":1536299700,
+    "wof:name":"Capitanejo Comunidad",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.53589000000001,
+    18.013189999999994,
+    -66.53589000000001,
+    18.013189999999994
+],
+  "geometry": {"coordinates":[-66.53589000000001,18.01318999999999],"type":"Point"}
+}

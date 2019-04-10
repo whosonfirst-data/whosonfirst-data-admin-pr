@@ -1,0 +1,147 @@
+{
+  "id": 1125993505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.49212,18.42745,-66.49212,18.42745",
+    "geom:latitude":18.42745,
+    "geom:longitude":-66.49212,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":16092,
+    "gn:population":16092,
+    "iso:country":"PR",
+    "lbl:latitude":18.42745,
+    "lbl:longitude":-66.49212,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u09ae\u09be\u09a8\u09be\u099f\u09bf"
+    ],
+    "name:cat_x_preferred":[
+        "Manat\u00ed"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u7d0d\u8482"
+    ],
+    "name:dut_x_preferred":[
+        "Manat\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Manat\u00ed"
+    ],
+    "name:fre_x_preferred":[
+        "Manat\u00ed"
+    ],
+    "name:fry_x_preferred":[
+        "Manati"
+    ],
+    "name:ger_x_preferred":[
+        "Manat\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Manat\u00ed"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ca\u30c6\u30a3"
+    ],
+    "name:pol_x_preferred":[
+        "Manat\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Manat\u00ed"
+    ],
+    "name:srp_x_preferred":[
+        "Manat\u00ed"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0442\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0646\u0627\u062a\u06cc\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Manat\u00ed"
+    ],
+    "name:war_x_preferred":[
+        "Manati"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4566137,
+    "qs_pg:gn_pop":16092,
+    "qs_pg:name":"Manati",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Manat\u00ed",
+    "qs_pg:photos":373,
+    "qs_pg:photos_1k":76,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":373,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":489367,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":161412,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Manat\u00ed",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566137,
+        "gp:id":161412,
+        "qs_pg:id":489367,
+        "wd:id":"Q674599"
+    },
+    "wof:country":"PR",
+    "wof:created":1497299176,
+    "wof:geomhash":"2b263c9f4aff575e0e00ed2d1f339d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080271,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125993505,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125993505,
+    "wof:lastmodified":1553816684,
+    "wof:name":"Manati",
+    "wof:parent_id":102080271,
+    "wof:placetype":"locality",
+    "wof:population":16092,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.49212,
+    18.42745,
+    -66.49212,
+    18.42745
+],
+  "geometry": {"coordinates":[-66.49212,18.42745],"type":"Point"}
+}

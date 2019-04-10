@@ -1,0 +1,72 @@
+{
+  "id": 1327167717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.44428,18.35229,-66.44428,18.35229",
+    "geom:latitude":18.35229,
+    "geom:longitude":-66.44428,
+    "gn:admin1_code":"101",
+    "gn:admin2_code":"7268231",
+    "gn:asciiname":"Barahona Comunidad",
+    "gn:country_code":"PR",
+    "gn:dem":170,
+    "gn:elevation":"171.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7275024,
+    "gn:latitude":18.35229,
+    "gn:longitude":-66.44428,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Barahona Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7275024
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"4a1cbf1a3bf9fd5af8eb8466d3ccf916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080401,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1327167717,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1327167717,
+    "wof:lastmodified":1537060397,
+    "wof:name":"Barahona Comunidad",
+    "wof:parent_id":102080401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.44428,
+    18.35229,
+    -66.44428,
+    18.35229
+],
+  "geometry": {"coordinates":[-66.44428000000001,18.35229],"type":"Point"}
+}

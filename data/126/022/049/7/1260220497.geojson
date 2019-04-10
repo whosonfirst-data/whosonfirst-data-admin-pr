@@ -1,0 +1,72 @@
+{
+  "id": 1260220497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.12878,18.39717,-66.12878,18.39717",
+    "geom:latitude":18.39717,
+    "geom:longitude":-66.12878,
+    "gn:admin1_code":"021",
+    "gn:admin2_code":"7268532",
+    "gn:asciiname":"Valle de Sol",
+    "gn:country_code":"PR",
+    "gn:dem":23,
+    "gn:elevation":"20.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568516,
+    "gn:latitude":18.39717,
+    "gn:longitude":-66.12878,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Valle de Sol",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568516
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"22583b58cc4c1636e035957f5c26c6b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080443,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1260220497,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1260220497,
+    "wof:lastmodified":1536797596,
+    "wof:name":"Valle de Sol",
+    "wof:parent_id":102080443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.12878,
+    18.39717000000001,
+    -66.12878,
+    18.39717000000001
+],
+  "geometry": {"coordinates":[-66.12878000000001,18.39717000000001],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 1125878451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.83683,18.10191,-65.83683,18.10191",
+    "geom:latitude":18.10191,
+    "geom:longitude":-65.83683,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1346,
+    "gn:population":1346,
+    "iso:country":"PR",
+    "lbl:latitude":18.10191,
+    "lbl:longitude":-65.83683,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Candelero Arriba"
+    ],
+    "name:spa_x_preferred":[
+        "Candelero Arriba"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4563124,
+    "qs_pg:gn_pop":1346,
+    "qs_pg:name":"Candelero Abajo",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Humacao",
+    "qs_pg:photos":183,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":183,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":961231,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":55870074,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Humacao",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4563124,
+        "gp:id":55870074,
+        "qs_pg:id":961231,
+        "wd:id":"Q5747332"
+    },
+    "wof:country":"PR",
+    "wof:created":1497294665,
+    "wof:geomhash":"4deb1ae2c2d0abc92f4412c23777a073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080351,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125878451,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125878451,
+    "wof:lastmodified":1553816593,
+    "wof:name":"Candelero Abajo",
+    "wof:parent_id":102080351,
+    "wof:placetype":"locality",
+    "wof:population":1346,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[
+        101919241
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.83683,
+    18.10191,
+    -65.83683,
+    18.10191
+],
+  "geometry": {"coordinates":[-65.83683000000001,18.10191],"type":"Point"}
+}

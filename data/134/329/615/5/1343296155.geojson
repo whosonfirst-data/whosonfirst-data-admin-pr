@@ -1,0 +1,72 @@
+{
+  "id": 1343296155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.06322,18.35439,-66.06322,18.35439",
+    "geom:latitude":18.35439,
+    "geom:longitude":-66.06322,
+    "gn:admin1_code":"127",
+    "gn:admin2_code":"7268138",
+    "gn:asciiname":"Paseo de la Fuentes",
+    "gn:country_code":"PR",
+    "gn:dem":80,
+    "gn:elevation":"82.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566639,
+    "gn:latitude":18.35439,
+    "gn:longitude":-66.06322,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Paseo de la Fuentes",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566639
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"aee509b84e1902f5f3cac0b8d1af8959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343296155,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343296155,
+    "wof:lastmodified":1536982676,
+    "wof:name":"Paseo de la Fuentes",
+    "wof:parent_id":102080441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.06322,
+    18.35439,
+    -66.06322,
+    18.35439
+],
+  "geometry": {"coordinates":[-66.06322,18.35439],"type":"Point"}
+}

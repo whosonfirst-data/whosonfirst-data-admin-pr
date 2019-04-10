@@ -1,0 +1,72 @@
+{
+  "id": 1226579587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.78851,18.00135,-66.78851,18.00135",
+    "geom:latitude":18.00135,
+    "geom:longitude":-66.78851,
+    "gn:admin1_code":"059",
+    "gn:admin2_code":"7268932",
+    "gn:asciiname":"El Faro",
+    "gn:country_code":"PR",
+    "gn:dem":5,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4564191,
+    "gn:latitude":18.00135,
+    "gn:longitude":-66.78851,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"El Faro",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564191
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"84db2b4bfd1589e6a283382c694ae0e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080297,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1226579587,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1226579587,
+    "wof:lastmodified":1536951273,
+    "wof:name":"El Faro",
+    "wof:parent_id":102080297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.78851,
+    18.00135,
+    -66.78851,
+    18.00135
+],
+  "geometry": {"coordinates":[-66.78851,18.00135],"type":"Point"}
+}

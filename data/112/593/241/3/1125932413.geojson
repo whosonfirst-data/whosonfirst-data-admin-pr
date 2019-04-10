@@ -1,0 +1,139 @@
+{
+  "id": 1125932413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.40656,18.32578,-66.40656,18.32578",
+    "geom:latitude":18.32578,
+    "geom:longitude":-66.40656,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2414,
+    "gn:population":2414,
+    "iso:country":"PR",
+    "lbl:latitude":18.32578,
+    "lbl:longitude":-66.40656,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u09ae\u09cb\u09b0\u09cb\u09ad\u09bf\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Morovis"
+    ],
+    "name:chi_x_preferred":[
+        "\u83ab\u7f85\u7dad\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Morovis"
+    ],
+    "name:eng_x_preferred":[
+        "Morovis"
+    ],
+    "name:fre_x_preferred":[
+        "Morovis"
+    ],
+    "name:ita_x_preferred":[
+        "Morovis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30ed\u30d3\u30b9"
+    ],
+    "name:spa_x_preferred":[
+        "Morovis"
+    ],
+    "name:srp_x_preferred":[
+        "Morovis"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0440\u043e\u0432\u0456\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u0628\u06cc\u0633\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Morovis"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4566333,
+    "qs_pg:gn_pop":2414,
+    "qs_pg:name":"Morovis",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Morovis",
+    "qs_pg:photos":164,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":164,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":228619,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":161466,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Morovis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566333,
+        "gp:id":161466,
+        "qs_pg:id":228619,
+        "wd:id":"Q2623982"
+    },
+    "wof:country":"PR",
+    "wof:created":1497296851,
+    "wof:geomhash":"92bad6a71548cbf6ad4eeee1718761e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080401,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125932413,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125932413,
+    "wof:lastmodified":1534379433,
+    "wof:name":"Morovis",
+    "wof:parent_id":102080401,
+    "wof:placetype":"locality",
+    "wof:population":2414,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[
+        101919111
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.40656,
+    18.32578,
+    -66.40656,
+    18.32578
+],
+  "geometry": {"coordinates":[-66.40656,18.32578],"type":"Point"}
+}

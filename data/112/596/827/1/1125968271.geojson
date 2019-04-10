@@ -1,0 +1,163 @@
+{
+  "id": 1125968271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.00739,18.35467,-66.00739,18.35467",
+    "geom:latitude":18.35467,
+    "geom:longitude":-66.00739,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":54189,
+    "gn:population":54189,
+    "iso:country":"PR",
+    "lbl:latitude":18.35467,
+    "lbl:longitude":-66.00739,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Trujillo Alto"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e0a\u7279\u9b6f\u5e0c\u7565"
+    ],
+    "name:dut_x_preferred":[
+        "Trujillo Alto"
+    ],
+    "name:eng_x_preferred":[
+        "Trujillo Alto"
+    ],
+    "name:epo_x_preferred":[
+        "Trujillo Alto"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0648\u0698\u06cc\u0644\u0648 \u0622\u0644\u062a\u0648\u060c \u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648"
+    ],
+    "name:fre_x_preferred":[
+        "Trujillo Alto"
+    ],
+    "name:ita_x_preferred":[
+        "Trujillo Alto"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30eb\u30d2\u30fc\u30e8\u30a2\u30eb\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub8e8\ud788\uc694\uc54c\ud1a0"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0631\u0648\u0698\u06cc\u0644\u0648 \u0622\u0644\u062a\u0648\u060c \u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Trujillo Alto"
+    ],
+    "name:por_x_preferred":[
+        "Trujillo Alto"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0443\u0445\u0438\u043b\u044c\u043e-\u0410\u043b\u044c\u0442\u043e"
+    ],
+    "name:scn_x_preferred":[
+        "Trujillo Alto"
+    ],
+    "name:spa_x_preferred":[
+        "Trujillo Alto"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0443\u0445\u0438\u0459\u043e \u0410\u043b\u0442\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0443\u0445\u0456\u043b\u044c\u0439\u043e-\u0410\u043b\u044c\u0442\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0631\u0648\u062e\u06cc\u0644\u0648 \u0627\u0644\u062a\u0648\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Trujillo Alto"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u7279\u9b6f\u5e0c\u7565"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4568451,
+    "qs_pg:gn_pop":54189,
+    "qs_pg:name":"Trujillo Alto",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Trujillo Alto",
+    "qs_pg:photos":329,
+    "qs_pg:photos_1k":67,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":329,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":154522,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":161777,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Trujillo Alto",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568451,
+        "gp:id":161777,
+        "qs_pg:id":154522,
+        "wd:id":"Q1150895"
+    },
+    "wof:country":"PR",
+    "wof:created":1497298059,
+    "wof:geomhash":"61a751413bdfbc5ff7c1a784b322be57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080361,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125968271,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125968271,
+    "wof:lastmodified":1534379438,
+    "wof:name":"Trujillo Alto",
+    "wof:parent_id":102080361,
+    "wof:placetype":"locality",
+    "wof:population":54189,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[
+        101918965
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.00739,
+    18.35467,
+    -66.00739,
+    18.35467
+],
+  "geometry": {"coordinates":[-66.00739,18.35467],"type":"Point"}
+}

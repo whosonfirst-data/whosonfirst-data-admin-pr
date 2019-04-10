@@ -1,0 +1,151 @@
+{
+  "id": 1125770971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.266,18.13996,-66.266,18.13996",
+    "geom:latitude":18.13996,
+    "geom:longitude":-66.266,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8947,
+    "gn:population":8947,
+    "iso:country":"PR",
+    "lbl:latitude":18.13996,
+    "lbl:longitude":-66.266,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Aibonito"
+    ],
+    "name:chi_x_preferred":[
+        "\u827e\u6c83\u5c3c\u6258"
+    ],
+    "name:dut_x_preferred":[
+        "Aibonito"
+    ],
+    "name:eng_x_preferred":[
+        "Aibonito"
+    ],
+    "name:fre_x_preferred":[
+        "Aibonito"
+    ],
+    "name:ita_x_preferred":[
+        "Aibonito"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30dc\u30cb\u30c8"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06cc\u0628\u0627\u0646\u06cc\u062a\u0648\u060c \u067e\u0648\u0626\u0631\u062a\u0648 \u0631\u06cc\u0633\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Aibonito"
+    ],
+    "name:por_x_preferred":[
+        "Aibonito"
+    ],
+    "name:scn_x_preferred":[
+        "Aibonito"
+    ],
+    "name:spa_x_preferred":[
+        "Aibonito"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0438\u0431\u043e\u043d\u0438\u0442\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u0431\u043e\u043d\u0456\u0442\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Jatibonicu"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0628\u0648\u0646\u06cc\u062a\u0648\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Aibonito"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4562529,
+    "qs_pg:gn_pop":8947,
+    "qs_pg:name":"Aibonito",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Aibonito",
+    "qs_pg:photos":240,
+    "qs_pg:photos_1k":49,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":240,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":154481,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":160649,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Aibonito",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562529,
+        "gp:id":160649,
+        "qs_pg:id":154481,
+        "wd:id":"Q2485628"
+    },
+    "wof:country":"PR",
+    "wof:created":1497290059,
+    "wof:geomhash":"2a14e31186dd8b39aa7c88e479159730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080431,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125770971,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125770971,
+    "wof:lastmodified":1553816523,
+    "wof:name":"Aibonito",
+    "wof:parent_id":102080431,
+    "wof:placetype":"locality",
+    "wof:population":8947,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[
+        101919147
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.266,
+    18.13996,
+    -66.266,
+    18.13996
+],
+  "geometry": {"coordinates":[-66.26600000000001,18.13996],"type":"Point"}
+}

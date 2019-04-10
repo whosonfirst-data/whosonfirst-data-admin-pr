@@ -1,0 +1,72 @@
+{
+  "id": 1259911249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.62906,18.13496,-66.62906,18.13496",
+    "geom:latitude":18.13496,
+    "geom:longitude":-66.62906,
+    "gn:admin1_code":"113",
+    "gn:admin2_code":"7268982",
+    "gn:asciiname":"Hacienda La Gloria",
+    "gn:country_code":"PR",
+    "gn:dem":363,
+    "gn:elevation":"336.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565228,
+    "gn:latitude":18.13496,
+    "gn:longitude":-66.62906,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda La Gloria",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565228
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"f2f649bb7862747fc2f2646e8046f858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080299,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1259911249,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1259911249,
+    "wof:lastmodified":1536739087,
+    "wof:name":"Hacienda La Gloria",
+    "wof:parent_id":102080299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.62906,
+    18.13496,
+    -66.62906,
+    18.13496
+],
+  "geometry": {"coordinates":[-66.62906,18.13496],"type":"Point"}
+}

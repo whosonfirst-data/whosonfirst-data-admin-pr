@@ -1,0 +1,72 @@
+{
+  "id": 1259717959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.63599,18.34551,-65.63599,18.34551",
+    "geom:latitude":18.34551,
+    "geom:longitude":-65.63599,
+    "gn:admin1_code":"053",
+    "gn:admin2_code":"7269003",
+    "gn:asciiname":"Playa Sardinera",
+    "gn:country_code":"PR",
+    "gn:dem":1,
+    "gn:elevation":"1.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566787,
+    "gn:latitude":18.34551,
+    "gn:longitude":-65.63599,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Playa Sardinera",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566787
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"404971ba498d4f49f4cd45f603e9d3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080287,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1259717959,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1259717959,
+    "wof:lastmodified":1537016708,
+    "wof:name":"Playa Sardinera",
+    "wof:parent_id":102080287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.63599,
+    18.34551,
+    -65.63599,
+    18.34551
+],
+  "geometry": {"coordinates":[-65.63599000000001,18.34551],"type":"Point"}
+}

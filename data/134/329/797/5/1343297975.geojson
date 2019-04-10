@@ -1,0 +1,72 @@
+{
+  "id": 1343297975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.87917,18.04687,-65.87917,18.04687",
+    "geom:latitude":18.04687,
+    "geom:longitude":-65.87917,
+    "gn:admin1_code":"151",
+    "gn:admin2_code":"7269085",
+    "gn:asciiname":"Yabucoa Zona Urbana",
+    "gn:country_code":"PR",
+    "gn:dem":24,
+    "gn:elevation":"28.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7276398,
+    "gn:latitude":18.04687,
+    "gn:longitude":-65.87917,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Yabucoa Zona Urbana",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7276398
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"83a76be61ddd59435f497a583bb20fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080371,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343297975,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343297975,
+    "wof:lastmodified":1536980049,
+    "wof:name":"Yabucoa Zona Urbana",
+    "wof:parent_id":102080371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.87917,
+    18.04687,
+    -65.87917,
+    18.04687
+],
+  "geometry": {"coordinates":[-65.87917,18.04687],"type":"Point"}
+}

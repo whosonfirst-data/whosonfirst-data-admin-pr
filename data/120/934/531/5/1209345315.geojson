@@ -1,0 +1,63 @@
+{
+  "id": 1209345315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.53989,18.44995,-66.53989,18.44995",
+    "geom:latitude":18.44995,
+    "geom:longitude":-66.53989,
+    "gn:admin1_code":"017",
+    "gn:admin2_code":"7268394",
+    "gn:asciiname":"Barrrio Catalana",
+    "gn:country_code":"PR",
+    "gn:dem":8,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4562811,
+    "gn:latitude":18.44995,
+    "gn:longitude":-66.53989,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Barrrio Catalana",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562811
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"699c48f791cad6f06dde9909c0ed1f6c",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209345315
+        }
+    ],
+    "wof:id":1209345315,
+    "wof:lastmodified":1536289932,
+    "wof:name":"Barrrio Catalana",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.53989,
+    18.44995,
+    -66.53989,
+    18.44995
+],
+  "geometry": {"coordinates":[-66.53989,18.44995],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226473505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.01026,18.36003,-66.01026,18.36003",
+    "geom:latitude":18.36003,
+    "geom:longitude":-66.01026,
+    "gn:admin1_code":"139",
+    "gn:admin2_code":"7268133",
+    "gn:asciiname":"Trujillo Alto Zona Urbana",
+    "gn:country_code":"PR",
+    "gn:dem":64,
+    "gn:elevation":"59.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7276392,
+    "gn:latitude":18.36003,
+    "gn:longitude":-66.01026,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Trujillo Alto Zona Urbana",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7276392
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"6d03c9d82a3d770117f5e45ae47d3360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080361,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1226473505,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1226473505,
+    "wof:lastmodified":1536602396,
+    "wof:name":"Trujillo Alto Zona Urbana",
+    "wof:parent_id":102080361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.01026,
+    18.36003,
+    -66.01026,
+    18.36003
+],
+  "geometry": {"coordinates":[-66.01026,18.36003],"type":"Point"}
+}

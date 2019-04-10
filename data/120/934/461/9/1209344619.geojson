@@ -1,0 +1,66 @@
+{
+  "id": 1209344619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.71127,18.20218,-65.71127,18.20218",
+    "geom:latitude":18.20218,
+    "geom:longitude":-65.71127,
+    "gn:admin1_code":"103",
+    "gn:admin2_code":"7268485",
+    "gn:asciiname":"San Luis",
+    "gn:country_code":"PR",
+    "gn:dem":20,
+    "gn:elevation":"20.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568156,
+    "gn:latitude":18.20218,
+    "gn:longitude":-65.71127,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"San Luis",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia San Luis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568156
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"169043180b1dc690925210e6c06abf09",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209344619
+        }
+    ],
+    "wof:id":1209344619,
+    "wof:lastmodified":1537683119,
+    "wof:name":"San Luis",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.71127,
+    18.20218,
+    -65.71127,
+    18.20218
+],
+  "geometry": {"coordinates":[-65.71127,18.20218],"type":"Point"}
+}

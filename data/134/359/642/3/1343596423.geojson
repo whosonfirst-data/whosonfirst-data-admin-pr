@@ -1,0 +1,72 @@
+{
+  "id": 1343596423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.1357,18.44483,-67.1357,18.44483",
+    "geom:latitude":18.44483,
+    "geom:longitude":-67.1357,
+    "gn:admin1_code":"005",
+    "gn:admin2_code":"7268111",
+    "gn:asciiname":"Caban Comunidad",
+    "gn:country_code":"PR",
+    "gn:dem":169,
+    "gn:elevation":"165.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7275034,
+    "gn:latitude":18.44483,
+    "gn:longitude":-67.1357,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Cab\u00e1n Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7275034
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"6f140421faae404d4a4d1b20dbd74305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080275,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343596423,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343596423,
+    "wof:lastmodified":1537045533,
+    "wof:name":"Caban Comunidad",
+    "wof:parent_id":102080275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.1357,
+    18.44483,
+    -67.1357,
+    18.44483
+],
+  "geometry": {"coordinates":[-67.1357,18.44483],"type":"Point"}
+}

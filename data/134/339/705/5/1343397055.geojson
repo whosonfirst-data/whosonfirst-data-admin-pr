@@ -1,0 +1,72 @@
+{
+  "id": 1343397055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.78962,18.0283,-66.78962,18.0283",
+    "geom:latitude":18.0283,
+    "geom:longitude":-66.78962,
+    "gn:admin1_code":"059",
+    "gn:admin2_code":"7268440",
+    "gn:asciiname":"Extension Santa Elena De Monte II",
+    "gn:country_code":"PR",
+    "gn:dem":30,
+    "gn:elevation":"26.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4564933,
+    "gn:latitude":18.0283,
+    "gn:longitude":-66.78962,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Extension Santa Elena De Monte II",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564933
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"771b75273cf8ccfc11a06faca4b9a58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080297,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343397055,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343397055,
+    "wof:lastmodified":1536836613,
+    "wof:name":"Extension Santa Elena De Monte II",
+    "wof:parent_id":102080297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.78962,
+    18.0283,
+    -66.78962,
+    18.0283
+],
+  "geometry": {"coordinates":[-66.78962,18.0283],"type":"Point"}
+}

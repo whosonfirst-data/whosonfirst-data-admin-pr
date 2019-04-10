@@ -1,0 +1,72 @@
+{
+  "id": 1276474387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.8204,18.15196,-65.8204,18.15196",
+    "geom:latitude":18.15196,
+    "geom:longitude":-65.8204,
+    "gn:admin1_code":"069",
+    "gn:admin2_code":"7268486",
+    "gn:asciiname":"Humacao Zona Urbana",
+    "gn:country_code":"PR",
+    "gn:dem":18,
+    "gn:elevation":"18.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7276435,
+    "gn:latitude":18.15196,
+    "gn:longitude":-65.8204,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Humacao Zona Urbana",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7276435
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"735b40cf012e5a294855202954166550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080351,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1276474387,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1276474387,
+    "wof:lastmodified":1537083987,
+    "wof:name":"Humacao Zona Urbana",
+    "wof:parent_id":102080351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.8204,
+    18.15196,
+    -65.8204,
+    18.15196
+],
+  "geometry": {"coordinates":[-65.82040000000001,18.15196],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209243297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.80462,18.43661,-66.80462,18.43661",
+    "geom:latitude":18.43661,
+    "geom:longitude":-66.80462,
+    "gn:admin1_code":"065",
+    "gn:admin2_code":"7268693",
+    "gn:asciiname":"Paloma",
+    "gn:country_code":"PR",
+    "gn:dem":130,
+    "gn:elevation":"125.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566495,
+    "gn:latitude":18.43661,
+    "gn:longitude":-66.80462,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Paloma",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566495
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"3c56f39dce86e1849b4b8e4416b29893",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209243297
+        }
+    ],
+    "wof:id":1209243297,
+    "wof:lastmodified":1536293249,
+    "wof:name":"Paloma",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.80462,
+    18.43661,
+    -66.80462,
+    18.43661
+],
+  "geometry": {"coordinates":[-66.80462,18.43661],"type":"Point"}
+}

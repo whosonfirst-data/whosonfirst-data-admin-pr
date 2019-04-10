@@ -1,0 +1,72 @@
+{
+  "id": 1293917115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.04267,18.21107,-66.04267,18.21107",
+    "geom:latitude":18.21107,
+    "geom:longitude":-66.04267,
+    "gn:admin1_code":"025",
+    "gn:admin2_code":"7269055",
+    "gn:asciiname":"Villas del Ray I",
+    "gn:country_code":"PR",
+    "gn:dem":81,
+    "gn:elevation":"79.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568700,
+    "gn:latitude":18.21107,
+    "gn:longitude":-66.04267,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Villas del Ray I",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568700
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"2ab52b56795c2093c9e39acf1d97f41c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080425,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1293917115,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1293917115,
+    "wof:lastmodified":1536664952,
+    "wof:name":"Villas del Ray I",
+    "wof:parent_id":102080425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.04267,
+    18.21107,
+    -66.04267,
+    18.21107
+],
+  "geometry": {"coordinates":[-66.04267,18.21107],"type":"Point"}
+}

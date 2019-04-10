@@ -1,0 +1,110 @@
+{
+  "id": 85866269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6502664.794572,
+    "geom:bbox":"-66.040082,18.450677,-66.040082,18.450677",
+    "geom:latitude":18.450677,
+    "geom:longitude":-66.040082,
+    "gn:elevation":-1,
+    "iso:country":"PR",
+    "lbl:latitude":18.450677,
+    "lbl:longitude":-66.040082,
+    "mps:latitude":18.45239,
+    "mps:longitude":-66.037512,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Atlantic View"
+    ],
+    "name:unk_x_variant":[
+        "Atlantic View"
+    ],
+    "qs:gn_adm0_cc":"PR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":4568220,
+    "qs:gn_nam_loc":"aguacate",
+    "qs:gn_namadm1":"031",
+    "qs:gn_name":"Atlantic View",
+    "qs:local_max":29505,
+    "qs:local_sum":50313,
+    "qs:localhoods":63,
+    "qs:name":"Atlantic View",
+    "qs:name_adm0":"Puerto Rico",
+    "qs:name_adm1":"Carolina",
+    "qs:name_adm2":"Cangrejo Arriba",
+    "qs:name_local":"San Juan",
+    "qs:photo_max":63,
+    "qs:photo_sum":216,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424935,
+    "qs:woe_adm1":2346854,
+    "qs:woe_adm2":26806152,
+    "qs:woe_lau":0,
+    "qs:woe_local":161685,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        101919427,
+        136253057,
+        102080441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562697,
+        "gp:id":24550969,
+        "qs:id":224025
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"1598ed29b19ede5059281208a9a54927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919427,
+            "neighbourhood_id":85866269,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":85866269,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531871147,
+    "wof:name":"Atlantic View",
+    "wof:parent_id":101919427,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.040082,
+    18.450677,
+    -66.040082,
+    18.450677
+],
+  "geometry": {"coordinates":[-66.040082,18.450677],"type":"Point"}
+}

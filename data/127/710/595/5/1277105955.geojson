@@ -1,0 +1,72 @@
+{
+  "id": 1277105955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.97239,18.41439,-65.97239,18.41439",
+    "geom:latitude":18.41439,
+    "geom:longitude":-65.97239,
+    "gn:admin1_code":"031",
+    "gn:admin2_code":"7268934",
+    "gn:asciiname":"Sabana Gardens",
+    "gn:country_code":"PR",
+    "gn:dem":5,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568013,
+    "gn:latitude":18.41439,
+    "gn:longitude":-65.97239,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Sabana Gardens",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568013
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"db4f360d2267e868fd31b932bea9a674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080347,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1277105955,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1277105955,
+    "wof:lastmodified":1536734415,
+    "wof:name":"Sabana Gardens",
+    "wof:parent_id":102080347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.97239,
+    18.41439,
+    -65.97239,
+    18.41439
+],
+  "geometry": {"coordinates":[-65.97239,18.41439],"type":"Point"}
+}

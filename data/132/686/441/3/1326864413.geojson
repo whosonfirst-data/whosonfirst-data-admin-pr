@@ -1,0 +1,72 @@
+{
+  "id": 1326864413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.46573,18.34689,-66.46573,18.34689",
+    "geom:latitude":18.34689,
+    "geom:longitude":-66.46573,
+    "gn:admin1_code":"039",
+    "gn:admin2_code":"7268508",
+    "gn:asciiname":"Boulevarda Jaguas",
+    "gn:country_code":"PR",
+    "gn:dem":87,
+    "gn:elevation":"69.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4562938,
+    "gn:latitude":18.34689,
+    "gn:longitude":-66.46573,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Boulevarda Jaguas",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562938
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"0802f69885ebf9ae895e02ab69be6507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080317,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1326864413,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1326864413,
+    "wof:lastmodified":1537001630,
+    "wof:name":"Boulevarda Jaguas",
+    "wof:parent_id":102080317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.46573000000001,
+    18.34689,
+    -66.46573000000001,
+    18.34689
+],
+  "geometry": {"coordinates":[-66.46573000000001,18.34689],"type":"Point"}
+}

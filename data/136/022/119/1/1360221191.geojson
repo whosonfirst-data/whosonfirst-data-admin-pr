@@ -1,0 +1,72 @@
+{
+  "id": 1360221191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.42762,18.34007,-66.42762,18.34007",
+    "geom:latitude":18.34007,
+    "geom:longitude":-66.42762,
+    "gn:admin1_code":"101",
+    "gn:admin2_code":"7268400",
+    "gn:asciiname":"Franquez Comunidad",
+    "gn:country_code":"PR",
+    "gn:dem":181,
+    "gn:elevation":"180.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7275062,
+    "gn:latitude":18.34007,
+    "gn:longitude":-66.42762,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Fr\u00e1nquez Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7275062
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"33055aef67c96f29d7d7740dab6f3639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080401,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1360221191,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1360221191,
+    "wof:lastmodified":1536749088,
+    "wof:name":"Franquez Comunidad",
+    "wof:parent_id":102080401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.42761999999999,
+    18.34007,
+    -66.42761999999999,
+    18.34007
+],
+  "geometry": {"coordinates":[-66.42761999999999,18.34007],"type":"Point"}
+}

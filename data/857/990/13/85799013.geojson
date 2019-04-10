@@ -1,0 +1,111 @@
+{
+  "id": 85799013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4506695.783946,
+    "geom:bbox":"-8.655507,41.157539,-8.655507,41.157539",
+    "geom:latitude":41.157539,
+    "geom:longitude":-8.655507,
+    "gn:id":"",
+    "gn:latitude":41.15059,
+    "gn:longitude":-8.64845,
+    "iso:country":"PR",
+    "lbl:latitude":41.157539,
+    "lbl:longitude":-8.655507,
+    "mps:latitude":41.158273,
+    "mps:longitude":-8.656837,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:por_x_preferred":[
+        "Lordelo do Ouro"
+    ],
+    "name:unk_x_variant":[
+        "Lordelo do Ouro"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":6458924,
+    "qs:gn_nam_loc":"Porto, Porto, PT",
+    "qs:gn_namadm1":"17",
+    "qs:gn_name":"Lordelo do Ouro",
+    "qs:local_max":15142,
+    "qs:local_sum":27062,
+    "qs:localhoods":8,
+    "qs:name":"Lordelo do Ouro",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Porto",
+    "qs:name_adm2":"Porto",
+    "qs:name_local":"Porto",
+    "qs:photo_max":1419,
+    "qs:photo_sum":3549,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":74,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346575,
+    "qs:woe_adm2":12596515,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596515,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":592,
+    "wof:belongsto":[
+        102191581,
+        101752093,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"030bbe18-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2738214,
+        "gp:id":742770,
+        "qs:id":1193756,
+        "wd:id":"Q1825945",
+        "wk:page":"Lordelo do Ouro"
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"03598fe9554b775f8b5d30031713f484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752093,
+            "neighbourhood_id":85799013,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":85799013,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1531861971,
+    "wof:name":"Lordelo do Ouro",
+    "wof:parent_id":101752093,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.655507,
+    41.157539,
+    -8.655507,
+    41.157539
+],
+  "geometry": {"coordinates":[-8.655507,41.157539],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209850321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.9091,18.26876,-65.9091,18.26876",
+    "geom:latitude":18.26876,
+    "geom:longitude":-65.9091,
+    "gn:admin1_code":"029",
+    "gn:admin2_code":"7268573",
+    "gn:asciiname":"Lomas Comunidad",
+    "gn:country_code":"PR",
+    "gn:dem":232,
+    "gn:elevation":"241.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7274945,
+    "gn:latitude":18.26876,
+    "gn:longitude":-65.9091,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Lomas Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7274945
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"1d41cc65fc09b351a6beeae41ee3dd35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080387,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1209850321,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1209850321,
+    "wof:lastmodified":1536388739,
+    "wof:name":"Lomas Comunidad",
+    "wof:parent_id":102080387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.9091,
+    18.26876,
+    -65.9091,
+    18.26876
+],
+  "geometry": {"coordinates":[-65.9091,18.26876],"type":"Point"}
+}

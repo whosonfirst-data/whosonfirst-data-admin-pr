@@ -1,0 +1,72 @@
+{
+  "id": 1344187977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.49045,18.46883,-66.49045,18.46883",
+    "geom:latitude":18.46883,
+    "geom:longitude":-66.49045,
+    "gn:admin1_code":"091",
+    "gn:admin2_code":"7269037",
+    "gn:asciiname":"El Alto",
+    "gn:country_code":"PR",
+    "gn:dem":44,
+    "gn:elevation":"43.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4564155,
+    "gn:latitude":18.46883,
+    "gn:longitude":-66.49045,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"El Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564155
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"80a9e9a6bb44711e12761ff4315276d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080271,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1344187977,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1344187977,
+    "wof:lastmodified":1536691843,
+    "wof:name":"El Alto",
+    "wof:parent_id":102080271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.49045,
+    18.46883,
+    -66.49045,
+    18.46883
+],
+  "geometry": {"coordinates":[-66.49045,18.46883],"type":"Point"}
+}

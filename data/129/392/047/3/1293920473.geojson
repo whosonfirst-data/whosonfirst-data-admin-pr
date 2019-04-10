@@ -1,0 +1,72 @@
+{
+  "id": 1293920473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.15379,18.42939,-67.15379,18.42939",
+    "geom:latitude":18.42939,
+    "geom:longitude":-67.15379,
+    "gn:admin1_code":"005",
+    "gn:admin2_code":"7268171",
+    "gn:asciiname":"Iglesia",
+    "gn:country_code":"PR",
+    "gn:dem":12,
+    "gn:elevation":"6.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565460,
+    "gn:latitude":18.42939,
+    "gn:longitude":-67.15379,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Iglesia",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565460
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"228e06bcb179b853108fffa6a48b464a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080275,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1293920473,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1293920473,
+    "wof:lastmodified":1536659988,
+    "wof:name":"Iglesia",
+    "wof:parent_id":102080275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.15379,
+    18.42939,
+    -67.15379,
+    18.42939
+],
+  "geometry": {"coordinates":[-67.15379,18.42939],"type":"Point"}
+}

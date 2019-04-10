@@ -1,0 +1,72 @@
+{
+  "id": 1242608853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.95461,18.3905,-65.95461,18.3905",
+    "geom:latitude":18.3905,
+    "geom:longitude":-65.95461,
+    "gn:admin1_code":"031",
+    "gn:admin2_code":"7268484",
+    "gn:asciiname":"Residencial Los Naranjales",
+    "gn:country_code":"PR",
+    "gn:dem":8,
+    "gn:elevation":"7.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4567688,
+    "gn:latitude":18.3905,
+    "gn:longitude":-65.95461,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Residencial Los Naranjales",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567688
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"856a0284de7c67f8f5641eb28666ef24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080347,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1242608853,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1242608853,
+    "wof:lastmodified":1537017953,
+    "wof:name":"Residencial Los Naranjales",
+    "wof:parent_id":102080347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.95461,
+    18.3905,
+    -65.95461,
+    18.3905
+],
+  "geometry": {"coordinates":[-65.95461,18.3905],"type":"Point"}
+}

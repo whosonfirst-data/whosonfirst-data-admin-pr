@@ -1,0 +1,141 @@
+{
+  "id": 1125889813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.8449,18.48383,-66.8449,18.48383",
+    "geom:latitude":18.48383,
+    "geom:longitude":-66.8449,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4240,
+    "gn:population":4240,
+    "iso:country":"PR",
+    "lbl:latitude":18.48383,
+    "lbl:longitude":-66.8449,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u0995\u09be\u09ae\u09c1\u09af\u09bc"
+    ],
+    "name:cat_x_preferred":[
+        "Camuy"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u7a46\u4f0a"
+    ],
+    "name:dut_x_preferred":[
+        "Camuy"
+    ],
+    "name:eng_x_preferred":[
+        "Camuy"
+    ],
+    "name:fre_x_preferred":[
+        "Camuy"
+    ],
+    "name:ita_x_preferred":[
+        "Camuy"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e0\u30a4"
+    ],
+    "name:por_x_preferred":[
+        "Camuy"
+    ],
+    "name:spa_x_preferred":[
+        "Camuy"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043c\u0443\u0458"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u0443\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0645\u0648\u06cc\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Camuy"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7a46\u4f0a"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4563064,
+    "qs_pg:gn_pop":4240,
+    "qs_pg:name":"Camuy",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Camuy",
+    "qs_pg:photos":229,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":229,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":211129,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":160764,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Camuy",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4563064,
+        "gp:id":160764,
+        "qs_pg:id":211129,
+        "wd:id":"Q2380860"
+    },
+    "wof:country":"PR",
+    "wof:created":1497295263,
+    "wof:geomhash":"1f7e934a1a957a758a512b8eb1917786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080293,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125889813,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125889813,
+    "wof:lastmodified":1514497701,
+    "wof:name":"Camuy",
+    "wof:parent_id":102080293,
+    "wof:placetype":"locality",
+    "wof:population":4240,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.8449,
+    18.48383,
+    -66.8449,
+    18.48383
+],
+  "geometry": {"coordinates":[-66.8449,18.48383],"type":"Point"}
+}

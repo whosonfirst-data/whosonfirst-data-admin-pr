@@ -1,0 +1,72 @@
+{
+  "id": 1243208991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.9867,18.25452,-66.9867,18.25452",
+    "geom:latitude":18.25452,
+    "geom:longitude":-66.9867,
+    "gn:admin1_code":"083",
+    "gn:admin2_code":"7268613",
+    "gn:asciiname":"Las Marias Zona Urbana",
+    "gn:country_code":"PR",
+    "gn:dem":285,
+    "gn:elevation":"285.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7276364,
+    "gn:latitude":18.25452,
+    "gn:longitude":-66.9867,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Las Mar\u00edas Zona Urbana",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7276364
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"c9f9fd0db8d2826bb1f0d64d09ca139b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080281,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1243208991,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1243208991,
+    "wof:lastmodified":1536650696,
+    "wof:name":"Las Marias Zona Urbana",
+    "wof:parent_id":102080281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.9867,
+    18.25452,
+    -66.9867,
+    18.25452
+],
+  "geometry": {"coordinates":[-66.9867,18.25452],"type":"Point"}
+}

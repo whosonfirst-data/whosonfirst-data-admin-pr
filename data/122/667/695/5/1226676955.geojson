@@ -1,0 +1,72 @@
+{
+  "id": 1226676955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.14601,18.19468,-67.14601,18.19468",
+    "geom:latitude":18.19468,
+    "geom:longitude":-67.14601,
+    "gn:admin1_code":"097",
+    "gn:admin2_code":"7268645",
+    "gn:asciiname":"Sector Columbia",
+    "gn:country_code":"PR",
+    "gn:dem":8,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568272,
+    "gn:latitude":18.19468,
+    "gn:longitude":-67.14601,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Sector Columbia",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568272
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"85acd74491cf3756984b85fe4ff364fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080311,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1226676955,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1226676955,
+    "wof:lastmodified":1536813967,
+    "wof:name":"Sector Columbia",
+    "wof:parent_id":102080311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.14601,
+    18.19468,
+    -67.14601,
+    18.19468
+],
+  "geometry": {"coordinates":[-67.14601,18.19468],"type":"Point"}
+}

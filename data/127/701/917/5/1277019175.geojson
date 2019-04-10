@@ -1,0 +1,72 @@
+{
+  "id": 1277019175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.45962,18.09496,-66.45962,18.09496",
+    "geom:latitude":18.09496,
+    "geom:longitude":-66.45962,
+    "gn:admin1_code":"149",
+    "gn:admin2_code":"7268331",
+    "gn:asciiname":"Palma Sola",
+    "gn:country_code":"PR",
+    "gn:dem":235,
+    "gn:elevation":"242.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566474,
+    "gn:latitude":18.09496,
+    "gn:longitude":-66.45962,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Palma Sola",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566474
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"e64e5428f10bab1667b50b56220df0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080377,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1277019175,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1277019175,
+    "wof:lastmodified":1536853242,
+    "wof:name":"Palma Sola",
+    "wof:parent_id":102080377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.45962,
+    18.09496,
+    -66.45962,
+    18.09496
+],
+  "geometry": {"coordinates":[-66.45962,18.09496],"type":"Point"}
+}

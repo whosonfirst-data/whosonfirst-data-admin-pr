@@ -1,0 +1,72 @@
+{
+  "id": 1226173183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.30044,18.3119,-65.30044,18.3119",
+    "geom:latitude":18.3119,
+    "geom:longitude":-65.30044,
+    "gn:admin1_code":"049",
+    "gn:admin2_code":"7268390",
+    "gn:asciiname":"Villa Muneco",
+    "gn:country_code":"PR",
+    "gn:dem":6,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568638,
+    "gn:latitude":18.3119,
+    "gn:longitude":-65.30044,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Villa Muneco",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568638
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"214e81822bca27374f1247a46909b27d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080273,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1226173183,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1226173183,
+    "wof:lastmodified":1537036649,
+    "wof:name":"Villa Muneco",
+    "wof:parent_id":102080273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.30044000000001,
+    18.3119,
+    -65.30044000000001,
+    18.3119
+],
+  "geometry": {"coordinates":[-65.30044000000001,18.3119],"type":"Point"}
+}

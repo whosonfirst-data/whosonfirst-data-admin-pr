@@ -1,0 +1,72 @@
+{
+  "id": 1310629965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.98434,18.33078,-66.98434,18.33078",
+    "geom:latitude":18.33078,
+    "geom:longitude":-66.98434,
+    "gn:admin1_code":"131",
+    "gn:admin2_code":"7268757",
+    "gn:asciiname":"Jardines de Venturrini",
+    "gn:country_code":"PR",
+    "gn:dem":74,
+    "gn:elevation":"70.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565669,
+    "gn:latitude":18.33078,
+    "gn:longitude":-66.98434,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Jardines de Venturrini",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565669
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"e343b09bdd23fe54fcc4c5626668cd4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080411,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1310629965,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1310629965,
+    "wof:lastmodified":1536737433,
+    "wof:name":"Jardines de Venturrini",
+    "wof:parent_id":102080411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.98434,
+    18.33078,
+    -66.98434,
+    18.33078
+],
+  "geometry": {"coordinates":[-66.98434,18.33078],"type":"Point"}
+}

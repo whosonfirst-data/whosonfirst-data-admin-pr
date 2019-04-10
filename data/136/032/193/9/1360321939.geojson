@@ -1,0 +1,72 @@
+{
+  "id": 1360321939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.3635,18.04691,-66.3635,18.04691",
+    "geom:latitude":18.04691,
+    "geom:longitude":-66.3635,
+    "gn:admin1_code":"043",
+    "gn:admin2_code":"7268971",
+    "gn:asciiname":"Las Flores",
+    "gn:country_code":"PR",
+    "gn:dem":106,
+    "gn:elevation":"102.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565941,
+    "gn:latitude":18.04691,
+    "gn:longitude":-66.3635,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Las Flores",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565941
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"afd4d3a057531a0ca7e31bbf431a6403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080279,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1360321939,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1360321939,
+    "wof:lastmodified":1536600672,
+    "wof:name":"Las Flores",
+    "wof:parent_id":102080279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.3635,
+    18.04691,
+    -66.3635,
+    18.04691
+],
+  "geometry": {"coordinates":[-66.3635,18.04691],"type":"Point"}
+}

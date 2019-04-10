@@ -1,0 +1,72 @@
+{
+  "id": 1209846133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.91796,18.37023,-66.91796,18.37023",
+    "geom:latitude":18.37023,
+    "geom:longitude":-66.91796,
+    "gn:admin1_code":"131",
+    "gn:admin2_code":"7268415",
+    "gn:asciiname":"Campamento Guajataca",
+    "gn:country_code":"PR",
+    "gn:dem":211,
+    "gn:elevation":"195.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4563043,
+    "gn:latitude":18.37023,
+    "gn:longitude":-66.91796,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Campamento Guajataca",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4563043
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"d389f471387859e4d46c870bcf4fc43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080411,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1209846133,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1209846133,
+    "wof:lastmodified":1536390580,
+    "wof:name":"Campamento Guajataca",
+    "wof:parent_id":102080411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.91796,
+    18.37023,
+    -66.91796,
+    18.37023
+],
+  "geometry": {"coordinates":[-66.91795999999999,18.37023],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343390401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.26434,18.39692,-66.26434,18.39692",
+    "geom:latitude":18.39692,
+    "geom:longitude":-66.26434,
+    "gn:admin1_code":"051",
+    "gn:admin2_code":"7268913",
+    "gn:asciiname":"Rio Lajas Comunidad",
+    "gn:country_code":"PR",
+    "gn:dem":65,
+    "gn:elevation":"71.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7274992,
+    "gn:latitude":18.39692,
+    "gn:longitude":-66.26434,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"R\u00edo Lajas Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7274992
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"92a162dea6d4b6a907e55e949f9190cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080417,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343390401,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343390401,
+    "wof:lastmodified":1536846289,
+    "wof:name":"Rio Lajas Comunidad",
+    "wof:parent_id":102080417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.26434,
+    18.39692,
+    -66.26434,
+    18.39692
+],
+  "geometry": {"coordinates":[-66.26434,18.39692],"type":"Point"}
+}

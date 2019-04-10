@@ -1,0 +1,72 @@
+{
+  "id": 1293526099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.96351,18.07996,-66.96351,18.07996",
+    "geom:latitude":18.07996,
+    "geom:longitude":-66.96351,
+    "gn:admin1_code":"121",
+    "gn:admin2_code":"7268996",
+    "gn:asciiname":"Residencial Jose Castillo Mercado",
+    "gn:country_code":"PR",
+    "gn:dem":97,
+    "gn:elevation":"92.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4567673,
+    "gn:latitude":18.07996,
+    "gn:longitude":-66.96351,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Residencial Jose Castillo Mercado",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567673
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"6055c09b41847e0aedf834cc9f5f310e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080395,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1293526099,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1293526099,
+    "wof:lastmodified":1536731607,
+    "wof:name":"Residencial Jose Castillo Mercado",
+    "wof:parent_id":102080395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.96351,
+    18.07996,
+    -66.96351,
+    18.07996
+],
+  "geometry": {"coordinates":[-66.96351,18.07996],"type":"Point"}
+}

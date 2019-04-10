@@ -1,0 +1,107 @@
+{
+  "id": 1125914849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.04823,17.97469,-67.04823,17.97469",
+    "geom:latitude":17.97469,
+    "geom:longitude":-67.04823,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PR",
+    "lbl:latitude":17.97469,
+    "lbl:longitude":-67.04823,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "La Parguera"
+    ],
+    "name:eng_x_preferred":[
+        "La Parguera"
+    ],
+    "name:spa_x_preferred":[
+        "La Parguera"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u041f\u0430\u0440\u0433\u0435\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "La Parguera"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4829032,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Parguera",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Lajas",
+    "qs_pg:photos":89,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":89,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":982675,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":161515,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Lajas",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4829032,
+        "gp:id":161515,
+        "qs_pg:id":982675,
+        "wd:id":"Q1833442"
+    },
+    "wof:country":"PR",
+    "wof:created":1497296283,
+    "wof:geomhash":"adf519da29b4a216323f6cd4ba5d7a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080327,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125914849,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125914849,
+    "wof:lastmodified":1514497734,
+    "wof:name":"Parguera",
+    "wof:parent_id":102080327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.04823,
+    17.97469,
+    -67.04823,
+    17.97469
+],
+  "geometry": {"coordinates":[-67.04823,17.97469],"type":"Point"}
+}

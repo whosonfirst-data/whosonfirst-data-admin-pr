@@ -1,0 +1,72 @@
+{
+  "id": 1277105231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.27795,18.46383,-66.27795,18.46383",
+    "geom:latitude":18.46383,
+    "geom:longitude":-66.27795,
+    "gn:admin1_code":"051",
+    "gn:admin2_code":"7268474",
+    "gn:asciiname":"Quintas de Dorado",
+    "gn:country_code":"PR",
+    "gn:dem":11,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4567562,
+    "gn:latitude":18.46383,
+    "gn:longitude":-66.27795,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Quintas de Dorado",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567562
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"08d46eb5b97500f6985bc33b2ee6e2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080417,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1277105231,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1277105231,
+    "wof:lastmodified":1536735456,
+    "wof:name":"Quintas de Dorado",
+    "wof:parent_id":102080417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.27795,
+    18.46383,
+    -66.27795,
+    18.46383
+],
+  "geometry": {"coordinates":[-66.27795,18.46383],"type":"Point"}
+}

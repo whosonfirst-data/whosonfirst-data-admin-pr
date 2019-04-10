@@ -1,0 +1,72 @@
+{
+  "id": 1242613849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.83655,18.14218,-65.83655,18.14218",
+    "geom:latitude":18.14218,
+    "geom:longitude":-65.83655,
+    "gn:admin1_code":"069",
+    "gn:admin2_code":"7269029",
+    "gn:asciiname":"Villa Universitaria",
+    "gn:country_code":"PR",
+    "gn:dem":29,
+    "gn:elevation":"30.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568664,
+    "gn:latitude":18.14218,
+    "gn:longitude":-65.83655,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Villa Universitaria",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568664
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"8e5001488f5624ce635568250f0baf89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080351,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1242613849,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1242613849,
+    "wof:lastmodified":1537010704,
+    "wof:name":"Villa Universitaria",
+    "wof:parent_id":102080351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.83655,
+    18.14218,
+    -65.83655,
+    18.14218
+],
+  "geometry": {"coordinates":[-65.83655,18.14218],"type":"Point"}
+}

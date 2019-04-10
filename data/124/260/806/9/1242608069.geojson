@@ -1,0 +1,72 @@
+{
+  "id": 1242608069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.82572,18.33884,-65.82572,18.33884",
+    "geom:latitude":18.33884,
+    "geom:longitude":-65.82572,
+    "gn:admin1_code":"119",
+    "gn:admin2_code":"7268524",
+    "gn:asciiname":"El Verde",
+    "gn:country_code":"PR",
+    "gn:dem":102,
+    "gn:elevation":"93.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4564245,
+    "gn:latitude":18.33884,
+    "gn:longitude":-65.82572,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"El Verde",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564245
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"3b528fd91814c8d8142d4d5cd71c18a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080399,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1242608069,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1242608069,
+    "wof:lastmodified":1537019043,
+    "wof:name":"El Verde",
+    "wof:parent_id":102080399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.82571999999999,
+    18.33884,
+    -65.82571999999999,
+    18.33884
+],
+  "geometry": {"coordinates":[-65.82571999999999,18.33884],"type":"Point"}
+}

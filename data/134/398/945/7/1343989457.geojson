@@ -1,0 +1,72 @@
+{
+  "id": 1343989457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.70572,18.20468,-65.70572,18.20468",
+    "geom:latitude":18.20468,
+    "geom:longitude":-65.70572,
+    "gn:admin1_code":"103",
+    "gn:admin2_code":"7268999",
+    "gn:asciiname":"Santiago y Lima",
+    "gn:country_code":"PR",
+    "gn:dem":14,
+    "gn:elevation":"13.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568252,
+    "gn:latitude":18.20468,
+    "gn:longitude":-65.70572,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Santiago y Lima",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568252
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"7e3158a127d790b89a43c467f1cbae62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080355,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343989457,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343989457,
+    "wof:lastmodified":1536977598,
+    "wof:name":"Santiago y Lima",
+    "wof:parent_id":102080355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.70572,
+    18.20468,
+    -65.70572,
+    18.20468
+],
+  "geometry": {"coordinates":[-65.70572,18.20468],"type":"Point"}
+}

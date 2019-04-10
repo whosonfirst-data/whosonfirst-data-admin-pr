@@ -1,0 +1,63 @@
+{
+  "id": 1209549961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.87511,18.23446,-65.87511,18.23446",
+    "geom:latitude":18.23446,
+    "geom:longitude":-65.87511,
+    "gn:admin1_code":"077",
+    "gn:admin2_code":"7268292",
+    "gn:asciiname":"El Mango Comunidad",
+    "gn:country_code":"PR",
+    "gn:dem":92,
+    "gn:elevation":"96.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7275056,
+    "gn:latitude":18.23446,
+    "gn:longitude":-65.87511,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"El Mang\u00f3 Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7275056
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"f21ddde55e202222b5aad5509da62b1c",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209549961
+        }
+    ],
+    "wof:id":1209549961,
+    "wof:lastmodified":1536283726,
+    "wof:name":"El Mango Comunidad",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.87510999999999,
+    18.23446,
+    -65.87510999999999,
+    18.23446
+],
+  "geometry": {"coordinates":[-65.87510999999999,18.23446],"type":"Point"}
+}

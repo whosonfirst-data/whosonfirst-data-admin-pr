@@ -1,0 +1,139 @@
+{
+  "id": 85866335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10632164.316192,
+    "geom:bbox":"-66.12255,18.368304,-66.12255,18.368304",
+    "geom:latitude":18.368304,
+    "geom:longitude":-66.12255,
+    "gn:elevation":67,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PR",
+    "lbl:latitude":18.368304,
+    "lbl:longitude":-66.12255,
+    "mps:latitude":18.365184,
+    "mps:longitude":-66.13287,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Monte Bello"
+    ],
+    "name:spa_x_variant":[
+        "Mte Bello"
+    ],
+    "name:unk_x_variant":[
+        "Monte Bello"
+    ],
+    "qs:gn_adm0_cc":"PR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":4568220,
+    "qs:gn_nam_loc":"aguacate",
+    "qs:gn_namadm1":"061",
+    "qs:gn_name":"Monte Bello",
+    "qs:local_max":29505,
+    "qs:local_sum":50313,
+    "qs:localhoods":63,
+    "qs:name":"Monte Bello",
+    "qs:name_adm0":"Puerto Rico",
+    "qs:name_adm1":"Guaynabo",
+    "qs:name_adm2":"Frailes",
+    "qs:name_local":"San Juan",
+    "qs:photo_max":5,
+    "qs:photo_sum":33,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424935,
+    "qs:woe_adm1":2346814,
+    "qs:woe_adm2":26806307,
+    "qs:woe_lau":0,
+    "qs:woe_local":161685,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4566299,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Monte Bello",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Guaynabo",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1193415,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":24551122,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85633729,
+        102191575,
+        101919293,
+        136253057,
+        102080365,
+        85687331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566299,
+        "gp:id":24551122,
+        "qs:id":1193415,
+        "qs_pg:id":1193415
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"34533ad2ce941fdefae17cfb801498ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080365,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919293,
+            "neighbourhood_id":85866335,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":85866335,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379425,
+    "wof:name":"Monte Bello",
+    "wof:parent_id":101919293,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126071667
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.12255,
+    18.368304,
+    -66.12255,
+    18.368304
+],
+  "geometry": {"coordinates":[-66.12255,18.368304],"type":"Point"}
+}

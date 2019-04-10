@@ -1,0 +1,72 @@
+{
+  "id": 1277110721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.14511,18.29278,-67.14511,18.29278",
+    "geom:latitude":18.29278,
+    "geom:longitude":-67.14511,
+    "gn:admin1_code":"011",
+    "gn:admin2_code":"7268621",
+    "gn:asciiname":"Las Marias Comunidad",
+    "gn:country_code":"PR",
+    "gn:dem":14,
+    "gn:elevation":"11.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7274939,
+    "gn:latitude":18.29278,
+    "gn:longitude":-67.14511,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Las Mar\u00edas Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7274939
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"4305f262470079ef463aac960718f8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080323,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1277110721,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1277110721,
+    "wof:lastmodified":1536727697,
+    "wof:name":"Las Marias Comunidad",
+    "wof:parent_id":102080323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.14511,
+    18.29278,
+    -67.14511,
+    18.29278
+],
+  "geometry": {"coordinates":[-67.14511,18.29278],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309748783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.16212,18.09274,-67.16212,18.09274",
+    "geom:latitude":18.09274,
+    "geom:longitude":-67.16212,
+    "gn:admin1_code":"023",
+    "gn:admin2_code":"7268657",
+    "gn:asciiname":"Parabueyon",
+    "gn:country_code":"PR",
+    "gn:dem":40,
+    "gn:elevation":"33.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566503,
+    "gn:latitude":18.09274,
+    "gn:longitude":-67.16212,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Parabuey\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566503
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"364e84ddcdac4cd367bbc4a81ca7e8c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080409,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1309748783,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1309748783,
+    "wof:lastmodified":1537012546,
+    "wof:name":"Parabueyon",
+    "wof:parent_id":102080409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.16212,
+    18.09274,
+    -67.16212,
+    18.09274
+],
+  "geometry": {"coordinates":[-67.16212,18.09274],"type":"Point"}
+}

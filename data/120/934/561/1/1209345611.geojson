@@ -1,0 +1,63 @@
+{
+  "id": 1209345611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.25017,18.38773,-66.25017,18.38773",
+    "geom:latitude":18.38773,
+    "geom:longitude":-66.25017,
+    "gn:admin1_code":"135",
+    "gn:admin2_code":"7268105",
+    "gn:asciiname":"Reparto Diaz",
+    "gn:country_code":"PR",
+    "gn:dem":29,
+    "gn:elevation":"27.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4567606,
+    "gn:latitude":18.38773,
+    "gn:longitude":-66.25017,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Reparto Diaz",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567606
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"af5ec8905672c957814e10a028781aed",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209345611
+        }
+    ],
+    "wof:id":1209345611,
+    "wof:lastmodified":1536289922,
+    "wof:name":"Reparto Diaz",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.25017,
+    18.38773,
+    -66.25017,
+    18.38773
+],
+  "geometry": {"coordinates":[-66.25017,18.38773],"type":"Point"}
+}

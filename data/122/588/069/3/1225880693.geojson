@@ -1,0 +1,72 @@
+{
+  "id": 1225880693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.82016,18.14857,-65.82016,18.14857",
+    "geom:latitude":18.14857,
+    "geom:longitude":-65.82016,
+    "gn:admin1_code":"069",
+    "gn:admin2_code":"7268486",
+    "gn:asciiname":"Gomez",
+    "gn:country_code":"PR",
+    "gn:dem":20,
+    "gn:elevation":"16.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565068,
+    "gn:latitude":18.14857,
+    "gn:longitude":-65.82016,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Gomez",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565068
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"07aa2e25faac62d35ba34b6f4af880db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080351,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1225880693,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1225880693,
+    "wof:lastmodified":1536963074,
+    "wof:name":"Gomez",
+    "wof:parent_id":102080351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.82016,
+    18.14857,
+    -65.82016,
+    18.14857
+],
+  "geometry": {"coordinates":[-65.82016,18.14857],"type":"Point"}
+}

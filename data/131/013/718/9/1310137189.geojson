@@ -1,0 +1,72 @@
+{
+  "id": 1310137189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.18768,18.29773,-67.18768,18.29773",
+    "geom:latitude":18.29773,
+    "geom:longitude":-67.18768,
+    "gn:admin1_code":"011",
+    "gn:admin2_code":"7268451",
+    "gn:asciiname":"Hacienda Eugenia",
+    "gn:country_code":"PR",
+    "gn:dem":9,
+    "gn:elevation":"5.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565197,
+    "gn:latitude":18.29773,
+    "gn:longitude":-67.18768,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda Eugenia",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565197
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"a787923760760583e40e1128d248db09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080323,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1310137189,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1310137189,
+    "wof:lastmodified":1536951066,
+    "wof:name":"Hacienda Eugenia",
+    "wof:parent_id":102080323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.18768,
+    18.29773,
+    -67.18768,
+    18.29773
+],
+  "geometry": {"coordinates":[-67.18768,18.29773],"type":"Point"}
+}

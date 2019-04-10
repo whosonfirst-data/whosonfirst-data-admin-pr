@@ -1,0 +1,72 @@
+{
+  "id": 1209746919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.49934,18.41439,-66.49934,18.41439",
+    "geom:latitude":18.41439,
+    "geom:longitude":-66.49934,
+    "gn:admin1_code":"091",
+    "gn:admin2_code":"7268893",
+    "gn:asciiname":"Jardines de Monaco",
+    "gn:country_code":"PR",
+    "gn:dem":11,
+    "gn:elevation":"11.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565658,
+    "gn:latitude":18.41439,
+    "gn:longitude":-66.49934,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Jardines de Monaco",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565658
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"ae210dafce0a1ca18f1218f949c1fbfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080271,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1209746919,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1209746919,
+    "wof:lastmodified":1536394556,
+    "wof:name":"Jardines de Monaco",
+    "wof:parent_id":102080271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.49934,
+    18.41439,
+    -66.49934,
+    18.41439
+],
+  "geometry": {"coordinates":[-66.49934,18.41439],"type":"Point"}
+}

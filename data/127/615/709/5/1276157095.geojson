@@ -1,0 +1,72 @@
+{
+  "id": 1276157095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.63572,18.32968,-65.63572,18.32968",
+    "geom:latitude":18.32968,
+    "geom:longitude":-65.63572,
+    "gn:admin1_code":"053",
+    "gn:admin2_code":"7268385",
+    "gn:asciiname":"Valle Puerto Real",
+    "gn:country_code":"PR",
+    "gn:dem":15,
+    "gn:elevation":"38.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568508,
+    "gn:latitude":18.32968,
+    "gn:longitude":-65.63572,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Valle Puerto Real",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568508
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"5eefc378bdcb82c04da00317d7a40ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080287,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1276157095,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1276157095,
+    "wof:lastmodified":1537014241,
+    "wof:name":"Valle Puerto Real",
+    "wof:parent_id":102080287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.63571999999999,
+    18.32968,
+    -65.63571999999999,
+    18.32968
+],
+  "geometry": {"coordinates":[-65.63571999999999,18.32968],"type":"Point"}
+}

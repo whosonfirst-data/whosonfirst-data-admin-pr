@@ -1,0 +1,72 @@
+{
+  "id": 1276588913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.99268,18.33912,-66.99268,18.33912",
+    "geom:latitude":18.33912,
+    "geom:longitude":-66.99268,
+    "gn:admin1_code":"131",
+    "gn:admin2_code":"7268220",
+    "gn:asciiname":"Reparto Roman",
+    "gn:country_code":"PR",
+    "gn:dem":72,
+    "gn:elevation":"68.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4567618,
+    "gn:latitude":18.33912,
+    "gn:longitude":-66.99268,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Reparto Roman",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567618
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"d91f702cd4d061ac71a0e9b42dccd51e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080411,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1276588913,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1276588913,
+    "wof:lastmodified":1536934373,
+    "wof:name":"Reparto Roman",
+    "wof:parent_id":102080411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.99268000000001,
+    18.33912,
+    -66.99268000000001,
+    18.33912
+],
+  "geometry": {"coordinates":[-66.99268000000001,18.33912],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209348957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.30045,17.96247,-66.30045,17.96247",
+    "geom:latitude":17.96247,
+    "geom:longitude":-66.30045,
+    "gn:admin1_code":"133",
+    "gn:asciiname":"Playa de Salinas",
+    "gn:country_code":"PR",
+    "gn:dem":1,
+    "gn:elevation":"1.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566805,
+    "gn:latitude":17.96247,
+    "gn:longitude":-66.30045,
+    "gn:modification_date":"2007-02-16",
+    "gn:name":"Playa de Salinas",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Playa Salinas",
+        "Desembarcadero Salinas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566805
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"573a9b3f68d3f062e097b8ef9be006c7",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209348957
+        }
+    ],
+    "wof:id":1209348957,
+    "wof:lastmodified":1537683118,
+    "wof:name":"Playa de Salinas",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.30045,
+    17.96247,
+    -66.30045,
+    17.96247
+],
+  "geometry": {"coordinates":[-66.30045,17.96247],"type":"Point"}
+}

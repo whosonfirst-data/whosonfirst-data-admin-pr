@@ -1,0 +1,72 @@
+{
+  "id": 1243584697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.54045,18.44661,-66.54045,18.44661",
+    "geom:latitude":18.44661,
+    "geom:longitude":-66.54045,
+    "gn:admin1_code":"017",
+    "gn:admin2_code":"7268394",
+    "gn:asciiname":"Sector Abra de Pimiento",
+    "gn:country_code":"PR",
+    "gn:dem":39,
+    "gn:elevation":"25.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568265,
+    "gn:latitude":18.44661,
+    "gn:longitude":-66.54045,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Sector Abra de Pimiento",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568265
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"63f0f8038af898d75f93221cb1ba795d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080375,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1243584697,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1243584697,
+    "wof:lastmodified":1536603360,
+    "wof:name":"Sector Abra de Pimiento",
+    "wof:parent_id":102080375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.54045,
+    18.44661,
+    -66.54045,
+    18.44661
+],
+  "geometry": {"coordinates":[-66.54045000000001,18.44661],"type":"Point"}
+}

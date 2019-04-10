@@ -1,0 +1,127 @@
+{
+  "id": 1126076059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.04989,18.39745,-66.04989,18.39745",
+    "geom:latitude":18.39745,
+    "geom:longitude":-66.04989,
+    "gn:elevation":33,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PR",
+    "lbl:latitude":18.39745,
+    "lbl:longitude":-66.04989,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "R\u00edo Piedras"
+    ],
+    "name:deu_x_preferred":[
+        "R\u00edo Piedras"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00edo Piedras"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00edo Piedras"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc624\ud53c\uc5d0\ub4dc\ub77c\uc2a4"
+    ],
+    "name:por_x_preferred":[
+        "R\u00edo Piedras"
+    ],
+    "name:spa_x_preferred":[
+        "Rio Piedras",
+        "R\u00edo Piedras"
+    ],
+    "name:spa_x_variant":[
+        "Riopiedras"
+    ],
+    "name:unk_x_variant":[
+        "Rio Piedras"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4829037,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rio Piedras",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"San Juan",
+    "qs_pg:photos":252,
+    "qs_pg:photos_1k":51,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":252,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":956742,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":24551048,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"San Juan",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85633729,
+        102191575,
+        101919427,
+        136253057,
+        102080441,
+        85687331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4829037,
+        "gp:id":24551048,
+        "qs:id":956742,
+        "qs_pg:id":956742,
+        "wd:id":"Q683206",
+        "wk:page":"R\u00edo Piedras, Puerto Rico"
+    },
+    "wof:country":"PR",
+    "wof:created":1497311042,
+    "wof:geomhash":"3ec7a1cb1c5741cae60d2e8a797f2316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919427,
+            "neighbourhood_id":1126076059,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1126076059,
+    "wof:lastmodified":1534379437,
+    "wof:name":"Rio Piedras",
+    "wof:parent_id":101919427,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85866321
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.04989,
+    18.39745,
+    -66.04989,
+    18.39745
+],
+  "geometry": {"coordinates":[-66.04989,18.39745],"type":"Point"}
+}

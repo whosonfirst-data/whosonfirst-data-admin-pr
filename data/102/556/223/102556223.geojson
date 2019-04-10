@@ -1,0 +1,115 @@
+{
+  "id": 102556223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":61776.010706,
+    "geom:bbox":"-66.101128,18.456018,-66.095665,18.458166",
+    "geom:latitude":18.456996,
+    "geom:longitude":-66.098137,
+    "iso:country":"US",
+    "lbl:latitude":18.456896,
+    "lbl:longitude":-66.097951,
+    "mps:latitude":18.456896,
+    "mps:longitude":-66.097951,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Isla Grande Airport"
+    ],
+    "name:eng_x_variant":[
+        "SIG",
+        "TJIG",
+        "Fernando Luis Ribas Dominicci Airport"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a7\u30eb\u30ca\u30f3\u30c9\u30fb\u30eb\u30a4\u30b9\u30fb\u30ea\u30d0\u30b9\u30fb\u30c9\u30df\u30cb\u30af\u30b7\u7a7a\u6e2f"
+    ],
+    "name:mar_x_preferred":[
+        "\u092b\u0930\u094d\u0928\u093e\u0902\u0921\u094b \u0932\u0941\u0907\u0938 \u0930\u093f\u092c\u093e\u0938 \u0926\u0949\u092e\u093f\u0928\u093f\u091a\u0940 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Fernando Luis Ribas Dominicci"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0631\u0646\u0627\u0646\u062f\u0648 \u0644\u0648\u06cc\u06cc\u0633 \u0631\u06cc\u0628\u0627\u0633 \u062f\u0648\u0645\u06cc\u0646\u06cc\u0633\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Fernando Luis Ribas Dominicci"
+    ],
+    "name:slo_x_preferred":[
+        "Letisko Isla Grande"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Fernando Luis Ribas Dominicci"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0444\u0440\u043d\u043e\u043d\u0434\u0443 \u043b\u04ef\u0439\u0435\u0441 \u0440\u0438\u0431\u043e\u0441 \u0434\u0443\u043c\u0438\u043d\u0438\u0441\u0438"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424935,
+        "county_id":26806705,
+        "planet_id":1,
+        "state_id":2346815
+    },
+    "wof:belongsto":[
+        85633729,
+        85859555,
+        102191575,
+        101919427,
+        136253057,
+        102080441,
+        85687331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"SIG",
+        "gp:id":12515661,
+        "iata:code":"SIG",
+        "icao:code":"TJIG",
+        "oa:id":"6381",
+        "wd:id":"Q5444795",
+        "wk:page":"Fernando_Luis_Ribas_Dominicci_Airport"
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"d1608db4da72dbe28bfb3a38fefe01f9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556223,
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919427,
+            "neighbourhood_id":85859555,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":102556223,
+    "wof:lastmodified":1553816326,
+    "wof:name":"Isla Grande Airport",
+    "wof:parent_id":85859555,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -66.101128,
+    18.456018,
+    -66.095665,
+    18.458166
+],
+  "geometry": {"coordinates":[[[[-66.09773300000001,18.456018],[-66.098213,18.456161],[-66.101128,18.456244],[-66.099243,18.457302],[-66.096504,18.458166],[-66.095665,18.457947],[-66.09773300000001,18.456018]]]],"type":"MultiPolygon"}
+}

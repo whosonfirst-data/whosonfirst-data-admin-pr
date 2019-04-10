@@ -1,0 +1,111 @@
+{
+  "id": 85866287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3369773.170691,
+    "geom:bbox":"-66.120636,18.390306,-66.120636,18.390306",
+    "geom:latitude":18.390306,
+    "geom:longitude":-66.120636,
+    "gn:elevation":86,
+    "iso:country":"PR",
+    "lbl:latitude":18.390306,
+    "lbl:longitude":-66.120636,
+    "mps:latitude":18.388905,
+    "mps:longitude":-66.119525,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Prado Alto"
+    ],
+    "name:unk_x_variant":[
+        "Colonia Palo Alto",
+        "Prado Alto"
+    ],
+    "qs:gn_adm0_cc":"PR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":4568220,
+    "qs:gn_nam_loc":"aguacate",
+    "qs:gn_namadm1":"091",
+    "qs:gn_name":"Palo Alto",
+    "qs:local_max":29505,
+    "qs:local_sum":50313,
+    "qs:localhoods":63,
+    "qs:name":"Prado Alto",
+    "qs:name_adm0":"Puerto Rico",
+    "qs:name_adm1":"Guaynabo",
+    "qs:name_adm2":"Pueblo Viejo",
+    "qs:name_local":"San Juan",
+    "qs:photo_max":16,
+    "qs:photo_sum":32,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424935,
+    "qs:woe_adm1":2346814,
+    "qs:woe_adm2":26806312,
+    "qs:woe_lau":0,
+    "qs:woe_local":161685,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        101919293,
+        136253057,
+        102080365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566489,
+        "gp:id":24550990,
+        "qs:id":503558
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"9fab5dbc1a28c28b6b609c8807d7cb55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080365,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919293,
+            "neighbourhood_id":85866287,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":85866287,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531871153,
+    "wof:name":"Prado Alto",
+    "wof:parent_id":101919293,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.120636,
+    18.390306,
+    -66.120636,
+    18.390306
+],
+  "geometry": {"coordinates":[-66.120636,18.390306],"type":"Point"}
+}

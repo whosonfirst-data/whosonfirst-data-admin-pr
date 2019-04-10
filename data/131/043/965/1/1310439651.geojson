@@ -1,0 +1,72 @@
+{
+  "id": 1310439651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.84377,18.383,-65.84377,18.383",
+    "geom:latitude":18.383,
+    "geom:longitude":-65.84377,
+    "gn:admin1_code":"119",
+    "gn:admin2_code":"7268083",
+    "gn:asciiname":"Villas de Rio Grande",
+    "gn:country_code":"PR",
+    "gn:dem":6,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568693,
+    "gn:latitude":18.383,
+    "gn:longitude":-65.84377,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Villas de Rio Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568693
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"3a16fd7dc3a023c8f42117fd4f2dd42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080399,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1310439651,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1310439651,
+    "wof:lastmodified":1537011292,
+    "wof:name":"Villas de Rio Grande",
+    "wof:parent_id":102080399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.84376999999999,
+    18.383,
+    -65.84376999999999,
+    18.383
+],
+  "geometry": {"coordinates":[-65.84376999999999,18.383],"type":"Point"}
+}

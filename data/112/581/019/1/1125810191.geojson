@@ -1,0 +1,102 @@
+{
+  "id": 1125810191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.391,18.2269,-66.391,18.2269",
+    "geom:latitude":18.2269,
+    "geom:longitude":-66.391,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":944,
+    "gn:population":944,
+    "iso:country":"PR",
+    "lbl:latitude":18.2269,
+    "lbl:longitude":-66.391,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Barros"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4566454,
+    "qs_pg:gn_pop":944,
+    "qs_pg:name":"Orocovis",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Orocovis",
+    "qs_pg:photos":226,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":226,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":228620,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":161490,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Orocovis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566454,
+        "gp:id":161490,
+        "qs_pg:id":228620
+    },
+    "wof:country":"PR",
+    "wof:created":1497291624,
+    "wof:geomhash":"0d985110820b4f36502b85c5ce0d73c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080427,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125810191,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125810191,
+    "wof:lastmodified":1534379441,
+    "wof:name":"Orocovis",
+    "wof:parent_id":102080427,
+    "wof:placetype":"locality",
+    "wof:population":944,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[
+        101918993
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.391,
+    18.2269,
+    -66.391,
+    18.2269
+],
+  "geometry": {"coordinates":[-66.39100000000001,18.2269],"type":"Point"}
+}

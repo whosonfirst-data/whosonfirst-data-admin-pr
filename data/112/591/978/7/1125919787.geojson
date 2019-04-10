@@ -1,0 +1,139 @@
+{
+  "id": 1125919787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.14629,18.29328,-67.14629,18.29328",
+    "geom:latitude":18.29328,
+    "geom:longitude":-67.14629,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1823,
+    "gn:population":1823,
+    "iso:country":"PR",
+    "lbl:latitude":18.29328,
+    "lbl:longitude":-67.14629,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u09b2\u09be\u09b8 \u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Las Mar\u00edas"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u65af\u746a\u9e97\u4e9e\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Las Mar\u00edas"
+    ],
+    "name:eng_x_preferred":[
+        "Las Mar\u00edas"
+    ],
+    "name:fre_x_preferred":[
+        "Las Mar\u00edas"
+    ],
+    "name:ita_x_preferred":[
+        "Las Mar\u00edas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30de\u30ea\u30a2\u30b9"
+    ],
+    "name:por_x_preferred":[
+        "Las Mar\u00edas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Mar\u00edas"
+    ],
+    "name:srp_x_preferred":[
+        "Las Mar\u00edas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0441-\u041c\u0430\u0440\u0456\u0430\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Comunidad Marias"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0645\u0627\u0631\u06cc\u0627\u0633\u060c \u067e\u0648\u06cc\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Las Mar\u00edas"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4565956,
+    "qs_pg:gn_pop":1823,
+    "qs_pg:name":"Las Marias",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Las Mar\u00edas",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1117786,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":161339,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Las Mar\u00edas",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565956,
+        "gp:id":161339,
+        "qs_pg:id":1117786,
+        "wd:id":"Q2485590"
+    },
+    "wof:country":"PR",
+    "wof:created":1497296440,
+    "wof:geomhash":"2e6bef969ebf964555682e4876b82b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080323,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125919787,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125919787,
+    "wof:lastmodified":1514497723,
+    "wof:name":"Las Marias",
+    "wof:parent_id":102080323,
+    "wof:placetype":"locality",
+    "wof:population":1823,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.14629,
+    18.29328,
+    -67.14629,
+    18.29328
+],
+  "geometry": {"coordinates":[-67.14628999999999,18.29328],"type":"Point"}
+}

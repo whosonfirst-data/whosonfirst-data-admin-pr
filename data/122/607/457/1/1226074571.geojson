@@ -1,0 +1,72 @@
+{
+  "id": 1226074571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.51323,18.29579,-66.51323,18.29579",
+    "geom:latitude":18.29579,
+    "geom:longitude":-66.51323,
+    "gn:admin1_code":"039",
+    "gn:admin2_code":"7268751",
+    "gn:asciiname":"Hacienda Penonales",
+    "gn:country_code":"PR",
+    "gn:dem":302,
+    "gn:elevation":"296.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565277,
+    "gn:latitude":18.29579,
+    "gn:longitude":-66.51323,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda Pe\u00f1onales",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565277
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"5d1d9bae010cad44a674a51f551c2f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080317,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1226074571,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1226074571,
+    "wof:lastmodified":1536683684,
+    "wof:name":"Hacienda Penonales",
+    "wof:parent_id":102080317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.51323000000001,
+    18.29579,
+    -66.51323000000001,
+    18.29579
+],
+  "geometry": {"coordinates":[-66.51323000000001,18.29579],"type":"Point"}
+}

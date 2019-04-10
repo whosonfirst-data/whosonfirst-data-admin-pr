@@ -1,0 +1,63 @@
+{
+  "id": 1209136659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.04517,18.40134,-66.04517,18.40134",
+    "geom:latitude":18.40134,
+    "geom:longitude":-66.04517,
+    "gn:admin1_code":"127",
+    "gn:admin2_code":"7268790",
+    "gn:asciiname":"Delicias",
+    "gn:country_code":"PR",
+    "gn:dem":24,
+    "gn:elevation":"25.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4564098,
+    "gn:latitude":18.40134,
+    "gn:longitude":-66.04517,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Delicias",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564098
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"07a93044ea314a3470152f7301b54238",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209136659
+        }
+    ],
+    "wof:id":1209136659,
+    "wof:lastmodified":1536296638,
+    "wof:name":"Delicias",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.04517,
+    18.40134,
+    -66.04517,
+    18.40134
+],
+  "geometry": {"coordinates":[-66.04517,18.40134],"type":"Point"}
+}

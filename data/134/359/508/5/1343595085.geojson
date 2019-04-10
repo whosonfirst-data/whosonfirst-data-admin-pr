@@ -1,0 +1,72 @@
+{
+  "id": 1343595085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.12101,18.27579,-67.12101,18.27579",
+    "geom:latitude":18.27579,
+    "geom:longitude":-67.12101,
+    "gn:admin1_code":"011",
+    "gn:admin2_code":"7268378",
+    "gn:asciiname":"Josefa",
+    "gn:country_code":"PR",
+    "gn:dem":28,
+    "gn:elevation":"20.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565702,
+    "gn:latitude":18.27579,
+    "gn:longitude":-67.12101,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Josefa",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565702
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"939620ee864bb573907b9226c4c59bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080323,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343595085,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343595085,
+    "wof:lastmodified":1537047441,
+    "wof:name":"Josefa",
+    "wof:parent_id":102080323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.12101,
+    18.27579,
+    -67.12101,
+    18.27579
+],
+  "geometry": {"coordinates":[-67.12101,18.27579],"type":"Point"}
+}

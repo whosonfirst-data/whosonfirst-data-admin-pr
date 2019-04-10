@@ -1,0 +1,63 @@
+{
+  "id": 1209546713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.06294,18.2219,-66.06294,18.2219",
+    "geom:latitude":18.2219,
+    "geom:longitude":-66.06294,
+    "gn:admin1_code":"025",
+    "gn:admin2_code":"7268314",
+    "gn:asciiname":"Villa Caliz",
+    "gn:country_code":"PR",
+    "gn:dem":103,
+    "gn:elevation":"93.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568594,
+    "gn:latitude":18.2219,
+    "gn:longitude":-66.06294,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Villa Caliz",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568594
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"ec28adcfb37a89115e965e5822e3cb5d",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209546713
+        }
+    ],
+    "wof:id":1209546713,
+    "wof:lastmodified":1536283821,
+    "wof:name":"Villa Caliz",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.06294,
+    18.2219,
+    -66.06294,
+    18.2219
+],
+  "geometry": {"coordinates":[-66.06294,18.2219],"type":"Point"}
+}

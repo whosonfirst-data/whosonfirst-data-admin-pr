@@ -1,0 +1,71 @@
+{
+  "id": 1259814049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.09195,18.41556,-66.09195,18.41556",
+    "geom:latitude":18.41556,
+    "geom:longitude":-66.09195,
+    "gn:admin1_code":"061",
+    "gn:asciiname":"Puerto Nuevo Norte",
+    "gn:country_code":"PR",
+    "gn:dem":8,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7269366,
+    "gn:latitude":18.41556,
+    "gn:longitude":-66.09195,
+    "gn:modification_date":"2010-02-07",
+    "gn:name":"Puerto Nuevo Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7269366
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"af1c433fd01ed2c0773cf7dee3c13144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1259814049,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1259814049,
+    "wof:lastmodified":1536878563,
+    "wof:name":"Puerto Nuevo Norte",
+    "wof:parent_id":102080441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.09195,
+    18.41556,
+    -66.09195,
+    18.41556
+],
+  "geometry": {"coordinates":[-66.09195,18.41556],"type":"Point"}
+}

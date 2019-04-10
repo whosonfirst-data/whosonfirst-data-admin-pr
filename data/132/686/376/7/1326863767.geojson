@@ -1,0 +1,72 @@
+{
+  "id": 1326863767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.70684,18.26468,-66.70684,18.26468",
+    "geom:latitude":18.26468,
+    "geom:longitude":-66.70684,
+    "gn:admin1_code":"141",
+    "gn:admin2_code":"7269060",
+    "gn:asciiname":"El Guano",
+    "gn:country_code":"PR",
+    "gn:dem":147,
+    "gn:elevation":"151.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4564199,
+    "gn:latitude":18.26468,
+    "gn:longitude":-66.70684,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"El Guano",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564199
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"c1f1818373ac602152033b3094243859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080433,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1326863767,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1326863767,
+    "wof:lastmodified":1537002567,
+    "wof:name":"El Guano",
+    "wof:parent_id":102080433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.70684,
+    18.26468,
+    -66.70684,
+    18.26468
+],
+  "geometry": {"coordinates":[-66.70684,18.26468],"type":"Point"}
+}

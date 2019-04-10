@@ -1,0 +1,79 @@
+{
+  "id": 101919167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":125963.884143,
+    "geom:bbox":"-66.042214,18.171334,-66.038927,18.17644",
+    "geom:latitude":18.173854,
+    "geom:longitude":-66.04062,
+    "gn:elevation":124,
+    "iso:country":"PR",
+    "lbl:latitude":18.173832,
+    "lbl:longitude":-66.040589,
+    "mps:latitude":18.173832,
+    "mps:longitude":-66.040589,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Puerto Rico",
+    "qs:a1":"*Puerto Rico",
+    "qs:a1_lc":"72",
+    "qs:a1r":"*",
+    "qs:adm0":"Puerto Rico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Parcelas Viejas Borinquen",
+    "qs:loc_alt":"Parcelas Viejas Borinquen comunidad",
+    "qs:loc_lc":"7259450",
+    "qs:pop":0,
+    "qs:source":"IUS Census",
+    "qs:type":"G4210",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7315447,
+        "gp:id":55869997
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"cd9fae9df029b65092bcf430c2f52cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080425,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919167,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":101919167,
+    "wof:lastmodified":1509998588,
+    "wof:name":"Parcelas Viejas Borinquen",
+    "wof:parent_id":102080425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.042214,
+    18.171334,
+    -66.038927,
+    18.17644
+],
+  "geometry": {"coordinates":[[[-66.04169400000001,18.176426],[-66.041546,18.17644],[-66.04097,18.176157],[-66.04028700000001,18.175816],[-66.040132,18.175622],[-66.040037,18.175366],[-66.039957,18.175298],[-66.039613,18.175138],[-66.03931900000001,18.175056],[-66.038927,18.174987],[-66.03912,18.173854],[-66.03956700000001,18.171556],[-66.03960600000001,18.171334],[-66.039704,18.171423],[-66.03984,18.171479],[-66.04014100000001,18.171603],[-66.040525,18.171855],[-66.041042,18.172106],[-66.041636,18.17221],[-66.042214,18.172305],[-66.04201500000001,18.173639],[-66.04194,18.174274],[-66.04178,18.17504],[-66.041769,18.175666],[-66.04169400000001,18.176426]]],"type":"Polygon"}
+}

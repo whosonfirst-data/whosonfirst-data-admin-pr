@@ -1,0 +1,75 @@
+{
+  "id": 1343497471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.14962,18.1644,-67.14962,18.1644",
+    "geom:latitude":18.1644,
+    "geom:longitude":-67.14962,
+    "gn:admin1_code":"097",
+    "gn:admin2_code":"7268421",
+    "gn:asciiname":"Segundo Castillo",
+    "gn:country_code":"PR",
+    "gn:dem":18,
+    "gn:elevation":"14.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568305,
+    "gn:latitude":18.1644,
+    "gn:longitude":-67.14962,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Segundo Castillo",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guanajiro Castilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568305
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"502b6988f30970ea84fbc969d748c659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080311,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343497471,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343497471,
+    "wof:lastmodified":1537683119,
+    "wof:name":"Segundo Castillo",
+    "wof:parent_id":102080311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.14962,
+    18.1644,
+    -67.14962,
+    18.1644
+],
+  "geometry": {"coordinates":[-67.14962,18.1644],"type":"Point"}
+}

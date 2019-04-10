@@ -1,0 +1,63 @@
+{
+  "id": 1209040813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.06017,18.21912,-66.06017,18.21912",
+    "geom:latitude":18.21912,
+    "geom:longitude":-66.06017,
+    "gn:admin1_code":"025",
+    "gn:admin2_code":"7268314",
+    "gn:asciiname":"Villa Hermosa",
+    "gn:country_code":"PR",
+    "gn:dem":104,
+    "gn:elevation":"103.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568620,
+    "gn:latitude":18.21912,
+    "gn:longitude":-66.06017,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Villa Hermosa",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568620
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"14cf8b403ce69aa66b672f95bcebb08a",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209040813
+        }
+    ],
+    "wof:id":1209040813,
+    "wof:lastmodified":1536299552,
+    "wof:name":"Villa Hermosa",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.06017,
+    18.21912,
+    -66.06017,
+    18.21912
+],
+  "geometry": {"coordinates":[-66.06017,18.21912],"type":"Point"}
+}

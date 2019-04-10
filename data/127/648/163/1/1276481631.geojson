@@ -1,0 +1,72 @@
+{
+  "id": 1276481631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.83889,18.3789,-65.83889,18.3789",
+    "geom:latitude":18.3789,
+    "geom:longitude":-65.83889,
+    "gn:admin1_code":"119",
+    "gn:admin2_code":"7268083",
+    "gn:asciiname":"Rio Grande Zona Urbana",
+    "gn:country_code":"PR",
+    "gn:dem":20,
+    "gn:elevation":"20.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7276382,
+    "gn:latitude":18.3789,
+    "gn:longitude":-65.83889,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"R\u00edo Grande Zona Urbana",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7276382
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"f07d84c324a2bb4ca6ca591329f3ebec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080399,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1276481631,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1276481631,
+    "wof:lastmodified":1537074065,
+    "wof:name":"Rio Grande Zona Urbana",
+    "wof:parent_id":102080399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.83889,
+    18.3789,
+    -65.83889,
+    18.3789
+],
+  "geometry": {"coordinates":[-65.83889000000001,18.3789],"type":"Point"}
+}

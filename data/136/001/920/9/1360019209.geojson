@@ -1,0 +1,72 @@
+{
+  "id": 1360019209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.27329,18.3482,-66.27329,18.3482",
+    "geom:latitude":18.3482,
+    "geom:longitude":-66.27329,
+    "gn:admin1_code":"135",
+    "gn:admin2_code":"7268844",
+    "gn:asciiname":"H. Rivera Colon Comunidad",
+    "gn:country_code":"PR",
+    "gn:dem":133,
+    "gn:elevation":"132.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7275068,
+    "gn:latitude":18.3482,
+    "gn:longitude":-66.27329,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"H. Rivera Col\u00f3n Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7275068
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"de15b0f82dcdf0b1c2b9a8b69464a215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080359,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1360019209,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1360019209,
+    "wof:lastmodified":1537039058,
+    "wof:name":"H. Rivera Colon Comunidad",
+    "wof:parent_id":102080359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.27329,
+    18.3482,
+    -66.27329,
+    18.3482
+],
+  "geometry": {"coordinates":[-66.27329,18.3482],"type":"Point"}
+}

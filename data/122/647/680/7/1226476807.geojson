@@ -1,0 +1,72 @@
+{
+  "id": 1226476807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.52184,18.23579,-66.52184,18.23579",
+    "geom:latitude":18.23579,
+    "geom:longitude":-66.52184,
+    "gn:admin1_code":"039",
+    "gn:admin2_code":"7268074",
+    "gn:asciiname":"Casa Blanca",
+    "gn:country_code":"PR",
+    "gn:dem":585,
+    "gn:elevation":"584.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4563254,
+    "gn:latitude":18.23579,
+    "gn:longitude":-66.52184,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Casa Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4563254
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"9a8085ab7d01ef53a1a080e9213e1cdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080317,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1226476807,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1226476807,
+    "wof:lastmodified":1537094159,
+    "wof:name":"Casa Blanca",
+    "wof:parent_id":102080317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.52184,
+    18.23579,
+    -66.52184,
+    18.23579
+],
+  "geometry": {"coordinates":[-66.52184,18.23579],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309840503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.87516,18.42856,-65.87516,18.42856",
+    "geom:latitude":18.42856,
+    "geom:longitude":-65.87516,
+    "gn:admin1_code":"087",
+    "gn:admin2_code":"7268648",
+    "gn:asciiname":"Palmarenas",
+    "gn:country_code":"PR",
+    "gn:dem":3,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566480,
+    "gn:latitude":18.42856,
+    "gn:longitude":-65.87516,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Palmarenas",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566480
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"3f251674e1cffee45127dcd4387c05dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080363,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1309840503,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1309840503,
+    "wof:lastmodified":1536880361,
+    "wof:name":"Palmarenas",
+    "wof:parent_id":102080363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.87516,
+    18.42856,
+    -65.87516,
+    18.42856
+],
+  "geometry": {"coordinates":[-65.87515999999999,18.42856],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1292942579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.1035,18.26023,-66.1035,18.26023",
+    "geom:latitude":18.26023,
+    "geom:longitude":-66.1035,
+    "gn:admin1_code":"007",
+    "gn:admin2_code":"7268221",
+    "gn:asciiname":"Residencial Espiritu Santo",
+    "gn:country_code":"PR",
+    "gn:dem":243,
+    "gn:elevation":"243.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4567658,
+    "gn:latitude":18.26023,
+    "gn:longitude":-66.1035,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Residencial Espiritu Santo",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567658
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"5287252ad8923143c0311f6088fe56a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080321,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1292942579,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1292942579,
+    "wof:lastmodified":1537072421,
+    "wof:name":"Residencial Espiritu Santo",
+    "wof:parent_id":102080321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.1035,
+    18.26023,
+    -66.1035,
+    18.26023
+],
+  "geometry": {"coordinates":[-66.1035,18.26023],"type":"Point"}
+}

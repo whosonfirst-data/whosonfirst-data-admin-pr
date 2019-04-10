@@ -1,0 +1,62 @@
+{
+  "id": 1209449695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.78795,18.01885,-66.78795,18.01885",
+    "geom:latitude":18.01885,
+    "geom:longitude":-66.78795,
+    "gn:admin1_code":"153",
+    "gn:asciiname":"Residencial Padre Nazario",
+    "gn:country_code":"PR",
+    "gn:dem":15,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4050330,
+    "gn:latitude":18.01885,
+    "gn:longitude":-66.78795,
+    "gn:modification_date":"2007-02-16",
+    "gn:name":"Residencial Padre Nazario",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4050330
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"09837dc3bda6f90882a92eebe5a8f4e4",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209449695
+        }
+    ],
+    "wof:id":1209449695,
+    "wof:lastmodified":1536286710,
+    "wof:name":"Residencial Padre Nazario",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.78795,
+    18.01885,
+    -66.78795,
+    18.01885
+],
+  "geometry": {"coordinates":[-66.78795,18.01885],"type":"Point"}
+}

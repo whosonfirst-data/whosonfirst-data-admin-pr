@@ -1,0 +1,72 @@
+{
+  "id": 1327263127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.66184,18.40856,-66.66184,18.40856",
+    "geom:latitude":18.40856,
+    "geom:longitude":-66.66184,
+    "gn:admin1_code":"013",
+    "gn:admin2_code":"7268660",
+    "gn:asciiname":"Biafara",
+    "gn:country_code":"PR",
+    "gn:dem":179,
+    "gn:elevation":"174.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4562868,
+    "gn:latitude":18.40856,
+    "gn:longitude":-66.66184,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Bi\u00e1fara",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562868
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"2a023654e3d654303eccffe75134692b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080283,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1327263127,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1327263127,
+    "wof:lastmodified":1536926014,
+    "wof:name":"Biafara",
+    "wof:parent_id":102080283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.66184,
+    18.40856,
+    -66.66184,
+    18.40856
+],
+  "geometry": {"coordinates":[-66.66184,18.40856],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243007041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.54351,18.28745,-66.54351,18.28745",
+    "geom:latitude":18.28745,
+    "geom:longitude":-66.54351,
+    "gn:admin1_code":"039",
+    "gn:admin2_code":"7268401",
+    "gn:asciiname":"Hacienda Aldea",
+    "gn:country_code":"PR",
+    "gn:dem":343,
+    "gn:elevation":"340.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565131,
+    "gn:latitude":18.28745,
+    "gn:longitude":-66.54351,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda Aldea",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565131
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"aa68d24e17d8d9d436e75dafde8c35eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080317,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1243007041,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1243007041,
+    "wof:lastmodified":1536942664,
+    "wof:name":"Hacienda Aldea",
+    "wof:parent_id":102080317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.54351,
+    18.28745,
+    -66.54351,
+    18.28745
+],
+  "geometry": {"coordinates":[-66.54351,18.28745],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309840543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.59128,18.21746,-66.59128,18.21746",
+    "geom:latitude":18.21746,
+    "geom:longitude":-66.59128,
+    "gn:admin1_code":"073",
+    "gn:admin2_code":"7269074",
+    "gn:asciiname":"Vega Linda",
+    "gn:country_code":"PR",
+    "gn:dem":439,
+    "gn:elevation":"433.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568536,
+    "gn:latitude":18.21746,
+    "gn:longitude":-66.59128,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Vega Linda",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568536
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"c9e0a141b2853af38ce63ea875151bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080405,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1309840543,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1309840543,
+    "wof:lastmodified":1536880303,
+    "wof:name":"Vega Linda",
+    "wof:parent_id":102080405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.59128,
+    18.21746,
+    -66.59128,
+    18.21746
+],
+  "geometry": {"coordinates":[-66.59128,18.21746],"type":"Point"}
+}

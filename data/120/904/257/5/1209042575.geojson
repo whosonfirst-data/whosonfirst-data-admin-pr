@@ -1,0 +1,68 @@
+{
+  "id": 1209042575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.99739,18.41384,-65.99739,18.41384",
+    "geom:latitude":18.41384,
+    "geom:longitude":-65.99739,
+    "gn:admin1_code":"031",
+    "gn:admin2_code":"7268934",
+    "gn:asciiname":"Country Club Extension",
+    "gn:country_code":"PR",
+    "gn:dem":3,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4564031,
+    "gn:latitude":18.41384,
+    "gn:longitude":-65.99739,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Country Club Extension",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Extension Country Club",
+        "Campo Rico",
+        "Extension Campo Rico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564031
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"158e0c5a0966a5bac1c508e45c90e0d4",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209042575
+        }
+    ],
+    "wof:id":1209042575,
+    "wof:lastmodified":1537683113,
+    "wof:name":"Country Club Extension",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.99739,
+    18.41384,
+    -65.99739,
+    18.41384
+],
+  "geometry": {"coordinates":[-65.99739,18.41384],"type":"Point"}
+}

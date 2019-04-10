@@ -1,0 +1,72 @@
+{
+  "id": 1209950727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.54351,18.45217,-66.54351,18.45217",
+    "geom:latitude":18.45217,
+    "geom:longitude":-66.54351,
+    "gn:admin1_code":"017",
+    "gn:admin2_code":"7268408",
+    "gn:asciiname":"Sector Cerro Morales",
+    "gn:country_code":"PR",
+    "gn:dem":8,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568271,
+    "gn:latitude":18.45217,
+    "gn:longitude":-66.54351,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Sector Cerro Morales",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568271
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"a014edcf03292d9058cde34d4459600d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080375,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1209950727,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1209950727,
+    "wof:lastmodified":1536383906,
+    "wof:name":"Sector Cerro Morales",
+    "wof:parent_id":102080375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.54351,
+    18.45217,
+    -66.54351,
+    18.45217
+],
+  "geometry": {"coordinates":[-66.54351,18.45217],"type":"Point"}
+}

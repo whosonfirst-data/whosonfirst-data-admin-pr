@@ -1,0 +1,63 @@
+{
+  "id": 1209552457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.58823,18.00135,-66.58823,18.00135",
+    "geom:latitude":18.00135,
+    "geom:longitude":-66.58823,
+    "gn:admin1_code":"113",
+    "gn:admin2_code":"7268266",
+    "gn:asciiname":"Los Caobos",
+    "gn:country_code":"PR",
+    "gn:dem":18,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566050,
+    "gn:latitude":18.00135,
+    "gn:longitude":-66.58823,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Los Caobos",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566050
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"efa86cd4aa282edf8625953d05b5cedb",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209552457
+        }
+    ],
+    "wof:id":1209552457,
+    "wof:lastmodified":1536283649,
+    "wof:name":"Los Caobos",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.58823000000001,
+    18.00135,
+    -66.58823000000001,
+    18.00135
+],
+  "geometry": {"coordinates":[-66.58823000000001,18.00135],"type":"Point"}
+}

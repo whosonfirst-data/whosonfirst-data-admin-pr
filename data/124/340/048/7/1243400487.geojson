@@ -1,0 +1,72 @@
+{
+  "id": 1243400487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.64266,18.30273,-65.64266,18.30273",
+    "geom:latitude":18.30273,
+    "geom:longitude":-65.64266,
+    "gn:admin1_code":"053",
+    "gn:admin2_code":"7268863",
+    "gn:asciiname":"Luis Cintron",
+    "gn:country_code":"PR",
+    "gn:dem":39,
+    "gn:elevation":"24.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566095,
+    "gn:latitude":18.30273,
+    "gn:longitude":-65.64266,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Luis Cintr\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566095
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"9fcd9d268a675c18bac0b07b16f80c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080287,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1243400487,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1243400487,
+    "wof:lastmodified":1536870691,
+    "wof:name":"Luis Cintron",
+    "wof:parent_id":102080287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.64265999999999,
+    18.30273,
+    -65.64265999999999,
+    18.30273
+],
+  "geometry": {"coordinates":[-65.64265999999999,18.30273],"type":"Point"}
+}

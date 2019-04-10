@@ -1,0 +1,72 @@
+{
+  "id": 1293327715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.12824,18.47717,-67.12824,18.47717",
+    "geom:latitude":18.47717,
+    "geom:longitude":-67.12824,
+    "gn:admin1_code":"005",
+    "gn:admin2_code":"7268304",
+    "gn:asciiname":"Maleza",
+    "gn:country_code":"PR",
+    "gn:dem":81,
+    "gn:elevation":"79.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566132,
+    "gn:latitude":18.47717,
+    "gn:longitude":-67.12824,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Maleza",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566132
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"8efa1792dcbedd24e4192251e43613eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080275,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1293327715,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1293327715,
+    "wof:lastmodified":1537016692,
+    "wof:name":"Maleza",
+    "wof:parent_id":102080275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.12824,
+    18.47717,
+    -67.12824,
+    18.47717
+],
+  "geometry": {"coordinates":[-67.12824000000001,18.47717],"type":"Point"}
+}

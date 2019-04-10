@@ -1,0 +1,72 @@
+{
+  "id": 1260317433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.40323,18.32217,-66.40323,18.32217",
+    "geom:latitude":18.32217,
+    "geom:longitude":-66.40323,
+    "gn:admin1_code":"101",
+    "gn:admin2_code":"7268673",
+    "gn:asciiname":"Russe",
+    "gn:country_code":"PR",
+    "gn:dem":223,
+    "gn:elevation":"220.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568003,
+    "gn:latitude":18.32217,
+    "gn:longitude":-66.40323,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Russe",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568003
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"8a660bfe07359cfa8d79de8c410d9705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080401,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1260317433,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1260317433,
+    "wof:lastmodified":1536666487,
+    "wof:name":"Russe",
+    "wof:parent_id":102080401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.40323000000001,
+    18.32217,
+    -66.40323000000001,
+    18.32217
+],
+  "geometry": {"coordinates":[-66.40323000000001,18.32217],"type":"Point"}
+}

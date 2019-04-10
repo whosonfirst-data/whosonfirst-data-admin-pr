@@ -1,0 +1,72 @@
+{
+  "id": 1260010977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.03628,18.43439,-66.03628,18.43439",
+    "geom:latitude":18.43439,
+    "geom:longitude":-66.03628,
+    "gn:admin1_code":"127",
+    "gn:admin2_code":"7269002",
+    "gn:asciiname":"Residencial Las Margaritas",
+    "gn:country_code":"PR",
+    "gn:dem":3,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4567683,
+    "gn:latitude":18.43439,
+    "gn:longitude":-66.03628,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Residencial Las Margaritas",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567683
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"68ee1ad013010d15eda99a353baa2572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1260010977,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1260010977,
+    "wof:lastmodified":1537089208,
+    "wof:name":"Residencial Las Margaritas",
+    "wof:parent_id":102080441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.03628,
+    18.43439,
+    -66.03628,
+    18.43439
+],
+  "geometry": {"coordinates":[-66.03628,18.43439],"type":"Point"}
+}

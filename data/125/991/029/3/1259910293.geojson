@@ -1,0 +1,72 @@
+{
+  "id": 1259910293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.38961,18.01024,-66.38961,18.01024",
+    "geom:latitude":18.01024,
+    "geom:longitude":-66.38961,
+    "gn:admin1_code":"133",
+    "gn:admin2_code":"7268520",
+    "gn:asciiname":"Magueyes (historical)",
+    "gn:country_code":"PR",
+    "gn:dem":36,
+    "gn:elevation":"39.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":4566126,
+    "gn:latitude":18.01024,
+    "gn:longitude":-66.38961,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Magueyes (historical)",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566126
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"c05bcfc5ab1342b9f0e41813b3a4fe63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080335,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1259910293,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1259910293,
+    "wof:lastmodified":1536740477,
+    "wof:name":"Magueyes (historical)",
+    "wof:parent_id":102080335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.38961,
+    18.01024,
+    -66.38961,
+    18.01024
+],
+  "geometry": {"coordinates":[-66.38961,18.01024],"type":"Point"}
+}

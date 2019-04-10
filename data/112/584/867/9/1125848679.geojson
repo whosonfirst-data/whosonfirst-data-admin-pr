@@ -1,0 +1,144 @@
+{
+  "id": 1125848679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.2499,18.34023,-67.2499,18.34023",
+    "geom:latitude":18.34023,
+    "geom:longitude":-67.2499,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1499,
+    "gn:population":1499,
+    "iso:country":"PR",
+    "lbl:latitude":18.34023,
+    "lbl:longitude":-67.2499,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u09b0\u09bf\u0999\u09cd\u0995\u09cb\u09a8"
+    ],
+    "name:cat_x_preferred":[
+        "Rinc\u00f3n"
+    ],
+    "name:chi_x_preferred":[
+        "\u6797\u5b54"
+    ],
+    "name:dut_x_preferred":[
+        "Rinc\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "Rincon"
+    ],
+    "name:fre_x_preferred":[
+        "Rinc\u00f3n"
+    ],
+    "name:ger_x_preferred":[
+        "Rinc\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "Rinc\u00f3n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30f3\u30b3\u30f3"
+    ],
+    "name:por_x_preferred":[
+        "Rinc\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Rinc\u00f3n"
+    ],
+    "name:srp_x_preferred":[
+        "Rinc\u00f3n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u043d\u043a\u043e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Santa Rosa de Rincon"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0646\u06a9\u0648\u0646\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Rinc\u00f3n"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4567723,
+    "qs_pg:gn_pop":1499,
+    "qs_pg:name":"Rincon",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Rinc\u00f3n",
+    "qs_pg:photos":2741,
+    "qs_pg:photos_1k":555,
+    "qs_pg:photos_9k":12,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2741,
+    "qs_pg:photos_sr":18,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":489381,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":161616,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Rinc\u00f3n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567723,
+        "gp:id":161616,
+        "qs_pg:id":489381,
+        "wd:id":"Q1815896"
+    },
+    "wof:country":"PR",
+    "wof:created":1497293288,
+    "wof:geomhash":"122b353128919e28a7e86534002acddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080307,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125848679,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125848679,
+    "wof:lastmodified":1553816570,
+    "wof:name":"Rincon",
+    "wof:parent_id":102080307,
+    "wof:placetype":"locality",
+    "wof:population":1499,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.2499,
+    18.34023,
+    -67.2499,
+    18.34023
+],
+  "geometry": {"coordinates":[-67.2499,18.34023],"type":"Point"}
+}

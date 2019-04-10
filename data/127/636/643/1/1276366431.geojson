@@ -1,0 +1,72 @@
+{
+  "id": 1276366431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.33211,18.43967,-66.33211,18.43967",
+    "geom:latitude":18.43967,
+    "geom:longitude":-66.33211,
+    "gn:admin1_code":"143",
+    "gn:admin2_code":"7268937",
+    "gn:asciiname":"Regadera",
+    "gn:country_code":"PR",
+    "gn:dem":51,
+    "gn:elevation":"51.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4567599,
+    "gn:latitude":18.43967,
+    "gn:longitude":-66.33211,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Regadera",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567599
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"c5c71fdfe76fa0ea547a37bafe41ea3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080413,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1276366431,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1276366431,
+    "wof:lastmodified":1536734445,
+    "wof:name":"Regadera",
+    "wof:parent_id":102080413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.33211,
+    18.43967,
+    -66.33211,
+    18.43967
+],
+  "geometry": {"coordinates":[-66.33211,18.43967],"type":"Point"}
+}

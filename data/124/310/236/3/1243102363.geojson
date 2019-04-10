@@ -1,0 +1,72 @@
+{
+  "id": 1243102363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.55351,18.36217,-66.55351,18.36217",
+    "geom:latitude":18.36217,
+    "geom:longitude":-66.55351,
+    "gn:admin1_code":"054",
+    "gn:admin2_code":"7268393",
+    "gn:asciiname":"Alturas de Yanes Segunda Seccion",
+    "gn:country_code":"PR",
+    "gn:dem":206,
+    "gn:elevation":"207.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4562591,
+    "gn:latitude":18.36217,
+    "gn:longitude":-66.55351,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Alturas de Yanes Segunda Seccion",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562591
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"a55a3a9cea42c76dc9b43a38aad84fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080343,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1243102363,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1243102363,
+    "wof:lastmodified":1536804309,
+    "wof:name":"Alturas de Yanes Segunda Seccion",
+    "wof:parent_id":102080343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.55351,
+    18.36217000000001,
+    -66.55351,
+    18.36217000000001
+],
+  "geometry": {"coordinates":[-66.55351,18.36217000000001],"type":"Point"}
+}

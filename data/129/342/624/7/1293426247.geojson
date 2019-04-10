@@ -1,0 +1,72 @@
+{
+  "id": 1293426247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.05191,17.99623,-66.05191,17.99623",
+    "geom:latitude":17.99623,
+    "geom:longitude":-66.05191,
+    "gn:admin1_code":"015",
+    "gn:admin2_code":"7268197",
+    "gn:asciiname":"Buena Vista Comunidad",
+    "gn:country_code":"PR",
+    "gn:dem":54,
+    "gn:elevation":"51.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7275032,
+    "gn:latitude":17.99623,
+    "gn:longitude":-66.05191,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Buena Vista Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7275032
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"698384b1529bcf50dbd016360506c078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080285,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1293426247,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1293426247,
+    "wof:lastmodified":1536874285,
+    "wof:name":"Buena Vista Comunidad",
+    "wof:parent_id":102080285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.05190999999999,
+    17.99622999999999,
+    -66.05190999999999,
+    17.99622999999999
+],
+  "geometry": {"coordinates":[-66.05190999999999,17.99622999999999],"type":"Point"}
+}

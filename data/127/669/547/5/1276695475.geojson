@@ -1,0 +1,72 @@
+{
+  "id": 1276695475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.09739,18.16829,-66.09739,18.16829",
+    "geom:latitude":18.16829,
+    "geom:longitude":-66.09739,
+    "gn:admin1_code":"041",
+    "gn:admin2_code":"7268252",
+    "gn:asciiname":"Las Cruces",
+    "gn:country_code":"PR",
+    "gn:dem":460,
+    "gn:elevation":"456.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565933,
+    "gn:latitude":18.16829,
+    "gn:longitude":-66.09739,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Las Cruces",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565933
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"bab53fbc669e923fce86a8f50422aa2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080345,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1276695475,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1276695475,
+    "wof:lastmodified":1536790784,
+    "wof:name":"Las Cruces",
+    "wof:parent_id":102080345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.09739,
+    18.16829,
+    -66.09739,
+    18.16829
+],
+  "geometry": {"coordinates":[-66.09739,18.16829],"type":"Point"}
+}

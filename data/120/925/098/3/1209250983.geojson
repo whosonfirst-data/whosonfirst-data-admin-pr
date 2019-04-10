@@ -1,0 +1,63 @@
+{
+  "id": 1209250983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.49295,18.03802,-66.49295,18.03802",
+    "geom:latitude":18.03802,
+    "geom:longitude":-66.49295,
+    "gn:admin1_code":"075",
+    "gn:admin2_code":"7268193",
+    "gn:asciiname":"Piedra Aguzada",
+    "gn:country_code":"PR",
+    "gn:dem":68,
+    "gn:elevation":"71.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566720,
+    "gn:latitude":18.03802,
+    "gn:longitude":-66.49295,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Piedra Aguzada",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566720
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"31bb513adb15db0483a86ebfba8836fe",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209250983
+        }
+    ],
+    "wof:id":1209250983,
+    "wof:lastmodified":1536293005,
+    "wof:name":"Piedra Aguzada",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.49295,
+    18.03802,
+    -66.49295,
+    18.03802
+],
+  "geometry": {"coordinates":[-66.49294999999999,18.03802],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209552181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.61184,18.13524,-66.61184,18.13524",
+    "geom:latitude":18.13524,
+    "geom:longitude":-66.61184,
+    "gn:admin1_code":"113",
+    "gn:admin2_code":"7268200",
+    "gn:asciiname":"Hacienda San Narciso",
+    "gn:country_code":"PR",
+    "gn:dem":352,
+    "gn:elevation":"349.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565309,
+    "gn:latitude":18.13524,
+    "gn:longitude":-66.61184,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda San Narciso",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565309
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"d76051c671cd0de89aeadf6e428a404c",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209552181
+        }
+    ],
+    "wof:id":1209552181,
+    "wof:lastmodified":1536283658,
+    "wof:name":"Hacienda San Narciso",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.61184,
+    18.13524,
+    -66.61184,
+    18.13524
+],
+  "geometry": {"coordinates":[-66.61184,18.13524],"type":"Point"}
+}

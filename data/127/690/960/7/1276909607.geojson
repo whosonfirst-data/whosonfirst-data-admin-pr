@@ -1,0 +1,72 @@
+{
+  "id": 1276909607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.98073,18.30856,-66.98073,18.30856",
+    "geom:latitude":18.30856,
+    "geom:longitude":-66.98073,
+    "gn:admin1_code":"131",
+    "gn:admin2_code":"7268137",
+    "gn:asciiname":"Perchas",
+    "gn:country_code":"PR",
+    "gn:dem":162,
+    "gn:elevation":"157.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566695,
+    "gn:latitude":18.30856,
+    "gn:longitude":-66.98073,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Perchas",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566695
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"435b68704a2aa704575cb220addf4599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080411,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1276909607,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1276909607,
+    "wof:lastmodified":1537000671,
+    "wof:name":"Perchas",
+    "wof:parent_id":102080411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.98073000000001,
+    18.30856,
+    -66.98073000000001,
+    18.30856
+],
+  "geometry": {"coordinates":[-66.98073000000001,18.30856],"type":"Point"}
+}

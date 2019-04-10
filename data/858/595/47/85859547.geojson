@@ -1,0 +1,117 @@
+{
+  "id": 85859547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1184238.859211,
+    "geom:bbox":"-66.088803,18.46654,-66.088803,18.46654",
+    "geom:latitude":18.46654,
+    "geom:longitude":-66.088803,
+    "gn:id":"",
+    "iso:country":"PR",
+    "lbl:latitude":18.46654,
+    "lbl:longitude":-66.088803,
+    "mps:latitude":18.47111,
+    "mps:longitude":-66.086898,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:deu_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:ita_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:spa_x_preferred":[
+        "Fernandez Juncos",
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:unk_x_variant":[
+        "Fernandez Juncos"
+    ],
+    "qs:gn_adm0_cc":"PR",
+    "qs:gn_id":0,
+    "qs:gn_local":4568220,
+    "qs:gn_nam_loc":"aguacate",
+    "qs:gn_namadm1":"025",
+    "qs:local_max":29505,
+    "qs:local_sum":50313,
+    "qs:localhoods":63,
+    "qs:name":"Fernandez Juncos",
+    "qs:name_adm0":"Puerto Rico",
+    "qs:name_adm1":"San Juan",
+    "qs:name_adm2":"San Juan Antiguo",
+    "qs:name_local":"San Juan",
+    "qs:photo_max":135,
+    "qs:photo_sum":380,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424935,
+    "qs:woe_adm1":2346815,
+    "qs:woe_adm2":26806705,
+    "qs:woe_lau":0,
+    "qs:woe_local":161685,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":716,
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        101919427,
+        136253057,
+        102080441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15021135,
+        "qs:id":1084653,
+        "wd:id":"Q344554"
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"8a759a1b39563a29d3680e6b57cf49c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919427,
+            "neighbourhood_id":85859547,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":85859547,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531870389,
+    "wof:name":"Fernandez Juncos",
+    "wof:parent_id":101919427,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.088803,
+    18.46654,
+    -66.088803,
+    18.46654
+],
+  "geometry": {"coordinates":[-66.088803,18.46654],"type":"Point"}
+}

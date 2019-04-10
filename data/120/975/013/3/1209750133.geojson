@@ -1,0 +1,75 @@
+{
+  "id": 1209750133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.69877,18.35329,-65.69877,18.35329",
+    "geom:latitude":18.35329,
+    "geom:longitude":-65.69877,
+    "gn:admin1_code":"089",
+    "gn:admin2_code":"7268763",
+    "gn:asciiname":"Margarita",
+    "gn:country_code":"PR",
+    "gn:dem":11,
+    "gn:elevation":"9.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566170,
+    "gn:latitude":18.35329,
+    "gn:longitude":-65.69877,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Margarita",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia Margarita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566170
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"72309ac837d08ee99088bbe286815f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080339,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1209750133,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1209750133,
+    "wof:lastmodified":1537683116,
+    "wof:name":"Margarita",
+    "wof:parent_id":102080339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.69877,
+    18.35329,
+    -65.69877,
+    18.35329
+],
+  "geometry": {"coordinates":[-65.69877,18.35329],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209248771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.99351,18.24912,-66.99351,18.24912",
+    "geom:latitude":18.24912,
+    "geom:longitude":-66.99351,
+    "gn:admin1_code":"083",
+    "gn:admin2_code":"7268615",
+    "gn:asciiname":"Francisco Serrano",
+    "gn:country_code":"PR",
+    "gn:dem":273,
+    "gn:elevation":"260.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565016,
+    "gn:latitude":18.24912,
+    "gn:longitude":-66.99351,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Francisco Serrano",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565016
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"f9edee1786571c61069d2d1f33240faf",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209248771
+        }
+    ],
+    "wof:id":1209248771,
+    "wof:lastmodified":1536293073,
+    "wof:name":"Francisco Serrano",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.99351,
+    18.24912,
+    -66.99351,
+    18.24912
+],
+  "geometry": {"coordinates":[-66.99351,18.24912],"type":"Point"}
+}

@@ -1,0 +1,144 @@
+{
+  "id": 1126006081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.88016,18.43134,-65.88016,18.43134",
+    "geom:latitude":18.43134,
+    "geom:longitude":-65.88016,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4311,
+    "gn:population":4311,
+    "iso:country":"PR",
+    "lbl:latitude":18.43134,
+    "lbl:longitude":-65.88016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u09b2\u09cb\u0987\u099c\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:chi_x_preferred":[
+        "\u6d1b\u4f0a\u85a9"
+    ],
+    "name:dut_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:eng_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:fre_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:ger_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:ita_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30a4\u30b5"
+    ],
+    "name:por_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:spa_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0438\u0437\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0457\u0441\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u06cc\u0633\u0627\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Loiza"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u4f0a\u85a9"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4566022,
+    "qs_pg:gn_pop":4311,
+    "qs_pg:name":"Loiza",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Lo\u00edza",
+    "qs_pg:photos":233,
+    "qs_pg:photos_1k":47,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":233,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":298016,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":161371,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Lo\u00edza",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566022,
+        "gp:id":161371,
+        "qs_pg:id":298016,
+        "wd:id":"Q1853983"
+    },
+    "wof:country":"PR",
+    "wof:created":1497299963,
+    "wof:geomhash":"95759745e6f77ea516593890f9d87905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080363,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1126006081,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1126006081,
+    "wof:lastmodified":1514497724,
+    "wof:name":"Loiza",
+    "wof:parent_id":102080363,
+    "wof:placetype":"locality",
+    "wof:population":4311,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.88016,
+    18.43134,
+    -65.88016,
+    18.43134
+],
+  "geometry": {"coordinates":[-65.88016,18.43134],"type":"Point"}
+}

@@ -1,0 +1,145 @@
+{
+  "id": 1125948715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.921,18.22746,-65.921,18.22746",
+    "geom:latitude":18.22746,
+    "geom:longitude":-65.921,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8905,
+    "gn:population":8905,
+    "iso:country":"PR",
+    "lbl:latitude":18.22746,
+    "lbl:longitude":-65.921,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u099c\u09c1\u0999\u09cd\u0995\u09cb\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Juncos"
+    ],
+    "name:chi_x_preferred":[
+        "\u6d2a\u79d1\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Juncos"
+    ],
+    "name:eng_x_preferred":[
+        "Juncos"
+    ],
+    "name:fre_x_preferred":[
+        "Juncos"
+    ],
+    "name:ita_x_preferred":[
+        "Juncos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30f3\u30b3\u30b9"
+    ],
+    "name:pol_x_preferred":[
+        "Juncos"
+    ],
+    "name:por_x_preferred":[
+        "Juncos"
+    ],
+    "name:spa_x_preferred":[
+        "Juncos"
+    ],
+    "name:srp_x_preferred":[
+        "Juncos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u043d\u043a\u043e\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0648\u0646\u06a9\u0648\u0633\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Juncos"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4565718,
+    "qs_pg:gn_pop":8905,
+    "qs_pg:name":"Juncos",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Juncos",
+    "qs_pg:photos":22,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1049325,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":161252,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Juncos",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565718,
+        "gp:id":161252,
+        "qs_pg:id":1049325,
+        "wd:id":"Q2347667"
+    },
+    "wof:country":"PR",
+    "wof:created":1497297379,
+    "wof:geomhash":"b7d10ce851eddad83685612bb8bd9cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080301,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125948715,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125948715,
+    "wof:lastmodified":1534379435,
+    "wof:name":"Juncos",
+    "wof:parent_id":102080301,
+    "wof:placetype":"locality",
+    "wof:population":8905,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[
+        101918861
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.921,
+    18.22746,
+    -65.921,
+    18.22746
+],
+  "geometry": {"coordinates":[-65.92100000000001,18.22746],"type":"Point"}
+}

@@ -1,0 +1,142 @@
+{
+  "id": 1126004963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.49212,18.12718,-66.49212,18.12718",
+    "geom:latitude":18.12718,
+    "geom:longitude":-66.49212,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4555,
+    "gn:population":4555,
+    "iso:country":"PR",
+    "lbl:latitude":18.12718,
+    "lbl:longitude":-66.49212,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u09ad\u09bf\u09b2\u09cd\u09b2\u09be\u09b2\u09ac\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Villalba"
+    ],
+    "name:chi_x_preferred":[
+        "\u7dad\u62c9\u723e\u5df4"
+    ],
+    "name:dut_x_preferred":[
+        "Villalba"
+    ],
+    "name:eng_x_preferred":[
+        "Villalba"
+    ],
+    "name:fre_x_preferred":[
+        "Villalba"
+    ],
+    "name:ita_x_preferred":[
+        "Villalba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b8\u30e3\u30eb\u30d0"
+    ],
+    "name:scn_x_preferred":[
+        "Villalba"
+    ],
+    "name:spa_x_preferred":[
+        "Villalba"
+    ],
+    "name:srp_x_preferred":[
+        "Villalba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f\u043b\u044c\u0431\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0644\u0627\u0644\u0628\u0627\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Villalba"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4568683,
+    "qs_pg:gn_pop":4555,
+    "qs_pg:name":"Villalba",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Villalba",
+    "qs_pg:photos":56,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":56,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1341586,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":161827,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Villalba",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568683,
+        "gp:id":161827,
+        "qs_pg:id":1341586,
+        "wd:id":"Q2192472"
+    },
+    "wof:country":"PR",
+    "wof:created":1497299887,
+    "wof:geomhash":"4f1d090032c4964bc547606d5b52c8e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080377,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1126004963,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1126004963,
+    "wof:lastmodified":1553816693,
+    "wof:name":"Villalba",
+    "wof:parent_id":102080377,
+    "wof:placetype":"locality",
+    "wof:population":4555,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[
+        101919035
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.49212,
+    18.12718,
+    -66.49212,
+    18.12718
+],
+  "geometry": {"coordinates":[-66.49212,18.12718],"type":"Point"}
+}

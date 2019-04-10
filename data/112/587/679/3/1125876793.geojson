@@ -1,0 +1,85 @@
+{
+  "id": 1125876793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.89794,18.33717,-65.89794,18.33717",
+    "geom:latitude":18.33717,
+    "geom:longitude":-65.89794,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3218,
+    "gn:population":3218,
+    "iso:country":"PR",
+    "lbl:latitude":18.33717,
+    "lbl:longitude":-65.89794,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4563059,
+    "qs_pg:gn_pop":3218,
+    "qs_pg:name":"Campo Rico",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":98619,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4563059,
+        "qs_pg:id":98619
+    },
+    "wof:country":"PR",
+    "wof:created":1497294582,
+    "wof:geomhash":"084df1e1c913147321703ee75eaab4cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080387,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125876793,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125876793,
+    "wof:lastmodified":1534379428,
+    "wof:name":"Campo Rico",
+    "wof:parent_id":102080387,
+    "wof:placetype":"locality",
+    "wof:population":3218,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[
+        101919185
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.89794,
+    18.33717,
+    -65.89794,
+    18.33717
+],
+  "geometry": {"coordinates":[-65.89794000000001,18.33717],"type":"Point"}
+}

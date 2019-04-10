@@ -1,0 +1,72 @@
+{
+  "id": 1225974945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.72155,18.38412,-65.72155,18.38412",
+    "geom:latitude":18.38412,
+    "geom:longitude":-65.72155,
+    "gn:admin1_code":"089",
+    "gn:admin2_code":"7268637",
+    "gn:asciiname":"Solimar",
+    "gn:country_code":"PR",
+    "gn:dem":7,
+    "gn:elevation":"1.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568339,
+    "gn:latitude":18.38412,
+    "gn:longitude":-65.72155,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Solimar",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568339
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"23696b438caf944bb00b9bcc23bd82a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080339,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1225974945,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1225974945,
+    "wof:lastmodified":1536826393,
+    "wof:name":"Solimar",
+    "wof:parent_id":102080339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.72155,
+    18.38412000000001,
+    -65.72155,
+    18.38412000000001
+],
+  "geometry": {"coordinates":[-65.72154999999999,18.38412000000001],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209345707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.54323,18.0233,-66.54323,18.0233",
+    "geom:latitude":18.0233,
+    "geom:longitude":-66.54323,
+    "gn:admin1_code":"113",
+    "gn:admin2_code":"7268115",
+    "gn:asciiname":"Hacienda Fe",
+    "gn:country_code":"PR",
+    "gn:dem":29,
+    "gn:elevation":"30.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565199,
+    "gn:latitude":18.0233,
+    "gn:longitude":-66.54323,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda F\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565199
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"97a4b1ba3c0e3fa6b2747245a0699941",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209345707
+        }
+    ],
+    "wof:id":1209345707,
+    "wof:lastmodified":1536289920,
+    "wof:name":"Hacienda Fe",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.54323000000001,
+    18.0233,
+    -66.54323000000001,
+    18.0233
+],
+  "geometry": {"coordinates":[-66.54323000000001,18.0233],"type":"Point"}
+}

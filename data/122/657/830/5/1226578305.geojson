@@ -1,0 +1,72 @@
+{
+  "id": 1226578305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.99183,18.41884,-65.99183,18.41884",
+    "geom:latitude":18.41884,
+    "geom:longitude":-65.99183,
+    "gn:admin1_code":"031",
+    "gn:admin2_code":"7268934",
+    "gn:asciiname":"Quintas de Country Club",
+    "gn:country_code":"PR",
+    "gn:dem":3,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4567561,
+    "gn:latitude":18.41884,
+    "gn:longitude":-65.99183,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Quintas de Country Club",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567561
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"d3a791859c7866190c5afd7ebfe02fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080347,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1226578305,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1226578305,
+    "wof:lastmodified":1536952908,
+    "wof:name":"Quintas de Country Club",
+    "wof:parent_id":102080347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.99183000000001,
+    18.41884,
+    -65.99183000000001,
+    18.41884
+],
+  "geometry": {"coordinates":[-65.99183000000001,18.41884],"type":"Point"}
+}

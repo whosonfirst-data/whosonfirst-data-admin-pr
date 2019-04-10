@@ -1,0 +1,72 @@
+{
+  "id": 1343497201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.50795,18.33912,-66.50795,18.33912",
+    "geom:latitude":18.33912,
+    "geom:longitude":-66.50795,
+    "gn:admin1_code":"039",
+    "gn:admin2_code":"7268468",
+    "gn:asciiname":"Camarones",
+    "gn:country_code":"PR",
+    "gn:dem":309,
+    "gn:elevation":"290.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4563025,
+    "gn:latitude":18.33912,
+    "gn:longitude":-66.50795,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Camarones",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4563025
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"847fe39be06c042d43ad9b4483c090a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080317,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343497201,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343497201,
+    "wof:lastmodified":1536693311,
+    "wof:name":"Camarones",
+    "wof:parent_id":102080317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.50795,
+    18.33912,
+    -66.50795,
+    18.33912
+],
+  "geometry": {"coordinates":[-66.50794999999999,18.33912],"type":"Point"}
+}

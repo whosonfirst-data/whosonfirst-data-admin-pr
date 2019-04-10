@@ -1,0 +1,72 @@
+{
+  "id": 1293526083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.93657,18.45272,-66.93657,18.45272",
+    "geom:latitude":18.45272,
+    "geom:longitude":-66.93657,
+    "gn:admin1_code":"115",
+    "gn:admin2_code":"7268283",
+    "gn:asciiname":"Sector LaSalle",
+    "gn:country_code":"PR",
+    "gn:dem":135,
+    "gn:elevation":"131.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568280,
+    "gn:latitude":18.45272,
+    "gn:longitude":-66.93657,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Sector LaSalle",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568280
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"9cb2c43d969ec8023783f749436a4caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080325,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1293526083,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1293526083,
+    "wof:lastmodified":1536731630,
+    "wof:name":"Sector LaSalle",
+    "wof:parent_id":102080325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.93656999999999,
+    18.45272000000001,
+    -66.93656999999999,
+    18.45272000000001
+],
+  "geometry": {"coordinates":[-66.93656999999999,18.45272000000001],"type":"Point"}
+}

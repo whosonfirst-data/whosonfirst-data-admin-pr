@@ -1,0 +1,95 @@
+{
+  "id": 1125773075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.253601,18.37183,-67.253601,18.37183",
+    "geom:latitude":18.37183,
+    "geom:longitude":-67.253601,
+    "gn:gn_country":"PR",
+    "iso:country":"PR",
+    "lbl:latitude":18.37183,
+    "lbl:longitude":-67.253601,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:name":"R\u00edo Grande",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Aguada",
+    "qs_pg:photos":74,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":74,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":903274,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":55870560,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Aguada",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55870560,
+        "qs_pg:id":903274,
+        "wd:id":"Q2843478"
+    },
+    "wof:country":"PR",
+    "wof:created":1497290140,
+    "wof:geomhash":"6475ddbdcf49a60fb2a1db7948e1446e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080307,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125773075,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125773075,
+    "wof:lastmodified":1514497743,
+    "wof:name":"R\u00edo Grande",
+    "wof:parent_id":102080307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.253601,
+    18.37183,
+    -67.253601,
+    18.37183
+],
+  "geometry": {"coordinates":[-67.253601,18.37183],"type":"Point"}
+}

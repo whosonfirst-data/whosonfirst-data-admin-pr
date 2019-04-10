@@ -1,0 +1,72 @@
+{
+  "id": 1193167857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.86655,18.16579,-65.86655,18.16579",
+    "geom:latitude":18.16579,
+    "geom:longitude":-65.86655,
+    "gn:admin1_code":"085",
+    "gn:admin2_code":"7269030",
+    "gn:asciiname":"Sector Los Garbanzos",
+    "gn:country_code":"PR",
+    "gn:dem":126,
+    "gn:elevation":"123.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568285,
+    "gn:latitude":18.16579,
+    "gn:longitude":-65.86655,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Sector Los Garbanzos",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568285
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"73df60e5d364efa1aa7ddc7673e27e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080391,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1193167857,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1193167857,
+    "wof:lastmodified":1536383731,
+    "wof:name":"Sector Los Garbanzos",
+    "wof:parent_id":102080391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.86655,
+    18.16579,
+    -65.86655,
+    18.16579
+],
+  "geometry": {"coordinates":[-65.86655,18.16579],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343297787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.05516,18.07496,-66.05516,18.07496",
+    "geom:latitude":18.07496,
+    "geom:longitude":-66.05516,
+    "gn:admin1_code":"109",
+    "gn:admin2_code":"7268689",
+    "gn:asciiname":"Campamento Real",
+    "gn:country_code":"PR",
+    "gn:dem":242,
+    "gn:elevation":"252.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4563048,
+    "gn:latitude":18.07496,
+    "gn:longitude":-66.05516,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Campamento Real",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4563048
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"8a19fcfd73dc444c89f1abba4cdf4aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080445,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343297787,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343297787,
+    "wof:lastmodified":1536980322,
+    "wof:name":"Campamento Real",
+    "wof:parent_id":102080445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.05516,
+    18.07496,
+    -66.05516,
+    18.07496
+],
+  "geometry": {"coordinates":[-66.05516,18.07496],"type":"Point"}
+}

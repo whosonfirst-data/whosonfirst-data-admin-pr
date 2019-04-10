@@ -1,0 +1,72 @@
+{
+  "id": 1327060849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.67016,18.22829,-65.67016,18.22829",
+    "geom:latitude":18.22829,
+    "geom:longitude":-65.67016,
+    "gn:admin1_code":"037",
+    "gn:admin2_code":"7268862",
+    "gn:asciiname":"Oriente (historical)",
+    "gn:country_code":"PR",
+    "gn:dem":16,
+    "gn:elevation":"13.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":4566453,
+    "gn:latitude":18.22829,
+    "gn:longitude":-65.67016,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Oriente (historical)",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566453
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"6d500f0994a1fdd8ff62cb47c08c167a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080341,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1327060849,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1327060849,
+    "wof:lastmodified":1536719830,
+    "wof:name":"Oriente (historical)",
+    "wof:parent_id":102080341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.67016,
+    18.22829,
+    -65.67016,
+    18.22829
+],
+  "geometry": {"coordinates":[-65.67016,18.22829],"type":"Point"}
+}

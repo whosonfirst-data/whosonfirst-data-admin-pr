@@ -1,0 +1,63 @@
+{
+  "id": 1209040501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.51989,18.27606,-66.51989,18.27606",
+    "geom:latitude":18.27606,
+    "geom:longitude":-66.51989,
+    "gn:admin1_code":"039",
+    "gn:admin2_code":"7268074",
+    "gn:asciiname":"Hacienda Colom",
+    "gn:country_code":"PR",
+    "gn:dem":298,
+    "gn:elevation":"295.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565173,
+    "gn:latitude":18.27606,
+    "gn:longitude":-66.51989,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda Colom",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565173
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"9c266c28c3c863238d40b8457f10e235",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209040501
+        }
+    ],
+    "wof:id":1209040501,
+    "wof:lastmodified":1536299561,
+    "wof:name":"Hacienda Colom",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.51989,
+    18.27606,
+    -66.51989,
+    18.27606
+],
+  "geometry": {"coordinates":[-66.51989,18.27606],"type":"Point"}
+}

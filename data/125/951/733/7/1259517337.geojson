@@ -1,0 +1,72 @@
+{
+  "id": 1259517337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.0785,18.35301,-66.0785,18.35301",
+    "geom:latitude":18.35301,
+    "geom:longitude":-66.0785,
+    "gn:admin1_code":"127",
+    "gn:admin2_code":"7268293",
+    "gn:asciiname":"Chalet de la Colina",
+    "gn:country_code":"PR",
+    "gn:dem":104,
+    "gn:elevation":"101.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4563754,
+    "gn:latitude":18.35301,
+    "gn:longitude":-66.0785,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Chalet de la Colina",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4563754
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"3bee2fc28b291e8685752b2fdb09bf2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1259517337,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1259517337,
+    "wof:lastmodified":1536809766,
+    "wof:name":"Chalet de la Colina",
+    "wof:parent_id":102080441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.0785,
+    18.35301,
+    -66.0785,
+    18.35301
+],
+  "geometry": {"coordinates":[-66.07850000000001,18.35301],"type":"Point"}
+}

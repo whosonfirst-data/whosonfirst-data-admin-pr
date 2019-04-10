@@ -1,0 +1,80 @@
+{
+  "id": 101918885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":62974.41134,
+    "geom:bbox":"-66.568701,18.00566,-66.565289,18.008767",
+    "geom:latitude":18.007497,
+    "geom:longitude":-66.567152,
+    "geonames:id":"4563023,7315435",
+    "iso:country":"PR",
+    "lbl:latitude":18.007458,
+    "lbl:longitude":-66.567154,
+    "mps:latitude":18.007458,
+    "mps:longitude":-66.567154,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Puerto Rico",
+    "qs:a1":"*Puerto Rico",
+    "qs:a1_lc":"72",
+    "qs:a1r":"*",
+    "qs:adm0":"Puerto Rico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Calzada",
+    "qs:loc_alt":"Calzada comunidad",
+    "qs:loc_lc":"7211151",
+    "qs:pop":0,
+    "qs:source":"IUS Census",
+    "qs:type":"G4210",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":188,
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515663,
+        "wd:id":"Q1027865"
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"6d3189e44db48308eacf18f337185cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080299,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101918885,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":101918885,
+    "wof:lastmodified":1527715676,
+    "wof:name":"Calzada",
+    "wof:parent_id":102080299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.568701,
+    18.00566,
+    -66.565289,
+    18.008767
+],
+  "geometry": {"coordinates":[[[-66.568701,18.008463],[-66.568625,18.008767],[-66.568043,18.008683],[-66.567688,18.008633],[-66.567314,18.008524],[-66.566869,18.008395],[-66.566633,18.008325],[-66.566247,18.008209],[-66.566075,18.008153],[-66.565916,18.008101],[-66.56546400000001,18.007953],[-66.56528900000001,18.007896],[-66.56544599999999,18.007572],[-66.56560899999999,18.00724],[-66.56568799999999,18.007036],[-66.565941,18.007112],[-66.56589099999999,18.007251],[-66.566168,18.007333],[-66.56640899999999,18.00662],[-66.56661,18.006129],[-66.566604,18.006078],[-66.56705700000001,18.006072],[-66.567063,18.00566],[-66.567159,18.005827],[-66.56720900000001,18.005892],[-66.567379,18.006111],[-66.567774,18.006498],[-66.56793,18.006749],[-66.568113,18.00702],[-66.56817700000001,18.007115],[-66.568251,18.007287],[-66.56863800000001,18.008193],[-66.568701,18.008463]]],"type":"Polygon"}
+}

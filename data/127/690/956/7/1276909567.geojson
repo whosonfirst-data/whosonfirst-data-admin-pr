@@ -1,0 +1,72 @@
+{
+  "id": 1276909567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.67694,18.42345,-66.67694,18.42345",
+    "geom:latitude":18.42345,
+    "geom:longitude":-66.67694,
+    "gn:admin1_code":"013",
+    "gn:admin2_code":"7268207",
+    "gn:asciiname":"Bajadero Comunidad",
+    "gn:country_code":"PR",
+    "gn:dem":78,
+    "gn:elevation":"79.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7275022,
+    "gn:latitude":18.42345,
+    "gn:longitude":-66.67694,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Bajadero Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7275022
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"b664b72f3d0626e9713d912c74561b42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080283,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1276909567,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1276909567,
+    "wof:lastmodified":1537000732,
+    "wof:name":"Bajadero Comunidad",
+    "wof:parent_id":102080283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.67694,
+    18.42345,
+    -66.67694,
+    18.42345
+],
+  "geometry": {"coordinates":[-66.67694,18.42345],"type":"Point"}
+}

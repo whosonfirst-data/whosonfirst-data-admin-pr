@@ -1,0 +1,63 @@
+{
+  "id": 1209651643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.84048,18.08707,-65.84048,18.08707",
+    "geom:latitude":18.08707,
+    "geom:longitude":-65.84048,
+    "gn:admin1_code":"151",
+    "gn:admin2_code":"7268772",
+    "gn:asciiname":"Comunas Comunidad",
+    "gn:country_code":"PR",
+    "gn:dem":26,
+    "gn:elevation":"30.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7275048,
+    "gn:latitude":18.08707,
+    "gn:longitude":-65.84048,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Comunas Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7275048
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"24e0e6393faa348bd3f8917f05a60ede",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209651643
+        }
+    ],
+    "wof:id":1209651643,
+    "wof:lastmodified":1536280561,
+    "wof:name":"Comunas Comunidad",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.84048,
+    18.08707,
+    -65.84048,
+    18.08707
+],
+  "geometry": {"coordinates":[-65.84048,18.08707],"type":"Point"}
+}

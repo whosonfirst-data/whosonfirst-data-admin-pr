@@ -1,0 +1,72 @@
+{
+  "id": 1209945725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.25344,18.23527,-66.25344,18.23527",
+    "geom:latitude":18.23527,
+    "geom:longitude":-66.25344,
+    "gn:admin1_code":"045",
+    "gn:admin2_code":"7268729",
+    "gn:asciiname":"Palomas Comunidad",
+    "gn:country_code":"PR",
+    "gn:dem":596,
+    "gn:elevation":"597.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7274968,
+    "gn:latitude":18.23527,
+    "gn:longitude":-66.25344,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Palomas Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7274968
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"3a7e61d2271a123ddc0bedab48becea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080291,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1209945725,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1209945725,
+    "wof:lastmodified":1536386481,
+    "wof:name":"Palomas Comunidad",
+    "wof:parent_id":102080291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.25344,
+    18.23527,
+    -66.25344,
+    18.23527
+],
+  "geometry": {"coordinates":[-66.25344,18.23527],"type":"Point"}
+}

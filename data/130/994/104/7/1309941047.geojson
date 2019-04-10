@@ -1,0 +1,72 @@
+{
+  "id": 1309941047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.87081,18.17842,-65.87081,18.17842",
+    "geom:latitude":18.17842,
+    "geom:longitude":-65.87081,
+    "gn:admin1_code":"085",
+    "gn:admin2_code":"7269030",
+    "gn:asciiname":"Las Piedras Zona Urbana",
+    "gn:country_code":"PR",
+    "gn:dem":128,
+    "gn:elevation":"124.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7276365,
+    "gn:latitude":18.17842,
+    "gn:longitude":-65.87081,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Las Piedras Zona Urbana",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7276365
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"96aef5290deaaaa835e1b42a86b5e8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080391,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1309941047,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1309941047,
+    "wof:lastmodified":1536736243,
+    "wof:name":"Las Piedras Zona Urbana",
+    "wof:parent_id":102080391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.87080999999999,
+    18.17842000000001,
+    -65.87080999999999,
+    18.17842000000001
+],
+  "geometry": {"coordinates":[-65.87080999999999,18.17842000000001],"type":"Point"}
+}

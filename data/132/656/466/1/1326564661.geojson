@@ -1,0 +1,72 @@
+{
+  "id": 1326564661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.87822,18.05191,-65.87822,18.05191",
+    "geom:latitude":18.05191,
+    "geom:longitude":-65.87822,
+    "gn:admin1_code":"151",
+    "gn:admin2_code":"7269085",
+    "gn:asciiname":"Villa Recrero",
+    "gn:country_code":"PR",
+    "gn:dem":24,
+    "gn:elevation":"15.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568651,
+    "gn:latitude":18.05191,
+    "gn:longitude":-65.87822,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Villa Recrero",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568651
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"a9e857789b34f392e9c1a482f0dbe072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080371,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1326564661,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1326564661,
+    "wof:lastmodified":1536937985,
+    "wof:name":"Villa Recrero",
+    "wof:parent_id":102080371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.87822,
+    18.05191,
+    -65.87822,
+    18.05191
+],
+  "geometry": {"coordinates":[-65.87822,18.05191],"type":"Point"}
+}

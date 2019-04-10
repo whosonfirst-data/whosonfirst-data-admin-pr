@@ -1,0 +1,109 @@
+{
+  "id": 85798965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5481987.286495,
+    "geom:bbox":"-8.626628,41.144524,-8.626628,41.144524",
+    "geom:latitude":41.144524,
+    "geom:longitude":-8.626628,
+    "gn:latitude":41.13837,
+    "gn:longitude":-8.63364,
+    "iso:country":"PR",
+    "lbl:latitude":41.144524,
+    "lbl:longitude":-8.626628,
+    "mps:latitude":41.108028,
+    "mps:longitude":-8.638839,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:por_x_colloquial":[
+        "Candal"
+    ],
+    "name:por_x_preferred":[
+        "Candal"
+    ],
+    "name:unk_x_variant":[
+        "Candal"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":8010592,
+    "qs:gn_nam_loc":"Vila Nova de Gaia, Porto, PT",
+    "qs:gn_namadm1":"17",
+    "qs:gn_name":"Candal",
+    "qs:local_max":20031,
+    "qs:local_sum":26947,
+    "qs:localhoods":5,
+    "qs:name":"Candal",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Porto",
+    "qs:name_adm2":"Vila Nova de Gaia",
+    "qs:name_local":"Vila Nova de Gaia",
+    "qs:photo_max":544,
+    "qs:photo_sum":2544,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":47,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346575,
+    "qs:woe_adm2":12596513,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596513,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101752093,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741597,
+        "gp:id":738078,
+        "qs:id":479035
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"4d293afe7ceb2e0141e6cd70c5a2a8c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752093,
+            "neighbourhood_id":85798965,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":85798965,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1531861967,
+    "wof:name":"Candal",
+    "wof:parent_id":101752093,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.626628,
+    41.144524,
+    -8.626628,
+    41.144524
+],
+  "geometry": {"coordinates":[-8.626628,41.144524],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309741513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.06128,18.40745,-66.06128,18.40745",
+    "geom:latitude":18.40745,
+    "geom:longitude":-66.06128,
+    "gn:admin1_code":"127",
+    "gn:admin2_code":"7268465",
+    "gn:asciiname":"Hyde Park",
+    "gn:country_code":"PR",
+    "gn:dem":11,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565454,
+    "gn:latitude":18.40745,
+    "gn:longitude":-66.06128,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hyde Park",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565454,
+        "wk:page":"Hyde_Park_%28Hato_Rey%29"
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"a053b7855470d69300e4855aea30ddbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1309741513,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1309741513,
+    "wof:lastmodified":1537571926,
+    "wof:name":"Hyde Park",
+    "wof:parent_id":102080441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.06128000000001,
+    18.40745,
+    -66.06128000000001,
+    18.40745
+],
+  "geometry": {"coordinates":[-66.06128000000001,18.40745],"type":"Point"}
+}

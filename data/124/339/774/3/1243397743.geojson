@@ -1,0 +1,75 @@
+{
+  "id": 1243397743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.54212,17.99413,-66.54212,17.99413",
+    "geom:latitude":17.99413,
+    "geom:longitude":-66.54212,
+    "gn:admin1_code":"113",
+    "gn:admin2_code":"7268340",
+    "gn:asciiname":"Fortuna",
+    "gn:country_code":"PR",
+    "gn:dem":8,
+    "gn:elevation":"7.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565004,
+    "gn:latitude":17.99413,
+    "gn:longitude":-66.54212,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Fortuna",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Central Fortuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565004
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"e3f04e873b2bb3b05bd4fb131e0e064c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080299,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1243397743,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1243397743,
+    "wof:lastmodified":1537683113,
+    "wof:name":"Fortuna",
+    "wof:parent_id":102080299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.54212,
+    17.99413,
+    -66.54212,
+    17.99413
+],
+  "geometry": {"coordinates":[-66.54212,17.99413],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1292941651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.73822,18.20329,-65.73822,18.20329",
+    "geom:latitude":18.20329,
+    "geom:longitude":-65.73822,
+    "gn:admin1_code":"103",
+    "gn:admin2_code":"7268896",
+    "gn:asciiname":"Barriada Buenos Aires",
+    "gn:country_code":"PR",
+    "gn:dem":8,
+    "gn:elevation":"7.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4562782,
+    "gn:latitude":18.20329,
+    "gn:longitude":-65.73822,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Barriada Buenos Aires",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562782
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"05473fd4129784dcc6b2816b0b54d75a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080355,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1292941651,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1292941651,
+    "wof:lastmodified":1537073858,
+    "wof:name":"Barriada Buenos Aires",
+    "wof:parent_id":102080355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.73822,
+    18.20329,
+    -65.73822,
+    18.20329
+],
+  "geometry": {"coordinates":[-65.73822,18.20329],"type":"Point"}
+}

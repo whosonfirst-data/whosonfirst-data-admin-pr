@@ -1,0 +1,72 @@
+{
+  "id": 1209752023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.6435,18.26884,-65.6435,18.26884",
+    "geom:latitude":18.26884,
+    "geom:longitude":-65.6435,
+    "gn:admin1_code":"037",
+    "gn:admin2_code":"7268583",
+    "gn:asciiname":"Villa del Pilar",
+    "gn:country_code":"PR",
+    "gn:dem":14,
+    "gn:elevation":"15.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568676,
+    "gn:latitude":18.26884,
+    "gn:longitude":-65.6435,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Villa del Pilar",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568676
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"4b701b4c90b53b6b1761425116fc2e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080341,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1209752023,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1209752023,
+    "wof:lastmodified":1536392318,
+    "wof:name":"Villa del Pilar",
+    "wof:parent_id":102080341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.6435,
+    18.26884,
+    -65.6435,
+    18.26884
+],
+  "geometry": {"coordinates":[-65.6435,18.26884],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 85799085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2975895.019751,
+    "geom:bbox":"-8.637609,41.147392,-8.637609,41.147392",
+    "geom:latitude":41.147392,
+    "geom:longitude":-8.637609,
+    "iso:country":"PR",
+    "lbl:latitude":41.147392,
+    "lbl:longitude":-8.637609,
+    "mps:latitude":41.140673,
+    "mps:longitude":-8.640968,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:por_x_preferred":[
+        "Ponte da Arrabi"
+    ],
+    "name:unk_x_variant":[
+        "Ponte da Arrabi"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_id":0,
+    "qs:gn_local":8010592,
+    "qs:gn_nam_loc":"Vila Nova de Gaia, Porto, PT",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":20031,
+    "qs:local_sum":26947,
+    "qs:localhoods":5,
+    "qs:name":"Ponte da Arrabi",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Porto",
+    "qs:name_adm2":"Vila Nova de Gaia",
+    "qs:name_local":"Vila Nova de Gaia",
+    "qs:photo_max":255,
+    "qs:photo_sum":1861,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":43,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346575,
+    "qs:woe_adm2":12596513,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596513,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101752093,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":746031
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"662d91a25f2f57a95f9ab68509ddd017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752093,
+            "neighbourhood_id":85799085,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":85799085,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1531861975,
+    "wof:name":"Ponte da Arrabi",
+    "wof:parent_id":101752093,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.637609,
+    41.147392,
+    -8.637609,
+    41.147392
+],
+  "geometry": {"coordinates":[-8.637609,41.147392],"type":"Point"}
+}

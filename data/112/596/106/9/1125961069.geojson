@@ -1,0 +1,112 @@
+{
+  "id": 1125961069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.0649,18.44328,-67.0649,18.44328",
+    "geom:latitude":18.44328,
+    "geom:longitude":-67.0649,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1688,
+    "gn:population":1688,
+    "iso:country":"PR",
+    "lbl:latitude":18.44328,
+    "lbl:longitude":-67.0649,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Aceitunas"
+    ],
+    "name:eng_x_preferred":[
+        "Aceitunas"
+    ],
+    "name:spa_x_preferred":[
+        "Aceitunas"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0441\u0435\u0438\u0442\u0443\u043d\u0430\u0441"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4562483,
+    "qs_pg:gn_pop":1688,
+    "qs_pg:name":"Aceitunas",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Moca",
+    "qs_pg:photos":19,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":19,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1049310,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":160639,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Moca",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562483,
+        "gp:id":160639,
+        "qs_pg:id":1049310,
+        "wd:id":"Q1813870"
+    },
+    "wof:country":"PR",
+    "wof:created":1497297799,
+    "wof:geomhash":"3d64a578bf7e80d90a3374940f3bf0d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080423,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125961069,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125961069,
+    "wof:lastmodified":1534379427,
+    "wof:name":"Aceitunas",
+    "wof:parent_id":102080423,
+    "wof:placetype":"locality",
+    "wof:population":1688,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[
+        101919387
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.0649,
+    18.44328,
+    -67.0649,
+    18.44328
+],
+  "geometry": {"coordinates":[-67.06489999999999,18.44328],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 102556229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.563004,18.008301,-66.563004,18.008301",
+    "geom:latitude":18.008301,
+    "geom:longitude":-66.563004,
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u9f90\u585e"
+    ],
+    "name:eng_x_preferred":[
+        "Mercedita Airport"
+    ],
+    "name:eng_x_variant":[
+        "PSE",
+        "TJPS"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30eb\u30bb\u30c7\u30a3\u30bf\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Mercedita"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0631\u0633\u062f\u06cc\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Mercedita"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Mercedita"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Mercedita"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0440\u0441\u0434\u0438\u0442\u043e"
+    ],
+    "oa:elevation_ft":"29",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424935,
+        "county_id":26806623,
+        "planet_id":1,
+        "state_id":2346833
+    },
+    "wof:belongsto":[
+        85633729,
+        102191575,
+        136253057,
+        102080299,
+        85687331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515663,
+        "iata:code":"PSE",
+        "icao:code":"TJPS",
+        "oa:id":"6383",
+        "wd:id":"Q652578",
+        "wk:page":"Mercedita_Airport"
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"7becdcd6a6c6ec69c496c0ece7c3b9a5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556229,
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080299,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":102556229,
+    "wof:lastmodified":1514497686,
+    "wof:name":"Aeropuerto Mercedita",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -66.563004,
+    18.008301,
+    -66.563004,
+    18.008301
+],
+  "geometry": {"coordinates":[-66.56300400000001,18.008301],"type":"Point"}
+}

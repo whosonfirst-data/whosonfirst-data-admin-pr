@@ -1,0 +1,72 @@
+{
+  "id": 1326959331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.19406,18.24829,-66.19406,18.24829",
+    "geom:latitude":18.24829,
+    "geom:longitude":-66.19406,
+    "gn:admin1_code":"045",
+    "gn:admin2_code":"7268360",
+    "gn:asciiname":"Iglesia Virgen de la Providencia",
+    "gn:country_code":"PR",
+    "gn:dem":410,
+    "gn:elevation":"416.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565521,
+    "gn:latitude":18.24829,
+    "gn:longitude":-66.19406,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Iglesia Virgen de la Providencia",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565521
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"de842eb2f0b6aa7c7c5007a29b5e47e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080291,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1326959331,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1326959331,
+    "wof:lastmodified":1536864573,
+    "wof:name":"Iglesia Virgen de la Providencia",
+    "wof:parent_id":102080291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.19406,
+    18.24829,
+    -66.19406,
+    18.24829
+],
+  "geometry": {"coordinates":[-66.19405999999999,18.24829],"type":"Point"}
+}

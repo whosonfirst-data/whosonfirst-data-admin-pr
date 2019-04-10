@@ -1,0 +1,72 @@
+{
+  "id": 1360016589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.02962,18.4905,-67.02962,18.4905",
+    "geom:latitude":18.4905,
+    "geom:longitude":-67.02962,
+    "gn:admin1_code":"071",
+    "gn:admin2_code":"7268253",
+    "gn:asciiname":"Sector Loma Santa",
+    "gn:country_code":"PR",
+    "gn:dem":100,
+    "gn:elevation":"96.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568283,
+    "gn:latitude":18.4905,
+    "gn:longitude":-67.02962,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Sector Loma Santa",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568283
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"8be3f71306d5e4804b114eb669ff7d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080383,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1360016589,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1360016589,
+    "wof:lastmodified":1537042760,
+    "wof:name":"Sector Loma Santa",
+    "wof:parent_id":102080383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.02962,
+    18.4905,
+    -67.02962,
+    18.4905
+],
+  "geometry": {"coordinates":[-67.02961999999999,18.4905],"type":"Point"}
+}

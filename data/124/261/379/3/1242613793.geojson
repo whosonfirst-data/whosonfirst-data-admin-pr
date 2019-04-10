@@ -1,0 +1,72 @@
+{
+  "id": 1242613793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.39932,18.44108,-66.39932,18.44108",
+    "geom:latitude":18.44108,
+    "geom:longitude":-66.39932,
+    "gn:admin1_code":"145",
+    "gn:admin2_code":"7268833",
+    "gn:asciiname":"Vega Baja Zona Urbana",
+    "gn:country_code":"PR",
+    "gn:dem":81,
+    "gn:elevation":"68.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7276395,
+    "gn:latitude":18.44108,
+    "gn:longitude":-66.39932,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Vega Baja Zona Urbana",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7276395
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"dffacfc647a4ec2f1f56602123329a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080305,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1242613793,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1242613793,
+    "wof:lastmodified":1537010789,
+    "wof:name":"Vega Baja Zona Urbana",
+    "wof:parent_id":102080305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.39931999999999,
+    18.44108,
+    -66.39931999999999,
+    18.44108
+],
+  "geometry": {"coordinates":[-66.39931999999999,18.44108],"type":"Point"}
+}

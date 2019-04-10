@@ -1,0 +1,63 @@
+{
+  "id": 1209345715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.18685,18.17151,-66.18685,18.17151",
+    "geom:latitude":18.17151,
+    "geom:longitude":-66.18685,
+    "gn:admin1_code":"041",
+    "gn:admin2_code":"7268873",
+    "gn:asciiname":"Parcelas la Milagrosa Comunidad",
+    "gn:country_code":"PR",
+    "gn:dem":537,
+    "gn:elevation":"549.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7274970,
+    "gn:latitude":18.17151,
+    "gn:longitude":-66.18685,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Parcelas la Milagrosa Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7274970
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"23e523f0ff27228207af2b8d73ac3393",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209345715
+        }
+    ],
+    "wof:id":1209345715,
+    "wof:lastmodified":1536289920,
+    "wof:name":"Parcelas la Milagrosa Comunidad",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.18685,
+    18.17151,
+    -66.18685,
+    18.17151
+],
+  "geometry": {"coordinates":[-66.18685000000001,18.17151],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310537543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.54823,18.26912,-66.54823,18.26912",
+    "geom:latitude":18.26912,
+    "geom:longitude":-66.54823,
+    "gn:admin1_code":"039",
+    "gn:admin2_code":"7268074",
+    "gn:asciiname":"Hacienda Garau",
+    "gn:country_code":"PR",
+    "gn:dem":515,
+    "gn:elevation":"505.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565208,
+    "gn:latitude":18.26912,
+    "gn:longitude":-66.54823,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda Garau",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565208
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"99b3a64c5e3a540768a90305539d9f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080317,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1310537543,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1310537543,
+    "wof:lastmodified":1536869502,
+    "wof:name":"Hacienda Garau",
+    "wof:parent_id":102080317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.54823,
+    18.26912,
+    -66.54823,
+    18.26912
+],
+  "geometry": {"coordinates":[-66.54823,18.26912],"type":"Point"}
+}

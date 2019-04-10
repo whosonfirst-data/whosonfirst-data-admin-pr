@@ -1,0 +1,75 @@
+{
+  "id": 1344091639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.83377,18.14468,-65.83377,18.14468",
+    "geom:latitude":18.14468,
+    "geom:longitude":-65.83377,
+    "gn:admin1_code":"069",
+    "gn:admin2_code":"7269029",
+    "gn:asciiname":"Patagonia",
+    "gn:country_code":"PR",
+    "gn:dem":26,
+    "gn:elevation":"23.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566651,
+    "gn:latitude":18.14468,
+    "gn:longitude":-65.83377,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Patagonia",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Patagonia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566651
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"a5302c2bbf4c2b013d701be62bbed1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080351,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1344091639,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1344091639,
+    "wof:lastmodified":1537683117,
+    "wof:name":"Patagonia",
+    "wof:parent_id":102080351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.83377,
+    18.14468,
+    -65.83377,
+    18.14468
+],
+  "geometry": {"coordinates":[-65.83377,18.14468],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310439297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.486,18.46967,-66.486,18.46967",
+    "geom:latitude":18.46967,
+    "geom:longitude":-66.486,
+    "gn:admin1_code":"091",
+    "gn:admin2_code":"7269037",
+    "gn:asciiname":"Los Molinos",
+    "gn:country_code":"PR",
+    "gn:dem":39,
+    "gn:elevation":"38.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566076,
+    "gn:latitude":18.46967,
+    "gn:longitude":-66.486,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Los Molinos",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566076
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"b80bae6cdb0053f07f77a92ddbb15f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080271,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1310439297,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1310439297,
+    "wof:lastmodified":1537011848,
+    "wof:name":"Los Molinos",
+    "wof:parent_id":102080271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.486,
+    18.46967,
+    -66.486,
+    18.46967
+],
+  "geometry": {"coordinates":[-66.486,18.46967],"type":"Point"}
+}

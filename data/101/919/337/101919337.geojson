@@ -1,0 +1,124 @@
+{
+  "id": 101919337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000145,
+    "geom:area_square_m":1704236.591596,
+    "geom:bbox":"-65.888645,18.42385,-65.872659,18.443777",
+    "geom:latitude":18.432021,
+    "geom:longitude":-65.879575,
+    "geonames:id":"4566022,7276366",
+    "iso:country":"PR",
+    "lbl:latitude":18.431427,
+    "lbl:longitude":-65.879574,
+    "mps:latitude":18.431427,
+    "mps:longitude":-65.879574,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u09b2\u09cb\u0987\u099c\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:chi_x_preferred":[
+        "\u6d1b\u4f0a\u85a9"
+    ],
+    "name:dut_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:eng_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:fre_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:ger_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:ita_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30a4\u30b5"
+    ],
+    "name:por_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:spa_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:srp_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0457\u0441\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u06cc\u0633\u0627\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Loiza"
+    ],
+    "qs:a0":"Puerto Rico",
+    "qs:a1":"*Puerto Rico",
+    "qs:a1_lc":"72",
+    "qs:a1r":"*",
+    "qs:adm0":"Puerto Rico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lo\u00edza",
+    "qs:loc_alt":"Lo\u00edza zona urbana",
+    "qs:loc_lc":"7246368",
+    "qs:pop":0,
+    "qs:source":"IUS Census",
+    "qs:type":"G4210",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":161371,
+        "wd:id":"Q1853983"
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"9a13ccf8068aa97945bf56a6141995e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080363,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919337,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":101919337,
+    "wof:lastmodified":1514497724,
+    "wof:name":"Lo\u00edza",
+    "wof:parent_id":102080363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.888645,
+    18.42385,
+    -65.872659,
+    18.443777
+],
+  "geometry": {"coordinates":[[[-65.887316,18.429222],[-65.886759,18.429821],[-65.88565199999999,18.431013],[-65.884736,18.432002],[-65.884057,18.432661],[-65.883582,18.433123],[-65.883504,18.433211],[-65.883267,18.433477],[-65.881908,18.434795],[-65.880472,18.43612],[-65.879887,18.436579],[-65.878471,18.437645],[-65.878083,18.437937],[-65.878231,18.438261],[-65.878212,18.438444],[-65.877674,18.443777],[-65.874607,18.441345],[-65.872659,18.439797],[-65.872703,18.439535],[-65.873142,18.436994],[-65.873993,18.43459],[-65.874295,18.43374],[-65.874577,18.433022],[-65.87523400000001,18.431339],[-65.875586,18.430419],[-65.875947,18.429481],[-65.876054,18.429215],[-65.876085,18.429108],[-65.876689,18.426975],[-65.87690000000001,18.425504],[-65.877078,18.424322],[-65.87906,18.424531],[-65.88045200000001,18.424678],[-65.880844,18.423899],[-65.88168400000001,18.42385],[-65.882238,18.424319],[-65.882446,18.424398],[-65.883179,18.424817],[-65.884238,18.425302],[-65.885682,18.425689],[-65.886557,18.425854],[-65.886838,18.425956],[-65.887101,18.426067],[-65.88708,18.426043],[-65.88704300000001,18.426011],[-65.887062,18.425997],[-65.887091,18.426006],[-65.887125,18.426013],[-65.887478,18.426128],[-65.887987,18.426535],[-65.888227,18.426806],[-65.88854600000001,18.427343],[-65.888645,18.427798],[-65.887316,18.429222]]],"type":"Polygon"}
+}

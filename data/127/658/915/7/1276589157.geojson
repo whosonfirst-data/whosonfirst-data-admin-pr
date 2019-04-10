@@ -1,0 +1,72 @@
+{
+  "id": 1276589157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.10907,18.08857,-67.10907,18.08857",
+    "geom:latitude":18.08857,
+    "geom:longitude":-67.10907,
+    "gn:admin1_code":"023",
+    "gn:admin2_code":"7268226",
+    "gn:asciiname":"Margarita",
+    "gn:country_code":"PR",
+    "gn:dem":27,
+    "gn:elevation":"20.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566168,
+    "gn:latitude":18.08857,
+    "gn:longitude":-67.10907,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Margarita",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566168
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"cb68090aae3d76e4cbcbee15b88d3d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080409,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1276589157,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1276589157,
+    "wof:lastmodified":1536934028,
+    "wof:name":"Margarita",
+    "wof:parent_id":102080409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.10906999999999,
+    18.08857,
+    -67.10906999999999,
+    18.08857
+],
+  "geometry": {"coordinates":[-67.10906999999999,18.08857],"type":"Point"}
+}

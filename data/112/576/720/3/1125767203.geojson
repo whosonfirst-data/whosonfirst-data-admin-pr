@@ -1,0 +1,151 @@
+{
+  "id": 1125767203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.02435,18.50078,-67.02435,18.50078",
+    "geom:latitude":18.50078,
+    "geom:longitude":-67.02435,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":12505,
+    "gn:population":12505,
+    "iso:country":"PR",
+    "lbl:latitude":18.50078,
+    "lbl:longitude":-67.02435,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u0987\u09b8\u09be\u09ac\u09c7\u09b2\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Isabela"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f0a\u85a9\u8c9d\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Isabela"
+    ],
+    "name:eng_x_preferred":[
+        "Isabela"
+    ],
+    "name:fre_x_preferred":[
+        "Isabela"
+    ],
+    "name:ita_x_preferred":[
+        "Isabela"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30b5\u30d9\u30e9"
+    ],
+    "name:lit_x_preferred":[
+        "Isabela"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06cc\u0632\u0627\u0628\u0644\u0627\u060c \u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Isabela"
+    ],
+    "name:por_x_preferred":[
+        "Isabela"
+    ],
+    "name:spa_x_preferred":[
+        "Isabela"
+    ],
+    "name:srp_x_preferred":[
+        "Isabela"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0441\u0430\u0431\u0435\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u0627\u0628\u06cc\u0644\u0627\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Isabela"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4565577,
+    "qs_pg:gn_pop":12505,
+    "qs_pg:name":"Isabela",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Isabela",
+    "qs_pg:photos":1058,
+    "qs_pg:photos_1k":214,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1058,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":489363,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":161222,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Isabela",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565577,
+        "gp:id":161222,
+        "qs_pg:id":489363,
+        "wd:id":"Q2307520"
+    },
+    "wof:country":"PR",
+    "wof:created":1497289941,
+    "wof:geomhash":"0c3fe99372ab81f28d34779586b9ea4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080383,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125767203,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125767203,
+    "wof:lastmodified":1553816520,
+    "wof:name":"Isabela",
+    "wof:parent_id":102080383,
+    "wof:placetype":"locality",
+    "wof:population":12505,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[
+        101919277
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.02435,
+    18.50078,
+    -67.02435,
+    18.50078
+],
+  "geometry": {"coordinates":[-67.02435,18.50078],"type":"Point"}
+}

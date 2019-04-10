@@ -1,0 +1,106 @@
+{
+  "id": 85799001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4953976.467368,
+    "geom:bbox":"-8.61761,41.152048,-8.61761,41.152048",
+    "geom:latitude":41.152048,
+    "geom:longitude":-8.61761,
+    "gn:latitude":41.15,
+    "gn:longitude":-8.6,
+    "iso:country":"PR",
+    "lbl:latitude":41.152048,
+    "lbl:longitude":-8.61761,
+    "mps:latitude":41.157499,
+    "mps:longitude":-8.61739,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:por_x_preferred":[
+        "Lapa"
+    ],
+    "name:unk_x_variant":[
+        "Lapa"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2735943,
+    "qs:gn_nam_loc":"Porto, Porto, Porto, Distrito do Porto, PT",
+    "qs:gn_namadm1":"17",
+    "qs:gn_name":"Lapa",
+    "qs:local_max":16116,
+    "qs:local_sum":20136,
+    "qs:localhoods":3,
+    "qs:name":"Lapa",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Porto",
+    "qs:name_adm2":"Porto",
+    "qs:name_local":"Porto",
+    "qs:photo_max":6413,
+    "qs:photo_sum":16116,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":79,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346575,
+    "qs:woe_adm2":12596515,
+    "qs:woe_lau":0,
+    "qs:woe_local":746203,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101752093,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738404,
+        "gp:id":742539,
+        "qs:id":891927
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"b56360ba472c534070185db35697de4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752093,
+            "neighbourhood_id":85799001,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":85799001,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1531861969,
+    "wof:name":"Lapa",
+    "wof:parent_id":101752093,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.61761,
+    41.152048,
+    -8.61761,
+    41.152048
+],
+  "geometry": {"coordinates":[-8.61761,41.152048],"type":"Point"}
+}

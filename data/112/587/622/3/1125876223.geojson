@@ -1,0 +1,145 @@
+{
+  "id": 1125876223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.86627,18.18301,-65.86627,18.18301",
+    "geom:latitude":18.18301,
+    "geom:longitude":-65.86627,
+    "gn:gn_country":"PR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6655,
+    "gn:population":6655,
+    "iso:country":"PR",
+    "lbl:latitude":18.18301,
+    "lbl:longitude":-65.86627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u09b2\u09be\u09b8 \u09aa\u09bf\u09af\u09bc\u09c7\u09a1\u09cd\u09b0\u09be\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Las Piedras"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u65af\u5f7c\u5fb7\u62c9\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Las Piedras"
+    ],
+    "name:eng_x_preferred":[
+        "Las Piedras"
+    ],
+    "name:fre_x_preferred":[
+        "Las Piedras"
+    ],
+    "name:ita_x_preferred":[
+        "Las Piedras"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30fb\u30d4\u30a8\u30c9\u30e9\u30b9"
+    ],
+    "name:por_x_preferred":[
+        "Las Piedras"
+    ],
+    "name:spa_x_preferred":[
+        "Las Piedras"
+    ],
+    "name:srp_x_preferred":[
+        "Las Piedras"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0441-\u041f'\u0454\u0434\u0440\u0430\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Ribera de las Piedras"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u067e\u06cc\u0688\u0631\u0627\u0633\u060c \u067e\u0648\u06cc\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Las Piedras"
+    ],
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4565980,
+    "qs_pg:gn_pop":6655,
+    "qs_pg:name":"Las Piedras",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Las Piedras",
+    "qs_pg:photos":216,
+    "qs_pg:photos_1k":44,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":216,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":154505,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":161352,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Las Piedras",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565980,
+        "gp:id":161352,
+        "qs_pg:id":154505,
+        "wd:id":"Q969918"
+    },
+    "wof:country":"PR",
+    "wof:created":1497294554,
+    "wof:geomhash":"4c75987f138ad22a4603c820496ca4fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080391,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1125876223,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1125876223,
+    "wof:lastmodified":1553816591,
+    "wof:name":"Las Piedras",
+    "wof:parent_id":102080391,
+    "wof:placetype":"locality",
+    "wof:population":6655,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[
+        101919331
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.86627,
+    18.18301,
+    -65.86627,
+    18.18301
+],
+  "geometry": {"coordinates":[-65.86627,18.18301],"type":"Point"}
+}

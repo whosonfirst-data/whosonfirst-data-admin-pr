@@ -1,0 +1,291 @@
+{
+  "id": 101919171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":64877.662487,
+    "geom:bbox":"-66.051492,18.289265,-66.046938,18.291732",
+    "geom:latitude":18.290461,
+    "geom:longitude":-66.049496,
+    "gn:elevation":56,
+    "iso:country":"PR",
+    "lbl:latitude":18.290402,
+    "lbl:longitude":-66.050477,
+    "mps:latitude":18.290402,
+    "mps:longitude":-66.050477,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Primera Divisi\u00f3n"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064a \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062f\u0645"
+    ],
+    "name:arg_x_preferred":[
+        "Primera divisi\u00f3n espanyola de f\u00fatbol"
+    ],
+    "name:ast_x_preferred":[
+        "Primera Divisi\u00f3n d'Espa\u00f1a"
+    ],
+    "name:aze_x_preferred":[
+        "La Liqa"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0430 \u041b\u0456\u0433\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041b\u044f \u041b\u0456\u0433\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u09b2\u09bf\u0997\u09be"
+    ],
+    "name:bos_x_preferred":[
+        "La Liga"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0438\u043c\u0435\u0440\u0430 \u0434\u0438\u0432\u0438\u0441\u0438\u043e\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Primera divisi\u00f3 espanyola de futbol"
+    ],
+    "name:ces_x_preferred":[
+        "Primera Divisi\u00f3n"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0644\u0627 \u0644\u06cc\u06af\u0627"
+    ],
+    "name:cym_x_preferred":[
+        "La Liga"
+    ],
+    "name:dan_x_preferred":[
+        "La Liga"
+    ],
+    "name:deu_x_preferred":[
+        "Primera Divisi\u00f3n"
+    ],
+    "name:diq_x_preferred":[
+        "La Liga"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03b9\u03bc\u03ad\u03c1\u03b1 \u039d\u03c4\u03b9\u03b2\u03b9\u03b6\u03b9\u03cc\u03bd"
+    ],
+    "name:est_x_preferred":[
+        "Primera Divisi\u00f3n"
+    ],
+    "name:eus_x_preferred":[
+        "Espainiako futbol ligako lehen maila"
+    ],
+    "name:fao_x_preferred":[
+        "La Liga"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627 \u0644\u06cc\u06af\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Primera Divisi\u00f3n"
+    ],
+    "name:fra_x_preferred":[
+        "Championnat d'Espagne de football"
+    ],
+    "name:gle_x_preferred":[
+        "Primera Divisi\u00f3n de Espa\u00f1a"
+    ],
+    "name:glg_x_preferred":[
+        "Primeira divisi\u00f3n espa\u00f1ola de f\u00fatbol"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d2\u05ea \u05d4\u05e2\u05dc \u05d4\u05e1\u05e4\u05e8\u05d3\u05d9\u05ea \u05d1\u05db\u05d3\u05d5\u05e8\u05d2\u05dc"
+    ],
+    "name:hrv_x_preferred":[
+        "La Liga"
+    ],
+    "name:hun_x_preferred":[
+        "Spanyol labdar\u00fag\u00f3-bajnoks\u00e1g"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561 \u053c\u056b\u0563\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "La Liga"
+    ],
+    "name:ita_x_preferred":[
+        "Primera Divisi\u00f3n"
+    ],
+    "name:jav_x_preferred":[
+        "La Liga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ea\u30e1\u30fc\u30e9\u30fb\u30c7\u30a3\u30d3\u30b7\u30aa\u30f3"
+    ],
+    "name:kaa_x_preferred":[
+        "La Liga"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e1\u10de\u10d0\u10dc\u10d4\u10d7\u10d8\u10e1 \u10de\u10e0\u10d8\u10db\u10d4\u10e0\u10d0 \u10d3\u10d8\u10d5\u10d8\u10d6\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0443\u0442\u0431\u043e\u043b\u0434\u0430\u043d \u0418\u0441\u043f\u0430\u043d\u0438\u044f \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442\u044b"
+    ],
+    "name:kir_x_preferred":[
+        "\u0418\u0441\u043f\u0430\u043d\u0438\u044f \u0444\u0443\u0442\u0431\u043e\u043b \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub9ac\uba54\ub77c\ub9ac\uac00"
+    ],
+    "name:lav_x_preferred":[
+        "Sp\u0101nijas futbola \u010dempion\u0101ta Pirm\u0101 div\u012bzija"
+    ],
+    "name:lit_x_preferred":[
+        "La Liga"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d32\u0d3e \u0d32\u0d3f\u0d17\u0d3e"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u093e \u0932\u0940\u0917\u093e"
+    ],
+    "name:min_x_preferred":[
+        "La Liga"
+    ],
+    "name:mlt_x_preferred":[
+        "La Liga"
+    ],
+    "name:msa_x_preferred":[
+        "La Liga"
+    ],
+    "name:mya_x_preferred":[
+        "\u101c\u102c \u101c\u102e\u1002\u102b"
+    ],
+    "name:nep_x_preferred":[
+        "\u0932\u093e \u0932\u093f\u0917\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Primera Divisi\u00f3n"
+    ],
+    "name:nno_x_preferred":[
+        "Primera Division"
+    ],
+    "name:nor_x_preferred":[
+        "Primera Divisi\u00f3n"
+    ],
+    "name:pol_x_preferred":[
+        "Primera Divisi\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "La Liga"
+    ],
+    "name:ron_x_preferred":[
+        "Primera Divisi\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u0418\u0441\u043f\u0430\u043d\u0438\u0438 \u043f\u043e \u0444\u0443\u0442\u0431\u043e\u043b\u0443"
+    ],
+    "name:sco_x_preferred":[
+        "La Liga"
+    ],
+    "name:slk_x_preferred":[
+        "La Liga"
+    ],
+    "name:spa_x_preferred":[
+        "Primera Divisi\u00f3n de Espa\u00f1a"
+    ],
+    "name:sqi_x_preferred":[
+        "La Liga"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0432\u0430 \u043b\u0438\u0433\u0430 \u0428\u043f\u0430\u043d\u0438\u0458\u0435 \u0443 \u0444\u0443\u0434\u0431\u0430\u043b\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "La Liga"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe \u0bb2\u0bc0\u0b95\u0bbe"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e32\u0e25\u0e35\u0e01\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "La Liga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u041b\u0456\u0433\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "La Liga"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u1ea3i b\u00f3ng \u0111\u00e1 v\u00f4 \u0111\u1ecbch qu\u1ed1c gia T\u00e2y Ban Nha"
+    ],
+    "name:wuu_x_preferred":[
+        "\u897f\u73ed\u7259\u8db3\u7403\u7532\u7ea7\u8054\u8d5b"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u73ed\u7259\u8db3\u7403\u7532\u7ea7\u8054\u8d5b"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u897f\u73ed\u7259\u7532\u7d44\u8db3\u7403\u806f\u8cfd"
+    ],
+    "qs:a0":"Puerto Rico",
+    "qs:a1":"*Puerto Rico",
+    "qs:a1_lc":"72",
+    "qs:a1r":"*",
+    "qs:adm0":"Puerto Rico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"La Liga",
+    "qs:loc_alt":"La Liga comunidad",
+    "qs:loc_lc":"7241274",
+    "qs:pop":0,
+    "qs:source":"IUS Census",
+    "qs:type":"G4210",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":3315,
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7315440,
+        "gp:id":55869969,
+        "wd:id":"Q324867"
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"1a266f1be2cb3e104862595abb13edb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080425,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919171,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":101919171,
+    "wof:lastmodified":1527715841,
+    "wof:name":"La Liga",
+    "wof:parent_id":102080425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.051492,
+    18.289265,
+    -66.046938,
+    18.291732
+],
+  "geometry": {"coordinates":[[[-66.05144900000001,18.29073],[-66.051399,18.290807],[-66.051334,18.290874],[-66.05121800000001,18.291017],[-66.051126,18.291104],[-66.051069,18.291173],[-66.050916,18.291196],[-66.050839,18.291233],[-66.050819,18.291324],[-66.05076200000001,18.291375],[-66.050708,18.291378],[-66.050594,18.291356],[-66.050325,18.291205],[-66.050258,18.291181],[-66.04997,18.291077],[-66.049778,18.29098],[-66.04955200000001,18.290847],[-66.048869,18.29065],[-66.04874,18.290849],[-66.048649,18.290947],[-66.048514,18.290892],[-66.048502,18.290924],[-66.048478,18.290994],[-66.048288,18.291265],[-66.048006,18.291732],[-66.047968,18.291701],[-66.047398,18.291236],[-66.046938,18.290813],[-66.046983,18.290778],[-66.04705800000001,18.290729],[-66.047146,18.290674],[-66.047161,18.290616],[-66.047195,18.290466],[-66.047281,18.290485],[-66.047371,18.290437],[-66.047449,18.290377],[-66.047516,18.290236],[-66.047517,18.29017],[-66.04790300000001,18.29002],[-66.048152,18.290081],[-66.048473,18.289942],[-66.048642,18.289985],[-66.048744,18.289978],[-66.049041,18.28994],[-66.049064,18.289886],[-66.049245,18.289936],[-66.049344,18.28991],[-66.049527,18.289983],[-66.049605,18.289979],[-66.049702,18.289934],[-66.04981100000001,18.289824],[-66.05017100000001,18.289613],[-66.05025000000001,18.289537],[-66.05029,18.289427],[-66.05034000000001,18.289369],[-66.05054800000001,18.289273],[-66.050755,18.289268],[-66.050859,18.289265],[-66.051118,18.289288],[-66.051249,18.289336],[-66.051294,18.289476],[-66.0513,18.289618],[-66.051225,18.289717],[-66.051193,18.289747],[-66.051226,18.289793],[-66.051314,18.28994],[-66.051395,18.29009],[-66.05144,18.290283],[-66.051492,18.290348],[-66.051406,18.290396],[-66.051475,18.290561],[-66.05144900000001,18.29073]]],"type":"Polygon"}
+}

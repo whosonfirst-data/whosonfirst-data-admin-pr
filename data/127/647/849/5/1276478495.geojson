@@ -1,0 +1,72 @@
+{
+  "id": 1276478495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.2424,18.31773,-67.2424,18.31773",
+    "geom:latitude":18.31773,
+    "geom:longitude":-67.2424,
+    "gn:admin1_code":"117",
+    "gn:admin2_code":"7268302",
+    "gn:asciiname":"Corcega",
+    "gn:country_code":"PR",
+    "gn:dem":10,
+    "gn:elevation":"1.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4563991,
+    "gn:latitude":18.31773,
+    "gn:longitude":-67.2424,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"C\u00f3rcega",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4563991
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"4408e86da1831c7683d237ac4f453095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080307,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1276478495,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1276478495,
+    "wof:lastmodified":1537078370,
+    "wof:name":"Corcega",
+    "wof:parent_id":102080307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.2424,
+    18.31773,
+    -67.2424,
+    18.31773
+],
+  "geometry": {"coordinates":[-67.2424,18.31773],"type":"Point"}
+}

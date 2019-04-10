@@ -1,0 +1,72 @@
+{
+  "id": 1242907529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.75879,18.09274,-66.75879,18.09274",
+    "geom:latitude":18.09274,
+    "geom:longitude":-66.75879,
+    "gn:admin1_code":"111",
+    "gn:admin2_code":"7268581",
+    "gn:asciiname":"Hacienda Loyola",
+    "gn:country_code":"PR",
+    "gn:dem":548,
+    "gn:elevation":"514.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565249,
+    "gn:latitude":18.09274,
+    "gn:longitude":-66.75879,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda Loyola",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565249
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"b0e7677d6de55726c71026f00ebbe031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080319,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1242907529,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1242907529,
+    "wof:lastmodified":1537082350,
+    "wof:name":"Hacienda Loyola",
+    "wof:parent_id":102080319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.75879,
+    18.09274,
+    -66.75879,
+    18.09274
+],
+  "geometry": {"coordinates":[-66.75879,18.09274],"type":"Point"}
+}

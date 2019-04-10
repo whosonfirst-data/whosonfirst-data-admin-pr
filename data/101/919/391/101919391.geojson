@@ -1,0 +1,78 @@
+{
+  "id": 101919391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:area_square_m":259811.355218,
+    "geom:bbox":"-65.825075,18.21456,-65.819336,18.220417",
+    "geom:latitude":18.217437,
+    "geom:longitude":-65.822196,
+    "geonames:id":"7274974,4566674",
+    "iso:country":"PR",
+    "lbl:latitude":18.217323,
+    "lbl:longitude":-65.822428,
+    "mps:latitude":18.217323,
+    "mps:longitude":-65.822428,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Puerto Rico",
+    "qs:a1":"*Puerto Rico",
+    "qs:a1_lc":"72",
+    "qs:a1r":"*",
+    "qs:adm0":"Puerto Rico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pe\u00f1a Pobre",
+    "qs:loc_alt":"Pe\u00f1a Pobre comunidad",
+    "qs:loc_lc":"7260945",
+    "qs:pop":0,
+    "qs:source":"IUS Census",
+    "qs:type":"G4210",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":161532
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"0a6787ee68d1cf49d5558c621c2264f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080355,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919391,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":101919391,
+    "wof:lastmodified":1509998588,
+    "wof:name":"Pe\u00f1a Pobre",
+    "wof:parent_id":102080355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.825075,
+    18.21456,
+    -65.819336,
+    18.220417
+],
+  "geometry": {"coordinates":[[[-65.82490900000001,18.216818],[-65.824561,18.218298],[-65.824432,18.218831],[-65.824056,18.22039],[-65.823971,18.220417],[-65.823491,18.220308],[-65.822929,18.220183],[-65.822354,18.220079],[-65.82223,18.220085],[-65.821798,18.219915],[-65.820881,18.219544],[-65.820869,18.219434],[-65.821016,18.219037],[-65.821112,18.218823],[-65.820097,18.218404],[-65.819745,18.21823],[-65.819458,18.217931],[-65.819428,18.217882],[-65.819345,18.217754],[-65.819395,18.217412],[-65.819492,18.217185],[-65.819785,18.216503],[-65.819339,18.216319],[-65.81933600000001,18.216225],[-65.819596,18.215464],[-65.819669,18.215214],[-65.819874,18.215299],[-65.820222,18.215438],[-65.820587,18.21456],[-65.822542,18.215249],[-65.823442,18.215584],[-65.825075,18.216252],[-65.82490900000001,18.216818]]],"type":"Polygon"}
+}

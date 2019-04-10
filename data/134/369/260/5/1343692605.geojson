@@ -1,0 +1,72 @@
+{
+  "id": 1343692605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.39878,17.96247,-66.39878,17.96247",
+    "geom:latitude":17.96247,
+    "geom:longitude":-66.39878,
+    "gn:admin1_code":"133",
+    "gn:admin2_code":"7268387",
+    "gn:asciiname":"Hacienda Florida",
+    "gn:country_code":"PR",
+    "gn:dem":9,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565205,
+    "gn:latitude":17.96247,
+    "gn:longitude":-66.39878,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda Florida",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565205
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"b83f0f0c36569e67ad12007e1f391574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080335,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1343692605,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1343692605,
+    "wof:lastmodified":1536909108,
+    "wof:name":"Hacienda Florida",
+    "wof:parent_id":102080335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.39878,
+    17.96247,
+    -66.39878,
+    17.96247
+],
+  "geometry": {"coordinates":[-66.39878,17.96247],"type":"Point"}
+}

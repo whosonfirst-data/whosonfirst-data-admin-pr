@@ -1,0 +1,63 @@
+{
+  "id": 1209251497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.89766,18.01163,-65.89766,18.01163",
+    "geom:latitude":18.01163,
+    "geom:longitude":-65.89766,
+    "gn:admin1_code":"095",
+    "gn:admin2_code":"7269022",
+    "gn:asciiname":"Vista Alegre",
+    "gn:country_code":"PR",
+    "gn:dem":35,
+    "gn:elevation":"29.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568709,
+    "gn:latitude":18.01163,
+    "gn:longitude":-65.89766,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Vista Alegre",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568709
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"4146fdc3ecad402486ec0613c8ab6c07",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209251497
+        }
+    ],
+    "wof:id":1209251497,
+    "wof:lastmodified":1536292990,
+    "wof:name":"Vista Alegre",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.89766,
+    18.01163,
+    -65.89766,
+    18.01163
+],
+  "geometry": {"coordinates":[-65.89766,18.01163],"type":"Point"}
+}

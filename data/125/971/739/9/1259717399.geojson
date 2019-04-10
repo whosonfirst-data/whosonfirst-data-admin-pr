@@ -1,0 +1,72 @@
+{
+  "id": 1259717399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.4085,18.32912,-66.4085,18.32912",
+    "geom:latitude":18.32912,
+    "geom:longitude":-66.4085,
+    "gn:admin1_code":"101",
+    "gn:admin2_code":"7268682",
+    "gn:asciiname":"Santa Domingo",
+    "gn:country_code":"PR",
+    "gn:dem":213,
+    "gn:elevation":"206.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568207,
+    "gn:latitude":18.32912,
+    "gn:longitude":-66.4085,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Santa Domingo",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568207
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"48884896b1341f0c946e43b9af53e852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080401,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1259717399,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1259717399,
+    "wof:lastmodified":1537017534,
+    "wof:name":"Santa Domingo",
+    "wof:parent_id":102080401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.4085,
+    18.32912,
+    -66.4085,
+    18.32912
+],
+  "geometry": {"coordinates":[-66.4085,18.32912],"type":"Point"}
+}

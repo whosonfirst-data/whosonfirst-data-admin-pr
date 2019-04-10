@@ -1,0 +1,72 @@
+{
+  "id": 1226579359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.47489,18.41578,-66.47489,18.41578",
+    "geom:latitude":18.41578,
+    "geom:longitude":-66.47489,
+    "gn:admin1_code":"091",
+    "gn:admin2_code":"7268117",
+    "gn:asciiname":"Sabana Seca",
+    "gn:country_code":"PR",
+    "gn:dem":107,
+    "gn:elevation":"107.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568022,
+    "gn:latitude":18.41578,
+    "gn:longitude":-66.47489,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Sabana Seca",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568022
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"59426eb44c358859ad47f7f5b8c88c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080271,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1226579359,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1226579359,
+    "wof:lastmodified":1536951555,
+    "wof:name":"Sabana Seca",
+    "wof:parent_id":102080271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.47489,
+    18.41578,
+    -66.47489,
+    18.41578
+],
+  "geometry": {"coordinates":[-66.47489,18.41578],"type":"Point"}
+}

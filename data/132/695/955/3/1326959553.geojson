@@ -1,0 +1,75 @@
+{
+  "id": 1326959553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.01711,18.2319,-66.01711,18.2319",
+    "geom:latitude":18.2319,
+    "geom:longitude":-66.01711,
+    "gn:admin1_code":"025",
+    "gn:admin2_code":"7269043",
+    "gn:asciiname":"Villa Criollos",
+    "gn:country_code":"PR",
+    "gn:dem":63,
+    "gn:elevation":"60.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568603,
+    "gn:latitude":18.2319,
+    "gn:longitude":-66.01711,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Villa Criollos",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villa de la Guadalope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568603
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"6bc8c9f455867f9d73b9cac770079631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080425,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1326959553,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1326959553,
+    "wof:lastmodified":1537683120,
+    "wof:name":"Villa Criollos",
+    "wof:parent_id":102080425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.01711,
+    18.2319,
+    -66.01711,
+    18.2319
+],
+  "geometry": {"coordinates":[-66.01711,18.2319],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310139509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.15572,18.18607,-66.15572,18.18607",
+    "geom:latitude":18.18607,
+    "geom:longitude":-66.15572,
+    "gn:admin1_code":"041",
+    "gn:admin2_code":"7268245",
+    "gn:asciiname":"Treasure Valley",
+    "gn:country_code":"PR",
+    "gn:dem":442,
+    "gn:elevation":"444.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568441,
+    "gn:latitude":18.18607,
+    "gn:longitude":-66.15572,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Treasure Valley",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568441
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"30b14f9b7dea888da0879be4205e0571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080345,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1310139509,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1310139509,
+    "wof:lastmodified":1536947844,
+    "wof:name":"Treasure Valley",
+    "wof:parent_id":102080345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.15572,
+    18.18607,
+    -66.15572,
+    18.18607
+],
+  "geometry": {"coordinates":[-66.15572,18.18607],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1292939629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.90108,18.00568,-65.90108,18.00568",
+    "geom:latitude":18.00568,
+    "geom:longitude":-65.90108,
+    "gn:admin1_code":"095",
+    "gn:admin2_code":"7268642",
+    "gn:asciiname":"Maunabo Zona Urbana",
+    "gn:country_code":"PR",
+    "gn:dem":14,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7276370,
+    "gn:latitude":18.00568,
+    "gn:longitude":-65.90108,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Maunabo Zona Urbana",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7276370
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"ceeb620f5f0d750280e6b45c52c687de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080389,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1292939629,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1292939629,
+    "wof:lastmodified":1537076822,
+    "wof:name":"Maunabo Zona Urbana",
+    "wof:parent_id":102080389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.90108000000001,
+    18.00567999999999,
+    -65.90108000000001,
+    18.00567999999999
+],
+  "geometry": {"coordinates":[-65.90108000000001,18.00567999999999],"type":"Point"}
+}

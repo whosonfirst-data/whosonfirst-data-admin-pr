@@ -1,0 +1,72 @@
+{
+  "id": 1226783095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.86683,18.17385,-65.86683,18.17385",
+    "geom:latitude":18.17385,
+    "geom:longitude":-65.86683,
+    "gn:admin1_code":"085",
+    "gn:admin2_code":"7268097",
+    "gn:asciiname":"Sector La Sabana",
+    "gn:country_code":"PR",
+    "gn:dem":123,
+    "gn:elevation":"121.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568278,
+    "gn:latitude":18.17385,
+    "gn:longitude":-65.86683,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Sector La Sabana",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568278
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"6469b42e6e68021b803f674aa53c2858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080391,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1226783095,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1226783095,
+    "wof:lastmodified":1536661806,
+    "wof:name":"Sector La Sabana",
+    "wof:parent_id":102080391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.86683000000001,
+    18.17385,
+    -65.86683000000001,
+    18.17385
+],
+  "geometry": {"coordinates":[-65.86683000000001,18.17385],"type":"Point"}
+}

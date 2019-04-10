@@ -1,0 +1,72 @@
+{
+  "id": 1310036235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.0235,18.35384,-66.0235,18.35384",
+    "geom:latitude":18.35384,
+    "geom:longitude":-66.0235,
+    "gn:admin1_code":"139",
+    "gn:admin2_code":"7268347",
+    "gn:asciiname":"Alturas de Fairview",
+    "gn:country_code":"PR",
+    "gn:dem":64,
+    "gn:elevation":"72.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4562575,
+    "gn:latitude":18.35384,
+    "gn:longitude":-66.0235,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Alturas de Fairview",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562575
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"08cedc2655c1f27106c65a4f7ae5407c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080361,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1310036235,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1310036235,
+    "wof:lastmodified":1537093271,
+    "wof:name":"Alturas de Fairview",
+    "wof:parent_id":102080361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.0235,
+    18.35384,
+    -66.0235,
+    18.35384
+],
+  "geometry": {"coordinates":[-66.0235,18.35384],"type":"Point"}
+}

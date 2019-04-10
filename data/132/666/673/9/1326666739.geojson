@@ -1,0 +1,72 @@
+{
+  "id": 1326666739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.02601,18.22079,-67.02601,18.22079",
+    "geom:latitude":18.22079,
+    "geom:longitude":-67.02601,
+    "gn:admin1_code":"083",
+    "gn:admin2_code":"7268904",
+    "gn:asciiname":"Hacienda Merle",
+    "gn:country_code":"PR",
+    "gn:dem":434,
+    "gn:elevation":"431.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565263,
+    "gn:latitude":18.22079,
+    "gn:longitude":-67.02601,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Hacienda Merle",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565263
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"48a6dda80afc85d4f2ed72232b75fbab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080281,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1326666739,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1326666739,
+    "wof:lastmodified":1536790456,
+    "wof:name":"Hacienda Merle",
+    "wof:parent_id":102080281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.02601,
+    18.22079,
+    -67.02601,
+    18.22079
+],
+  "geometry": {"coordinates":[-67.02601,18.22079],"type":"Point"}
+}

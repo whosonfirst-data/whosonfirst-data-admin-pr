@@ -1,0 +1,72 @@
+{
+  "id": 1209950745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.95462,18.06246,-66.95462,18.06246",
+    "geom:latitude":18.06246,
+    "geom:longitude":-66.95462,
+    "gn:admin1_code":"121",
+    "gn:admin2_code":"7268584",
+    "gn:asciiname":"La Pica",
+    "gn:country_code":"PR",
+    "gn:dem":119,
+    "gn:elevation":"109.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4565800,
+    "gn:latitude":18.06246,
+    "gn:longitude":-66.95462,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"La Pica",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4565800
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"1382fddc19e0233b57c8c8d8eda309c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080395,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1209950745,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1209950745,
+    "wof:lastmodified":1536383889,
+    "wof:name":"La Pica",
+    "wof:parent_id":102080395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.95461999999999,
+    18.06246,
+    -66.95461999999999,
+    18.06246
+],
+  "geometry": {"coordinates":[-66.95461999999999,18.06246],"type":"Point"}
+}

@@ -1,0 +1,432 @@
+{
+  "id": 1141909405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.1299792904,18.4400230092,-66.1299792904,18.4400230092",
+    "geom:latitude":18.440023,
+    "geom:longitude":-66.129979,
+    "iso:country":"PR",
+    "lbl:latitude":18.440023,
+    "lbl:longitude":-66.129979,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:afr_x_preferred":[
+        "San Juan"
+    ],
+    "name:alb_x_preferred":[
+        "San Huan"
+    ],
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0648\u0627\u0646\u060c \u0628\u0648\u0631\u062a\u0648\u0631\u064a\u0643\u0648"
+    ],
+    "name:arg_x_preferred":[
+        "San Juan"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0576 \u053d\u0578\u0582\u0561\u0576"
+    ],
+    "name:ast_x_preferred":[
+        "San Xuan"
+    ],
+    "name:aze_x_preferred":[
+        "San Xuan"
+    ],
+    "name:baq_x_preferred":[
+        "San Juan de Puerto Rico"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d-\u0425\u0443\u0430\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u099c\u09c1\u09af\u09bc\u09be\u09a8"
+    ],
+    "name:bos_x_preferred":[
+        "San Juan"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09b9\u09c1\u09f1\u09be\u09a8"
+    ],
+    "name:bre_x_preferred":[
+        "San Juan"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d \u0425\u0443\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "San Juan"
+    ],
+    "name:chi_x_preferred":[
+        "\u5723\u80e1\u5b89"
+    ],
+    "name:cor_x_preferred":[
+        "San Juan"
+    ],
+    "name:cze_x_preferred":[
+        "San Juan"
+    ],
+    "name:dan_x_preferred":[
+        "San Juan"
+    ],
+    "name:dut_x_preferred":[
+        "San Juan"
+    ],
+    "name:eng_x_preferred":[
+        "San Juan"
+    ],
+    "name:epo_x_preferred":[
+        "San-Juano"
+    ],
+    "name:est_x_preferred":[
+        "San Juan"
+    ],
+    "name:fin_x_preferred":[
+        "San Juan"
+    ],
+    "name:fre_x_preferred":[
+        "San Juan"
+    ],
+    "name:fry_x_preferred":[
+        "San Juan"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10e3\u10d0\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "San Juan"
+    ],
+    "name:gla_x_preferred":[
+        "San Juan"
+    ],
+    "name:gle_x_preferred":[
+        "San Juan"
+    ],
+    "name:glg_x_preferred":[
+        "San Xo\u00e1n"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c5\u03ac\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8 \u0a9c\u0ac1\u0a86\u0aa8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d7\u05d5\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u091c\u0941\u0906\u0928"
+    ],
+    "name:hrv_x_preferred":[
+        "San Juan"
+    ],
+    "name:hun_x_preferred":[
+        "San Juan"
+    ],
+    "name:ice_x_preferred":[
+        "San Juan"
+    ],
+    "name:ido_x_preferred":[
+        "San Juan"
+    ],
+    "name:ind_x_preferred":[
+        "San Juan"
+    ],
+    "name:ita_x_preferred":[
+        "San Juan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30d5\u30a2\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u200d\u0c89\u0cb5\u0cbe\u0ca8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud6c4\uc548"
+    ],
+    "name:lat_x_preferred":[
+        "Urbs Sancti Ioannis de Portu Divite"
+    ],
+    "name:lav_x_preferred":[
+        "Sanhuana"
+    ],
+    "name:lit_x_preferred":[
+        "San Chuanas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0430\u043d \u0425\u0443\u0430\u043d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0928 \u0939\u0941\u0906\u0928"
+    ],
+    "name:may_x_preferred":[
+        "San Juan"
+    ],
+    "name:mlg_x_preferred":[
+        "San Juan"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d"
+    ],
+    "name:nah_x_preferred":[
+        "San Juan"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u093e\u0928 \u0939\u0941\u0935\u093e\u0928"
+    ],
+    "name:nob_x_preferred":[
+        "San Juan"
+    ],
+    "name:oci_x_preferred":[
+        "San Juan"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a38\u0a3e\u0a28 \u0a39\u0a41\u0a06\u0a28"
+    ],
+    "name:pap_x_preferred":[
+        "San Juan"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0648\u0622\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "San Juan"
+    ],
+    "name:por_x_preferred":[
+        "San Juan"
+    ],
+    "name:que_x_preferred":[
+        "San Juan"
+    ],
+    "name:rum_x_preferred":[
+        "San Juan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "San Juan"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca \u0da2\u0dd4\u0dc0\u0db1\u0dca"
+    ],
+    "name:slo_x_preferred":[
+        "San Juan"
+    ],
+    "name:slv_x_preferred":[
+        "San Juan"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan"
+    ],
+    "name:srd_x_preferred":[
+        "San Juan"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u0425\u0443\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "San Juan"
+    ],
+    "name:szl_x_preferred":[
+        "San Juan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd \u0bb5\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c28\u0c4d \u0c39\u0c41\u0c35\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "San Juan"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e2e\u0e27\u0e19"
+    ],
+    "name:tuk_x_preferred":[
+        "San-Huan"
+    ],
+    "name:tur_x_preferred":[
+        "San Juan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u062c\u0648\u0622\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "San Xuan"
+    ],
+    "name:vep_x_preferred":[
+        "San Huan"
+    ],
+    "name:vie_x_preferred":[
+        "San Juan"
+    ],
+    "name:vol_x_preferred":[
+        "San Juan"
+    ],
+    "name:war_x_preferred":[
+        "San Juan"
+    ],
+    "name:wel_x_preferred":[
+        "San Juan"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10e3\u10d0\u10dc\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "San Juan"
+    ],
+    "name:yue_x_preferred":[
+        "\u8056\u74b0"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Puerto Rico",
+    "ne:ADM0_A3":"PRI",
+    "ne:ADM1NAME":null,
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":3,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed feature class.",
+    "ne:ELEVATION":7.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLC",
+    "ne:GEONAMEID":4568127,
+    "ne:GEONAMESNO":"GeoNames match with ascii name + lat + long whole numbers.",
+    "ne:GN_ASCII":"San Juan",
+    "ne:GN_POP":418140,
+    "ne:GTOPO30":4.0,
+    "ne:ISO_A2":"PR",
+    "ne:LABELRANK":0,
+    "ne:LATITUDE":18.440023,
+    "ne:LONGITUDE":-66.129979,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"San Juan1",
+    "ne:MAX_AREAKM":1473.0,
+    "ne:MAX_AREAMI":569.0,
+    "ne:MAX_BBXMAX":-65.766667,
+    "ne:MAX_BBXMIN":-66.429998,
+    "ne:MAX_BBYMAX":18.475,
+    "ne:MAX_BBYMIN":18.066667,
+    "ne:MAX_NATSCA":100.0,
+    "ne:MAX_PERKM":1363.0,
+    "ne:MAX_PERMI":847.0,
+    "ne:MAX_POP10":1943935,
+    "ne:MAX_POP20":1943935,
+    "ne:MAX_POP300":1983298,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":1983298,
+    "ne:MEAN_BBXC":-66.085077,
+    "ne:MEAN_BBYC":18.292643,
+    "ne:MEGACITY":1,
+    "ne:MEGANAME":"San Juan",
+    "ne:MIN_AREAKM":1437.0,
+    "ne:MIN_AREAMI":555.0,
+    "ne:MIN_BBXMAX":-65.766667,
+    "ne:MIN_BBXMIN":-66.516667,
+    "ne:MIN_BBYMAX":18.466667,
+    "ne:MIN_BBYMIN":18.066667,
+    "ne:MIN_PERKM":1323.0,
+    "ne:MIN_PERMI":822.0,
+    "ne:NAME":"San Juan",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"San Juan",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":110,
+    "ne:NOTE":null,
+    "ne:POP1950":451,
+    "ne:POP1955":517,
+    "ne:POP1960":596,
+    "ne:POP1965":740,
+    "ne:POP1970":915,
+    "ne:POP1975":1069,
+    "ne:POP1980":1244,
+    "ne:POP1985":1381,
+    "ne:POP1990":1539,
+    "ne:POP1995":1855,
+    "ne:POP2000":2237,
+    "ne:POP2005":2604,
+    "ne:POP2010":2690,
+    "ne:POP2015":2758,
+    "ne:POP2020":2795,
+    "ne:POP2025":2803,
+    "ne:POP2050":2803,
+    "ne:POP_MAX":2478905,
+    "ne:POP_MIN":395326,
+    "ne:POP_OTHER":398007,
+    "ne:RANK_MAX":12,
+    "ne:RANK_MIN":10,
+    "ne:SCALERANK":3,
+    "ne:SOV0NAME":"United States",
+    "ne:SOV_A3":"USA",
+    "ne:TIMEZONE":"America/Puerto_Rico",
+    "ne:UN_ADM0":"Puerto Rico",
+    "ne:UN_FID":421,
+    "ne:UN_LAT":18.8,
+    "ne:UN_LONG":-71.22,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":5.0,
+    "reversegeo:latitude":18.440023,
+    "reversegeo:longitude":-66.129979,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q41211"
+    },
+    "wof:country":"PR",
+    "wof:created":1499131075,
+    "wof:geomhash":"c59823fe8a3a6d14ed37d26d28190ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080289,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1141909405,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1141909405,
+    "wof:lastmodified":1534379417,
+    "wof:name":"San Juan",
+    "wof:parent_id":102080289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[
+        101919427
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.12997929041614,
+    18.44002300920477,
+    -66.12997929041614,
+    18.44002300920477
+],
+  "geometry": {"coordinates":[-66.12997929041614,18.44002300920477],"type":"Point"}
+}

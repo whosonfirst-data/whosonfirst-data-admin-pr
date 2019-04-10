@@ -1,0 +1,72 @@
+{
+  "id": 1293329207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.13518,18.20468,-67.13518,18.20468",
+    "geom:latitude":18.20468,
+    "geom:longitude":-67.13518,
+    "gn:admin1_code":"097",
+    "gn:admin2_code":"7268645",
+    "gn:asciiname":"Paris",
+    "gn:country_code":"PR",
+    "gn:dem":12,
+    "gn:elevation":"8.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566515,
+    "gn:latitude":18.20468,
+    "gn:longitude":-67.13518,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Paris",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566515
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"5162fa39cdec890aad91e41cf55ca674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080311,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1293329207,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1293329207,
+    "wof:lastmodified":1537014467,
+    "wof:name":"Paris",
+    "wof:parent_id":102080311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.13518,
+    18.20468,
+    -67.13518,
+    18.20468
+],
+  "geometry": {"coordinates":[-67.13518000000001,18.20468],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310042231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.10905,17.98497,-66.10905,17.98497",
+    "geom:latitude":17.98497,
+    "geom:longitude":-66.10905,
+    "gn:admin1_code":"057",
+    "gn:admin2_code":"7268439",
+    "gn:asciiname":"Carioca",
+    "gn:country_code":"PR",
+    "gn:dem":62,
+    "gn:elevation":"62.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4563236,
+    "gn:latitude":17.98497,
+    "gn:longitude":-66.10905,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Carioca",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4563236
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"feb885b83e0687c24e7286484fcc8b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080373,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1310042231,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1310042231,
+    "wof:lastmodified":1537084457,
+    "wof:name":"Carioca",
+    "wof:parent_id":102080373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.10905,
+    17.98497,
+    -66.10905,
+    17.98497
+],
+  "geometry": {"coordinates":[-66.10905,17.98497],"type":"Point"}
+}

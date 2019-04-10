@@ -1,0 +1,72 @@
+{
+  "id": 1243300503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.54323,18.01469,-66.54323,18.01469",
+    "geom:latitude":18.01469,
+    "geom:longitude":-66.54323,
+    "gn:admin1_code":"113",
+    "gn:admin2_code":"7269066",
+    "gn:asciiname":"Ventura",
+    "gn:country_code":"PR",
+    "gn:dem":18,
+    "gn:elevation":"16.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568542,
+    "gn:latitude":18.01469,
+    "gn:longitude":-66.54323,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Ventura",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568542
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"4c985e1e465ff9ffa09badd1017fadff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080299,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1243300503,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1243300503,
+    "wof:lastmodified":1537015080,
+    "wof:name":"Ventura",
+    "wof:parent_id":102080299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.54323000000001,
+    18.01469,
+    -66.54323000000001,
+    18.01469
+],
+  "geometry": {"coordinates":[-66.54323000000001,18.01469],"type":"Point"}
+}

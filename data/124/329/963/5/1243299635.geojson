@@ -1,0 +1,72 @@
+{
+  "id": 1243299635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.46434,18.34384,-66.46434,18.34384",
+    "geom:latitude":18.34384,
+    "geom:longitude":-66.46434,
+    "gn:admin1_code":"039",
+    "gn:admin2_code":"7268508",
+    "gn:asciiname":"Residencial Colinas de Jaguas",
+    "gn:country_code":"PR",
+    "gn:dem":100,
+    "gn:elevation":"98.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4567647,
+    "gn:latitude":18.34384,
+    "gn:longitude":-66.46434,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Residencial Colinas de Jaguas",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4567647
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"caa4d329479297e41e65214b29497f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080317,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1243299635,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1243299635,
+    "wof:lastmodified":1537016379,
+    "wof:name":"Residencial Colinas de Jaguas",
+    "wof:parent_id":102080317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.46434,
+    18.34384,
+    -66.46434,
+    18.34384
+],
+  "geometry": {"coordinates":[-66.46434000000001,18.34384],"type":"Point"}
+}

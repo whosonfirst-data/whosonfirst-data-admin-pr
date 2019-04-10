@@ -1,0 +1,72 @@
+{
+  "id": 1259411999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.22267,18.22023,-66.22267,18.22023",
+    "geom:latitude":18.22023,
+    "geom:longitude":-66.22267,
+    "gn:admin1_code":"045",
+    "gn:admin2_code":"7268100",
+    "gn:asciiname":"Comunidad Las Casitas",
+    "gn:country_code":"PR",
+    "gn:dem":225,
+    "gn:elevation":"220.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4563947,
+    "gn:latitude":18.22023,
+    "gn:longitude":-66.22267,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Comunidad Las Casitas",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4563947
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"7102df0902e90ae32fd66cea7645de71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080291,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1259411999,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1259411999,
+    "wof:lastmodified":1536961525,
+    "wof:name":"Comunidad Las Casitas",
+    "wof:parent_id":102080291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.22267,
+    18.22023,
+    -66.22267,
+    18.22023
+],
+  "geometry": {"coordinates":[-66.22266999999999,18.22023],"type":"Point"}
+}

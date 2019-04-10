@@ -1,0 +1,112 @@
+{
+  "id": 85866319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1164515.833029,
+    "geom:bbox":"-66.051796,18.403683,-66.051796,18.403683",
+    "geom:latitude":18.403683,
+    "geom:longitude":-66.051796,
+    "gn:elevation":16,
+    "iso:country":"PR",
+    "lbl:latitude":18.403683,
+    "lbl:longitude":-66.051796,
+    "mps:latitude":18.404778,
+    "mps:longitude":-66.051506,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Lopez Sicardo"
+    ],
+    "name:unk_x_variant":[
+        "Lopez Sicardo"
+    ],
+    "qs:gn_adm0_cc":"PR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":4568220,
+    "qs:gn_nam_loc":"aguacate",
+    "qs:gn_namadm1":"127",
+    "qs:gn_name":"Lopez Sicardo",
+    "qs:local_max":29505,
+    "qs:local_sum":50313,
+    "qs:localhoods":63,
+    "qs:name":"Lopez Sicardo",
+    "qs:name_adm0":"Puerto Rico",
+    "qs:name_adm1":"San Juan",
+    "qs:name_adm2":"Pueblo",
+    "qs:name_local":"San Juan",
+    "qs:photo_max":138,
+    "qs:photo_sum":239,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424935,
+    "qs:woe_adm1":2346815,
+    "qs:woe_adm2":26806701,
+    "qs:woe_lau":0,
+    "qs:woe_local":161685,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        101919427,
+        136253057,
+        102080441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566044,
+        "gp:id":24551047,
+        "qs:id":1193389,
+        "wd:id":"Q6711311",
+        "wk:page":"L\u00f3pez Sicard\u00f3 (Oriente)"
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"8d5a1cbd7545a01e4d79ee86afb7472d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919427,
+            "neighbourhood_id":85866319,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":85866319,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531871164,
+    "wof:name":"Lopez Sicardo",
+    "wof:parent_id":101919427,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.051796,
+    18.403683,
+    -66.051796,
+    18.403683
+],
+  "geometry": {"coordinates":[-66.051796,18.403683],"type":"Point"}
+}

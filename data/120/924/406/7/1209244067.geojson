@@ -1,0 +1,63 @@
+{
+  "id": 1209244067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.66434,18.03941,-66.66434,18.03941",
+    "geom:latitude":18.03941,
+    "geom:longitude":-66.66434,
+    "gn:admin1_code":"113",
+    "gn:admin2_code":"7268860",
+    "gn:asciiname":"Pastillo Cana",
+    "gn:country_code":"PR",
+    "gn:dem":52,
+    "gn:elevation":"44.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4566647,
+    "gn:latitude":18.03941,
+    "gn:longitude":-66.66434,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Pastillo Cana",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4566647
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"be7bf22ef1002149f30aa6320c21acbe",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209244067
+        }
+    ],
+    "wof:id":1209244067,
+    "wof:lastmodified":1536293225,
+    "wof:name":"Pastillo Cana",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.66434,
+    18.03941,
+    -66.66434,
+    18.03941
+],
+  "geometry": {"coordinates":[-66.66434,18.03941],"type":"Point"}
+}

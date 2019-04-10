@@ -1,0 +1,72 @@
+{
+  "id": 1310441689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.901,18.3805,-65.901,18.3805",
+    "geom:latitude":18.3805,
+    "geom:longitude":-65.901,
+    "gn:admin1_code":"029",
+    "gn:admin2_code":"7268328",
+    "gn:asciiname":"Country View",
+    "gn:country_code":"PR",
+    "gn:dem":9,
+    "gn:elevation":"7.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4564033,
+    "gn:latitude":18.3805,
+    "gn:longitude":-65.901,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Country View",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        136253057,
+        102080387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564033
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"3f0e141792e91c3d10c8bb77076d070e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080387,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":1310441689,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1310441689,
+    "wof:lastmodified":1537008245,
+    "wof:name":"Country View",
+    "wof:parent_id":102080387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.90100000000001,
+    18.3805,
+    -65.90100000000001,
+    18.3805
+],
+  "geometry": {"coordinates":[-65.90100000000001,18.3805],"type":"Point"}
+}

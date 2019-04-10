@@ -1,0 +1,66 @@
+{
+  "id": 1209348039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.14018,18.19523,-67.14018,18.19523",
+    "geom:latitude":18.19523,
+    "geom:longitude":-67.14018,
+    "gn:admin1_code":"097",
+    "gn:admin2_code":"7268645",
+    "gn:asciiname":"Santurce",
+    "gn:country_code":"PR",
+    "gn:dem":7,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4568256,
+    "gn:latitude":18.19523,
+    "gn:longitude":-67.14018,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Santurce",
+    "gn:population":0,
+    "gn:timezone":"America/Puerto_Rico",
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sector Sancture"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568256
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"a8b2a2890b7958495caa9d8a4dbebdc1",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85633729,
+            "locality_id":1209348039
+        }
+    ],
+    "wof:id":1209348039,
+    "wof:lastmodified":1537683119,
+    "wof:name":"Santurce",
+    "wof:parent_id":85633729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.14018,
+    18.19523,
+    -67.14018,
+    18.19523
+],
+  "geometry": {"coordinates":[-67.14018,18.19523],"type":"Point"}
+}

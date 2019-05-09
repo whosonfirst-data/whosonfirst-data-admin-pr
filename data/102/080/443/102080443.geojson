@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Bayam\u00f3n Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Bayam\u00f3n"
     ],
@@ -48,6 +51,9 @@
         "Bayam\u00f3n"
     ],
     "name:fra_x_preferred":[
+        "Bayam\u00f3n"
+    ],
+    "name:fre_x_preferred":[
         "Bayam\u00f3n"
     ],
     "name:ita_x_preferred":[
@@ -125,7 +131,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292502,
+    "wof:lastmodified":1555092049,
     "wof:name":"Bayam\u00f3n",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

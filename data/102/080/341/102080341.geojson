@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Ceiba Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Ceiba"
     ],
@@ -50,6 +53,9 @@
         "Kapokkipuut"
     ],
     "name:fra_x_preferred":[
+        "Ceiba"
+    ],
+    "name:fre_x_preferred":[
         "Ceiba"
     ],
     "name:ita_x_preferred":[
@@ -158,7 +164,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292497,
+    "wof:lastmodified":1555092044,
     "wof:name":"Ceiba",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

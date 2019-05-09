@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Fajardo Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Fajardo"
     ],
@@ -95,7 +98,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292495,
+    "wof:lastmodified":1555092042,
     "wof:name":"Fajardo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

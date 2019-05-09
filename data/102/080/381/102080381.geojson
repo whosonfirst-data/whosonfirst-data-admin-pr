@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Hatillo Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Hatillo"
     ],
@@ -29,6 +32,9 @@
         "Hatillo Municipality"
     ],
     "name:fra_x_preferred":[
+        "Hatillo"
+    ],
+    "name:fre_x_preferred":[
         "Hatillo"
     ],
     "name:ita_x_preferred":[
@@ -108,7 +114,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292499,
+    "wof:lastmodified":1555092046,
     "wof:name":"Hatillo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

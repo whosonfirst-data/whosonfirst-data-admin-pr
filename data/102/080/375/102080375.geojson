@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Barceloneta Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Barceloneta"
     ],
@@ -32,6 +35,9 @@
         "Barceloneta Municipality"
     ],
     "name:fra_x_preferred":[
+        "Barceloneta"
+    ],
+    "name:fre_x_preferred":[
         "Barceloneta"
     ],
     "name:ita_x_preferred":[
@@ -111,7 +117,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292499,
+    "wof:lastmodified":1555092046,
     "wof:name":"Barceloneta",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

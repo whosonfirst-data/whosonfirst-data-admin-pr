@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Trujillo Alto Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Trujillo Alto"
     ],
@@ -94,7 +97,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292498,
+    "wof:lastmodified":1555092045,
     "wof:name":"Trujillo Alto",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

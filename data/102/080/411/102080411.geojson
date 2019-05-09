@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "San Sebasti\u00e1n Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de San Sebasti\u00e1n"
     ],
@@ -93,7 +96,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292500,
+    "wof:lastmodified":1555092048,
     "wof:name":"San Sebasti\u00e1n",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

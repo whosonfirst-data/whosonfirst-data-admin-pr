@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Hormigueros Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Hormigueros"
     ],
@@ -94,7 +97,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292500,
+    "wof:lastmodified":1555092047,
     "wof:name":"Hormigueros",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

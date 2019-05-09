@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Morovis Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Morovis"
     ],
@@ -35,6 +38,9 @@
         "Morovis Municipality"
     ],
     "name:fra_x_preferred":[
+        "Morovis"
+    ],
+    "name:fre_x_preferred":[
         "Morovis"
     ],
     "name:hbs_x_preferred":[
@@ -130,7 +136,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292500,
+    "wof:lastmodified":1555092047,
     "wof:name":"Morovis",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

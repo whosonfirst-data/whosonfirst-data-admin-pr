@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Lo\u00edza Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Lo\u00edza"
     ],
@@ -39,6 +42,9 @@
         "Lo\u00edza"
     ],
     "name:fra_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:fre_x_preferred":[
         "Lo\u00edza"
     ],
     "name:hbs_x_preferred":[
@@ -125,7 +131,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292498,
+    "wof:lastmodified":1555092045,
     "wof:name":"Lo\u00edza",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Juana D\u00edaz Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Juana D\u00edaz"
     ],
@@ -95,7 +98,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292501,
+    "wof:lastmodified":1555092048,
     "wof:name":"Juana D\u00edaz",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

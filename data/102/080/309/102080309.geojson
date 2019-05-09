@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "San Lorenzo Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de San Lorenzo"
     ],
@@ -93,7 +96,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292496,
+    "wof:lastmodified":1555092043,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

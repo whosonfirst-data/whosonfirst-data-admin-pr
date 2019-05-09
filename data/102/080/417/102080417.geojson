@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Dorado Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Dorado"
     ],
@@ -92,6 +95,9 @@
         "Kultakala"
     ],
     "name:fra_x_preferred":[
+        "Dorade"
+    ],
+    "name:fre_x_preferred":[
         "Dorade"
     ],
     "name:gle_x_preferred":[
@@ -286,7 +292,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292501,
+    "wof:lastmodified":1555092048,
     "wof:name":"Dorado",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

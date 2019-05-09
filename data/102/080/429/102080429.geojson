@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Gu\u00e1nica Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Gu\u00e1nica"
     ],
@@ -42,6 +45,9 @@
         "Gu\u00e1nica"
     ],
     "name:fra_x_preferred":[
+        "Gu\u00e1nica"
+    ],
+    "name:fre_x_preferred":[
         "Gu\u00e1nica"
     ],
     "name:ita_x_preferred":[
@@ -126,7 +132,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292501,
+    "wof:lastmodified":1555092048,
     "wof:name":"Gu\u00e1nica",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

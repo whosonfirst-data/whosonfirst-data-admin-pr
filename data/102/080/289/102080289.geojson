@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Cata\u00f1o Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Cata\u00f1o"
     ],
@@ -36,6 +39,9 @@
         "Cata\u00f1o"
     ],
     "name:fra_x_preferred":[
+        "Cata\u00f1o"
+    ],
+    "name:fre_x_preferred":[
         "Cata\u00f1o"
     ],
     "name:hbs_x_preferred":[
@@ -125,7 +131,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292495,
+    "wof:lastmodified":1555092042,
     "wof:name":"Cata\u00f1o",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

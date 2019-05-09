@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Moca Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Moca"
     ],
@@ -32,6 +35,9 @@
         "Moca Municipality"
     ],
     "name:fra_x_preferred":[
+        "Moca"
+    ],
+    "name:fre_x_preferred":[
         "Moca"
     ],
     "name:hbs_x_preferred":[
@@ -120,7 +126,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292501,
+    "wof:lastmodified":1555092048,
     "wof:name":"Moca",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

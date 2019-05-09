@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Las Mar\u00edas Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Las Mar\u00edas"
     ],
@@ -36,6 +39,9 @@
         "Las Mar\u00edas"
     ],
     "name:fra_x_preferred":[
+        "Las Mar\u00edas"
+    ],
+    "name:fre_x_preferred":[
         "Las Mar\u00edas"
     ],
     "name:hbs_x_preferred":[
@@ -125,7 +131,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292495,
+    "wof:lastmodified":1555092042,
     "wof:name":"Las Mar\u00edas",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

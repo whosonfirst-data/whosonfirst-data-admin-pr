@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "San Juan Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de San Juan"
     ],
@@ -92,7 +95,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292502,
+    "wof:lastmodified":1555092049,
     "wof:name":"San Juan",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

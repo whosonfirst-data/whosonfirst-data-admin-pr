@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Coamo Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Coamo"
     ],
@@ -35,6 +38,9 @@
         "Coamo Municipality"
     ],
     "name:fra_x_preferred":[
+        "Coamo"
+    ],
+    "name:fre_x_preferred":[
         "Coamo"
     ],
     "name:hbs_x_preferred":[
@@ -136,7 +142,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292495,
+    "wof:lastmodified":1555092042,
     "wof:name":"Coamo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

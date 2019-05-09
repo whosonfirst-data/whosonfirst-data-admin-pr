@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Manat\u00ed Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Manat\u00ed"
     ],
@@ -36,6 +39,9 @@
         "Manat\u00ed"
     ],
     "name:fra_x_preferred":[
+        "Manat\u00ed"
+    ],
+    "name:fre_x_preferred":[
         "Manat\u00ed"
     ],
     "name:fry_x_preferred":[
@@ -125,7 +131,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292495,
+    "wof:lastmodified":1555092042,
     "wof:name":"Manat\u00ed",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

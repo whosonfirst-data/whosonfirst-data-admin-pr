@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Villalba Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Villalba"
     ],
@@ -93,7 +96,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292499,
+    "wof:lastmodified":1555092046,
     "wof:name":"Villalba",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

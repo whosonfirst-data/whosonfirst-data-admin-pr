@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Mayag\u00fcez Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Mayag\u00fcez"
     ],
@@ -48,6 +51,9 @@
         "\u0645\u0627\u06cc\u0627\u06af\u0648\u0626\u0632"
     ],
     "name:fra_x_preferred":[
+        "Mayag\u00fcez"
+    ],
+    "name:fre_x_preferred":[
         "Mayag\u00fcez"
     ],
     "name:glg_x_preferred":[
@@ -125,7 +131,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292496,
+    "wof:lastmodified":1555092043,
     "wof:name":"Mayag\u00fcez",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

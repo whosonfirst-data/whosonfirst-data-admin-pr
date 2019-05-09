@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Orocovis Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Orocovis"
     ],
@@ -35,6 +38,9 @@
         "Orocovis Municipality"
     ],
     "name:fra_x_preferred":[
+        "Orocovis"
+    ],
+    "name:fre_x_preferred":[
         "Orocovis"
     ],
     "name:hbs_x_preferred":[
@@ -133,7 +139,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292501,
+    "wof:lastmodified":1555092048,
     "wof:name":"Orocovis",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

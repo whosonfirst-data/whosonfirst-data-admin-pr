@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Luquillo Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Luquillo"
     ],
@@ -94,7 +97,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292497,
+    "wof:lastmodified":1555092044,
     "wof:name":"Luquillo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

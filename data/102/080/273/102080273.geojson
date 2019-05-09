@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Culebra Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Culebra"
     ],
@@ -29,6 +32,9 @@
         "Culebra Municipality"
     ],
     "name:fra_x_preferred":[
+        "Culebra"
+    ],
+    "name:fre_x_preferred":[
         "Culebra"
     ],
     "name:ita_x_preferred":[
@@ -108,7 +114,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292495,
+    "wof:lastmodified":1555092042,
     "wof:name":"Culebra",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

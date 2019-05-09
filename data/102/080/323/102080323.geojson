@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "A\u00f1asco Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de A\u00f1asco"
     ],
@@ -36,6 +39,9 @@
         "A\u00f1asco"
     ],
     "name:fra_x_preferred":[
+        "A\u00f1asco"
+    ],
+    "name:fre_x_preferred":[
         "A\u00f1asco"
     ],
     "name:hbs_x_preferred":[
@@ -125,7 +131,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292497,
+    "wof:lastmodified":1555092044,
     "wof:name":"A\u00f1asco",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

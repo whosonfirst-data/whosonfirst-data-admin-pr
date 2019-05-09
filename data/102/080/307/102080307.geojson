@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Rinc\u00f3n Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Rinc\u00f3n"
     ],
@@ -36,6 +39,9 @@
         "Rinc\u00f3n"
     ],
     "name:fra_x_preferred":[
+        "Rinc\u00f3n"
+    ],
+    "name:fre_x_preferred":[
         "Rinc\u00f3n"
     ],
     "name:hbs_x_preferred":[
@@ -136,7 +142,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292496,
+    "wof:lastmodified":1555092043,
     "wof:name":"Rinc\u00f3n",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

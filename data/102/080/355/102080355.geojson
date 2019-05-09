@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Naguabo Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Naguabo"
     ],
@@ -94,7 +97,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292498,
+    "wof:lastmodified":1555092045,
     "wof:name":"Naguabo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

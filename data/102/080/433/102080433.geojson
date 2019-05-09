@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Utuado Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Utuado"
     ],
@@ -94,7 +97,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292501,
+    "wof:lastmodified":1555092049,
     "wof:name":"Utuado",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Vieques Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Vieques"
     ],
@@ -62,6 +65,9 @@
         "Vieques"
     ],
     "name:fra_x_preferred":[
+        "Vieques"
+    ],
+    "name:fre_x_preferred":[
         "Vieques"
     ],
     "name:hbs_x_preferred":[
@@ -187,7 +193,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292496,
+    "wof:lastmodified":1555092043,
     "wof:name":"Vieques",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

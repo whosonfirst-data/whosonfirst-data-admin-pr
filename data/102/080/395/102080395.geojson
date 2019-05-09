@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Sabana Grande Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Sabana Grande"
     ],
@@ -93,7 +96,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292500,
+    "wof:lastmodified":1555092047,
     "wof:name":"Sabana Grande",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

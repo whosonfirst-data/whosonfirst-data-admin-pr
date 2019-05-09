@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Can\u00f3vanas Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Can\u00f3vanas"
     ],
@@ -36,6 +39,9 @@
         "Can\u00f3vanas"
     ],
     "name:fra_x_preferred":[
+        "Can\u00f3vanas"
+    ],
+    "name:fre_x_preferred":[
         "Can\u00f3vanas"
     ],
     "name:hbs_x_preferred":[
@@ -125,7 +131,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292499,
+    "wof:lastmodified":1555092046,
     "wof:name":"Can\u00f3vanas",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

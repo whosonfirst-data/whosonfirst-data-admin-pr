@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Jayuya Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Jayuya"
     ],
@@ -35,6 +38,9 @@
         "Jayuya Municipality"
     ],
     "name:fra_x_preferred":[
+        "Jayuya"
+    ],
+    "name:fre_x_preferred":[
         "Jayuya"
     ],
     "name:hbs_x_preferred":[
@@ -133,7 +139,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292500,
+    "wof:lastmodified":1555092047,
     "wof:name":"Jayuya",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

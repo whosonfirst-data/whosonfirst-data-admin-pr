@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Patillas Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Patillas"
     ],
@@ -94,7 +97,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292502,
+    "wof:lastmodified":1555092049,
     "wof:name":"Patillas",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

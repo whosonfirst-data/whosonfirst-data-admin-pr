@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Cabo Rojo Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Cabo Rojo"
     ],
@@ -32,6 +35,9 @@
         "Cabo Rojo Municipality"
     ],
     "name:fra_x_preferred":[
+        "Cabo Rojo"
+    ],
+    "name:fre_x_preferred":[
         "Cabo Rojo"
     ],
     "name:ita_x_preferred":[
@@ -105,7 +111,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292500,
+    "wof:lastmodified":1555092048,
     "wof:name":"Cabo Rojo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Pe\u00f1uelas Municipality"
     ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:spa_x_preferred_longname":[
         "Municipio de Pe\u00f1uelas"
     ],
@@ -36,6 +39,9 @@
         "Pe\u00f1uelas"
     ],
     "name:fra_x_preferred":[
+        "Pe\u00f1uelas"
+    ],
+    "name:fre_x_preferred":[
         "Pe\u00f1uelas"
     ],
     "name:hbs_x_preferred":[
@@ -125,7 +131,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1553292497,
+    "wof:lastmodified":1555092044,
     "wof:name":"Pe\u00f1uelas",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

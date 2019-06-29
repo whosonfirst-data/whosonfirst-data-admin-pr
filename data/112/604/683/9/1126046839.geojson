@@ -27,16 +27,10 @@
     "name:cat_x_preferred":[
         "Gurabo"
     ],
-    "name:chi_x_preferred":[
-        "\u53e4\u62c9\u6c83"
-    ],
-    "name:dut_x_preferred":[
-        "Gurabo"
-    ],
     "name:eng_x_preferred":[
         "Gurabo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gurabo"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +38,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30e9\u30fc\u30dc"
+    ],
+    "name:nld_x_preferred":[
+        "Gurabo"
     ],
     "name:pol_x_preferred":[
         "Gurabo"
@@ -125,7 +122,7 @@
         }
     ],
     "wof:id":1126046839,
-    "wof:lastmodified":1534379429,
+    "wof:lastmodified":1561827136,
     "wof:name":"Gurabo",
     "wof:parent_id":102080435,
     "wof:placetype":"locality",

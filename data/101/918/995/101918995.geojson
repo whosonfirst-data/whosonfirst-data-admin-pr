@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
-    "geom:area_square_m":1099763.397502,
+    "geom:area_square_m":1099763.397499,
     "geom:bbox":"-67.258069,18.332217,-67.242396,18.345592",
     "geom:latitude":18.338814,
     "geom:longitude":-67.251634,
@@ -23,19 +23,13 @@
     "name:cat_x_preferred":[
         "Rinc\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u6797\u5b54"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Rinc\u00f3n"
     ],
     "name:eng_x_preferred":[
         "Rinc\u00f3n"
     ],
-    "name:fre_x_preferred":[
-        "Rinc\u00f3n"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Rinc\u00f3n"
     ],
     "name:ita_x_preferred":[
@@ -43,6 +37,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30f3\u30b3\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Rinc\u00f3n"
     ],
     "name:por_x_preferred":[
         "Rinc\u00f3n"
@@ -61,6 +58,9 @@
     ],
     "name:war_x_preferred":[
         "Rinc\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u5b54"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":101918995,
-    "wof:lastmodified":1553815586,
+    "wof:lastmodified":1561827128,
     "wof:name":"Rinc\u00f3n",
     "wof:parent_id":102080307,
     "wof:placetype":"locality",

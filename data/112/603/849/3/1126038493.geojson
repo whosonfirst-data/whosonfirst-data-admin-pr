@@ -22,26 +22,17 @@
     "name:afr_x_preferred":[
         "San Juan"
     ],
-    "name:alb_x_preferred":[
-        "San Huan"
-    ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0648\u0627\u0646"
     ],
     "name:arg_x_preferred":[
         "San Juan"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0576 \u053d\u0578\u0582\u0561\u0576"
-    ],
     "name:ast_x_preferred":[
         "San Xuan"
     ],
     "name:aze_x_preferred":[
         "San Xuan"
-    ],
-    "name:baq_x_preferred":[
-        "San Juan de Puerto Rico"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d-\u0425\u0443\u0430\u043d"
@@ -64,22 +55,19 @@
     "name:cat_x_preferred":[
         "San Juan"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u80e1\u5b89"
+    "name:ces_x_preferred":[
+        "San Juan"
     ],
     "name:cor_x_preferred":[
         "San Juan"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "San Juan"
     ],
     "name:dan_x_preferred":[
         "San Juan"
     ],
     "name:deu_x_preferred":[
-        "San Juan"
-    ],
-    "name:dut_x_preferred":[
         "San Juan"
     ],
     "name:ell_x_preferred":[
@@ -106,16 +94,7 @@
     "name:fra_x_preferred":[
         "San Juan"
     ],
-    "name:fre_x_preferred":[
-        "San Juan"
-    ],
     "name:fry_x_preferred":[
-        "San Juan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10ee\u10e3\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "San Juan"
     ],
     "name:gla_x_preferred":[
@@ -126,9 +105,6 @@
     ],
     "name:glg_x_preferred":[
         "San Xo\u00e1n"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8 \u0a9c\u0ac1\u0a86\u0aa8"
@@ -148,13 +124,13 @@
     "name:hye_x_preferred":[
         "\u054d\u0561\u0576 \u053d\u0578\u0582\u0561\u0576"
     ],
-    "name:ice_x_preferred":[
-        "San Juan"
-    ],
     "name:ido_x_preferred":[
         "San Juan"
     ],
     "name:ind_x_preferred":[
+        "San Juan"
+    ],
+    "name:isl_x_preferred":[
         "San Juan"
     ],
     "name:ita_x_preferred":[
@@ -184,14 +160,8 @@
     "name:lit_x_preferred":[
         "San Chuanas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u043d \u0425\u0443\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0928 \u0939\u0941\u0906\u0928"
-    ],
-    "name:may_x_preferred":[
-        "San Juan"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u043d \u0425\u0443\u0430\u043d"
@@ -201,6 +171,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "San Juan"
     ],
     "name:nah_x_preferred":[
         "San Juan"
@@ -229,9 +202,6 @@
     "name:pap_x_preferred":[
         "San Juan"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646 \u062e\u0648\u0622\u0646"
-    ],
     "name:pol_x_preferred":[
         "San Juan"
     ],
@@ -244,9 +214,6 @@
     "name:ron_x_preferred":[
         "San Juan"
     ],
-    "name:rum_x_preferred":[
-        "San Juan"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d"
     ],
@@ -256,7 +223,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd0\u0db1\u0dca \u0da2\u0dd4\u0dc0\u0db1\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "San Juan"
     ],
     "name:slv_x_preferred":[
@@ -264,6 +231,9 @@
     ],
     "name:spa_x_preferred":[
         "San Juan"
+    ],
+    "name:sqi_x_preferred":[
+        "San Huan"
     ],
     "name:srd_x_preferred":[
         "San Juan"
@@ -317,9 +287,6 @@
         "San Juan"
     ],
     "name:war_x_preferred":[
-        "San Juan"
-    ],
-    "name:wel_x_preferred":[
         "San Juan"
     ],
     "name:xmf_x_preferred":[
@@ -376,7 +343,7 @@
         }
     ],
     "wof:id":1126038493,
-    "wof:lastmodified":1514497747,
+    "wof:lastmodified":1561827136,
     "wof:name":"San Juan",
     "wof:parent_id":102080441,
     "wof:placetype":"locality",

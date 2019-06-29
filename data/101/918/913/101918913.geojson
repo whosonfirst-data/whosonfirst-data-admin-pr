@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000252,
-    "geom:area_square_m":2962945.789465,
+    "geom:area_square_m":2962945.789466,
     "geom:bbox":"-66.025114,17.996239,-66.002415,18.018342",
     "geom:latitude":18.00687,
     "geom:longitude":-66.013382,
@@ -27,19 +27,10 @@
     "name:cat_x_preferred":[
         "Patillas"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u8482\u4e9e\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Patillas"
-    ],
     "name:eng_x_preferred":[
         "Patillas"
     ],
     "name:fra_x_preferred":[
-        "Patillas"
-    ],
-    "name:fre_x_preferred":[
         "Patillas"
     ],
     "name:hbs_x_preferred":[
@@ -143,7 +134,7 @@
         }
     ],
     "wof:id":101918913,
-    "wof:lastmodified":1534379441,
+    "wof:lastmodified":1561827128,
     "wof:name":"Patillas",
     "wof:parent_id":102080445,
     "wof:placetype":"locality",

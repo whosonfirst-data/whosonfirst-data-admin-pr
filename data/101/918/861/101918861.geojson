@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000289,
-    "geom:area_square_m":3391545.43545,
+    "geom:area_square_m":3391545.435455,
     "geom:bbox":"-65.933282,18.213183,-65.902761,18.242257",
     "geom:latitude":18.226476,
     "geom:longitude":-65.916288,
@@ -27,16 +27,10 @@
     "name:cat_x_preferred":[
         "Juncos"
     ],
-    "name:chi_x_preferred":[
-        "\u6d2a\u79d1\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Juncos"
-    ],
     "name:eng_x_preferred":[
         "Juncos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Juncos"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +38,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30f3\u30b3\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Juncos"
     ],
     "name:pol_x_preferred":[
         "Juncos"
@@ -65,6 +62,9 @@
     ],
     "name:war_x_preferred":[
         "Juncos"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d2a\u79d1\u65af"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":101918861,
-    "wof:lastmodified":1534379436,
+    "wof:lastmodified":1561827128,
     "wof:name":"Juncos",
     "wof:parent_id":102080301,
     "wof:placetype":"locality",

@@ -41,9 +41,6 @@
     "name:fra_x_preferred":[
         "Cata\u00f1o"
     ],
-    "name:fre_x_preferred":[
-        "Cata\u00f1o"
-    ],
     "name:hbs_x_preferred":[
         "Cata\u00f1o"
     ],
@@ -131,7 +128,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092042,
+    "wof:lastmodified":1561827113,
     "wof:name":"Cata\u00f1o",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

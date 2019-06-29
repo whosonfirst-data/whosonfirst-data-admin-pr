@@ -40,9 +40,6 @@
     "name:fra_x_preferred":[
         "Orocovis"
     ],
-    "name:fre_x_preferred":[
-        "Orocovis"
-    ],
     "name:hbs_x_preferred":[
         "Orocovis"
     ],
@@ -139,7 +136,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092048,
+    "wof:lastmodified":1561827115,
     "wof:name":"Orocovis",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

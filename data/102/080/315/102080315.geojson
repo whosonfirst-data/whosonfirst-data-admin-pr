@@ -67,9 +67,6 @@
     "name:fra_x_preferred":[
         "Vieques"
     ],
-    "name:fre_x_preferred":[
-        "Vieques"
-    ],
     "name:hbs_x_preferred":[
         "Vieques"
     ],
@@ -193,7 +190,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092043,
+    "wof:lastmodified":1561827114,
     "wof:name":"Vieques",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

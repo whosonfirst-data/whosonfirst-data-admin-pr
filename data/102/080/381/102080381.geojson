@@ -34,9 +34,6 @@
     "name:fra_x_preferred":[
         "Hatillo"
     ],
-    "name:fre_x_preferred":[
-        "Hatillo"
-    ],
     "name:ita_x_preferred":[
         "Hatillo"
     ],
@@ -114,7 +111,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092046,
+    "wof:lastmodified":1561827117,
     "wof:name":"Hatillo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

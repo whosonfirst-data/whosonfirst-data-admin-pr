@@ -19,7 +19,7 @@
     "name:eng_x_preferred":[
         "R\u00edo Grande"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00edo Grande"
     ],
     "name:spa_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1125773075,
-    "wof:lastmodified":1514497743,
+    "wof:lastmodified":1561827140,
     "wof:name":"R\u00edo Grande",
     "wof:parent_id":102080307,
     "wof:placetype":"locality",

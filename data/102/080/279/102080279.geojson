@@ -40,9 +40,6 @@
     "name:fra_x_preferred":[
         "Coamo"
     ],
-    "name:fre_x_preferred":[
-        "Coamo"
-    ],
     "name:hbs_x_preferred":[
         "Coamo"
     ],
@@ -142,7 +139,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092042,
+    "wof:lastmodified":1561827115,
     "wof:name":"Coamo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

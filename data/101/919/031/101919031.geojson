@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000055,
-    "geom:area_square_m":643489.528817,
+    "geom:area_square_m":643489.528815,
     "geom:bbox":"-67.150109,18.288113,-67.140413,18.297583",
     "geom:latitude":18.292779,
     "geom:longitude":-67.145107,
@@ -23,16 +23,10 @@
     "name:cat_x_preferred":[
         "Las Mar\u00edas"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u65af\u746a\u9e97\u4e9e\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Las Mar\u00edas"
-    ],
     "name:eng_x_preferred":[
         "Las Mar\u00edas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Las Mar\u00edas"
     ],
     "name:ita_x_preferred":[
@@ -40,6 +34,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30b9\u30de\u30ea\u30a2\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Las Mar\u00edas"
     ],
     "name:por_x_preferred":[
         "Las Mar\u00edas"
@@ -58,6 +55,9 @@
     ],
     "name:war_x_preferred":[
         "Las Mar\u00edas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u746a\u9e97\u4e9e\u65af"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":101919031,
-    "wof:lastmodified":1514497723,
+    "wof:lastmodified":1561827130,
     "wof:name":"Las Mar\u00edas",
     "wof:parent_id":102080323,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000215,
-    "geom:area_square_m":2524321.82946,
+    "geom:area_square_m":2524321.829464,
     "geom:bbox":"-66.548108,18.442843,-66.526186,18.465365",
     "geom:latitude":18.45299,
     "geom:longitude":-66.538077,
@@ -27,19 +27,10 @@
     "name:cat_x_preferred":[
         "Barceloneta"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u585e\u6d1b\u5167\u5854"
-    ],
-    "name:dut_x_preferred":[
-        "Barceloneta"
-    ],
     "name:eng_x_preferred":[
         "Barceloneta"
     ],
     "name:fra_x_preferred":[
-        "Barceloneta"
-    ],
-    "name:fre_x_preferred":[
         "Barceloneta"
     ],
     "name:hbs_x_preferred":[
@@ -147,7 +138,7 @@
         }
     ],
     "wof:id":101919157,
-    "wof:lastmodified":1534379423,
+    "wof:lastmodified":1561827129,
     "wof:name":"Barceloneta",
     "wof:parent_id":102080375,
     "wof:placetype":"locality",

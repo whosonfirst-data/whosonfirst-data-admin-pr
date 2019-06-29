@@ -40,9 +40,6 @@
     "name:fra_x_preferred":[
         "Arroyo"
     ],
-    "name:fre_x_preferred":[
-        "Arroyo"
-    ],
     "name:hbs_x_preferred":[
         "Arroyo"
     ],
@@ -137,7 +134,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092042,
+    "wof:lastmodified":1561827115,
     "wof:name":"Arroyo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

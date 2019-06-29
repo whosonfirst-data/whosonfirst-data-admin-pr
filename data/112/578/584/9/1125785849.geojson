@@ -24,9 +24,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0646\u0633\u060c \u0628\u0648\u0631\u062a\u0648\u0631\u064a\u0643\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u0576\u057d\u0565"
-    ],
     "name:ben_x_preferred":[
         "\u09aa\u09a8\u09cd\u09b8"
     ],
@@ -36,10 +33,10 @@
     "name:cat_x_preferred":[
         "Ponce"
     ],
-    "name:chi_x_preferred":[
-        "\u9f90\u585e"
+    "name:ces_x_preferred":[
+        "Ponce"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Ponce"
     ],
     "name:dan_x_preferred":[
@@ -48,8 +45,8 @@
     "name:deu_x_preferred":[
         "Ponce"
     ],
-    "name:dut_x_preferred":[
-        "Ponce"
+    "name:ell_x_preferred":[
+        "\u03a0\u03cc\u03bd\u03ba\u03b5"
     ],
     "name:eng_x_preferred":[
         "Ponce"
@@ -63,15 +60,6 @@
     "name:fra_x_preferred":[
         "Ponce"
     ],
-    "name:fre_x_preferred":[
-        "Ponce"
-    ],
-    "name:ger_x_preferred":[
-        "Ponce"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03cc\u03bd\u03ba\u03b5"
-    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0aa8\u0acd\u0ab8"
     ],
@@ -80,6 +68,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092a\u094b\u0928\u094d\u0938"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0576\u057d\u0565"
     ],
     "name:ind_x_preferred":[
         "Ponce"
@@ -102,17 +93,17 @@
     "name:lit_x_preferred":[
         "Pons\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u043e\u043d\u0441\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094b\u0928\u094d\u0938\u0947"
     ],
-    "name:may_x_preferred":[
-        "Ponce"
-    ],
     "name:mkd_x_preferred":[
         "\u041f\u043e\u043d\u0441\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Ponce"
+    ],
+    "name:nld_x_preferred":[
+        "Ponce"
     ],
     "name:nob_x_preferred":[
         "Ponce"
@@ -169,9 +160,6 @@
         "Ponce"
     ],
     "name:war_x_preferred":[
-        "Ponce"
-    ],
-    "name:wel_x_preferred":[
         "Ponce"
     ],
     "name:zho_x_preferred":[
@@ -233,7 +221,7 @@
         }
     ],
     "wof:id":1125785849,
-    "wof:lastmodified":1534379443,
+    "wof:lastmodified":1561827139,
     "wof:name":"Ponce",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

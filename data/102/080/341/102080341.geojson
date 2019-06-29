@@ -55,9 +55,6 @@
     "name:fra_x_preferred":[
         "Ceiba"
     ],
-    "name:fre_x_preferred":[
-        "Ceiba"
-    ],
     "name:ita_x_preferred":[
         "Ceiba"
     ],
@@ -164,7 +161,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092044,
+    "wof:lastmodified":1561827114,
     "wof:name":"Ceiba",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

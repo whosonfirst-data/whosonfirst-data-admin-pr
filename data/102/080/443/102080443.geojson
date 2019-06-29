@@ -53,9 +53,6 @@
     "name:fra_x_preferred":[
         "Bayam\u00f3n"
     ],
-    "name:fre_x_preferred":[
-        "Bayam\u00f3n"
-    ],
     "name:ita_x_preferred":[
         "Bayam\u00f3n"
     ],
@@ -131,7 +128,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092049,
+    "wof:lastmodified":1561827115,
     "wof:name":"Bayam\u00f3n",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

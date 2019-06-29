@@ -41,9 +41,6 @@
     "name:fra_x_preferred":[
         "Comer\u00edo"
     ],
-    "name:fre_x_preferred":[
-        "Comer\u00edo"
-    ],
     "name:hbs_x_preferred":[
         "Comer\u00edo"
     ],
@@ -131,7 +128,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092042,
+    "wof:lastmodified":1561827116,
     "wof:name":"Comer\u00edo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

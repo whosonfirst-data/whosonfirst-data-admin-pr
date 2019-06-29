@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001395,
-    "geom:area_square_m":16362764.031576,
+    "geom:area_square_m":16362764.031562,
     "geom:bbox":"-66.43447,18.422436,-66.366311,18.463504",
     "geom:latitude":18.441076,
     "geom:longitude":-66.399315,
@@ -27,19 +27,13 @@
     "name:cat_x_preferred":[
         "Vega Baja"
     ],
-    "name:chi_x_preferred":[
-        "\u4e0b\u7dad\u52a0"
-    ],
-    "name:dut_x_preferred":[
-        "Vega Baja"
-    ],
     "name:eng_x_preferred":[
         "Vega Baja"
     ],
     "name:fas_x_preferred":[
         "\u0648\u06af\u0627 \u0628\u0627\u062c\u0627\u060c \u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vega Baja"
     ],
     "name:ita_x_preferred":[
@@ -48,8 +42,8 @@
     "name:jpn_x_preferred":[
         "\u30d9\u30ac\u30fb\u30d0\u30cf"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06af\u0627 \u0628\u0627\u062c\u0627\u060c \u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648"
+    "name:nld_x_preferred":[
+        "Vega Baja"
     ],
     "name:pol_x_preferred":[
         "Vega Baja"
@@ -141,7 +135,7 @@
         }
     ],
     "wof:id":101919403,
-    "wof:lastmodified":1534379434,
+    "wof:lastmodified":1561827133,
     "wof:name":"Vega Baja",
     "wof:parent_id":102080305,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000183,
-    "geom:area_square_m":2147148.093021,
+    "geom:area_square_m":2147148.09302,
     "geom:bbox":"-66.968564,18.446669,-66.94425,18.458394",
     "geom:latitude":18.452345,
     "geom:longitude":-66.955924,
@@ -25,9 +25,6 @@
     ],
     "name:deu_x_preferred":[
         "Kakao"
-    ],
-    "name:dut_x_preferred":[
-        "Cacao"
     ],
     "name:eng_x_preferred":[
         "Cacao"
@@ -103,7 +100,7 @@
         }
     ],
     "wof:id":101919301,
-    "wof:lastmodified":1553815587,
+    "wof:lastmodified":1561827129,
     "wof:name":"Cacao",
     "wof:parent_id":102080325,
     "wof:placetype":"locality",

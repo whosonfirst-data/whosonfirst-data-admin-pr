@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000337,
-    "geom:area_square_m":3947458.465109,
+    "geom:area_square_m":3947458.465113,
     "geom:bbox":"-66.836636,18.467841,-66.810584,18.494642",
     "geom:latitude":18.483638,
     "geom:longitude":-66.822587,
@@ -27,19 +27,10 @@
     "name:cat_x_preferred":[
         "Hatillo"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u63d0\u7d04"
-    ],
-    "name:dut_x_preferred":[
-        "Hatillo"
-    ],
     "name:eng_x_preferred":[
         "Hatillo"
     ],
     "name:fra_x_preferred":[
-        "Hatillo"
-    ],
-    "name:fre_x_preferred":[
         "Hatillo"
     ],
     "name:hbs_x_preferred":[
@@ -147,7 +138,7 @@
         }
     ],
     "wof:id":101919275,
-    "wof:lastmodified":1534379429,
+    "wof:lastmodified":1561827130,
     "wof:name":"Hatillo",
     "wof:parent_id":102080381,
     "wof:placetype":"locality",

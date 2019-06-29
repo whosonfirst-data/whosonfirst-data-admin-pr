@@ -34,9 +34,6 @@
     "name:fra_x_preferred":[
         "Culebra"
     ],
-    "name:fre_x_preferred":[
-        "Culebra"
-    ],
     "name:ita_x_preferred":[
         "Culebra"
     ],
@@ -114,7 +111,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092042,
+    "wof:lastmodified":1561827113,
     "wof:name":"Culebra",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

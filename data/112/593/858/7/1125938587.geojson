@@ -33,14 +33,17 @@
     "name:cat_x_preferred":[
         "Caguas"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u74dc\u65af"
+    "name:cym_x_preferred":[
+        "Caguas"
     ],
     "name:dan_x_preferred":[
         "Caguas"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Caguas"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03b3\u03ba\u03bf\u03c5\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Caguas"
@@ -51,14 +54,8 @@
     "name:fin_x_preferred":[
         "Caguas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Caguas"
-    ],
-    "name:ger_x_preferred":[
-        "Caguas"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03b3\u03ba\u03bf\u03c5\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0a97\u0ac1\u0a85\u0ab8"
@@ -96,17 +93,17 @@
     "name:lit_x_preferred":[
         "Kaguasas"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u0433\u0443\u0430\u0441"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0945\u0917\u0941\u0938"
     ],
-    "name:may_x_preferred":[
-        "Caguas"
-    ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0433\u0443\u0430\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Caguas"
+    ],
+    "name:nld_x_preferred":[
+        "Caguas"
     ],
     "name:nob_x_preferred":[
         "Caguas"
@@ -157,9 +154,6 @@
         "Caguas"
     ],
     "name:war_x_preferred":[
-        "Caguas"
-    ],
-    "name:wel_x_preferred":[
         "Caguas"
     ],
     "name:zho_x_preferred":[
@@ -221,7 +215,7 @@
         }
     ],
     "wof:id":1125938587,
-    "wof:lastmodified":1534379432,
+    "wof:lastmodified":1561827135,
     "wof:name":"Caguas",
     "wof:parent_id":102080425,
     "wof:placetype":"locality",

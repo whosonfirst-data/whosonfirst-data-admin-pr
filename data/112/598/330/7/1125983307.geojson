@@ -36,13 +36,10 @@
     "name:cat_x_preferred":[
         "Mayag\u00fcez"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u4e9e\u572d\u65af"
-    ],
     "name:dan_x_preferred":[
         "Mayag\u00fcez"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mayag\u00fcez"
     ],
     "name:ell_x_preferred":[
@@ -51,20 +48,17 @@
     "name:eng_x_preferred":[
         "Mayag\u00fcez"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06cc\u0627\u06af\u0648\u0626\u0632"
+    ],
     "name:fin_x_preferred":[
         "Mayag\u00fcez"
     ],
-    "name:fre_x_preferred":[
-        "Mayag\u00fcez"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mayag\u00fcez"
     ],
     "name:glg_x_preferred":[
         "Mayag\u00fcez"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03b3\u03b9\u03b1\u03b3\u03bf\u03c5\u03ad\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0aaf\u0a97\u0acd\u0aaf\u0ac1\u0a9d"
@@ -102,14 +96,14 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u092f\u093e\u0917\u094d\u0935\u0947\u091d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mayaguez"
+    ],
+    "name:nld_x_preferred":[
+        "Mayag\u00fcez"
     ],
     "name:nob_x_preferred":[
         "Mayaguez"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u06cc\u0627\u06af\u0648\u0626\u0632"
     ],
     "name:pol_x_preferred":[
         "Mayag\u00fcez"
@@ -221,7 +215,7 @@
         }
     ],
     "wof:id":1125983307,
-    "wof:lastmodified":1534379416,
+    "wof:lastmodified":1561827138,
     "wof:name":"Mayaguez",
     "wof:parent_id":102080311,
     "wof:placetype":"locality",

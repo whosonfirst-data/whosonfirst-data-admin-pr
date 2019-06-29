@@ -33,14 +33,11 @@
     "name:cat_x_preferred":[
         "Moca"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u5361"
-    ],
     "name:dan_x_preferred":[
         "Moca"
     ],
-    "name:dut_x_preferred":[
-        "Moca"
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Moca"
@@ -48,11 +45,8 @@
     "name:fin_x_preferred":[
         "Moca"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Moca"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03cc\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0a95\u0abe"
@@ -84,7 +78,10 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Moca"
+    ],
+    "name:nld_x_preferred":[
         "Moca"
     ],
     "name:nob_x_preferred":[
@@ -197,7 +194,7 @@
         }
     ],
     "wof:id":1125766909,
-    "wof:lastmodified":1553816520,
+    "wof:lastmodified":1561827139,
     "wof:name":"Moca",
     "wof:parent_id":102080423,
     "wof:placetype":"locality",

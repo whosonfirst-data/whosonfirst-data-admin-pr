@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000419,
-    "geom:area_square_m":4916116.82249,
+    "geom:area_square_m":4916116.8225,
     "geom:bbox":"-66.341554,18.401486,-66.299597,18.42526",
     "geom:latitude":18.415175,
     "geom:longitude":-66.321158,
@@ -27,19 +27,13 @@
     "name:cat_x_preferred":[
         "Vega Alta"
     ],
-    "name:chi_x_preferred":[
-        "\u4e0a\u7dad\u52a0"
-    ],
-    "name:dut_x_preferred":[
-        "Vega Alta"
-    ],
     "name:eng_x_preferred":[
         "Vega Alta"
     ],
     "name:fas_x_preferred":[
         "\u0648\u06af\u0627 \u0622\u0644\u062a\u0627\u060c \u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vega Alta"
     ],
     "name:ita_x_preferred":[
@@ -48,8 +42,8 @@
     "name:jpn_x_preferred":[
         "\u30d9\u30ac\u30fb\u30a2\u30eb\u30bf"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06af\u0627 \u0622\u0644\u062a\u0627\u060c \u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648"
+    "name:nld_x_preferred":[
+        "Vega Alta"
     ],
     "name:pol_x_preferred":[
         "Vega Alta"
@@ -141,7 +135,7 @@
         }
     ],
     "wof:id":101919313,
-    "wof:lastmodified":1534379437,
+    "wof:lastmodified":1561827131,
     "wof:name":"Vega Alta",
     "wof:parent_id":102080413,
     "wof:placetype":"locality",

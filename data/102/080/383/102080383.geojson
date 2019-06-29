@@ -49,9 +49,6 @@
     "name:fra_x_preferred":[
         "Isabela"
     ],
-    "name:fre_x_preferred":[
-        "Isabela"
-    ],
     "name:ind_x_preferred":[
         "Isabela"
     ],
@@ -150,7 +147,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092046,
+    "wof:lastmodified":1561827114,
     "wof:name":"Isabela",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

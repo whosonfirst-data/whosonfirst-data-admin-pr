@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000134,
-    "geom:area_square_m":1576178.407016,
+    "geom:area_square_m":1576178.407011,
     "geom:bbox":"-66.259176,18.433039,-66.25086,18.45514",
     "geom:latitude":18.443826,
     "geom:longitude":-66.254709,
@@ -24,19 +24,13 @@
     "name:cat_x_preferred":[
         "Toa Baja"
     ],
-    "name:chi_x_preferred":[
-        "\u4e0b\u6258\u963f"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Toa Baja"
     ],
     "name:eng_x_preferred":[
         "Toa Baja"
     ],
-    "name:fre_x_preferred":[
-        "Toa Baja"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Toa Baja"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +38,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30a2\u30fb\u30d0\u30cf"
+    ],
+    "name:nld_x_preferred":[
+        "Toa Baja"
     ],
     "name:por_x_preferred":[
         "Toa Baixa"
@@ -65,6 +62,9 @@
     ],
     "name:war_x_preferred":[
         "Toa Baja"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u6258\u963f"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":101919067,
-    "wof:lastmodified":1534379423,
+    "wof:lastmodified":1561827133,
     "wof:name":"Toa Baja",
     "wof:parent_id":102080329,
     "wof:placetype":"locality",

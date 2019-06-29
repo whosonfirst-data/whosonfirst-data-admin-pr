@@ -41,9 +41,6 @@
     "name:fra_x_preferred":[
         "Can\u00f3vanas"
     ],
-    "name:fre_x_preferred":[
-        "Can\u00f3vanas"
-    ],
     "name:hbs_x_preferred":[
         "Can\u00f3vanas"
     ],
@@ -131,7 +128,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092046,
+    "wof:lastmodified":1561827116,
     "wof:name":"Can\u00f3vanas",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

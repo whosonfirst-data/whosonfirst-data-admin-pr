@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000345,
-    "geom:area_square_m":4049392.257312,
+    "geom:area_square_m":4049392.257308,
     "geom:bbox":"-65.73182,18.36455,-65.707578,18.393005",
     "geom:latitude":18.375463,
     "geom:longitude":-65.720096,
@@ -27,19 +27,13 @@
     "name:cat_x_preferred":[
         "Luquillo"
     ],
-    "name:chi_x_preferred":[
-        "\u76e7\u57fa\u7d04"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Luquillo"
     ],
     "name:eng_x_preferred":[
         "Luquillo"
     ],
-    "name:fre_x_preferred":[
-        "Luquillo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Luquillo"
     ],
     "name:ita_x_preferred":[
@@ -47,6 +41,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30eb\u30ad\u30ea\u30e7"
+    ],
+    "name:nld_x_preferred":[
+        "Luquillo"
     ],
     "name:pol_x_preferred":[
         "Luquillo"
@@ -77,6 +74,9 @@
     ],
     "name:war_x_preferred":[
         "Luquillo"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u57fa\u7d04"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -146,7 +146,7 @@
         }
     ],
     "wof:id":101918919,
-    "wof:lastmodified":1534379437,
+    "wof:lastmodified":1561827129,
     "wof:name":"Luquillo",
     "wof:parent_id":102080339,
     "wof:placetype":"locality",

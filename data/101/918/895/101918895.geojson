@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
-    "geom:area_square_m":978251.24879,
+    "geom:area_square_m":978251.248793,
     "geom:bbox":"-66.56106,18.040901,-66.544827,18.054989",
     "geom:latitude":18.04912,
     "geom:longitude":-66.551703,
@@ -21,9 +21,6 @@
     "mps:longitude":-66.549552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Coto Laurel"
-    ],
     "name:eng_x_preferred":[
         "Coto Laurel"
     ],
@@ -106,7 +103,7 @@
         }
     ],
     "wof:id":101918895,
-    "wof:lastmodified":1534379420,
+    "wof:lastmodified":1561827128,
     "wof:name":"Coto Laurel",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

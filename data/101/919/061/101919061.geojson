@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000566,
-    "geom:area_square_m":6639708.47063,
+    "geom:area_square_m":6639708.470627,
     "geom:bbox":"-66.189966,18.430709,-66.153603,18.46336",
     "geom:latitude":18.445451,
     "geom:longitude":-66.175772,
@@ -25,9 +25,6 @@
         "Levittown"
     ],
     "name:deu_x_preferred":[
-        "Levittown"
-    ],
-    "name:dut_x_preferred":[
         "Levittown"
     ],
     "name:eng_x_preferred":[
@@ -115,7 +112,7 @@
         }
     ],
     "wof:id":101919061,
-    "wof:lastmodified":1534379435,
+    "wof:lastmodified":1561827133,
     "wof:name":"Levittown",
     "wof:parent_id":102080329,
     "wof:placetype":"locality",

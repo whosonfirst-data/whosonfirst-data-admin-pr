@@ -53,9 +53,6 @@
     "name:fra_x_preferred":[
         "Mayag\u00fcez"
     ],
-    "name:fre_x_preferred":[
-        "Mayag\u00fcez"
-    ],
     "name:glg_x_preferred":[
         "Mayag\u00fcez"
     ],
@@ -131,7 +128,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092043,
+    "wof:lastmodified":1561827116,
     "wof:name":"Mayag\u00fcez",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

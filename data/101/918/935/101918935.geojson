@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1672869.577974,
+    "geom:area_square_m":1672869.577979,
     "geom:bbox":"-66.267667,18.355203,-66.25048,18.377448",
     "geom:latitude":18.364045,
     "geom:longitude":-66.258975,
@@ -27,25 +27,13 @@
     "name:cat_x_preferred":[
         "R\u00edo Grande"
     ],
-    "name:chi_x_preferred":[
-        "\u91cc\u5967\u683c\u862d\u5fb7"
-    ],
     "name:deu_x_preferred":[
-        "R\u00edo Grande"
-    ],
-    "name:dut_x_preferred":[
         "R\u00edo Grande"
     ],
     "name:eng_x_preferred":[
         "R\u00edo Grande"
     ],
     "name:fra_x_preferred":[
-        "R\u00edo Grande"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00edo Grande"
-    ],
-    "name:ger_x_preferred":[
         "R\u00edo Grande"
     ],
     "name:hbs_x_preferred":[
@@ -80,6 +68,9 @@
     ],
     "name:war_x_preferred":[
         "Rio Grande"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5967\u683c\u862d\u5fb7"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -145,7 +136,7 @@
         }
     ],
     "wof:id":101918935,
-    "wof:lastmodified":1534379425,
+    "wof:lastmodified":1561827128,
     "wof:name":"Galateo",
     "wof:parent_id":102080359,
     "wof:placetype":"locality",

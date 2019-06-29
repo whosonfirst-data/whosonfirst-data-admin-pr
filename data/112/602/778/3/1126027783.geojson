@@ -25,19 +25,13 @@
     "name:cat_x_preferred":[
         "Juana D\u00edaz"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u5b89\u5a1c\u8fea\u4e9e\u65af"
-    ],
-    "name:cze_x_preferred":[
-        "Juana D\u00edaz"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Juana D\u00edaz"
     ],
     "name:eng_x_preferred":[
         "Juana D\u00edaz"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Juana D\u00edaz"
     ],
     "name:ita_x_preferred":[
@@ -46,13 +40,16 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30a1\u30ca\u30fb\u30c7\u30a3\u30a2\u30b9"
     ],
+    "name:nld_x_preferred":[
+        "Juana D\u00edaz"
+    ],
     "name:pol_x_preferred":[
         "Juana D\u00edaz"
     ],
     "name:por_x_preferred":[
         "Juana D\u00edaz"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Juana D\u00edaz"
     ],
     "name:spa_x_preferred":[
@@ -129,7 +126,7 @@
         }
     ],
     "wof:id":1126027783,
-    "wof:lastmodified":1514497720,
+    "wof:lastmodified":1561827135,
     "wof:name":"Juana Diaz",
     "wof:parent_id":102080415,
     "wof:placetype":"locality",

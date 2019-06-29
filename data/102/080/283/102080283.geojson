@@ -52,9 +52,6 @@
     "name:fra_x_preferred":[
         "Arecibo"
     ],
-    "name:fre_x_preferred":[
-        "Arecibo"
-    ],
     "name:hbs_x_preferred":[
         "Arecibo"
     ],
@@ -172,7 +169,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092042,
+    "wof:lastmodified":1561827115,
     "wof:name":"Arecibo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

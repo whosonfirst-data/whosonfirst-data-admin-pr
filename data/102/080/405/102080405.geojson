@@ -40,9 +40,6 @@
     "name:fra_x_preferred":[
         "Jayuya"
     ],
-    "name:fre_x_preferred":[
-        "Jayuya"
-    ],
     "name:hbs_x_preferred":[
         "Jayuya"
     ],
@@ -139,7 +136,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092047,
+    "wof:lastmodified":1561827115,
     "wof:name":"Jayuya",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

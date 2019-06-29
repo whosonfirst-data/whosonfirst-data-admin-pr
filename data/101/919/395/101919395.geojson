@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1633328.111735,
+    "geom:area_square_m":1633328.111737,
     "geom:bbox":"-65.746406,18.20272,-65.729059,18.218072",
     "geom:latitude":18.211663,
     "geom:longitude":-65.737043,
@@ -24,16 +24,10 @@
     "name:cat_x_preferred":[
         "Naguabo"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u74dc\u6c83"
-    ],
-    "name:dut_x_preferred":[
-        "Nag\u00fcabo"
-    ],
     "name:eng_x_preferred":[
         "Naguabo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Naguabo"
     ],
     "name:ita_x_preferred":[
@@ -135,7 +129,7 @@
         }
     ],
     "wof:id":101919395,
-    "wof:lastmodified":1534379417,
+    "wof:lastmodified":1561827131,
     "wof:name":"Naguabo",
     "wof:parent_id":102080355,
     "wof:placetype":"locality",

@@ -27,19 +27,13 @@
     "name:cat_x_preferred":[
         "Arroyo"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u7f85\u7d04"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Arroyo"
     ],
     "name:eng_x_preferred":[
         "Arroyo"
     ],
-    "name:fre_x_preferred":[
-        "Arroyo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Arroyo"
     ],
     "name:ita_x_preferred":[
@@ -50,6 +44,9 @@
     ],
     "name:lit_x_preferred":[
         "Arojas"
+    ],
+    "name:nld_x_preferred":[
+        "Arroyo"
     ],
     "name:pol_x_preferred":[
         "Arroyo"
@@ -71,6 +68,9 @@
     ],
     "name:war_x_preferred":[
         "Arroyo"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u7f85\u7d04"
     ],
     "qs_pg:aaroncc":"PR",
     "qs_pg:gn_country":"PR",
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":1126027429,
-    "wof:lastmodified":1553816709,
+    "wof:lastmodified":1561827135,
     "wof:name":"Arroyo",
     "wof:parent_id":102080285,
     "wof:placetype":"locality",

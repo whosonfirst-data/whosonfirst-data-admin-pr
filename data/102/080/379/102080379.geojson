@@ -67,9 +67,6 @@
     "name:fra_x_preferred":[
         "Lares"
     ],
-    "name:fre_x_preferred":[
-        "Lares"
-    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d0\u05e8\u05e1"
     ],
@@ -184,7 +181,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092046,
+    "wof:lastmodified":1561827114,
     "wof:name":"Lares",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

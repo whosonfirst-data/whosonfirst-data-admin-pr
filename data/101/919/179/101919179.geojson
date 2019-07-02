@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000187,
-    "geom:area_square_m":2198880.581972,
+    "geom:area_square_m":2198880.581965,
     "geom:bbox":"-66.481326,18.32698,-66.462237,18.344649",
     "geom:latitude":18.334414,
     "geom:longitude":-66.470362,
@@ -27,19 +27,10 @@
     "name:cat_x_preferred":[
         "Ciales"
     ],
-    "name:chi_x_preferred":[
-        "\u932b\u4e9e\u840a\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Ciales"
-    ],
     "name:eng_x_preferred":[
         "Ciales"
     ],
     "name:fra_x_preferred":[
-        "Ciales"
-    ],
-    "name:fre_x_preferred":[
         "Ciales"
     ],
     "name:hbs_x_preferred":[
@@ -149,7 +140,7 @@
         }
     ],
     "wof:id":101919179,
-    "wof:lastmodified":1534379433,
+    "wof:lastmodified":1561827133,
     "wof:name":"Ciales",
     "wof:parent_id":102080317,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000213,
-    "geom:area_square_m":2507387.919868,
+    "geom:area_square_m":2507387.919864,
     "geom:bbox":"-66.734164,18.049489,-66.709875,18.072331",
     "geom:latitude":18.059535,
     "geom:longitude":-66.720783,
@@ -23,16 +23,10 @@
     "name:cat_x_preferred":[
         "Pe\u00f1uelas"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u7d10\u57c3\u62c9\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Pe\u00f1uelas"
-    ],
     "name:eng_x_preferred":[
         "Pe\u00f1uelas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pe\u00f1uelas"
     ],
     "name:glg_x_preferred":[
@@ -43,6 +37,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30da\u30cb\u30e5\u30a8\u30e9\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Pe\u00f1uelas"
     ],
     "name:por_x_preferred":[
         "Pe\u00f1uelas"
@@ -61,6 +58,9 @@
     ],
     "name:war_x_preferred":[
         "Pe\u00f1uelas"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u7d10\u57c3\u62c9\u65af"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":101919209,
-    "wof:lastmodified":1514497735,
+    "wof:lastmodified":1561827132,
     "wof:name":"Pe\u00f1uelas",
     "wof:parent_id":102080319,
     "wof:placetype":"locality",

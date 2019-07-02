@@ -25,16 +25,10 @@
     "name:cat_x_preferred":[
         "Cata\u00f1o"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5854\u5c3c\u5967"
-    ],
-    "name:dut_x_preferred":[
-        "Cata\u00f1o"
-    ],
     "name:eng_x_preferred":[
         "Cata\u00f1o"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cata\u00f1o"
     ],
     "name:ita_x_preferred":[
@@ -42,6 +36,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30bf\u30fc\u30cb\u30e7"
+    ],
+    "name:nld_x_preferred":[
+        "Cata\u00f1o"
     ],
     "name:pol_x_preferred":[
         "Cata\u00f1o"
@@ -66,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "Cata\u00f1o"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5854\u5c3c\u5967"
     ],
     "qs_pg:aaroncc":"PR",
     "qs_pg:gn_country":"PR",
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":1125941309,
-    "wof:lastmodified":1553816646,
+    "wof:lastmodified":1561827134,
     "wof:name":"Catano",
     "wof:parent_id":102080289,
     "wof:placetype":"locality",

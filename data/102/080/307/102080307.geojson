@@ -41,9 +41,6 @@
     "name:fra_x_preferred":[
         "Rinc\u00f3n"
     ],
-    "name:fre_x_preferred":[
-        "Rinc\u00f3n"
-    ],
     "name:hbs_x_preferred":[
         "Rinkon"
     ],
@@ -142,7 +139,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092043,
+    "wof:lastmodified":1561827112,
     "wof:name":"Rinc\u00f3n",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000493,
-    "geom:area_square_m":5784661.108495,
+    "geom:area_square_m":5784661.108494,
     "geom:bbox":"-66.331717,18.328191,-66.294174,18.352175",
     "geom:latitude":18.341025,
     "geom:longitude":-66.312446,
@@ -27,19 +27,10 @@
     "name:cat_x_preferred":[
         "Corozal"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u7f85\u85a9\u723e"
-    ],
-    "name:dut_x_preferred":[
-        "Corozal"
-    ],
     "name:eng_x_preferred":[
         "Corozal"
     ],
     "name:fra_x_preferred":[
-        "Corozal"
-    ],
-    "name:fre_x_preferred":[
         "Corozal"
     ],
     "name:hbs_x_preferred":[
@@ -147,7 +138,7 @@
         }
     ],
     "wof:id":101919089,
-    "wof:lastmodified":1534379435,
+    "wof:lastmodified":1561827132,
     "wof:name":"Corozal",
     "wof:parent_id":102080369,
     "wof:placetype":"locality",

@@ -44,9 +44,6 @@
     "name:fra_x_preferred":[
         "Lo\u00edza"
     ],
-    "name:fre_x_preferred":[
-        "Lo\u00edza"
-    ],
     "name:hbs_x_preferred":[
         "Lo\u00edza"
     ],
@@ -131,7 +128,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092045,
+    "wof:lastmodified":1561827113,
     "wof:name":"Lo\u00edza",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

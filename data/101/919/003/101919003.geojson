@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000126,
-    "geom:area_square_m":1476747.539188,
+    "geom:area_square_m":1476747.539191,
     "geom:bbox":"-67.04088,18.344184,-67.025699,18.358671",
     "geom:latitude":18.350358,
     "geom:longitude":-67.033401,
@@ -27,19 +27,10 @@
     "name:cat_x_preferred":[
         "San Sebasti\u00e1n"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u585e\u74e6\u65af\u8482\u5b89"
-    ],
-    "name:dut_x_preferred":[
-        "San Sebasti\u00e1n"
-    ],
     "name:eng_x_preferred":[
         "San Sebasti\u00e1n"
     ],
     "name:fra_x_preferred":[
-        "San Sebasti\u00e1n"
-    ],
-    "name:fre_x_preferred":[
         "San Sebasti\u00e1n"
     ],
     "name:hbs_x_preferred":[
@@ -74,6 +65,9 @@
     ],
     "name:war_x_preferred":[
         "San Sebasti\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u585e\u74e6\u65af\u8482\u5b89"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -139,7 +133,7 @@
         }
     ],
     "wof:id":101919003,
-    "wof:lastmodified":1534379439,
+    "wof:lastmodified":1561827132,
     "wof:name":"Hato Arriba",
     "wof:parent_id":102080411,
     "wof:placetype":"locality",

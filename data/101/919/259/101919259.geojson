@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000146,
-    "geom:area_square_m":1713706.841183,
+    "geom:area_square_m":1713706.841184,
     "geom:bbox":"-65.85998,18.358078,-65.849011,18.383764",
     "geom:latitude":18.372611,
     "geom:longitude":-65.854682,
@@ -24,10 +24,10 @@
     "name:cat_x_preferred":[
         "La Dolores"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "La Dolores"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "La Dolores"
     ],
     "name:spa_x_preferred":[
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":101919259,
-    "wof:lastmodified":1534379428,
+    "wof:lastmodified":1561827130,
     "wof:name":"La Dolores",
     "wof:parent_id":102080399,
     "wof:placetype":"locality",

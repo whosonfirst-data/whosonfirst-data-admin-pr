@@ -47,9 +47,6 @@
     "name:fra_x_preferred":[
         "Gu\u00e1nica"
     ],
-    "name:fre_x_preferred":[
-        "Gu\u00e1nica"
-    ],
     "name:ita_x_preferred":[
         "Gu\u00e1nica"
     ],
@@ -132,7 +129,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092048,
+    "wof:lastmodified":1561827115,
     "wof:name":"Gu\u00e1nica",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

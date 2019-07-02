@@ -24,16 +24,10 @@
     "name:cat_x_preferred":[
         "Naguabo"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u74dc\u6c83"
-    ],
-    "name:dut_x_preferred":[
-        "Nag\u00fcabo"
-    ],
     "name:eng_x_preferred":[
         "Naguabo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Naguabo"
     ],
     "name:ita_x_preferred":[
@@ -125,7 +119,7 @@
         }
     ],
     "wof:id":1125766919,
-    "wof:lastmodified":1534379417,
+    "wof:lastmodified":1561827139,
     "wof:name":"Naguabo",
     "wof:parent_id":102080355,
     "wof:placetype":"locality",

@@ -25,16 +25,10 @@
     "name:cat_x_preferred":[
         "Toa Alta"
     ],
-    "name:chi_x_preferred":[
-        "\u4e0a\u6258\u963f"
-    ],
-    "name:dut_x_preferred":[
-        "Toa Alta"
-    ],
     "name:eng_x_preferred":[
         "Toa Alta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Toa Alta"
     ],
     "name:ita_x_preferred":[
@@ -42,6 +36,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30a2\u30fb\u30a2\u30eb\u30bf"
+    ],
+    "name:nld_x_preferred":[
+        "Toa Alta"
     ],
     "name:por_x_preferred":[
         "Toa Alta"
@@ -123,7 +120,7 @@
         }
     ],
     "wof:id":1125968257,
-    "wof:lastmodified":1514497758,
+    "wof:lastmodified":1561827138,
     "wof:name":"Toa Alta",
     "wof:parent_id":102080359,
     "wof:placetype":"locality",

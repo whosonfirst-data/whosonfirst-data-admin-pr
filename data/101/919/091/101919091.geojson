@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000243,
-    "geom:area_square_m":2857471.07554,
+    "geom:area_square_m":2857471.075533,
     "geom:bbox":"-65.661613,18.255482,-65.637367,18.274979",
     "geom:latitude":18.264976,
     "geom:longitude":-65.648811,
@@ -27,10 +27,7 @@
     "name:cat_x_preferred":[
         "Ceiba"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u74e6"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ceiba"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +39,6 @@
     "name:fra_x_preferred":[
         "Ceiba"
     ],
-    "name:fre_x_preferred":[
-        "Ceiba"
-    ],
-    "name:ger_x_preferred":[
-        "Ceiba"
-    ],
     "name:ita_x_preferred":[
         "Ceiba"
     ],
@@ -56,6 +47,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0435\u0439\u0431\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Ceiba"
     ],
     "name:por_x_preferred":[
         "Ceiba"
@@ -147,7 +141,7 @@
         }
     ],
     "wof:id":101919091,
-    "wof:lastmodified":1534379421,
+    "wof:lastmodified":1561827130,
     "wof:name":"Ceiba",
     "wof:parent_id":102080341,
     "wof:placetype":"locality",

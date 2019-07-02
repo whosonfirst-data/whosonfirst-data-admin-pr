@@ -40,9 +40,6 @@
     "name:fra_x_preferred":[
         "Morovis"
     ],
-    "name:fre_x_preferred":[
-        "Morovis"
-    ],
     "name:hbs_x_preferred":[
         "Morovis"
     ],
@@ -136,7 +133,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092047,
+    "wof:lastmodified":1561827113,
     "wof:name":"Morovis",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

@@ -27,16 +27,10 @@
     "name:cat_x_preferred":[
         "Patillas"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u8482\u4e9e\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Patillas"
-    ],
     "name:eng_x_preferred":[
         "Patillas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Patillas"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +38,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30c6\u30a3\u30ea\u30e3\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Patillas"
     ],
     "name:por_x_preferred":[
         "Patillas"
@@ -122,7 +119,7 @@
         }
     ],
     "wof:id":1125948747,
-    "wof:lastmodified":1553816651,
+    "wof:lastmodified":1561827134,
     "wof:name":"Patillas",
     "wof:parent_id":102080445,
     "wof:placetype":"locality",

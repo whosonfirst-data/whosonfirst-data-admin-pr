@@ -27,16 +27,10 @@
     "name:cat_x_preferred":[
         "Hormigueros"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u723e\u7c73\u683c\u7f85\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Hormigueros"
-    ],
     "name:eng_x_preferred":[
         "Hormigueros"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hormigueros"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +38,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30eb\u30df\u30b0\u30a8\u30ed\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Hormigueros"
     ],
     "name:pol_x_preferred":[
         "Hormigueros"
@@ -128,7 +125,7 @@
         }
     ],
     "wof:id":1126038163,
-    "wof:lastmodified":1534379439,
+    "wof:lastmodified":1561827136,
     "wof:name":"Hormigueros",
     "wof:parent_id":102080407,
     "wof:placetype":"locality",

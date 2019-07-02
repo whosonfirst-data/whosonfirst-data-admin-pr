@@ -27,25 +27,13 @@
     "name:cat_x_preferred":[
         "Arroyo"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u7f85\u7d04"
-    ],
     "name:deu_x_preferred":[
-        "Arroyo"
-    ],
-    "name:dut_x_preferred":[
         "Arroyo"
     ],
     "name:eng_x_preferred":[
         "Arroyo"
     ],
     "name:fra_x_preferred":[
-        "Arroyo"
-    ],
-    "name:fre_x_preferred":[
-        "Arroyo"
-    ],
-    "name:ger_x_preferred":[
         "Arroyo"
     ],
     "name:hbs_x_preferred":[
@@ -154,7 +142,7 @@
         }
     ],
     "wof:id":101919057,
-    "wof:lastmodified":1534379427,
+    "wof:lastmodified":1561827133,
     "wof:name":"Arroyo",
     "wof:parent_id":102080285,
     "wof:placetype":"locality",

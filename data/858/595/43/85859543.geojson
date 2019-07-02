@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3887279.40209,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.057972,18.452931,-66.057972,18.452931",
     "geom:latitude":18.452931,
     "geom:longitude":-66.057972,
@@ -24,19 +24,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0576\u057f\u0578\u0582\u0580\u057d\u0565"
-    ],
     "name:cat_x_preferred":[
         "Santurce"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Santurce"
     ],
     "name:eng_x_preferred":[
         "Santurce"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Santurce"
     ],
     "name:glg_x_preferred":[
@@ -44,6 +41,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e0\u05d8\u05d5\u05e8\u05e7\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0578\u0582\u0580\u057d\u0565"
+    ],
+    "name:nld_x_preferred":[
+        "Santurce"
     ],
     "name:pol_x_preferred":[
         "Santurce"
@@ -54,9 +57,6 @@
     "name:spa_x_preferred":[
         "Santurce"
     ],
-    "name:wel_x_preferred":[
-        "Santurce"
-    ],
     "qs:gn_id":0,
     "src:geom":"mz",
     "src:geom_alt":[
@@ -65,11 +65,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         101919427,
         136253057,
-        102080441
+        102080441,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531870388,
+    "wof:lastmodified":1561827120,
     "wof:name":"Santurce",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

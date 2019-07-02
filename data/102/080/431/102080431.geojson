@@ -40,9 +40,6 @@
     "name:fra_x_preferred":[
         "Aibonito"
     ],
-    "name:fre_x_preferred":[
-        "Aibonito"
-    ],
     "name:hbs_x_preferred":[
         "Aibonito"
     ],
@@ -145,7 +142,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092049,
+    "wof:lastmodified":1561827113,
     "wof:name":"Aibonito",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

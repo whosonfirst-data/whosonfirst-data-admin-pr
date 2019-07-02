@@ -27,16 +27,10 @@
     "name:cat_x_preferred":[
         "Guayanilla"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u4e9e\u5c3c\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Guayanilla"
-    ],
     "name:eng_x_preferred":[
         "Guayanilla"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Guayanilla"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +38,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30a2\u30e4\u30cb\u30e9"
+    ],
+    "name:nld_x_preferred":[
+        "Guayanilla"
     ],
     "name:por_x_preferred":[
         "Guayanilla"
@@ -65,6 +62,9 @@
     ],
     "name:war_x_preferred":[
         "Guayanilla"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u4e9e\u5c3c\u4e9e"
     ],
     "qs_pg:aaroncc":"PR",
     "qs_pg:gn_country":"PR",
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":1126038523,
-    "wof:lastmodified":1534379443,
+    "wof:lastmodified":1561827136,
     "wof:name":"Guayanilla",
     "wof:parent_id":102080297,
     "wof:placetype":"locality",

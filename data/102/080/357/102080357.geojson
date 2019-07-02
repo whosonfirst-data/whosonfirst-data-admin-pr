@@ -44,9 +44,6 @@
     "name:fra_x_preferred":[
         "San Germ\u00e1n"
     ],
-    "name:fre_x_preferred":[
-        "San Germ\u00e1n"
-    ],
     "name:hbs_x_preferred":[
         "San Germ\u00e1n"
     ],
@@ -131,7 +128,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092045,
+    "wof:lastmodified":1561827114,
     "wof:name":"San Germ\u00e1n",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

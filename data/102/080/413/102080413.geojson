@@ -43,9 +43,6 @@
     "name:fra_x_preferred":[
         "Vega Alta"
     ],
-    "name:fre_x_preferred":[
-        "Vega Alta"
-    ],
     "name:hbs_x_preferred":[
         "Vega Alta"
     ],
@@ -145,7 +142,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092048,
+    "wof:lastmodified":1561827113,
     "wof:name":"Vega Alta",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

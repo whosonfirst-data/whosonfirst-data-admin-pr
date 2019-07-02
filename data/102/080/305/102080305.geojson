@@ -43,9 +43,6 @@
     "name:fra_x_preferred":[
         "Vega Baja"
     ],
-    "name:fre_x_preferred":[
-        "Vega Baja"
-    ],
     "name:hbs_x_preferred":[
         "Vega Baja"
     ],
@@ -145,7 +142,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092043,
+    "wof:lastmodified":1561827115,
     "wof:name":"Vega Baja",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

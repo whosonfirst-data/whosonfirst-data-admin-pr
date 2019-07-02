@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000145,
-    "geom:area_square_m":1704236.591596,
+    "geom:area_square_m":1704236.591595,
     "geom:bbox":"-65.888645,18.42385,-65.872659,18.443777",
     "geom:latitude":18.432021,
     "geom:longitude":-65.879575,
@@ -23,19 +23,13 @@
     "name:cat_x_preferred":[
         "Lo\u00edza"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u4f0a\u85a9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lo\u00edza"
     ],
     "name:eng_x_preferred":[
         "Lo\u00edza"
     ],
-    "name:fre_x_preferred":[
-        "Lo\u00edza"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lo\u00edza"
     ],
     "name:ita_x_preferred":[
@@ -43,6 +37,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ed\u30a4\u30b5"
+    ],
+    "name:nld_x_preferred":[
+        "Lo\u00edza"
     ],
     "name:por_x_preferred":[
         "Lo\u00edza"
@@ -61,6 +58,9 @@
     ],
     "name:war_x_preferred":[
         "Loiza"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u4f0a\u85a9"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":101919337,
-    "wof:lastmodified":1514497724,
+    "wof:lastmodified":1561827129,
     "wof:name":"Lo\u00edza",
     "wof:parent_id":102080363,
     "wof:placetype":"locality",

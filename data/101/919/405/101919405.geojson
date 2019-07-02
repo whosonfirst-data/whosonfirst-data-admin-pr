@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000637,
-    "geom:area_square_m":7487662.084644,
+    "geom:area_square_m":7487662.084645,
     "geom:bbox":"-66.879,18.019288,-66.84052,18.05092",
     "geom:latitude":18.034392,
     "geom:longitude":-66.861413,
@@ -24,19 +24,10 @@
     "name:cat_x_preferred":[
         "Yauco"
     ],
-    "name:chi_x_preferred":[
-        "\u582f\u79d1"
-    ],
-    "name:dut_x_preferred":[
-        "Yauco"
-    ],
     "name:eng_x_preferred":[
         "Yauco"
     ],
     "name:fra_x_preferred":[
-        "Yauco"
-    ],
-    "name:fre_x_preferred":[
         "Yauco"
     ],
     "name:hbs_x_preferred":[
@@ -128,7 +119,7 @@
         }
     ],
     "wof:id":101919405,
-    "wof:lastmodified":1514497763,
+    "wof:lastmodified":1561827133,
     "wof:name":"Yauco",
     "wof:parent_id":102080397,
     "wof:placetype":"locality",

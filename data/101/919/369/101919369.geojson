@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000157,
-    "geom:area_square_m":1841563.649906,
+    "geom:area_square_m":1841563.649909,
     "geom:bbox":"-66.798902,18.012075,-66.775309,18.031645",
     "geom:latitude":18.022115,
     "geom:longitude":-66.789764,
@@ -27,19 +27,10 @@
     "name:cat_x_preferred":[
         "Guayanilla"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u4e9e\u5c3c\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Guayanilla"
-    ],
     "name:eng_x_preferred":[
         "Guayanilla"
     ],
     "name:fra_x_preferred":[
-        "Guayanilla"
-    ],
-    "name:fre_x_preferred":[
         "Guayanilla"
     ],
     "name:hbs_x_preferred":[
@@ -146,7 +137,7 @@
         }
     ],
     "wof:id":101919369,
-    "wof:lastmodified":1534379443,
+    "wof:lastmodified":1561827132,
     "wof:name":"Guayanilla",
     "wof:parent_id":102080297,
     "wof:placetype":"locality",

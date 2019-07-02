@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000461,
-    "geom:area_square_m":5403364.117916,
+    "geom:area_square_m":5403364.117918,
     "geom:bbox":"-66.50546,18.417099,-66.462751,18.44004",
     "geom:latitude":18.428287,
     "geom:longitude":-66.482386,
@@ -23,29 +23,26 @@
     "name:cat_x_preferred":[
         "Manat\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u7d0d\u8482"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Manat\u00ed"
     ],
     "name:eng_x_preferred":[
         "Manat\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Manat\u00ed"
     ],
     "name:fry_x_preferred":[
         "Manati"
-    ],
-    "name:ger_x_preferred":[
-        "Manat\u00ed"
     ],
     "name:ita_x_preferred":[
         "Manat\u00ed"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30ca\u30c6\u30a3"
+    ],
+    "name:nld_x_preferred":[
+        "Manat\u00ed"
     ],
     "name:pol_x_preferred":[
         "Manat\u00ed"
@@ -67,6 +64,9 @@
     ],
     "name:war_x_preferred":[
         "Manati"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u7d0d\u8482"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":101919377,
-    "wof:lastmodified":1553815587,
+    "wof:lastmodified":1561827131,
     "wof:name":"Manat\u00ed",
     "wof:parent_id":102080271,
     "wof:placetype":"locality",

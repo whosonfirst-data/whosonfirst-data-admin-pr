@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000415,
-    "geom:area_square_m":4872132.204018,
+    "geom:area_square_m":4872132.20402,
     "geom:bbox":"-66.688437,18.409067,-66.665696,18.438063",
     "geom:latitude":18.423455,
     "geom:longitude":-66.676944,
@@ -21,9 +21,6 @@
     "mps:longitude":-66.676734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Bajadero"
-    ],
     "name:eng_x_preferred":[
         "Bajadero"
     ],
@@ -104,7 +101,7 @@
         }
     ],
     "wof:id":101919127,
-    "wof:lastmodified":1534379419,
+    "wof:lastmodified":1561827131,
     "wof:name":"Bajadero",
     "wof:parent_id":102080283,
     "wof:placetype":"locality",

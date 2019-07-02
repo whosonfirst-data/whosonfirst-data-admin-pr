@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000129,
-    "geom:area_square_m":1521915.394434,
+    "geom:area_square_m":1521915.39443,
     "geom:bbox":"-65.910388,17.997062,-65.893114,18.014136",
     "geom:latitude":18.00568,
     "geom:longitude":-65.901076,
@@ -27,19 +27,10 @@
     "name:cat_x_preferred":[
         "Maunabo"
     ],
-    "name:chi_x_preferred":[
-        "\u6bdb\u7d0d\u6c83"
-    ],
-    "name:dut_x_preferred":[
-        "Maunabo"
-    ],
     "name:eng_x_preferred":[
         "Maunabo"
     ],
     "name:fra_x_preferred":[
-        "Maunabo"
-    ],
-    "name:fre_x_preferred":[
         "Maunabo"
     ],
     "name:hbs_x_preferred":[
@@ -140,7 +131,7 @@
         }
     ],
     "wof:id":101919215,
-    "wof:lastmodified":1534379430,
+    "wof:lastmodified":1561827132,
     "wof:name":"Maunabo",
     "wof:parent_id":102080389,
     "wof:placetype":"locality",

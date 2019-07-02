@@ -37,9 +37,6 @@
     "name:fra_x_preferred":[
         "Corozal"
     ],
-    "name:fre_x_preferred":[
-        "Corozal"
-    ],
     "name:ita_x_preferred":[
         "Corozal"
     ],
@@ -120,7 +117,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092046,
+    "wof:lastmodified":1561827114,
     "wof:name":"Corozal",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

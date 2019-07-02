@@ -37,9 +37,6 @@
     "name:fra_x_preferred":[
         "Barceloneta"
     ],
-    "name:fre_x_preferred":[
-        "Barceloneta"
-    ],
     "name:ita_x_preferred":[
         "Barceloneta"
     ],
@@ -117,7 +114,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092046,
+    "wof:lastmodified":1561827117,
     "wof:name":"Barceloneta",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

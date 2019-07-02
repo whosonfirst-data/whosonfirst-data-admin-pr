@@ -97,9 +97,6 @@
     "name:fra_x_preferred":[
         "Dorade"
     ],
-    "name:fre_x_preferred":[
-        "Dorade"
-    ],
     "name:gle_x_preferred":[
         "An Colg\u00e1n"
     ],
@@ -292,7 +289,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092048,
+    "wof:lastmodified":1561827115,
     "wof:name":"Dorado",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

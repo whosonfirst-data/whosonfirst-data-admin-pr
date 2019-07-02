@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000692,
-    "geom:area_square_m":8114186.704742,
+    "geom:area_square_m":8114186.704733,
     "geom:bbox":"-67.038002,18.484652,-67.002123,18.520161",
     "geom:latitude":18.501594,
     "geom:longitude":-67.023382,
@@ -27,16 +27,13 @@
     "name:cat_x_preferred":[
         "Isabela"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u85a9\u8c9d\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Isabela"
-    ],
     "name:eng_x_preferred":[
         "Isabela"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0632\u0627\u0628\u0644\u0627\u060c \u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
         "Isabela"
     ],
     "name:ita_x_preferred":[
@@ -48,8 +45,8 @@
     "name:lit_x_preferred":[
         "Isabela"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0632\u0627\u0628\u0644\u0627\u060c \u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648"
+    "name:nld_x_preferred":[
+        "Isabela"
     ],
     "name:pol_x_preferred":[
         "Isabela"
@@ -71,6 +68,9 @@
     ],
     "name:war_x_preferred":[
         "Isabela"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u85a9\u8c9d\u62c9"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":101919277,
-    "wof:lastmodified":1534379436,
+    "wof:lastmodified":1561827132,
     "wof:name":"Isabela",
     "wof:parent_id":102080383,
     "wof:placetype":"locality",

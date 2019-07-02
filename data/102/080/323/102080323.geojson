@@ -41,9 +41,6 @@
     "name:fra_x_preferred":[
         "A\u00f1asco"
     ],
-    "name:fre_x_preferred":[
-        "A\u00f1asco"
-    ],
     "name:hbs_x_preferred":[
         "A\u00f1asco"
     ],
@@ -131,7 +128,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092044,
+    "wof:lastmodified":1561827114,
     "wof:name":"A\u00f1asco",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

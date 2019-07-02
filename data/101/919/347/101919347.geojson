@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
-    "geom:area_square_m":1196377.468441,
+    "geom:area_square_m":1196377.468439,
     "geom:bbox":"-66.534085,18.052735,-66.518252,18.062842",
     "geom:latitude":18.056544,
     "geom:longitude":-66.526735,
@@ -23,7 +23,7 @@
     "name:deu_x_preferred":[
         "Luis Llorens Torres"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Luis Llor\u00e9ns Torres"
     ],
     "name:eng_x_preferred":[
@@ -32,7 +32,7 @@
     "name:fra_x_preferred":[
         "Luis Llor\u00e9ns Torres"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Luis Llor\u00e9ns Torres"
     ],
     "name:por_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":101919347,
-    "wof:lastmodified":1527715837,
+    "wof:lastmodified":1561827131,
     "wof:name":"Luis Llor\u00e9ns Torres",
     "wof:parent_id":102080415,
     "wof:placetype":"locality",

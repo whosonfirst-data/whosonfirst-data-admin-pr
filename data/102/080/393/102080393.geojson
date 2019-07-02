@@ -46,9 +46,6 @@
     "name:fra_x_preferred":[
         "Adjuntas"
     ],
-    "name:fre_x_preferred":[
-        "Adjuntas"
-    ],
     "name:hbs_x_preferred":[
         "Adjuntas"
     ],
@@ -148,7 +145,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092047,
+    "wof:lastmodified":1561827114,
     "wof:name":"Adjuntas",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

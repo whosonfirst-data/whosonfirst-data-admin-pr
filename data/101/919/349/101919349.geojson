@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000328,
-    "geom:area_square_m":3854200.176705,
+    "geom:area_square_m":3854200.176701,
     "geom:bbox":"-66.518373,18.043002,-66.491572,18.066243",
     "geom:latitude":18.053168,
     "geom:longitude":-66.504633,
@@ -24,22 +24,13 @@
     "name:cat_x_preferred":[
         "Juana D\u00edaz"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u5b89\u5a1c\u8fea\u4e9e\u65af"
-    ],
-    "name:cze_x_preferred":[
-        "Juana D\u00edaz"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Juana D\u00edaz"
     ],
     "name:eng_x_preferred":[
         "Juana D\u00edaz"
     ],
     "name:fra_x_preferred":[
-        "Juana D\u00edaz"
-    ],
-    "name:fre_x_preferred":[
         "Juana D\u00edaz"
     ],
     "name:hbs_x_preferred":[
@@ -60,7 +51,7 @@
     "name:por_x_preferred":[
         "Juana D\u00edaz"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Juana D\u00edaz"
     ],
     "name:spa_x_preferred":[
@@ -128,7 +119,7 @@
         }
     ],
     "wof:id":101919349,
-    "wof:lastmodified":1514497720,
+    "wof:lastmodified":1561827131,
     "wof:name":"Juana D\u00edaz",
     "wof:parent_id":102080415,
     "wof:placetype":"locality",

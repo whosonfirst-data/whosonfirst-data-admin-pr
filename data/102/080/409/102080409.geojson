@@ -37,9 +37,6 @@
     "name:fra_x_preferred":[
         "Cabo Rojo"
     ],
-    "name:fre_x_preferred":[
-        "Cabo Rojo"
-    ],
     "name:ita_x_preferred":[
         "Cabo Rojo"
     ],
@@ -111,7 +108,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092048,
+    "wof:lastmodified":1561827113,
     "wof:name":"Cabo Rojo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

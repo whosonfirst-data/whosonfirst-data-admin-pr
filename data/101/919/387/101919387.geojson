@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000055,
-    "geom:area_square_m":647559.74591,
+    "geom:area_square_m":647559.745912,
     "geom:bbox":"-67.073736,18.440896,-67.062062,18.451436",
     "geom:latitude":18.445554,
     "geom:longitude":-67.066929,
@@ -21,9 +21,6 @@
     "mps:longitude":-67.066353,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Aceitunas"
-    ],
     "name:eng_x_preferred":[
         "Aceitunas"
     ],
@@ -106,7 +103,7 @@
         }
     ],
     "wof:id":101919387,
-    "wof:lastmodified":1534379427,
+    "wof:lastmodified":1561827133,
     "wof:name":"Aceitunas",
     "wof:parent_id":102080423,
     "wof:placetype":"locality",

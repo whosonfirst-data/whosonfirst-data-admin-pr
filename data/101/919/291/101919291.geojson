@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000809,
-    "geom:area_square_m":9490181.993828,
+    "geom:area_square_m":9490181.993829,
     "geom:bbox":"-66.295112,18.449974,-66.25321,18.483403",
     "geom:latitude":18.467688,
     "geom:longitude":-66.271303,
@@ -27,22 +27,13 @@
     "name:cat_x_preferred":[
         "Dorado"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u62c9\u591a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dorado"
     ],
     "name:eng_x_preferred":[
         "Dorado"
     ],
     "name:fra_x_preferred":[
-        "Dorado"
-    ],
-    "name:fre_x_preferred":[
-        "Dorado"
-    ],
-    "name:ger_x_preferred":[
         "Dorado"
     ],
     "name:hbs_x_preferred":[
@@ -150,7 +141,7 @@
         }
     ],
     "wof:id":101919291,
-    "wof:lastmodified":1534379426,
+    "wof:lastmodified":1561827133,
     "wof:name":"Dorado",
     "wof:parent_id":102080417,
     "wof:placetype":"locality",

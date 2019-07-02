@@ -27,16 +27,10 @@
     "name:cat_x_preferred":[
         "Santa Isabel"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u4f0a\u85a9\u8c9d\u723e"
-    ],
-    "name:dut_x_preferred":[
-        "Santa Isabel"
-    ],
     "name:eng_x_preferred":[
         "Santa Isabel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Santa Isabel"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +38,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30bf\u30fb\u30a4\u30b5\u30d9\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Isabel"
     ],
     "name:por_x_preferred":[
         "Santa Isabel"
@@ -62,6 +59,9 @@
     ],
     "name:war_x_preferred":[
         "Santa Isabel"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f0a\u85a9\u8c9d\u723e"
     ],
     "qs_pg:aaroncc":"PR",
     "qs_pg:gn_country":"PR",
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":1125875703,
-    "wof:lastmodified":1553816591,
+    "wof:lastmodified":1561827137,
     "wof:name":"Santa Isabel",
     "wof:parent_id":102080335,
     "wof:placetype":"locality",

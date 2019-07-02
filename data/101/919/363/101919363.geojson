@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
-    "geom:area_square_m":3117754.853834,
+    "geom:area_square_m":3117754.853831,
     "geom:bbox":"-65.990067,18.241174,-65.96338,18.260772",
     "geom:latitude":18.252861,
     "geom:longitude":-65.97857,
@@ -27,19 +27,10 @@
     "name:cat_x_preferred":[
         "Gurabo"
     ],
-    "name:chi_x_preferred":[
-        "\u53e4\u62c9\u6c83"
-    ],
-    "name:dut_x_preferred":[
-        "Gurabo"
-    ],
     "name:eng_x_preferred":[
         "Gurabo"
     ],
     "name:fra_x_preferred":[
-        "Gurabo"
-    ],
-    "name:fre_x_preferred":[
         "Gurabo"
     ],
     "name:hbs_x_preferred":[
@@ -147,7 +138,7 @@
         }
     ],
     "wof:id":101919363,
-    "wof:lastmodified":1534379429,
+    "wof:lastmodified":1561827129,
     "wof:name":"Gurabo",
     "wof:parent_id":102080435,
     "wof:placetype":"locality",

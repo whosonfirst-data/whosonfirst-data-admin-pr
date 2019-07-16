@@ -23,11 +23,17 @@
     "name:cat_x_preferred":[
         "Rio Grande"
     ],
+    "name:ceb_x_preferred":[
+        "R\u00edo Grande"
+    ],
     "name:deu_x_preferred":[
         "R\u00edo Grande"
     ],
     "name:eng_x_preferred":[
         "R\u00edo Grande"
+    ],
+    "name:epo_x_preferred":[
+        "Rivero Granda"
     ],
     "name:fra_x_preferred":[
         "R\u00edo Grande"
@@ -58,6 +64,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0648 \u06af\u0631\u06cc\u0646\u0688\u06d2\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0631\u06cc\u0648 \u06af\u0631\u06cc\u0646\u0688\u06d2"
     ],
     "name:war_x_preferred":[
         "Rio Grande"
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":101919255,
-    "wof:lastmodified":1561827133,
+    "wof:lastmodified":1563237177,
     "wof:name":"R\u00edo Grande",
     "wof:parent_id":102080399,
     "wof:placetype":"locality",

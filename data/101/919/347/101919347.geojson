@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Luis Llorens Torres"
     ],
+    "name:ceb_x_preferred":[
+        "Luis Llorens Torres"
+    ],
     "name:deu_x_preferred":[
         "Luis Llorens Torres"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:spa_x_preferred":[
         "Luis Llorens Torres"
+    ],
+    "name:spa_x_variant":[
+        "Luis Llor\u00e9ns Torres"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0443\u0438\u0441 \u0409\u043e\u0440\u0435\u043d\u0441 \u0422\u043e\u0440\u0435\u0441"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":101919347,
-    "wof:lastmodified":1561827131,
+    "wof:lastmodified":1563237147,
     "wof:name":"Luis Llor\u00e9ns Torres",
     "wof:parent_id":102080415,
     "wof:placetype":"locality",

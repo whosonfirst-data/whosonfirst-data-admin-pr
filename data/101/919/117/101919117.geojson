@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Maricao"
     ],
+    "name:ceb_x_preferred":[
+        "Maricao"
+    ],
     "name:eng_x_preferred":[
         "Maricao"
     ],
@@ -48,11 +51,17 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u0440\u0438\u043a\u0430\u043e"
     ],
+    "name:srp_x_variant":[
+        "Maricao"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0456\u043a\u0430\u043e"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0631\u06cc\u06a9\u0627\u0648\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u0631\u06cc\u06a9\u0627\u0648"
     ],
     "name:war_x_preferred":[
         "Maricao"
@@ -126,7 +135,7 @@
         }
     ],
     "wof:id":101919117,
-    "wof:lastmodified":1561827131,
+    "wof:lastmodified":1563237148,
     "wof:name":"Maricao",
     "wof:parent_id":102080437,
     "wof:placetype":"locality",

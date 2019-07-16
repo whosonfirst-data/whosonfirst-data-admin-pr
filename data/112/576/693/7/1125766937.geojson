@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "P\u00e1jaros"
     ],
+    "name:ceb_x_preferred":[
+        "P\u00e1jaros"
+    ],
     "name:eng_x_preferred":[
         "P\u00e1jaros"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125766937,
-    "wof:lastmodified":1561827139,
+    "wof:lastmodified":1563237253,
     "wof:name":"Pajaros",
     "wof:parent_id":102080359,
     "wof:placetype":"locality",

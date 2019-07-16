@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Vega Baja"
     ],
+    "name:ceb_x_preferred":[
+        "Vega Baja"
+    ],
     "name:eng_x_preferred":[
         "Vega Baja"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0648\u06af\u0627 \u0628\u0627\u062c\u0627\u060c \u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u06af\u0627 \u0628\u0627\u062c\u0627"
     ],
     "name:fra_x_preferred":[
         "Vega Baja"
@@ -49,10 +55,16 @@
     "name:ita_x_preferred":[
         "Vega Baja"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30ac\u30fb\u30d0\u30cf"
+    ],
     "name:nld_x_preferred":[
         "Vega Baja"
     ],
     "name:pol_x_preferred":[
+        "Vega Baja"
+    ],
+    "name:por_x_preferred":[
         "Vega Baja"
     ],
     "name:scn_x_preferred":[
@@ -67,11 +79,17 @@
     "name:srp_x_preferred":[
         "\u0412\u0435\u0433\u0430 \u0411\u0430\u0445\u0430"
     ],
+    "name:srp_x_variant":[
+        "Vega Baja"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0433\u0430-\u0411\u0430\u0445\u0430"
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u06af\u0627 \u0628\u0627\u062e\u0627\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u06cc\u06af\u0627 \u0628\u0627\u062e\u0627"
     ],
     "name:war_x_preferred":[
         "Vega Baja"
@@ -142,7 +160,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1561827115,
+    "wof:lastmodified":1563236793,
     "wof:name":"Vega Baja",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

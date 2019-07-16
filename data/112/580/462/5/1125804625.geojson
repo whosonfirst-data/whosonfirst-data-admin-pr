@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Pe\u00f1uelas"
     ],
+    "name:ceb_x_preferred":[
+        "Pe\u00f1uelas Municipio"
+    ],
     "name:eng_x_preferred":[
         "Pe\u00f1uelas"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0646\u0648\u06cc\u0644\u0627\u0633\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u067e\u06cc\u0646\u0648\u06cc\u0644\u0627\u0633"
     ],
     "name:war_x_preferred":[
         "Pe\u00f1uelas"
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1125804625,
-    "wof:lastmodified":1561827137,
+    "wof:lastmodified":1563237217,
     "wof:name":"Penuelas",
     "wof:parent_id":102080335,
     "wof:placetype":"locality",

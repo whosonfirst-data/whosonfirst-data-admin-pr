@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7821574.273914,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-8.682013,41.168092,-8.682013,41.168092",
     "geom:latitude":41.168092,
     "geom:longitude":-8.682013,
@@ -25,7 +25,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:ast_x_preferred":[
+        "Aldoar"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u0434\u043e\u0430\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Aldoar"
+    ],
     "name:deu_x_preferred":[
+        "Aldoar"
+    ],
+    "name:diq_x_preferred":[
+        "Aldoar"
+    ],
+    "name:eng_x_preferred":[
         "Aldoar"
     ],
     "name:fas_x_preferred":[
@@ -117,7 +132,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531861964,
+    "wof:lastmodified":1563236859,
     "wof:name":"Aldoar",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",

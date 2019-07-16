@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Cata\u00f1o"
     ],
+    "name:ceb_x_preferred":[
+        "Cata\u00f1o Municipio"
+    ],
     "name:eng_x_preferred":[
         "Cata\u00f1o"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u062a\u0627\u0646\u0648\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u0627\u062a\u0627\u0646\u0648"
     ],
     "name:war_x_preferred":[
         "Cata\u00f1o"
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":1125941309,
-    "wof:lastmodified":1561827134,
+    "wof:lastmodified":1563237201,
     "wof:name":"Catano",
     "wof:parent_id":102080289,
     "wof:placetype":"locality",

@@ -27,11 +27,20 @@
     "name:cat_x_preferred":[
         "Aguas Buenas"
     ],
+    "name:ceb_x_preferred":[
+        "Aguas Buenas"
+    ],
     "name:eng_x_preferred":[
         "Aguas Buenas"
     ],
+    "name:epo_x_preferred":[
+        "Akvoj Bonaj"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06af\u0648\u0627\u0633 \u0628\u0648\u0626\u0646\u0627\u0633\u060c \u067e\u0648\u0631\u062a\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06af\u0648\u0627\u0633 \u0628\u0648\u0626\u0646\u0627\u0633"
     ],
     "name:fra_x_preferred":[
         "Aguas Buenas"
@@ -65,6 +74,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u06af\u0648\u0627\u0633 \u0628\u0648\u0626\u0646\u0627\u0633\u060c \u067e\u0648\u0631\u0679\u06cc \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u06af\u0648\u0627\u0633 \u0628\u0648\u0626\u0646\u0627\u0633"
     ],
     "name:war_x_preferred":[
         "Aguas Buenas"
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":101919009,
-    "wof:lastmodified":1561827130,
+    "wof:lastmodified":1563237135,
     "wof:name":"Aguas Buenas",
     "wof:parent_id":102080321,
     "wof:placetype":"locality",

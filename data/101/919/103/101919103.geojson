@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Cidra"
     ],
+    "name:ceb_x_preferred":[
+        "Cidra Municipio"
+    ],
     "name:eng_x_preferred":[
         "Cidra"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u062f\u0631\u0627\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u062f\u0631\u0627"
     ],
     "name:war_x_preferred":[
         "Cidra"
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":101919103,
-    "wof:lastmodified":1561827129,
+    "wof:lastmodified":1563237114,
     "wof:name":"Cidra",
     "wof:parent_id":102080345,
     "wof:placetype":"locality",

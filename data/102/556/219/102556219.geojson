@@ -16,6 +16,9 @@
     "mps:longitude":-67.149684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Rafael Hernandez Airport"
+    ],
     "name:deu_x_preferred":[
         "Rafael Hern\u00e1ndez Airport"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Rafael Hernandez"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Rafael Hern\u00e1ndez"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional Rafael Hern\u00e1ndez"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":102556219,
-    "wof:lastmodified":1561827112,
+    "wof:lastmodified":1563236772,
     "wof:name":"Aeropuerto Rafael Hern\u00edndez",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

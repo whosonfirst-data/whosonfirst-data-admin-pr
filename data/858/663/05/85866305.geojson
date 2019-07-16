@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1049364.628763,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.068222,18.418637,-66.068222,18.418637",
     "geom:latitude":18.418637,
     "geom:longitude":-66.068222,
@@ -27,11 +27,260 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:afr_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:ara_x_preferred":[
+        "\u0625\u0644\u064a\u0627\u0646\u0648\u0631 \u0631\u0648\u0632\u0641\u0644\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0646\u0648\u0631 \u0631\u0648\u0632\u0648\u0644\u062a"
+    ],
+    "name:aze_x_preferred":[
+        "Eleanora Ruzvelt"
+    ],
+    "name:bak_x_preferred":[
+        "\u042d\u043b\u0435\u043e\u043d\u043e\u0440\u0430 \u0420\u0443\u0437\u0432\u0435\u043b\u044c\u0442"
+    ],
+    "name:bcl_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:bel_x_preferred":[
+        "\u042d\u043b\u0435\u0430\u043d\u043e\u0440\u0430 \u0420\u0443\u0437\u0432\u0435\u043b\u044c\u0442"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b2\u09bf\u09af\u09bc\u09be\u09a8\u09b0 \u09b0\u09c1\u099c\u09ad\u09c7\u09b2\u09cd\u099f"
+    ],
+    "name:bos_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:bre_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u043b\u0438\u043d\u043e\u0440 \u0420\u0443\u0437\u0432\u0435\u043b\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:ces_x_preferred":[
+        "Eleanor Rooseveltov\u00e1"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06cc\u0644\u06cc\u0646\u06c6\u0631 \u0695\u06c6\u0632\u06d5\u06a4\u06ce\u06b5\u062a"
+    ],
+    "name:cym_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:dan_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:deu_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:ell_x_preferred":[
+        "\u0388\u03bb\u03b9\u03bd\u03bf\u03c1 \u03a1\u03bf\u03cd\u03b6\u03b2\u03b5\u03bb\u03c4"
+    ],
+    "name:eng_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:epo_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:est_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:eus_x_preferred":[
+        "Anna Eleanor Roosevelt"
+    ],
+    "name:ewe_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0646\u0648\u0631 \u0631\u0648\u0632\u0648\u0644\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:fra_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:gle_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:glg_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d9\u05e0\u05d5\u05e8 \u05e8\u05d5\u05d6\u05d5\u05d5\u05dc\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932\u093f\u0928\u094b\u0930 \u0930\u0942\u091c\u093c\u0935\u0947\u0932\u094d\u091f"
+    ],
+    "name:hrv_x_preferred":[
+        "Anna Eleanor Roosevelt"
+    ],
+    "name:hun_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u056c\u0565\u0578\u0576\u0578\u0580 \u054c\u0578\u0582\u0566\u057e\u0565\u056c\u057f"
+    ],
+    "name:ido_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:ina_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:ind_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:isl_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:ita_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:jav_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30ec\u30ce\u30a2\u30fb\u30eb\u30fc\u30ba\u30d9\u30eb\u30c8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da\u10d4\u10dd\u10dc\u10dd\u10e0\u10d0 \u10e0\u10e3\u10d6\u10d5\u10d4\u10da\u10e2\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u043b\u0435\u043e\u043d\u043e\u0440\u0430 \u0420\u0443\u0437\u0432\u0435\u043b\u044c\u0442"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\ub9ac\ub108 \ub8e8\uc2a4\ubca8\ud2b8"
+    ],
+    "name:lat_x_preferred":[
+        "Alienora Roosevelt"
+    ],
+    "name:lav_x_preferred":[
+        "Eleanora R\u016bzvelta"
+    ],
+    "name:lim_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:lit_x_preferred":[
+        "Eleonora Ruzvelt"
+    ],
+    "name:ltz_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d0e\u0d32\u0d40\u0d28\u0d7c \u0d31\u0d42\u0d38\u0d4d\u200c\u0d35\u0d46\u0d7d\u0d31\u0d4d\u0d31\u0d4d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0415\u043b\u0435\u043d\u043e\u0440 \u0420\u0443\u0437\u0432\u0435\u043b\u0442"
+    ],
+    "name:mlg_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:msa_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:nan_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:nds_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:nep_x_preferred":[
+        "\u090f\u0932\u093f\u0928\u093f\u092f\u094b\u0930 \u0930\u0941\u091c\u0935\u0947\u0932\u094d\u091f"
+    ],
+    "name:new_x_preferred":[
+        "\u0907\u0932\u0947\u0928\u0930 \u0930\u0941\u091c\u0935\u0947\u0932\u094d\u0924"
+    ],
+    "name:nld_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:nno_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:nob_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:oci_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a0f\u0a32\u0a40\u0a28\u0a4b\u0a30 \u0a30\u0a42\u0a1c\u0a35\u0a48\u0a32\u0a1f"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0644\u06cc\u0646\u0631 \u0631\u0648\u0632\u0648\u06cc\u0644\u0679"
+    ],
+    "name:pol_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:por_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:ron_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u0435\u043e\u043d\u043e\u0440\u0430 \u0420\u0443\u0437\u0432\u0435\u043b\u044c\u0442"
+    ],
+    "name:san_x_preferred":[
+        "\u090f\u0932\u0947\u0928\u094b\u0930 \u0930\u094b\u091c\u093c\u0935\u0947\u0932\u094d\u091f"
+    ],
+    "name:sco_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:slk_x_preferred":[
+        "Eleanor Rooseveltov\u00e1"
+    ],
+    "name:slv_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
     "name:spa_x_preferred":[
         "Eleanor Roosevelt"
     ],
+    "name:sqi_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b\u0435\u043d\u043e\u0440 \u0420\u0443\u0437\u0432\u0435\u043b\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8e\u0bb2\u0bbf\u0ba9\u0bcb\u0bb0\u0bcd \u0bb0\u0bc2\u0b9a\u0bc1\u0bb5\u0bc6\u0bb2\u0bcd\u0b9f\u0bcd"
+    ],
+    "name:tgl_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e2d\u0e40\u0e25\u0e19\u0e2d\u0e23\u0e4c \u0e42\u0e23\u0e2a\u0e40\u0e27\u0e25\u0e15\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u0435\u043e\u043d\u043e\u0440\u0430 \u0420\u0443\u0437\u0432\u0435\u043b\u044c\u0442"
+    ],
     "name:unk_x_variant":[
         "Eleanor Roosevelt"
+    ],
+    "name:vie_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:war_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:yor_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u8389\u8bfa\u00b7\u7f57\u65af\u798f"
     ],
     "qs:gn_adm0_cc":"PR",
     "qs:gn_fcode":"PPL",
@@ -117,7 +366,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379426,
+    "wof:lastmodified":1563236863,
     "wof:name":"Eleanor Roosevelt",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

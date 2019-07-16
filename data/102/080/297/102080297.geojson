@@ -25,14 +25,56 @@
     "mps:longitude":-66.792804,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u0997\u09c1\u09f1\u09be\u09af\u09bc\u09be\u09a8\u09bf\u09b2\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Guayanilla"
+    ],
+    "name:ceb_x_preferred":[
+        "Guayanilla"
+    ],
     "name:eng_x_preferred":[
         "Guayanilla"
     ],
     "name:eng_x_variant":[
         "Guayanilla Municipality"
     ],
+    "name:fra_x_preferred":[
+        "Guayanilla"
+    ],
+    "name:ita_x_preferred":[
+        "Guayanilla"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a2\u30e4\u30cb\u30e9"
+    ],
+    "name:nld_x_preferred":[
+        "Guayanilla"
+    ],
+    "name:por_x_preferred":[
+        "Guayanilla"
+    ],
     "name:spa_x_preferred":[
         "Municipio Guayanilla"
+    ],
+    "name:spa_x_variant":[
+        "Guayanilla"
+    ],
+    "name:srp_x_preferred":[
+        "Guayanilla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0432\u0430\u044f\u043d\u0456\u043b\u044c\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u0627\u06cc\u0627\u0646\u06cc\u0644\u0627"
+    ],
+    "name:war_x_preferred":[
+        "Guayanilla"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u4e9e\u5c3c\u4e9e"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1_lc":"72",
@@ -97,7 +139,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092042,
+    "wof:lastmodified":1563236802,
     "wof:name":"Guayanilla",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

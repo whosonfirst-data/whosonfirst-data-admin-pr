@@ -24,11 +24,17 @@
     "name:cat_x_preferred":[
         "Aibonito"
     ],
+    "name:ceb_x_preferred":[
+        "Aibonito"
+    ],
     "name:eng_x_preferred":[
         "Aibonito"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0628\u0627\u0646\u06cc\u062a\u0648\u060c \u067e\u0648\u0626\u0631\u062a\u0648 \u0631\u06cc\u0633\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0628\u0627\u0646\u06cc\u062a\u0648"
     ],
     "name:fra_x_preferred":[
         "Aibonito"
@@ -65,6 +71,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0628\u0648\u0646\u06cc\u062a\u0648\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u06cc\u0628\u0648\u0646\u06cc\u062a\u0648"
     ],
     "name:war_x_preferred":[
         "Aibonito"
@@ -139,7 +148,7 @@
         }
     ],
     "wof:id":101919147,
-    "wof:lastmodified":1561827134,
+    "wof:lastmodified":1563237183,
     "wof:name":"Aibonito",
     "wof:parent_id":102080431,
     "wof:placetype":"locality",

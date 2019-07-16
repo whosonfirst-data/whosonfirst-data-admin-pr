@@ -25,14 +25,56 @@
     "mps:longitude":-65.90814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u099c\u09c1\u0999\u09cd\u0995\u09cb\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Juncos"
+    ],
     "name:eng_x_preferred":[
         "Juncos"
     ],
     "name:eng_x_variant":[
         "Juncos Municipality"
     ],
+    "name:fra_x_preferred":[
+        "Juncos"
+    ],
+    "name:ita_x_preferred":[
+        "Juncos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30f3\u30b3\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Juncos"
+    ],
+    "name:pol_x_preferred":[
+        "Juncos"
+    ],
+    "name:por_x_preferred":[
+        "Juncos"
+    ],
     "name:spa_x_preferred":[
         "Municipio Juncos"
+    ],
+    "name:spa_x_variant":[
+        "Juncos"
+    ],
+    "name:srp_x_preferred":[
+        "Juncos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u043d\u043a\u043e\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0648\u0646\u06a9\u0648\u0633"
+    ],
+    "name:war_x_preferred":[
+        "Juncos"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d2a\u79d1\u65af"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1_lc":"72",
@@ -97,7 +139,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092043,
+    "wof:lastmodified":1563236776,
     "wof:name":"Juncos",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

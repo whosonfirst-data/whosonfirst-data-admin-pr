@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Vieques"
     ],
+    "name:ceb_x_preferred":[
+        "Vieques Island"
+    ],
     "name:ces_x_preferred":[
         "Vieques"
     ],
@@ -77,6 +80,9 @@
     "name:kor_x_preferred":[
         "\ube44\uc5d0\ucf00\uc2a4 \uc12c"
     ],
+    "name:kor_x_variant":[
+        "\ube44\uc5d0\ucf00\uc2a4\uc12c"
+    ],
     "name:lit_x_preferred":[
         "Vjekesas"
     ],
@@ -115,6 +121,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0626\u0642\u06cc\u0633\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0648\u06cc\u0626\u0642\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Vieques"
     ],
     "name:war_x_preferred":[
         "Vieques"
@@ -188,7 +200,7 @@
         }
     ],
     "wof:id":101919119,
-    "wof:lastmodified":1561827131,
+    "wof:lastmodified":1563237148,
     "wof:name":"Vieques",
     "wof:parent_id":102080315,
     "wof:placetype":"locality",

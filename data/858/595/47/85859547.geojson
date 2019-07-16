@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1184238.859211,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.088803,18.46654,-66.088803,18.46654",
     "geom:latitude":18.46654,
     "geom:longitude":-66.088803,
@@ -24,14 +24,95 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:afr_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0646\u0648\u064a\u0644 \u0641\u0631\u0646\u0627\u0646\u062f\u064a\u0632"
+    ],
+    "name:ast_x_preferred":[
+        "Manuel Fern\u00e1ndez Xuncos"
+    ],
+    "name:cat_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:ces_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:dan_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
     "name:deu_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:eng_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:epo_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:est_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:fin_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:fra_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:gsw_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:hrv_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:hun_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:isl_x_preferred":[
         "Manuel Fern\u00e1ndez Juncos"
     ],
     "name:ita_x_preferred":[
         "Manuel Fern\u00e1ndez Juncos"
     ],
+    "name:lit_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:nld_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:nno_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:nob_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:pol_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:por_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:ron_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:slk_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:slv_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
     "name:spa_x_preferred":[
         "Fernandez Juncos",
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:sqi_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:swe_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:tur_x_preferred":[
         "Manuel Fern\u00e1ndez Juncos"
     ],
     "name:unk_x_variant":[
@@ -68,11 +149,11 @@
     "wd:wordcount":716,
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         101919427,
         136253057,
-        102080441
+        102080441,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +179,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531870389,
+    "wof:lastmodified":1563236860,
     "wof:name":"Fernandez Juncos",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

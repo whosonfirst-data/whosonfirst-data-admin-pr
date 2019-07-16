@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "La Dolores"
     ],
+    "name:ceb_x_preferred":[
+        "La Dolores"
+    ],
     "name:eng_x_preferred":[
         "La Dolores"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101919259,
-    "wof:lastmodified":1561827130,
+    "wof:lastmodified":1563237133,
     "wof:name":"La Dolores",
     "wof:parent_id":102080399,
     "wof:placetype":"locality",

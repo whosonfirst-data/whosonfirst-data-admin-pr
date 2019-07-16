@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
-    "geom:area_square_m":808992.957197,
+    "geom:area_square_m":808992.957194,
     "geom:bbox":"-67.090351,18.004765,-67.079607,18.014817",
     "geom:latitude":18.009988,
     "geom:longitude":-67.085439,
@@ -17,6 +17,12 @@
     "mps:longitude":-67.085874,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maguayo"
+    ],
+    "name:spa_x_preferred":[
+        "Maguayo"
+    ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
     "qs:a1_lc":"72",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":101919077,
-    "wof:lastmodified":1527715834,
+    "wof:lastmodified":1563237122,
     "wof:name":"Maguayo",
     "wof:parent_id":102080327,
     "wof:placetype":"locality",

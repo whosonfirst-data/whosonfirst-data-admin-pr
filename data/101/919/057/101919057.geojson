@@ -27,6 +27,12 @@
     "name:cat_x_preferred":[
         "Arroyo"
     ],
+    "name:ceb_x_preferred":[
+        "Arroyo"
+    ],
+    "name:cym_x_preferred":[
+        "Arroyo"
+    ],
     "name:deu_x_preferred":[
         "Arroyo"
     ],
@@ -68,6 +74,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0631\u0648\u06cc\u0648\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0631\u0648\u06cc\u0648"
     ],
     "name:war_x_preferred":[
         "Arroyo"
@@ -142,7 +151,7 @@
         }
     ],
     "wof:id":101919057,
-    "wof:lastmodified":1561827133,
+    "wof:lastmodified":1563237174,
     "wof:name":"Arroyo",
     "wof:parent_id":102080285,
     "wof:placetype":"locality",

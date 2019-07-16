@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043a\u0430\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Cacao"
+    ],
     "name:dan_x_preferred":[
         "Kakao"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101919301,
-    "wof:lastmodified":1561827129,
+    "wof:lastmodified":1563237117,
     "wof:name":"Cacao",
     "wof:parent_id":102080325,
     "wof:placetype":"locality",

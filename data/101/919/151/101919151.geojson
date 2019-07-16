@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
-    "geom:area_square_m":427649.057513,
+    "geom:area_square_m":427649.057512,
     "geom:bbox":"-66.578368,18.413361,-66.570373,18.420944",
     "geom:latitude":18.417417,
     "geom:longitude":-66.574928,
@@ -17,6 +17,9 @@
     "mps:longitude":-66.575804,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "B\u00fafalo"
+    ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
     "qs:a1_lc":"72",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101919151,
-    "wof:lastmodified":1527715833,
+    "wof:lastmodified":1563237119,
     "wof:name":"B\u00fafalo",
     "wof:parent_id":102080375,
     "wof:placetype":"locality",

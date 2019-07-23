@@ -60,6 +60,9 @@
     "name:urd_x_preferred":[
         "\u062e\u0648\u0646\u06a9\u0648\u0633\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
     ],
+    "name:urd_x_variant":[
+        "\u062e\u0648\u0646\u06a9\u0648\u0633"
+    ],
     "name:war_x_preferred":[
         "Juncos"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101918861,
-    "wof:lastmodified":1561827128,
+    "wof:lastmodified":1563237099,
     "wof:name":"Juncos",
     "wof:parent_id":102080301,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "A\u00f1asco"
     ],
+    "name:ceb_x_preferred":[
+        "A\u00f1asco"
+    ],
     "name:eng_x_preferred":[
         "A\u00f1asco"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u0627\u0633\u06a9\u0648\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0646\u0627\u0633\u06a9\u0648"
     ],
     "name:war_x_preferred":[
         "A\u00f1asco"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":101919029,
-    "wof:lastmodified":1561827132,
+    "wof:lastmodified":1563237163,
     "wof:name":"A\u00f1asco",
     "wof:parent_id":102080323,
     "wof:placetype":"locality",

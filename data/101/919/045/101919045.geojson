@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000127,
-    "geom:area_square_m":1488407.553945,
+    "geom:area_square_m":1488407.553943,
     "geom:bbox":"-67.215131,17.975782,-67.201388,17.988396",
     "geom:latitude":17.981876,
     "geom:longitude":-67.20853,
@@ -17,6 +17,12 @@
     "mps:longitude":-67.208661,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "El combate"
+    ],
+    "name:eng_x_preferred":[
+        "El combate"
+    ],
     "name:por_x_preferred":[
         "El combate"
     ],
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":101919045,
-    "wof:lastmodified":1527715838,
+    "wof:lastmodified":1563237158,
     "wof:name":"El Combate",
     "wof:parent_id":102080409,
     "wof:placetype":"locality",

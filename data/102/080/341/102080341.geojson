@@ -28,14 +28,26 @@
     "name:ara_x_preferred":[
         "\u0642\u0627\u0628\u0648\u0642"
     ],
+    "name:ast_x_preferred":[
+        "Ceiba"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0626\u06cc\u0628\u0627"
+    ],
     "name:aze_x_preferred":[
         "Seyba"
+    ],
+    "name:bul_x_preferred":[
+        "Ceiba"
     ],
     "name:cat_x_preferred":[
         "Ceiba"
     ],
     "name:ceb_x_preferred":[
         "Ceiba"
+    ],
+    "name:ces_x_preferred":[
+        "vlnovec"
     ],
     "name:dan_x_preferred":[
         "Kapoktr\u00e6-sl\u00e6gten"
@@ -55,7 +67,16 @@
     "name:fra_x_preferred":[
         "Ceiba"
     ],
+    "name:heb_x_preferred":[
+        "\u05db\u05d5\u05e8\u05d9\u05d6\u05d9\u05d4"
+    ],
     "name:ita_x_preferred":[
+        "Ceiba"
+    ],
+    "name:kor_x_preferred":[
+        "\uc591\ubaa9\uba74\uc18d"
+    ],
+    "name:lat_x_preferred":[
         "Ceiba"
     ],
     "name:lit_x_preferred":[
@@ -161,7 +182,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1561827114,
+    "wof:lastmodified":1563236786,
     "wof:name":"Ceiba",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1164515.833029,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.051796,18.403683,-66.051796,18.403683",
     "geom:latitude":18.403683,
     "geom:longitude":-66.051796,
@@ -24,8 +24,26 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Lopez Sicardo"
+    ],
+    "name:deu_x_preferred":[
+        "L\u00f3pez Sicard\u00f3"
+    ],
+    "name:eng_x_preferred":[
+        "L\u00f3pez Sicard\u00f3"
+    ],
+    "name:fra_x_preferred":[
+        "L\u00f3pez Sicard\u00f3"
+    ],
+    "name:nld_x_preferred":[
+        "L\u00f3pez Sicard\u00f3"
+    ],
     "name:spa_x_preferred":[
         "Lopez Sicardo"
+    ],
+    "name:spa_x_variant":[
+        "L\u00f3pez Sicard\u00f3"
     ],
     "name:unk_x_variant":[
         "Lopez Sicardo"
@@ -61,11 +79,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         101919427,
         136253057,
-        102080441
+        102080441,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531871164,
+    "wof:lastmodified":1563236864,
     "wof:name":"Lopez Sicardo",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

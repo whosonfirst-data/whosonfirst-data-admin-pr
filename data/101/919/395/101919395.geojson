@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Naguabo"
     ],
+    "name:ceb_x_preferred":[
+        "Naguabo"
+    ],
     "name:eng_x_preferred":[
         "Naguabo"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:ita_x_preferred":[
         "Nag\u00fcabo"
+    ],
+    "name:ita_x_variant":[
+        "Naguabo"
     ],
     "name:jpn_x_preferred":[
         "\u30ca\u30b0\u30a2\u30dc"
@@ -56,6 +62,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u06af\u0648\u0627\u0628\u0648\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0646\u0627\u06af\u0648\u0627\u0628\u0648"
     ],
     "name:war_x_preferred":[
         "Naguabo"
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":101919395,
-    "wof:lastmodified":1561827131,
+    "wof:lastmodified":1563237149,
     "wof:name":"Naguabo",
     "wof:parent_id":102080355,
     "wof:placetype":"locality",

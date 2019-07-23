@@ -25,14 +25,68 @@
     "mps:longitude":-66.123106,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u0986\u0997\u09c1\u09f1\u09be\u09b8 \u09ac\u09c1\u09af\u09bc\u09c7\u09a8\u09be\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Aguas Buenas"
+    ],
+    "name:ceb_x_preferred":[
+        "Aguas Buenas"
+    ],
     "name:eng_x_preferred":[
         "Aguas Buenas"
     ],
     "name:eng_x_variant":[
         "Aguas Buenas Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Akvoj Bonaj"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u0648\u0627\u0633 \u0628\u0648\u0626\u0646\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Aguas Buenas"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0563\u0578\u0582\u0561\u057d \u0532\u0578\u0582\u0565\u0576\u0561\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Aguas Buenas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b0\u30a2\u30b9\u30fb\u30d6\u30a8\u30ca\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Aguas Buenas"
+    ],
+    "name:por_x_preferred":[
+        "Aguas Buenas"
+    ],
+    "name:scn_x_preferred":[
+        "Aguas Buenas"
+    ],
     "name:spa_x_preferred":[
         "Municipio Aguas Buenas"
+    ],
+    "name:spa_x_variant":[
+        "Aguas Buenas"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0433\u0432\u0430\u0441 \u0411\u0443\u0435\u043d\u0430\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0433\u0443\u0430\u0441-\u0411\u0443\u0435\u043d\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u0648\u0627\u0633 \u0628\u0648\u0626\u0646\u0627\u0633"
+    ],
+    "name:war_x_preferred":[
+        "Aguas Buenas"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u74dc\u65af\u5e03\u57c3\u7d0d\u65af"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1_lc":"72",
@@ -97,7 +151,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092044,
+    "wof:lastmodified":1563236806,
     "wof:name":"Aguas Buenas",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

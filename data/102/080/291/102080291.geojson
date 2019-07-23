@@ -31,12 +31,14 @@
     "name:cat_x_preferred":[
         "Comer\u00edo"
     ],
+    "name:ceb_x_preferred":[
+        "Comer\u00edo"
+    ],
     "name:eng_x_preferred":[
         "Comer\u00edo"
     ],
     "name:eng_x_variant":[
-        "Comer\u00edo Municipality",
-        "Comer\u00edo"
+        "Comer\u00edo Municipality"
     ],
     "name:fra_x_preferred":[
         "Comer\u00edo"
@@ -46,6 +48,9 @@
     ],
     "name:ita_x_preferred":[
         "Comer\u00edo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30e1\u30ea\u30aa"
     ],
     "name:nld_x_preferred":[
         "Comer\u00edo"
@@ -64,6 +69,15 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0435\u0440\u0456\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0645\u06cc\u0631\u06cc\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Comerio"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u6885\u91cc\u5967"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1_lc":"72",
@@ -128,7 +142,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1561827116,
+    "wof:lastmodified":1563236801,
     "wof:name":"Comer\u00edo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

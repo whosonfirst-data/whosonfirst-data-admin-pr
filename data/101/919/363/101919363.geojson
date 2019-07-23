@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Gurabo"
     ],
+    "name:ceb_x_preferred":[
+        "Gurabo"
+    ],
     "name:eng_x_preferred":[
         "Gurabo"
     ],
@@ -57,11 +60,17 @@
     "name:srp_x_preferred":[
         "\u0413\u0443\u0440\u0430\u0431\u043e"
     ],
+    "name:srp_x_variant":[
+        "Gurabo"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0440\u0430\u0431\u043e"
     ],
     "name:urd_x_preferred":[
         "\u06af\u0648\u0631\u0627\u0628\u0648\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u06af\u0648\u0631\u0627\u0628\u0648"
     ],
     "name:war_x_preferred":[
         "Gurabo"
@@ -138,7 +147,7 @@
         }
     ],
     "wof:id":101919363,
-    "wof:lastmodified":1561827129,
+    "wof:lastmodified":1563237119,
     "wof:name":"Gurabo",
     "wof:parent_id":102080435,
     "wof:placetype":"locality",

@@ -27,8 +27,14 @@
     "name:cat_x_preferred":[
         "Las Piedras"
     ],
+    "name:ceb_x_preferred":[
+        "Las Piedras"
+    ],
     "name:eng_x_preferred":[
         "Las Piedras"
+    ],
+    "name:epo_x_preferred":[
+        "La \u015ctonoj"
     ],
     "name:fra_x_preferred":[
         "Las Piedras"
@@ -59,6 +65,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0633 \u067e\u06cc\u0688\u0631\u0627\u0633\u060c \u067e\u0648\u06cc\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627\u0633 \u067e\u06cc\u0688\u0631\u0627\u0633"
     ],
     "name:war_x_preferred":[
         "Las Piedras"
@@ -132,7 +141,7 @@
         }
     ],
     "wof:id":101919331,
-    "wof:lastmodified":1561827129,
+    "wof:lastmodified":1563237115,
     "wof:name":"Las Piedras",
     "wof:parent_id":102080391,
     "wof:placetype":"locality",

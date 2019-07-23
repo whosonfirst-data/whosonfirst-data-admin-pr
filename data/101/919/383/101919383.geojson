@@ -24,7 +24,13 @@
     "name:bpy_x_preferred":[
         "\u09a8\u09be\u09b0\u09be\u09a8\u099c\u09bf\u09a4\u09cb"
     ],
+    "name:bre_x_preferred":[
+        "Naranjito"
+    ],
     "name:cat_x_preferred":[
+        "Naranjito"
+    ],
+    "name:ceb_x_preferred":[
         "Naranjito"
     ],
     "name:eng_x_preferred":[
@@ -51,11 +57,20 @@
     "name:srp_x_preferred":[
         "\u041d\u0430\u0440\u0430\u043d\u0445\u0438\u0442\u043e"
     ],
+    "name:srp_x_variant":[
+        "Naranjito"
+    ],
+    "name:szl_x_preferred":[
+        "Naranjito"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0440\u0430\u043d\u0445\u0456\u0442\u043e"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0631\u0627\u0646\u062e\u06cc\u062a\u0648\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0646\u0627\u0631\u0627\u0646\u062e\u06cc\u062a\u0648"
     ],
     "name:war_x_preferred":[
         "Naranjito"
@@ -130,7 +145,7 @@
         }
     ],
     "wof:id":101919383,
-    "wof:lastmodified":1561827131,
+    "wof:lastmodified":1563237142,
     "wof:name":"Naranjito",
     "wof:parent_id":102080303,
     "wof:placetype":"locality",

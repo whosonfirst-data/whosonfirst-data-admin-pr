@@ -54,6 +54,9 @@
     "name:urd_x_preferred":[
         "\u0645\u0648\u0631\u0648\u0628\u06cc\u0633\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u0648\u0631\u0648\u0628\u06cc\u0633"
+    ],
     "name:war_x_preferred":[
         "Morovis"
     ],
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101919111,
-    "wof:lastmodified":1561827131,
+    "wof:lastmodified":1563237144,
     "wof:name":"Morovis",
     "wof:parent_id":102080401,
     "wof:placetype":"locality",

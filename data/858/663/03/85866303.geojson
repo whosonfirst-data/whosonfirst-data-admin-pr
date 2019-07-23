@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":855889.821463,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.073868,18.41558,-66.073868,18.41558",
     "geom:latitude":18.41558,
     "geom:longitude":-66.073868,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Residencial Las Casas"
+    ],
     "name:spa_x_preferred":[
         "Residencial Nemesio Canales"
     ],
@@ -61,11 +64,11 @@
     "wd:wordcount":579,
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         101919427,
         136253057,
-        102080441
+        102080441,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531871159,
+    "wof:lastmodified":1563236861,
     "wof:name":"Residencial Nemesio Canales",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

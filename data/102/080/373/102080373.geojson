@@ -25,14 +25,77 @@
     "mps:longitude":-66.137981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u0997\u09c1\u09f1\u09be\u09af\u09bc\u09be\u09ae\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Guayama"
+    ],
+    "name:ceb_x_preferred":[
+        "Guayama"
+    ],
+    "name:cym_x_preferred":[
+        "Guayama"
+    ],
+    "name:dan_x_preferred":[
+        "Guayama"
+    ],
+    "name:deu_x_preferred":[
+        "Guayama"
+    ],
     "name:eng_x_preferred":[
         "Guayama"
     ],
     "name:eng_x_variant":[
         "Guayama Municipality"
     ],
+    "name:fra_x_preferred":[
+        "Guayama"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0582\u0561\u0575\u0561\u0574\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Guayama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a2\u30e4\u30de"
+    ],
+    "name:nld_x_preferred":[
+        "Guayama"
+    ],
+    "name:pol_x_preferred":[
+        "Guayama"
+    ],
+    "name:por_x_preferred":[
+        "Guayama"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0430\u044f\u043c\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Guayama"
+    ],
     "name:spa_x_preferred":[
         "Municipio Guayama"
+    ],
+    "name:spa_x_variant":[
+        "Guayama"
+    ],
+    "name:srp_x_preferred":[
+        "Guayama"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0432\u0430\u044f\u043c\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u0627\u06cc\u0627\u0645\u0627"
+    ],
+    "name:war_x_preferred":[
+        "Guayama"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u4e9e\u99ac"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1_lc":"72",
@@ -97,7 +160,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1555092046,
+    "wof:lastmodified":1563236804,
     "wof:name":"Guayama",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

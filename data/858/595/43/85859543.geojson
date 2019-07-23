@@ -24,14 +24,23 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0648\u0631\u0633"
+    ],
     "name:cat_x_preferred":[
         "Santurce"
+    ],
+    "name:ceb_x_preferred":[
+        "Santurce Barrio"
     ],
     "name:cym_x_preferred":[
         "Santurce"
     ],
     "name:eng_x_preferred":[
         "Santurce"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0648\u0631\u0633"
     ],
     "name:fra_x_preferred":[
         "Santurce"
@@ -45,6 +54,9 @@
     "name:hye_x_preferred":[
         "\u054d\u0561\u0576\u057f\u0578\u0582\u0580\u057d\u0565"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c8\u30a5\u30eb\u30bb"
+    ],
     "name:nld_x_preferred":[
         "Santurce"
     ],
@@ -56,6 +68,9 @@
     ],
     "name:spa_x_preferred":[
         "Santurce"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u591a\u9ece\u5404\u8056\u80e1\u5b89\u6851\u5716\u723e\u585e\u5340"
     ],
     "qs:gn_id":0,
     "src:geom":"mz",
@@ -95,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561827120,
+    "wof:lastmodified":1563236859,
     "wof:name":"Santurce",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

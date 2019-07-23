@@ -31,14 +31,19 @@
     "name:cat_x_preferred":[
         "Pe\u00f1uelas"
     ],
+    "name:ceb_x_preferred":[
+        "Pe\u00f1uelas Municipio"
+    ],
     "name:eng_x_preferred":[
         "Pe\u00f1uelas"
     ],
     "name:eng_x_variant":[
-        "Pe\u00f1uelas Municipality",
-        "Pe\u00f1uelas"
+        "Pe\u00f1uelas Municipality"
     ],
     "name:fra_x_preferred":[
+        "Pe\u00f1uelas"
+    ],
+    "name:glg_x_preferred":[
         "Pe\u00f1uelas"
     ],
     "name:hbs_x_preferred":[
@@ -46,6 +51,9 @@
     ],
     "name:ita_x_preferred":[
         "Pe\u00f1uelas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30cb\u30e5\u30a8\u30e9\u30b9"
     ],
     "name:nld_x_preferred":[
         "Pe\u00f1uelas"
@@ -62,8 +70,20 @@
     "name:srp_x_preferred":[
         "\u041f\u0435\u045a\u0443\u0435\u043b\u0430\u0441"
     ],
+    "name:srp_x_variant":[
+        "Pe\u00f1uelas"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u043d\u044c\u044e\u0435\u043b\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0646\u0648\u06cc\u0644\u0627\u0633"
+    ],
+    "name:war_x_preferred":[
+        "Pe\u00f1uelas"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u7d10\u57c3\u62c9\u65af"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1_lc":"72",
@@ -128,7 +148,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1561827116,
+    "wof:lastmodified":1563236806,
     "wof:name":"Pe\u00f1uelas",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

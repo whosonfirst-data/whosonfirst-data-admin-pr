@@ -21,6 +21,12 @@
     "mps:longitude":-66.70174,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tallaboa Alta"
+    ],
+    "name:spa_x_preferred":[
+        "Tallaboa Alta"
+    ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
     "qs:a1_lc":"72",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":101919203,
-    "wof:lastmodified":1534379416,
+    "wof:lastmodified":1563237136,
     "wof:name":"Tallaboa Alta",
     "wof:parent_id":102080319,
     "wof:placetype":"locality",

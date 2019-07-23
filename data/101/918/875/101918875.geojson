@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000104,
-    "geom:area_square_m":1226106.230998,
+    "geom:area_square_m":1226106.231005,
     "geom:bbox":"-66.643629,18.081191,-66.621748,18.098976",
     "geom:latitude":18.090764,
     "geom:longitude":-66.632384,
@@ -17,6 +17,15 @@
     "mps:longitude":-66.631304,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tibes"
+    ],
+    "name:eng_x_preferred":[
+        "Tibes"
+    ],
+    "name:por_x_preferred":[
+        "Tibes"
+    ],
     "name:spa_x_preferred":[
         "Tibes"
     ],
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":101918875,
-    "wof:lastmodified":1527715670,
+    "wof:lastmodified":1563237099,
     "wof:name":"Tibes",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

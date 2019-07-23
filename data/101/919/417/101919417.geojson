@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000205,
-    "geom:area_square_m":2408814.413315,
+    "geom:area_square_m":2408814.413316,
     "geom:bbox":"-66.232642,17.970766,-66.218638,17.988372",
     "geom:latitude":17.979282,
     "geom:longitude":-66.225519,
@@ -17,6 +17,18 @@
     "mps:longitude":-66.225387,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Coqu\u00ed"
+    ],
+    "name:nld_x_preferred":[
+        "Coqu\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Coqu\u00ed"
+    ],
+    "name:vie_x_preferred":[
+        "\u1ebech Coqu\u00ed"
+    ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
     "qs:a1_lc":"72",
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":101919417,
-    "wof:lastmodified":1527715838,
+    "wof:lastmodified":1563237160,
     "wof:name":"Coqu\u00ed",
     "wof:parent_id":102080337,
     "wof:placetype":"locality",

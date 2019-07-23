@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Gu\u00e1nica"
     ],
+    "name:ceb_x_preferred":[
+        "Gu\u00e1nica"
+    ],
     "name:deu_x_preferred":[
         "Gu\u00e1nica"
     ],
@@ -38,8 +41,7 @@
         "Gu\u00e1nica"
     ],
     "name:eng_x_variant":[
-        "Gu\u00e1nica Municipality",
-        "Gu\u00e1nica"
+        "Gu\u00e1nica Municipality"
     ],
     "name:epo_x_preferred":[
         "Gu\u00e1nica"
@@ -49,6 +51,9 @@
     ],
     "name:ita_x_preferred":[
         "Gu\u00e1nica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a2\u30cb\u30ab"
     ],
     "name:nld_x_preferred":[
         "Gu\u00e1nica"
@@ -64,6 +69,21 @@
     ],
     "name:spa_x_variant":[
         "Gu\u00e1nica"
+    ],
+    "name:srp_x_preferred":[
+        "Gu\u00e1nica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0432\u0430\u043d\u0456\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u0627\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:war_x_preferred":[
+        "Gu\u00e1nica"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u5c3c\u5361"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1_lc":"72",
@@ -129,7 +149,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1561827115,
+    "wof:lastmodified":1563236798,
     "wof:name":"Gu\u00e1nica",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

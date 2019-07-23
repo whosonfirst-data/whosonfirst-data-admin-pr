@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u064a\u0633\u064a\u0628\u0648"
     ],
+    "name:aze_x_preferred":[
+        "Aresibo"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09b8\u09bf\u09ac\u09c1"
     ],
@@ -34,7 +37,13 @@
     "name:cat_x_preferred":[
         "Arecibo"
     ],
+    "name:ceb_x_preferred":[
+        "Arecibo"
+    ],
     "name:ces_x_preferred":[
+        "Arecibo"
+    ],
+    "name:cym_x_preferred":[
         "Arecibo"
     ],
     "name:dan_x_preferred":[
@@ -133,6 +142,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e32\u0e40\u0e23\u0e0b\u0e35\u0e42\u0e1a"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e32\u0e40\u0e23\u0e0b\u0e34\u0e42\u0e1a"
+    ],
     "name:tur_x_preferred":[
         "Arecibo"
     ],
@@ -144,6 +156,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0631\u06cc\u0633\u06cc\u0628\u0648\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0631\u06cc\u0633\u06cc\u0628\u0648"
     ],
     "name:vie_x_preferred":[
         "Arecibo"
@@ -313,7 +328,7 @@
         }
     ],
     "wof:id":101919135,
-    "wof:lastmodified":1561827129,
+    "wof:lastmodified":1563237113,
     "wof:name":"Arecibo",
     "wof:parent_id":102080283,
     "wof:placetype":"locality",

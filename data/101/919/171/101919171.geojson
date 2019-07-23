@@ -26,8 +26,17 @@
     "name:arg_x_preferred":[
         "Primera divisi\u00f3n espanyola de f\u00fatbol"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627 \u0644\u064a\u062c\u0627"
+    ],
     "name:ast_x_preferred":[
         "Primera Divisi\u00f3n d'Espa\u00f1a"
+    ],
+    "name:ast_x_variant":[
+        "Primer Divisi\u00f3n d'Espa\u00f1a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0644\u0627 \u0644\u06cc\u06af\u0627"
     ],
     "name:aze_x_preferred":[
         "La Liqa"
@@ -47,6 +56,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u043c\u0435\u0440\u0430 \u0434\u0438\u0432\u0438\u0441\u0438\u043e\u043d"
     ],
+    "name:bul_x_variant":[
+        "\u041f\u0440\u0438\u043c\u0435\u0440\u0430 \u0414\u0438\u0432\u0438\u0441\u0438\u043e\u043d"
+    ],
     "name:cat_x_preferred":[
         "Primera divisi\u00f3 espanyola de futbol"
     ],
@@ -55,6 +67,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u0644\u0627 \u0644\u06cc\u06af\u0627"
+    ],
+    "name:ckb_x_variant":[
+        "\u062e\u0648\u0644\u06cc \u062a\u06c6\u067e\u06cc \u067e\u06ce\u06cc \u0626\u06cc\u0633\u067e\u0627\u0646\u06cc\u0627"
     ],
     "name:cym_x_preferred":[
         "La Liga"
@@ -68,8 +83,17 @@
     "name:diq_x_preferred":[
         "La Liga"
     ],
+    "name:diq_x_variant":[
+        "La Liga \u0130spanya"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03c1\u03b9\u03bc\u03ad\u03c1\u03b1 \u039d\u03c4\u03b9\u03b2\u03b9\u03b6\u03b9\u03cc\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b1 \u039b\u03af\u03b3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "La Liga"
     ],
     "name:est_x_preferred":[
         "Primera Divisi\u00f3n"
@@ -95,8 +119,17 @@
     "name:glg_x_preferred":[
         "Primeira divisi\u00f3n espa\u00f1ola de f\u00fatbol"
     ],
+    "name:glg_x_variant":[
+        "Primeira Divisi\u00f3n Espa\u00f1ola"
+    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05d2\u05ea \u05d4\u05e2\u05dc \u05d4\u05e1\u05e4\u05e8\u05d3\u05d9\u05ea \u05d1\u05db\u05d3\u05d5\u05e8\u05d2\u05dc"
+    ],
+    "name:heb_x_variant":[
+        "\u05dc\u05d4 \u05dc\u05d9\u05d2\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u0932\u093f\u0917\u093e"
     ],
     "name:hrv_x_preferred":[
         "La Liga"
@@ -104,14 +137,23 @@
     "name:hun_x_preferred":[
         "Spanyol labdar\u00fag\u00f3-bajnoks\u00e1g"
     ],
+    "name:hun_x_variant":[
+        "spanyol labdar\u00fag\u00f3-bajnoks\u00e1g"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0561 \u053c\u056b\u0563\u0561"
     ],
     "name:ind_x_preferred":[
         "La Liga"
     ],
+    "name:isl_x_preferred":[
+        "La Liga"
+    ],
     "name:ita_x_preferred":[
         "Primera Divisi\u00f3n"
+    ],
+    "name:ita_x_variant":[
+        "Liga Spagnola"
     ],
     "name:jav_x_preferred":[
         "La Liga"
@@ -119,11 +161,17 @@
     "name:jpn_x_preferred":[
         "\u30d7\u30ea\u30e1\u30fc\u30e9\u30fb\u30c7\u30a3\u30d3\u30b7\u30aa\u30f3"
     ],
+    "name:jpn_x_variant":[
+        "\u30ea\u30fc\u30ac\u30fb\u30a8\u30b9\u30d1\u30cb\u30e7\u30fc\u30e9"
+    ],
     "name:kaa_x_preferred":[
         "La Liga"
     ],
     "name:kat_x_preferred":[
         "\u10d4\u10e1\u10de\u10d0\u10dc\u10d4\u10d7\u10d8\u10e1 \u10de\u10e0\u10d8\u10db\u10d4\u10e0\u10d0 \u10d3\u10d8\u10d5\u10d8\u10d6\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10d4\u10e1\u10de\u10d0\u10dc\u10d4\u10d7\u10d8\u10e1 \u10da\u10d0 \u10da\u10d8\u10d2\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0424\u0443\u0442\u0431\u043e\u043b\u0434\u0430\u043d \u0418\u0441\u043f\u0430\u043d\u0438\u044f \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442\u044b"
@@ -134,11 +182,20 @@
     "name:kor_x_preferred":[
         "\ud504\ub9ac\uba54\ub77c\ub9ac\uac00"
     ],
+    "name:kur_x_preferred":[
+        "La liga"
+    ],
     "name:lav_x_preferred":[
         "Sp\u0101nijas futbola \u010dempion\u0101ta Pirm\u0101 div\u012bzija"
     ],
+    "name:lim_x_preferred":[
+        "Primera Divisi\u00f3n"
+    ],
     "name:lit_x_preferred":[
         "La Liga"
+    ],
+    "name:mai_x_preferred":[
+        "\u0932\u093e \u0932\u093f\u0917\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d32\u0d3e \u0d32\u0d3f\u0d17\u0d3e"
@@ -148,6 +205,9 @@
     ],
     "name:min_x_preferred":[
         "La Liga"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0438\u043c\u0435\u0440\u0430 \u0414\u0438\u0432\u0438\u0441\u0438\u043e\u043d"
     ],
     "name:mlt_x_preferred":[
         "La Liga"
@@ -167,6 +227,9 @@
     "name:nno_x_preferred":[
         "Primera Division"
     ],
+    "name:nob_x_preferred":[
+        "Primera Divisi\u00f3n"
+    ],
     "name:nor_x_preferred":[
         "Primera Divisi\u00f3n"
     ],
@@ -176,16 +239,25 @@
     "name:por_x_preferred":[
         "La Liga"
     ],
+    "name:por_x_variant":[
+        "Primeira Divis\u00e3o Espanhola"
+    ],
     "name:ron_x_preferred":[
         "Primera Divisi\u00f3n"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u0418\u0441\u043f\u0430\u043d\u0438\u0438 \u043f\u043e \u0444\u0443\u0442\u0431\u043e\u043b\u0443"
     ],
+    "name:rus_x_variant":[
+        "\u041b\u0430 \u041b\u0438\u0433\u0430"
+    ],
     "name:sco_x_preferred":[
         "La Liga"
     ],
     "name:slk_x_preferred":[
+        "La Liga"
+    ],
+    "name:slv_x_preferred":[
         "La Liga"
     ],
     "name:spa_x_preferred":[
@@ -194,8 +266,14 @@
     "name:sqi_x_preferred":[
         "La Liga"
     ],
+    "name:srd_x_preferred":[
+        "Primera Divisi\u00f3n"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u0432\u0430 \u043b\u0438\u0433\u0430 \u0428\u043f\u0430\u043d\u0438\u0458\u0435 \u0443 \u0444\u0443\u0434\u0431\u0430\u043b\u0443"
+    ],
+    "name:swa_x_preferred":[
+        "La Liga"
     ],
     "name:swe_x_preferred":[
         "La Liga"
@@ -203,14 +281,23 @@
     "name:tam_x_preferred":[
         "\u0bb2\u0bbe \u0bb2\u0bc0\u0b95\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "La Liga"
+    ],
     "name:tha_x_preferred":[
         "\u0e25\u0e32\u0e25\u0e35\u0e01\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e25\u0e32\u0e25\u0e34\u0e01\u0e32"
     ],
     "name:tur_x_preferred":[
         "La Liga"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041b\u0456\u0433\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0440\u0456\u043c\u0435\u0440\u0430 \u0414\u0438\u0432\u0456\u0437\u0456\u043e\u043d"
     ],
     "name:uzb_x_preferred":[
         "La Liga"
@@ -220,6 +307,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u897f\u73ed\u7259\u8db3\u7403\u7532\u7ea7\u8054\u8d5b"
+    ],
+    "name:yue_x_preferred":[
+        "\u897f\u73ed\u7259\u7532\u7d44\u8db3\u7403\u806f\u8cfd"
     ],
     "name:zho_x_preferred":[
         "\u897f\u73ed\u7259\u8db3\u7403\u7532\u7ea7\u8054\u8d5b"
@@ -272,7 +362,7 @@
         }
     ],
     "wof:id":101919171,
-    "wof:lastmodified":1527715841,
+    "wof:lastmodified":1563237185,
     "wof:name":"La Liga",
     "wof:parent_id":102080425,
     "wof:placetype":"locality",

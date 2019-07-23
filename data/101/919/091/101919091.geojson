@@ -27,6 +27,12 @@
     "name:cat_x_preferred":[
         "Ceiba"
     ],
+    "name:ceb_x_preferred":[
+        "Ceiba"
+    ],
+    "name:cym_x_preferred":[
+        "Ceiba"
+    ],
     "name:deu_x_preferred":[
         "Ceiba"
     ],
@@ -68,6 +74,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0626\u06cc\u0628\u0627\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u0626\u06cc\u0628\u0627"
     ],
     "name:war_x_preferred":[
         "Ceiba"
@@ -141,7 +150,7 @@
         }
     ],
     "wof:id":101919091,
-    "wof:lastmodified":1561827130,
+    "wof:lastmodified":1563237132,
     "wof:name":"Ceiba",
     "wof:parent_id":102080341,
     "wof:placetype":"locality",

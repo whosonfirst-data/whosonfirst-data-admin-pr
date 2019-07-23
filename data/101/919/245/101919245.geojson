@@ -24,6 +24,12 @@
     "name:cat_x_preferred":[
         "Humacao"
     ],
+    "name:ceb_x_preferred":[
+        "Humacao Municipio"
+    ],
+    "name:dan_x_preferred":[
+        "Humacao"
+    ],
     "name:eng_x_preferred":[
         "Humacao"
     ],
@@ -48,17 +54,26 @@
     "name:por_x_preferred":[
         "Humacao"
     ],
+    "name:rus_x_preferred":[
+        "\u0423\u043c\u0430\u043a\u0430\u043e"
+    ],
     "name:spa_x_preferred":[
         "Humacao"
     ],
     "name:srp_x_preferred":[
         "\u0423\u043c\u0430\u043a\u0430\u043e"
     ],
+    "name:srp_x_variant":[
+        "Humacao"
+    ],
     "name:ukr_x_preferred":[
         "\u0423\u043c\u0430\u043a\u0430\u043e"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0645\u0627\u06a9\u0627\u0648\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0648\u0645\u0627\u06a9\u0627\u0648"
     ],
     "name:war_x_preferred":[
         "Humacao"
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":101919245,
-    "wof:lastmodified":1561827130,
+    "wof:lastmodified":1563237122,
     "wof:name":"Humacao",
     "wof:parent_id":102080351,
     "wof:placetype":"locality",

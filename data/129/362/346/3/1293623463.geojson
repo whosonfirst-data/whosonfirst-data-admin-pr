@@ -27,6 +27,15 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ortiz"
+    ],
+    "name:ita_x_preferred":[
+        "Ortiz"
+    ],
+    "name:spa_x_preferred":[
+        "Ortiz"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1293623463,
-    "wof:lastmodified":1537085031,
+    "wof:lastmodified":1564216648,
     "wof:name":"Ortiz",
     "wof:parent_id":102080369,
     "wof:placetype":"locality",

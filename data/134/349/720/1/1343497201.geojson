@@ -27,6 +27,36 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Camarones"
+    ],
+    "name:ces_x_preferred":[
+        "Camarones"
+    ],
+    "name:deu_x_preferred":[
+        "Camarones"
+    ],
+    "name:fra_x_preferred":[
+        "Camarones"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10db\u10d0\u10e0\u10dd\u10dc\u10d4\u10e1\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Camarones"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0430\u0440\u043e\u043d\u0435\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Camarones"
+    ],
+    "name:spa_x_preferred":[
+        "Camarones"
+    ],
+    "name:swe_x_preferred":[
+        "Camarones"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1343497201,
-    "wof:lastmodified":1536693311,
+    "wof:lastmodified":1564216600,
     "wof:name":"Camarones",
     "wof:parent_id":102080317,
     "wof:placetype":"locality",

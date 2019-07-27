@@ -27,6 +27,39 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Riachuelo"
+    ],
+    "name:deu_x_preferred":[
+        "Riachuelo"
+    ],
+    "name:fra_x_preferred":[
+        "Riachuelo"
+    ],
+    "name:ita_x_preferred":[
+        "Riachuelo"
+    ],
+    "name:nld_x_preferred":[
+        "Riachuelo"
+    ],
+    "name:nor_x_preferred":[
+        "Riachuelo"
+    ],
+    "name:por_x_preferred":[
+        "Riachuelo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0430\u0448\u0443\u044d\u043b\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Riachuelo"
+    ],
+    "name:swe_x_preferred":[
+        "Riachuelo"
+    ],
+    "name:vol_x_preferred":[
+        "Riachuelo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +86,7 @@
         }
     ],
     "wof:id":1243103921,
-    "wof:lastmodified":1536802125,
+    "wof:lastmodified":1564217048,
     "wof:name":"Riachuelo",
     "wof:parent_id":102080361,
     "wof:placetype":"locality",

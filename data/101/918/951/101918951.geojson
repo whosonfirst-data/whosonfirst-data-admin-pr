@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000037,
-    "geom:area_square_m":429586.790325,
+    "geom:area_square_m":429586.790327,
     "geom:bbox":"-66.840295,18.354882,-66.832071,18.364658",
     "geom:latitude":18.360396,
     "geom:longitude":-66.835453,
@@ -21,10 +21,22 @@
     "mps:longitude":-66.835796,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Quebrada"
+    ],
+    "name:deu_x_preferred":[
+        "Quebrada"
+    ],
     "name:fra_x_preferred":[
         "Quebrada"
     ],
     "name:nld_x_preferred":[
+        "Quebrada"
+    ],
+    "name:spa_x_preferred":[
+        "Quebrada"
+    ],
+    "name:swe_x_preferred":[
         "Quebrada"
     ],
     "qs:a0":"Puerto Rico",
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":101918951,
-    "wof:lastmodified":1534379431,
+    "wof:lastmodified":1564216891,
     "wof:name":"Quebrada",
     "wof:parent_id":102080293,
     "wof:placetype":"locality",

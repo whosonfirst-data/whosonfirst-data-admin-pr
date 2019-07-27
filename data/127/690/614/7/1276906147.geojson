@@ -27,6 +27,33 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Arenas"
+    ],
+    "name:deu_x_preferred":[
+        "Arenas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05e0\u05e1"
+    ],
+    "name:ita_x_preferred":[
+        "Arenas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ec\u30ca\u30b9"
+    ],
+    "name:pol_x_preferred":[
+        "Arenas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0435\u043d\u0430\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Arenas"
+    ],
+    "name:swe_x_preferred":[
+        "Arenas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1276906147,
-    "wof:lastmodified":1537005390,
+    "wof:lastmodified":1564216734,
     "wof:name":"Arenas",
     "wof:parent_id":102080363,
     "wof:placetype":"locality",

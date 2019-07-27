@@ -27,6 +27,12 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Josefa"
+    ],
+    "name:spa_x_preferred":[
+        "Josefa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1343595085,
-    "wof:lastmodified":1537047441,
+    "wof:lastmodified":1564216602,
     "wof:name":"Josefa",
     "wof:parent_id":102080323,
     "wof:placetype":"locality",

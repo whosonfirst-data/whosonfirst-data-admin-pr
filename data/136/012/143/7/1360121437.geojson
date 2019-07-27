@@ -27,6 +27,15 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guayabo Dulce"
+    ],
+    "name:ita_x_preferred":[
+        "Guayabo Dulce"
+    ],
+    "name:swe_x_preferred":[
+        "Guayabo Dulce"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1360121437,
-    "wof:lastmodified":1536892826,
+    "wof:lastmodified":1564216869,
     "wof:name":"Guayabo Dulce",
     "wof:parent_id":102080393,
     "wof:placetype":"locality",

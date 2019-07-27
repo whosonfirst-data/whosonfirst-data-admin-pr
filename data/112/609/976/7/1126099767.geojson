@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Monte Bello"
+    ],
+    "name:swe_x_preferred":[
+        "Monte Bello"
+    ],
     "qs_pg:aaroncc":"PR",
     "qs_pg:gn_country":"PR",
     "qs_pg:name":"Monte Bello",
@@ -41,11 +47,11 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         101919427,
         136253057,
-        102080441
+        102080441,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1126099767,
-    "wof:lastmodified":1509998633,
+    "wof:lastmodified":1564216981,
     "wof:name":"Monte Bello",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

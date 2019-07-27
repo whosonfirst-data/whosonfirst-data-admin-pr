@@ -27,6 +27,30 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Milagros"
+    ],
+    "name:deu_x_preferred":[
+        "Milagros"
+    ],
+    "name:fra_x_preferred":[
+        "Milagros"
+    ],
+    "name:ita_x_preferred":[
+        "Milagros"
+    ],
+    "name:nld_x_preferred":[
+        "Milagros"
+    ],
+    "name:swe_x_preferred":[
+        "Milagros"
+    ],
+    "name:vie_x_preferred":[
+        "Milagros"
+    ],
+    "name:war_x_preferred":[
+        "Milagros"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1242614283,
-    "wof:lastmodified":1537010065,
+    "wof:lastmodified":1564217009,
     "wof:name":"Milagros",
     "wof:parent_id":102080379,
     "wof:placetype":"locality",

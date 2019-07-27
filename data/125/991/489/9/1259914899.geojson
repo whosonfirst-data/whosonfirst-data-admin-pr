@@ -27,6 +27,66 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "La Romana"
+    ],
+    "name:aze_x_preferred":[
+        "La-Romana"
+    ],
+    "name:ceb_x_preferred":[
+        "La Romana"
+    ],
+    "name:deu_x_preferred":[
+        "La Romana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627 \u0631\u0648\u0645\u0627\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "La Romana"
+    ],
+    "name:glg_x_preferred":[
+        "La Romana"
+    ],
+    "name:ita_x_preferred":[
+        "La romana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30ed\u30de\u30fc\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ub85c\ub9c8\ub098"
+    ],
+    "name:nld_x_preferred":[
+        "La Romana"
+    ],
+    "name:pol_x_preferred":[
+        "La Romana"
+    ],
+    "name:por_x_preferred":[
+        "La Romana"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0420\u043e\u043c\u0430\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "La Romana"
+    ],
+    "name:swe_x_preferred":[
+        "La Romana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0420\u043e\u043c\u0430\u043d\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "La Romana"
+    ],
+    "name:war_x_preferred":[
+        "La Romana"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u99ac\u7d0d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +113,7 @@
         }
     ],
     "wof:id":1259914899,
-    "wof:lastmodified":1536734077,
+    "wof:lastmodified":1564217052,
     "wof:name":"La Romana",
     "wof:parent_id":102080283,
     "wof:placetype":"locality",

@@ -27,6 +27,27 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Barrancas"
+    ],
+    "name:ceb_x_preferred":[
+        "Barrancas"
+    ],
+    "name:deu_x_preferred":[
+        "Barrancas"
+    ],
+    "name:fra_x_preferred":[
+        "Barrancas"
+    ],
+    "name:por_x_preferred":[
+        "Barrancas"
+    ],
+    "name:spa_x_preferred":[
+        "Barrancas"
+    ],
+    "name:swe_x_preferred":[
+        "Barrancas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1343892075,
-    "wof:lastmodified":1536618852,
+    "wof:lastmodified":1564216625,
     "wof:name":"Barrancas",
     "wof:parent_id":102080333,
     "wof:placetype":"locality",

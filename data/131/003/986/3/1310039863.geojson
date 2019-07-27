@@ -27,6 +27,21 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Carola"
+    ],
+    "name:fin_x_preferred":[
+        "Carola"
+    ],
+    "name:nld_x_preferred":[
+        "Carola"
+    ],
+    "name:nno_x_preferred":[
+        "Carola"
+    ],
+    "name:swe_x_preferred":[
+        "Carola"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1310039863,
-    "wof:lastmodified":1537087945,
+    "wof:lastmodified":1564216858,
     "wof:name":"Carola",
     "wof:parent_id":102080399,
     "wof:placetype":"locality",

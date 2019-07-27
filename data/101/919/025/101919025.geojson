@@ -21,8 +21,14 @@
     "mps:longitude":-67.119143,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Espino"
+    ],
     "name:deu_x_preferred":[
         "Espino"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u067e\u06cc\u0646\u0648"
     ],
     "name:fra_x_preferred":[
         "Espino"
@@ -34,6 +40,9 @@
         "\u042d\u0441\u043f\u0438\u043d\u043e"
     ],
     "name:spa_x_preferred":[
+        "Espino"
+    ],
+    "name:swe_x_preferred":[
         "Espino"
     ],
     "qs:a0":"Puerto Rico",
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":101919025,
-    "wof:lastmodified":1534379420,
+    "wof:lastmodified":1564216898,
     "wof:name":"Espino",
     "wof:parent_id":102080323,
     "wof:placetype":"locality",

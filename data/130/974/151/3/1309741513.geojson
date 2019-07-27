@@ -27,6 +27,9 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hyde Park"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1309741513,
-    "wof:lastmodified":1537571926,
+    "wof:lastmodified":1564216928,
     "wof:name":"Hyde Park",
     "wof:parent_id":102080441,
     "wof:placetype":"locality",

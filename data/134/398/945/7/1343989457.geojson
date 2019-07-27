@@ -27,6 +27,9 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santiago y Lima"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1343989457,
-    "wof:lastmodified":1536977598,
+    "wof:lastmodified":1564216580,
     "wof:name":"Santiago y Lima",
     "wof:parent_id":102080355,
     "wof:placetype":"locality",

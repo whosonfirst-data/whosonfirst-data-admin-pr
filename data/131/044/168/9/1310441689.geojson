@@ -27,6 +27,9 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Country View"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1310441689,
-    "wof:lastmodified":1537008245,
+    "wof:lastmodified":1564216852,
     "wof:name":"Country View",
     "wof:parent_id":102080387,
     "wof:placetype":"locality",

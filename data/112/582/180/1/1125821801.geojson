@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Cambalache"
+    ],
+    "name:spa_x_preferred":[
+        "Cambalache"
+    ],
     "qs_pg:aaroncc":"PR",
     "qs_pg:gn_country":"PR",
     "qs_pg:gn_fcode":"PPL",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1125821801,
-    "wof:lastmodified":1509998594,
+    "wof:lastmodified":1564216983,
     "wof:name":"Cambalache",
     "wof:parent_id":102080397,
     "wof:placetype":"locality",

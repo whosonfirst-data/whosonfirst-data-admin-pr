@@ -27,6 +27,21 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u0631\u0648\u0632\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Villa Rosa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u0631\u0648\u0632\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Rosa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u043b\u0430 \u0420\u043e\u0437\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1326861343,
-    "wof:lastmodified":1537006151,
+    "wof:lastmodified":1564216524,
     "wof:name":"Villa Rosa",
     "wof:parent_id":102080373,
     "wof:placetype":"locality",

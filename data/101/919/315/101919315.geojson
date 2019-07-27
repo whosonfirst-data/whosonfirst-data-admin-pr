@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00008,
-    "geom:area_square_m":934219.802154,
+    "geom:area_square_m":934219.802157,
     "geom:bbox":"-66.357381,18.457114,-66.346622,18.475328",
     "geom:latitude":18.464311,
     "geom:longitude":-66.351671,
@@ -21,6 +21,18 @@
     "mps:longitude":-66.351303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:fra_x_preferred":[
+        "Sabana"
+    ],
+    "name:lat_x_preferred":[
+        "Sabana"
+    ],
+    "name:spa_x_preferred":[
+        "Sabana"
+    ],
+    "name:swe_x_preferred":[
+        "Sabana"
+    ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
     "qs:a1_lc":"72",
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":101919315,
-    "wof:lastmodified":1534379424,
+    "wof:lastmodified":1564216906,
     "wof:name":"Sabana",
     "wof:parent_id":102080305,
     "wof:placetype":"locality",

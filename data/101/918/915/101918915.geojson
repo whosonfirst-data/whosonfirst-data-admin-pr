@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00029,
-    "geom:area_square_m":3406167.740732,
+    "geom:area_square_m":3406167.74073,
     "geom:bbox":"-66.039868,17.978689,-66.014297,17.996112",
     "geom:latitude":17.987787,
     "geom:longitude":-66.02538,
@@ -21,6 +21,66 @@
     "mps:longitude":-66.025381,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Palmas"
+    ],
+    "name:ceb_x_preferred":[
+        "Palmas"
+    ],
+    "name:deu_x_preferred":[
+        "Palmas"
+    ],
+    "name:fra_x_preferred":[
+        "Palmas"
+    ],
+    "name:ita_x_preferred":[
+        "Palmas"
+    ],
+    "name:kor_x_preferred":[
+        "\ud314\ub9c8\uc2a4"
+    ],
+    "name:nld_x_preferred":[
+        "Palmas"
+    ],
+    "name:nor_x_preferred":[
+        "Palmas"
+    ],
+    "name:pol_x_preferred":[
+        "Palmas"
+    ],
+    "name:por_x_preferred":[
+        "Palmas"
+    ],
+    "name:sco_x_preferred":[
+        "Palmas"
+    ],
+    "name:slk_x_preferred":[
+        "Palmas"
+    ],
+    "name:spa_x_preferred":[
+        "Palmas"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u043b\u043c\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Palmas"
+    ],
+    "name:szl_x_preferred":[
+        "Palmas"
+    ],
+    "name:vie_x_preferred":[
+        "Palmas"
+    ],
+    "name:vol_x_preferred":[
+        "Palmas"
+    ],
+    "name:war_x_preferred":[
+        "Palmas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5c14\u9a6c\u65af"
+    ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
     "qs:a1_lc":"72",
@@ -87,7 +147,7 @@
         }
     ],
     "wof:id":101918915,
-    "wof:lastmodified":1534379423,
+    "wof:lastmodified":1564216889,
     "wof:name":"Palmas",
     "wof:parent_id":102080285,
     "wof:placetype":"locality",

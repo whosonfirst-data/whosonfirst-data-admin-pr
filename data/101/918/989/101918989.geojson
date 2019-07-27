@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
-    "geom:area_square_m":1655599.55004,
+    "geom:area_square_m":1655599.550038,
     "geom:bbox":"-66.376489,17.953475,-66.357265,17.969125",
     "geom:latitude":17.961634,
     "geom:longitude":-66.366853,
@@ -21,6 +21,9 @@
     "mps:longitude":-66.365105,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Jauca"
+    ],
     "name:unk_x_variant":[
         "Jaucas"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101918989,
-    "wof:lastmodified":1534379441,
+    "wof:lastmodified":1564216893,
     "wof:name":"Jauca",
     "wof:parent_id":102080335,
     "wof:placetype":"locality",

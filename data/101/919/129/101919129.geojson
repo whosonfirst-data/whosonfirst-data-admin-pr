@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000197,
-    "geom:area_square_m":2309662.429247,
+    "geom:area_square_m":2309662.429246,
     "geom:bbox":"-66.622418,18.419535,-66.603825,18.435239",
     "geom:latitude":18.428079,
     "geom:longitude":-66.61174,
@@ -21,6 +21,12 @@
     "mps:longitude":-66.609704,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sabana Hoyos Barrio"
+    ],
+    "name:spa_x_preferred":[
+        "Sabana Hoyos"
+    ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
     "qs:a1_lc":"72",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":101919129,
-    "wof:lastmodified":1534379433,
+    "wof:lastmodified":1564216906,
     "wof:name":"Sabana Hoyos",
     "wof:parent_id":102080283,
     "wof:placetype":"locality",

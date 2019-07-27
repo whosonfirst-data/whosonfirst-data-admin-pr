@@ -27,6 +27,9 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guaraguao"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209139627,
-    "wof:lastmodified":1537571926,
+    "wof:lastmodified":1564216765,
     "wof:name":"Guaraguao",
     "wof:parent_id":85633729,
     "wof:placetype":"locality",

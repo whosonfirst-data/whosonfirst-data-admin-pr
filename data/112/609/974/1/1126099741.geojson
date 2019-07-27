@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:deu_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:fra_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:nds_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:sco_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:spa_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:swe_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:vie_x_preferred":[
+        "Pueblo Viejo"
+    ],
     "qs_pg:aaroncc":"PR",
     "qs_pg:gn_country":"PR",
     "qs_pg:name":"Pueblo Viejo",
@@ -41,11 +65,11 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         101919293,
         136253057,
-        102080365
+        102080365,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,7 +92,7 @@
         }
     ],
     "wof:id":1126099741,
-    "wof:lastmodified":1509998633,
+    "wof:lastmodified":1564216982,
     "wof:name":"Pueblo Viejo",
     "wof:parent_id":101919293,
     "wof:placetype":"neighbourhood",

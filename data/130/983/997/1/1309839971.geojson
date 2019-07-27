@@ -27,6 +27,66 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Salazar"
+    ],
+    "name:cat_x_preferred":[
+        "Salazar"
+    ],
+    "name:ceb_x_preferred":[
+        "Salazar"
+    ],
+    "name:eus_x_preferred":[
+        "Salazar"
+    ],
+    "name:fin_x_preferred":[
+        "Salazar"
+    ],
+    "name:fra_x_preferred":[
+        "Salazar"
+    ],
+    "name:ind_x_preferred":[
+        "Salazar"
+    ],
+    "name:ita_x_preferred":[
+        "Salazar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30e9\u30b6\u30fc\u30eb"
+    ],
+    "name:lav_x_preferred":[
+        "Salazars"
+    ],
+    "name:nld_x_preferred":[
+        "Salazar"
+    ],
+    "name:pol_x_preferred":[
+        "Salazar"
+    ],
+    "name:por_x_preferred":[
+        "Salazar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u0441\u0430\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Salazar"
+    ],
+    "name:spa_x_preferred":[
+        "Salazar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u0437\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Salazar"
+    ],
+    "name:tur_x_preferred":[
+        "Salazar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u0441\u0430\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +113,7 @@
         }
     ],
     "wof:id":1309839971,
-    "wof:lastmodified":1536881189,
+    "wof:lastmodified":1564216919,
     "wof:name":"Salazar",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

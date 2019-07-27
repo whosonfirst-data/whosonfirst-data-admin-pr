@@ -27,6 +27,12 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "La Fraternidad"
+    ],
+    "name:spa_x_preferred":[
+        "Fraternidad"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1260110561,
-    "wof:lastmodified":1536949500,
+    "wof:lastmodified":1564216821,
     "wof:name":"Fraternidad",
     "wof:parent_id":102080429,
     "wof:placetype":"locality",

@@ -27,6 +27,15 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Valle Alto"
+    ],
+    "name:deu_x_preferred":[
+        "Valle Alto"
+    ],
+    "name:swe_x_preferred":[
+        "Valle Alto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1293327661,
-    "wof:lastmodified":1537016769,
+    "wof:lastmodified":1564216681,
     "wof:name":"Valle Alto",
     "wof:parent_id":102080445,
     "wof:placetype":"locality",

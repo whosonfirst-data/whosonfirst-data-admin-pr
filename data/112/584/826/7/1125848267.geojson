@@ -18,6 +18,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arg_x_preferred":[
+        "Beatriz"
+    ],
+    "name:bre_x_preferred":[
+        "Beatriz"
+    ],
+    "name:glg_x_preferred":[
+        "Beatriz"
+    ],
+    "name:nor_x_preferred":[
+        "Beatriz"
+    ],
+    "name:por_x_preferred":[
+        "Beatriz"
+    ],
+    "name:spa_x_preferred":[
+        "Beatriz"
+    ],
     "qs_pg:aaroncc":"PR",
     "qs_pg:gn_country":"PR",
     "qs_pg:gn_fcode":"PPL",
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":1125848267,
-    "wof:lastmodified":1509998599,
+    "wof:lastmodified":1564216986,
     "wof:name":"Beatriz",
     "wof:parent_id":102080419,
     "wof:placetype":"locality",

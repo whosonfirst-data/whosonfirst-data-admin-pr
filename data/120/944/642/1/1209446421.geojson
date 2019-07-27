@@ -27,6 +27,12 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Membrillo"
+    ],
+    "name:swe_x_preferred":[
+        "Membrillo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729
@@ -44,7 +50,7 @@
         }
     ],
     "wof:id":1209446421,
-    "wof:lastmodified":1536286804,
+    "wof:lastmodified":1564216790,
     "wof:name":"Membrillo",
     "wof:parent_id":85633729,
     "wof:placetype":"locality",

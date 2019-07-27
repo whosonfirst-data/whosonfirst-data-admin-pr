@@ -27,6 +27,42 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Palomar"
+    ],
+    "name:cat_x_preferred":[
+        "Palomar"
+    ],
+    "name:ceb_x_preferred":[
+        "Palomar"
+    ],
+    "name:deu_x_preferred":[
+        "Palomar"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0644\u0648\u0645\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Palomar"
+    ],
+    "name:ita_x_preferred":[
+        "Palomar"
+    ],
+    "name:pol_x_preferred":[
+        "Palomar"
+    ],
+    "name:por_x_preferred":[
+        "Palomar"
+    ],
+    "name:spa_x_preferred":[
+        "Palomar"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u043b\u043e\u043c\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Palomar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729
@@ -44,7 +80,7 @@
         }
     ],
     "wof:id":1209545983,
-    "wof:lastmodified":1536283841,
+    "wof:lastmodified":1564216750,
     "wof:name":"Palomar",
     "wof:parent_id":85633729,
     "wof:placetype":"locality",

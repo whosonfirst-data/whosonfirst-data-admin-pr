@@ -27,6 +27,15 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Porta Coeli"
+    ],
+    "name:deu_x_preferred":[
+        "Porta coeli"
+    ],
+    "name:spa_x_preferred":[
+        "Porta Coeli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276795481,
-    "wof:lastmodified":1536656904,
+    "wof:lastmodified":1564216726,
     "wof:name":"Porta Coeli",
     "wof:parent_id":102080357,
     "wof:placetype":"locality",

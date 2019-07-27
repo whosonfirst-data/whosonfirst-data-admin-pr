@@ -27,6 +27,18 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Los Rosales"
+    ],
+    "name:spa_x_preferred":[
+        "Los Rosales"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0441 \u0420\u043e\u0441\u0430\u043b\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Los Rosales"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1276366027,
-    "wof:lastmodified":1536734982,
+    "wof:lastmodified":1564216742,
     "wof:name":"Los Rosales",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

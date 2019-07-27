@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Sabana Abajo"
+    ],
     "qs_pg:aaroncc":"PR",
     "qs_pg:gn_country":"PR",
     "qs_pg:gn_fcode":"PPL",
@@ -46,11 +49,11 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         101919197,
         136253057,
-        102080347
+        102080347,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126061277,
-    "wof:lastmodified":1509998628,
+    "wof:lastmodified":1564216960,
     "wof:name":"Sabana Abajo",
     "wof:parent_id":101919197,
     "wof:placetype":"neighbourhood",

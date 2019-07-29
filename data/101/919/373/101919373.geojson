@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000222,
-    "geom:area_square_m":2607069.732813,
+    "geom:area_square_m":2607069.732806,
     "geom:bbox":"-66.497046,18.451086,-66.482107,18.478609",
     "geom:latitude":18.462733,
     "geom:longitude":-66.489018,
@@ -17,6 +17,12 @@
     "mps:longitude":-66.488509,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tierras Nuevas Poniente"
+    ],
+    "name:spa_x_preferred":[
+        "Tierras Nuevas Poniente"
+    ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
     "qs:a1_lc":"72",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":101919373,
-    "wof:lastmodified":1509998591,
+    "wof:lastmodified":1564216916,
     "wof:name":"Tierras Nuevas Poniente",
     "wof:parent_id":102080271,
     "wof:placetype":"locality",

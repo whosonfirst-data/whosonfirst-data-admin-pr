@@ -27,6 +27,15 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Limones"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043c\u043e\u043d\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Limones"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276481613,
-    "wof:lastmodified":1537074093,
+    "wof:lastmodified":1564216727,
     "wof:name":"Limones",
     "wof:parent_id":102080371,
     "wof:placetype":"locality",

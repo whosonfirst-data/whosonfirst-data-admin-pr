@@ -27,6 +27,27 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Joya"
+    ],
+    "name:deu_x_preferred":[
+        "La Joya"
+    ],
+    "name:nld_x_preferred":[
+        "La Joya"
+    ],
+    "name:que_x_preferred":[
+        "La Joya"
+    ],
+    "name:spa_x_preferred":[
+        "La Joya"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u0425\u043e\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Joya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1293037589,
-    "wof:lastmodified":1536939400,
+    "wof:lastmodified":1564216674,
     "wof:name":"La Joya",
     "wof:parent_id":102080429,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Quintana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1326564723,
-    "wof:lastmodified":1537571927,
+    "wof:lastmodified":1564216530,
     "wof:name":"Quintana",
     "wof:parent_id":102080441,
     "wof:placetype":"locality",

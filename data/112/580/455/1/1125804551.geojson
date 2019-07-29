@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Hato Abajo"
+    ],
     "qs_pg:aaroncc":"PR",
     "qs_pg:gn_country":"PR",
     "qs_pg:gn_fcode":"PPL",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1125804551,
-    "wof:lastmodified":1509998594,
+    "wof:lastmodified":1564216947,
     "wof:name":"Hato Abajo",
     "wof:parent_id":102080283,
     "wof:placetype":"locality",

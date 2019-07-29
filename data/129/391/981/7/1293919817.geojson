@@ -27,6 +27,9 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerrillos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293919817,
-    "wof:lastmodified":1537571926,
+    "wof:lastmodified":1564216647,
     "wof:name":"Cerrillos",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8688134.36947,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-65.983831,18.39188,-65.983831,18.39188",
     "geom:latitude":18.39188,
     "geom:longitude":-65.983831,
@@ -27,6 +27,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:ast_x_preferred":[
+        "Las Cruces"
+    ],
     "name:bre_x_preferred":[
         "Cruces"
     ],
@@ -39,12 +42,18 @@
     "name:hbs_x_preferred":[
         "Las Cruces"
     ],
+    "name:ita_x_preferred":[
+        "Las Cruces"
+    ],
     "name:sco_x_preferred":[
         "Las Cruces"
     ],
     "name:spa_x_preferred":[
         "Las Cruces",
         "Cruces"
+    ],
+    "name:swe_x_preferred":[
+        "Las Cruces"
     ],
     "name:unk_x_variant":[
         "Las Cruces"
@@ -131,7 +140,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379424,
+    "wof:lastmodified":1564216632,
     "wof:name":"Las Cruces",
     "wof:parent_id":101919197,
     "wof:placetype":"neighbourhood",

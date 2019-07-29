@@ -27,6 +27,9 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bucan\u00e1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310441385,
-    "wof:lastmodified":1537571925,
+    "wof:lastmodified":1564216852,
     "wof:name":"Bucana",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

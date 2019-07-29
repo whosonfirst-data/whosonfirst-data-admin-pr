@@ -27,6 +27,24 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Palma Sola"
+    ],
+    "name:deu_x_preferred":[
+        "Palma Sola"
+    ],
+    "name:fra_x_preferred":[
+        "Palma Sola"
+    ],
+    "name:spa_x_preferred":[
+        "Palma Sola"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u043b\u043c\u0430 \u0421\u043e\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Palma Sola"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1277019175,
-    "wof:lastmodified":1536853242,
+    "wof:lastmodified":1564216705,
     "wof:name":"Palma Sola",
     "wof:parent_id":102080377,
     "wof:placetype":"locality",

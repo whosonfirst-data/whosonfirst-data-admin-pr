@@ -27,6 +27,18 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sabana"
+    ],
+    "name:lat_x_preferred":[
+        "Sabana"
+    ],
+    "name:spa_x_preferred":[
+        "Sabana"
+    ],
+    "name:swe_x_preferred":[
+        "Sabana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1226578039,
-    "wof:lastmodified":1536953254,
+    "wof:lastmodified":1564217094,
     "wof:name":"Sabana",
     "wof:parent_id":102080443,
     "wof:placetype":"locality",

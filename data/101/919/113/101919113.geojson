@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
-    "geom:area_square_m":1371092.307918,
+    "geom:area_square_m":1371092.307917,
     "geom:bbox":"-66.450657,18.346801,-66.434831,18.359068",
     "geom:latitude":18.352288,
     "geom:longitude":-66.444278,
@@ -21,6 +21,12 @@
     "mps:longitude":-66.445071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Barahona"
+    ],
+    "name:deu_x_preferred":[
+        "Barahona"
+    ],
     "name:fin_x_preferred":[
         "Barahona"
     ],
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":101919113,
-    "wof:lastmodified":1534379432,
+    "wof:lastmodified":1564216917,
     "wof:name":"Barahona",
     "wof:parent_id":102080401,
     "wof:placetype":"locality",

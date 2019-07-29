@@ -27,8 +27,92 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u063a\u0648\u0646\u062f\u0648 \u0643\u0627\u0633\u062a\u064a\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0642\u0648\u0646\u062f\u0648 \u06a9\u0627\u0633\u062a\u06cc\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Segundo Alejandro Castillo"
+    ],
+    "name:deu_x_preferred":[
+        "Segundo Castillo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03b3\u03bf\u03cd\u03bd\u03c4\u03bf \u039a\u03b1\u03c3\u03c4\u03af\u03b3\u03b9\u03bf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06af\u0648\u0646\u062f\u0648 \u06a9\u0627\u0633\u062a\u06cc\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Segundo Castillo"
+    ],
+    "name:fra_x_preferred":[
+        "Segundo Castillo"
+    ],
+    "name:hrv_x_preferred":[
+        "Segundo Castillo"
+    ],
+    "name:hun_x_preferred":[
+        "Segundo Castillo"
+    ],
+    "name:ind_x_preferred":[
+        "Segundo Castillo"
+    ],
+    "name:ita_x_preferred":[
+        "Segundo Castillo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30b0\u30f3\u30c9\u30fb\u30ab\u30b9\u30c6\u30a3\u30fc\u30b8\u30e7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uad70\ub3c4 \uce74\uc2a4\ud2f0\uc694"
+    ],
+    "name:lit_x_preferred":[
+        "Segundo Castillo"
+    ],
+    "name:mlg_x_preferred":[
+        "Segundo Castillo"
+    ],
+    "name:nld_x_preferred":[
+        "Segundo Castillo"
+    ],
+    "name:nor_x_preferred":[
+        "Segundo Castillo"
+    ],
+    "name:pol_x_preferred":[
+        "Segundo Castillo"
+    ],
+    "name:por_x_preferred":[
+        "Segundo Castillo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0438\u043b\u044c\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Segundo Alejandro Castillo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0433\u0443\u043d\u0434\u043e \u041a\u0430\u0441\u0442\u0438\u0459\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Segundo Castillo"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0435\u0433\u0443\u043d\u0434\u043e \u041a\u0430\u0441\u0442\u0438\u043b\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Segundo Castillo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0433\u0443\u043d\u0434\u043e \u041a\u0430\u0441\u0442\u0456\u043b\u044c\u0439\u043e"
+    ],
     "name:und_x_variant":[
         "Guanajiro Castilla"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u6839\u5ea6\u00b7\u5361\u65af\u8fea\u8def"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +140,7 @@
         }
     ],
     "wof:id":1343497471,
-    "wof:lastmodified":1537683119,
+    "wof:lastmodified":1564216599,
     "wof:name":"Segundo Castillo",
     "wof:parent_id":102080311,
     "wof:placetype":"locality",

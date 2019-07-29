@@ -27,8 +27,236 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:ang_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0646\u062a \u0643\u0627\u0631\u0644\u0648"
+    ],
+    "name:arg_x_preferred":[
+        "Montcarles"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0646\u062a \u0643\u0627\u0631\u0644\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Montecarlu"
+    ],
+    "name:aze_x_preferred":[
+        "Monte-Karlo"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u044d-\u041a\u0430\u0440\u043b\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u0995\u09be\u09b0\u09cd\u09b2\u09cb"
+    ],
+    "name:bre_x_preferred":[
+        "Monte Carlu"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435 \u041a\u0430\u0440\u043b\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Montecarlo"
+    ],
+    "name:ceb_x_preferred":[
+        "Monte-Carlo"
+    ],
+    "name:ces_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:cor_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:cym_x_preferred":[
+        "Monte-Carlo"
+    ],
+    "name:dan_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:deu_x_preferred":[
+        "Monte-Carlo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03bd\u03c4\u03b5 \u039a\u03ac\u03c1\u03bb\u03bf"
+    ],
+    "name:epo_x_preferred":[
+        "Montekarlo"
+    ],
+    "name:est_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:eus_x_preferred":[
+        "Monte-Carlo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u200c\u06a9\u0627\u0631\u0644\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:fra_x_preferred":[
+        "Monte-Carlo"
+    ],
+    "name:gle_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:glg_x_preferred":[
+        "Montecarlo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d8\u05d4 \u05e7\u05e8\u05dc\u05d5"
+    ],
+    "name:hif_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0902\u091f\u0940 \u0915\u093e\u0930\u094d\u0932\u094b"
+    ],
+    "name:hrv_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:hun_x_preferred":[
+        "Monte-Carlo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0576\u057f\u0565 \u053f\u0561\u057c\u056c\u0578"
+    ],
+    "name:ile_x_preferred":[
+        "Monte-Carlo"
+    ],
+    "name:ind_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:isl_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:ita_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed"
+    ],
+    "name:kal_x_preferred":[
+        "Monte-Carlo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10dc\u10e2\u10d4-\u10d9\u10d0\u10e0\u10da\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435-\u041a\u0430\u0440\u043b\u043e"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaac\ud14c\uce74\ub97c\ub85c"
+    ],
+    "name:lat_x_preferred":[
+        "Mons Caroli"
+    ],
+    "name:lav_x_preferred":[
+        "Montekarlo"
+    ],
+    "name:lij_x_preferred":[
+        "Munte Carlu"
+    ],
+    "name:lit_x_preferred":[
+        "Monte Karlas"
+    ],
+    "name:ltz_x_preferred":[
+        "Monte-Carlo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435 \u041a\u0430\u0440\u043b\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u103d\u1014\u103a\u1010\u102e\u1000\u102c\u101c\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nau_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:nld_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:nno_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:nor_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:oci_x_preferred":[
+        "Montcarles"
+    ],
+    "name:pol_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:por_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:ron_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435-\u041a\u0430\u0440\u043b\u043e"
+    ],
+    "name:scn_x_preferred":[
+        "Montecarlu"
+    ],
+    "name:sco_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:slk_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:slv_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:spa_x_preferred":[
+        "Montecarlo"
+    ],
+    "name:sqi_x_preferred":[
+        "Monte Karlo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435 \u041a\u0430\u0440\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0ba9\u0bcd\u0b9f\u0bc7 \u0b95\u0bbe\u0bb0\u0bcd\u0bb2\u0bcb"
+    ],
+    "name:tur_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435-\u041a\u0430\u0440\u043b\u043e"
+    ],
     "name:und_x_variant":[
         "Montecarlo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u0679\u06cc \u06a9\u0627\u0631\u0644\u0648"
+    ],
+    "name:uzb_x_preferred":[
+        "Montekarlo"
+    ],
+    "name:vie_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:war_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u7279\u5361\u6d1b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +284,7 @@
         }
     ],
     "wof:id":1310036695,
-    "wof:lastmodified":1537683117,
+    "wof:lastmodified":1564216858,
     "wof:name":"Monte Carlo",
     "wof:parent_id":102080305,
     "wof:placetype":"locality",

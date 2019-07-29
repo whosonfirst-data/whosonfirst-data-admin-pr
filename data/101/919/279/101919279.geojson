@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000092,
-    "geom:area_square_m":1083222.482973,
+    "geom:area_square_m":1083222.482975,
     "geom:bbox":"-66.794321,18.421326,-66.781338,18.432523",
     "geom:latitude":18.42639,
     "geom:longitude":-66.787123,
@@ -17,6 +17,9 @@
     "mps:longitude":-66.787648,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Rafael Gonz\u00e1lez"
+    ],
     "name:deu_x_preferred":[
         "Rafael Gonz\u00e1lez"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101919279,
-    "wof:lastmodified":1527715838,
+    "wof:lastmodified":1564216911,
     "wof:name":"Rafael Gonz\u00e1lez",
     "wof:parent_id":102080381,
     "wof:placetype":"locality",

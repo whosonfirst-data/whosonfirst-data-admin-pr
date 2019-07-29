@@ -27,6 +27,9 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Borras"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1277111477,
-    "wof:lastmodified":1536726600,
+    "wof:lastmodified":1564216748,
     "wof:name":"Borras",
     "wof:parent_id":102080339,
     "wof:placetype":"locality",

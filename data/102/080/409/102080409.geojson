@@ -28,6 +28,9 @@
     "name:bre_x_preferred":[
         "Cabo Rojo"
     ],
+    "name:ceb_x_preferred":[
+        "Cabo Rojo"
+    ],
     "name:eng_x_preferred":[
         "Cabo Rojo"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipio Cabo Rojo"
+    ],
+    "name:swe_x_preferred":[
+        "Cabo Rojo"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1_lc":"72",
@@ -108,7 +114,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1561827113,
+    "wof:lastmodified":1564216567,
     "wof:name":"Cabo Rojo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

@@ -25,6 +25,9 @@
     "mps:longitude":-66.04103,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Arroyo"
+    ],
     "name:ceb_x_preferred":[
         "Arroyo"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:hbs_x_preferred":[
         "Arroyo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d5\u05d9\u05d5"
     ],
     "name:ita_x_preferred":[
         "Arroyo"
@@ -61,6 +67,9 @@
     "name:por_x_preferred":[
         "Arroyo"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0440\u043e\u0439\u043e"
+    ],
     "name:slk_x_preferred":[
         "Arroyo"
     ],
@@ -71,6 +80,9 @@
         "Municipio Arroyo"
     ],
     "name:spa_x_variant":[
+        "Arroyo"
+    ],
+    "name:swe_x_preferred":[
         "Arroyo"
     ],
     "qs:a0":"Puerto Rico",
@@ -134,7 +146,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1561827115,
+    "wof:lastmodified":1564216572,
     "wof:name":"Arroyo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

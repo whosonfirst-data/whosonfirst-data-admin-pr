@@ -21,6 +21,21 @@
     "mps:longitude":-66.919336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Juncal"
+    ],
+    "name:fra_x_preferred":[
+        "Juncal"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0443\u043d\u043a\u0430\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Juncal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u043d\u043a\u0430\u043b"
+    ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
     "qs:a1_lc":"72",
@@ -87,7 +102,7 @@
         }
     ],
     "wof:id":101919001,
-    "wof:lastmodified":1534379431,
+    "wof:lastmodified":1564216904,
     "wof:name":"Juncal",
     "wof:parent_id":102080411,
     "wof:placetype":"locality",

@@ -27,6 +27,33 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Monte Real"
+    ],
+    "name:deu_x_preferred":[
+        "Monte Real"
+    ],
+    "name:fra_x_preferred":[
+        "Monte Real"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435-\u0420\u0435\u0430\u043b"
+    ],
+    "name:lit_x_preferred":[
+        "Monte Realis"
+    ],
+    "name:msa_x_preferred":[
+        "Monte Real"
+    ],
+    "name:por_x_preferred":[
+        "Monte Real"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435-\u0420\u0435\u0430\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Monte Real"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1243485535,
-    "wof:lastmodified":1536749073,
+    "wof:lastmodified":1564217012,
     "wof:name":"Monte Real",
     "wof:parent_id":102080275,
     "wof:placetype":"locality",

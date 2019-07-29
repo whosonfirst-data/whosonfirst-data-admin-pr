@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4173524.613991,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.022625,18.443253,-66.022625,18.443253",
     "geom:latitude":18.443253,
     "geom:longitude":-66.022625,
@@ -27,7 +27,25 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "El Palmar"
+    ],
+    "name:fra_x_preferred":[
+        "El Palmar"
+    ],
+    "name:glg_x_preferred":[
+        "El Palmar"
+    ],
+    "name:lit_x_preferred":[
+        "El Palmaras"
+    ],
     "name:spa_x_preferred":[
+        "El Palmar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u041f\u0430\u043b\u043c\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
         "El Palmar"
     ],
     "name:unk_x_variant":[
@@ -115,7 +133,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379431,
+    "wof:lastmodified":1564216645,
     "wof:name":"El Palmar",
     "wof:parent_id":101919197,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,24 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Carmelita"
+    ],
+    "name:fra_x_preferred":[
+        "Carmelita"
+    ],
+    "name:nds_x_preferred":[
+        "Carmelita"
+    ],
+    "name:por_x_preferred":[
+        "Carmelita"
+    ],
+    "name:spa_x_preferred":[
+        "Carmelita"
+    ],
+    "name:swe_x_preferred":[
+        "Carmelita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1327262725,
-    "wof:lastmodified":1536926612,
+    "wof:lastmodified":1564216554,
     "wof:name":"Carmelita",
     "wof:parent_id":102080399,
     "wof:placetype":"locality",

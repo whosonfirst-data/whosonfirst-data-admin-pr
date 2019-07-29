@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000361,
-    "geom:area_square_m":4249515.896845,
+    "geom:area_square_m":4249515.896857,
     "geom:bbox":"-66.285315,17.98747,-66.244942,18.015742",
     "geom:latitude":18.001041,
     "geom:longitude":-66.260275,
@@ -17,6 +17,51 @@
     "mps:longitude":-66.256601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Coco"
+    ],
+    "name:ceb_x_preferred":[
+        "Coco"
+    ],
+    "name:ces_x_preferred":[
+        "Coco"
+    ],
+    "name:deu_x_preferred":[
+        "Coco"
+    ],
+    "name:fin_x_preferred":[
+        "Coco"
+    ],
+    "name:fra_x_preferred":[
+        "Coco"
+    ],
+    "name:glg_x_preferred":[
+        "Coco"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e7\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Coco"
+    ],
+    "name:nld_x_preferred":[
+        "Coco"
+    ],
+    "name:pol_x_preferred":[
+        "Coco"
+    ],
+    "name:por_x_preferred":[
+        "Coco"
+    ],
+    "name:spa_x_preferred":[
+        "Coco"
+    ],
+    "name:swe_x_preferred":[
+        "Coco"
+    ],
+    "name:zho_x_preferred":[
+        "CoCo"
+    ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
     "qs:a1_lc":"72",
@@ -60,7 +105,7 @@
         }
     ],
     "wof:id":101919415,
-    "wof:lastmodified":1527715834,
+    "wof:lastmodified":1564216900,
     "wof:name":"Coco",
     "wof:parent_id":102080337,
     "wof:placetype":"locality",

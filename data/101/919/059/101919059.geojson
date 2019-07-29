@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
-    "geom:area_square_m":3086318.948078,
+    "geom:area_square_m":3086318.948071,
     "geom:bbox":"-66.065185,18.016148,-66.046068,18.040472",
     "geom:latitude":18.030065,
     "geom:longitude":-66.056034,
@@ -21,6 +21,9 @@
     "mps:longitude":-66.055382,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yaurel"
+    ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
     "qs:a1_lc":"72",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101919059,
-    "wof:lastmodified":1534379423,
+    "wof:lastmodified":1564216913,
     "wof:name":"Yaurel",
     "wof:parent_id":102080285,
     "wof:placetype":"locality",

@@ -27,6 +27,36 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Los Sauces"
+    ],
+    "name:fra_x_preferred":[
+        "Los Sauces"
+    ],
+    "name:ita_x_preferred":[
+        "Los Sauces"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\uc2a4\uc0ac\uc6b0\uc138\uc2a4"
+    ],
+    "name:nld_x_preferred":[
+        "Los Sauces"
+    ],
+    "name:por_x_preferred":[
+        "Los Sauces"
+    ],
+    "name:ron_x_preferred":[
+        "Los Sauces"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0441-\u0421\u0430\u0443\u0441\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Los Sauces"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u7d39\u585e\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1276151327,
-    "wof:lastmodified":1537021736,
+    "wof:lastmodified":1564216722,
     "wof:name":"Los Sauces",
     "wof:parent_id":102080351,
     "wof:placetype":"locality",

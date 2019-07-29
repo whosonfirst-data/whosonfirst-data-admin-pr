@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000049,
-    "geom:area_square_m":574112.414653,
+    "geom:area_square_m":574112.414654,
     "geom:bbox":"-65.747753,18.231604,-65.737348,18.244223",
     "geom:latitude":18.238169,
     "geom:longitude":-65.743167,
@@ -21,6 +21,12 @@
         "Duque"
     ],
     "name:fra_x_preferred":[
+        "Duque"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30a5\u30b1"
+    ],
+    "name:pol_x_preferred":[
         "Duque"
     ],
     "name:por_x_preferred":[
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":101919397,
-    "wof:lastmodified":1527715833,
+    "wof:lastmodified":1564216896,
     "wof:name":"Duque",
     "wof:parent_id":102080355,
     "wof:placetype":"locality",

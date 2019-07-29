@@ -27,6 +27,48 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cantagallo"
+    ],
+    "name:deu_x_preferred":[
+        "Cantagallo"
+    ],
+    "name:est_x_preferred":[
+        "Cantagallo"
+    ],
+    "name:eus_x_preferred":[
+        "Cantagallo"
+    ],
+    "name:fra_x_preferred":[
+        "Cantagallo"
+    ],
+    "name:glg_x_preferred":[
+        "Cantagallo"
+    ],
+    "name:hun_x_preferred":[
+        "Cantagallo"
+    ],
+    "name:ina_x_preferred":[
+        "Cantagallo"
+    ],
+    "name:ita_x_preferred":[
+        "Cantagallo"
+    ],
+    "name:nld_x_preferred":[
+        "Cantagallo"
+    ],
+    "name:scn_x_preferred":[
+        "Cantagallu"
+    ],
+    "name:sco_x_preferred":[
+        "Cantagallo"
+    ],
+    "name:spa_x_preferred":[
+        "Cantagallo"
+    ],
+    "name:swe_x_preferred":[
+        "Cantagallo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +95,7 @@
         }
     ],
     "wof:id":1343495705,
-    "wof:lastmodified":1536695503,
+    "wof:lastmodified":1564216599,
     "wof:name":"Cantagallo",
     "wof:parent_id":102080301,
     "wof:placetype":"locality",

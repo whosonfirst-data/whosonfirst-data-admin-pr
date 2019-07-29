@@ -27,6 +27,24 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Macana"
+    ],
+    "name:fra_x_preferred":[
+        "Macana"
+    ],
+    "name:ita_x_preferred":[
+        "Macana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ab\u30ca"
+    ],
+    "name:lat_x_preferred":[
+        "Macana"
+    ],
+    "name:spa_x_preferred":[
+        "Macana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1242907981,
-    "wof:lastmodified":1537081662,
+    "wof:lastmodified":1564217036,
     "wof:name":"Macana",
     "wof:parent_id":102080297,
     "wof:placetype":"locality",

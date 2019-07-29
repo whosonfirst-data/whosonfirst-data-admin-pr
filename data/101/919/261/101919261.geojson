@@ -21,13 +21,25 @@
     "mps:longitude":-65.841443,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bartolo"
+    ],
     "name:deu_x_preferred":[
+        "Bartolo"
+    ],
+    "name:fra_x_preferred":[
+        "Bartolo"
+    ],
+    "name:pol_x_preferred":[
         "Bartolo"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0440\u0442\u043e\u043b\u043e"
     ],
     "name:spa_x_preferred":[
+        "Bartolo"
+    ],
+    "name:swe_x_preferred":[
         "Bartolo"
     ],
     "name:ukr_x_preferred":[
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":101919261,
-    "wof:lastmodified":1534379418,
+    "wof:lastmodified":1564216902,
     "wof:name":"Bartolo",
     "wof:parent_id":102080399,
     "wof:placetype":"locality",

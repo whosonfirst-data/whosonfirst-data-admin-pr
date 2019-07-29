@@ -27,6 +27,12 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Casas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u06a9\u0627\u0633\u0627\u0633"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209243773,
-    "wof:lastmodified":1537571926,
+    "wof:lastmodified":1564216760,
     "wof:name":"Las Casas",
     "wof:parent_id":85633729,
     "wof:placetype":"locality",

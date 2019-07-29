@@ -27,8 +27,44 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Cumbre"
+    ],
+    "name:deu_x_preferred":[
+        "La Cumbre"
+    ],
+    "name:eus_x_preferred":[
+        "La Cumbre"
+    ],
+    "name:fra_x_preferred":[
+        "La Cumbre"
+    ],
+    "name:ita_x_preferred":[
+        "La Cumbre"
+    ],
+    "name:msa_x_preferred":[
+        "La Cumbre"
+    ],
+    "name:nld_x_preferred":[
+        "La Cumbre"
+    ],
+    "name:pol_x_preferred":[
+        "La Cumbre"
+    ],
+    "name:spa_x_preferred":[
+        "La Cumbre"
+    ],
+    "name:swe_x_preferred":[
+        "La Cumbre"
+    ],
     "name:und_x_variant":[
         "Las Cumbres"
+    ],
+    "name:vie_x_preferred":[
+        "La Cumbre"
+    ],
+    "name:war_x_preferred":[
+        "La Cumbre"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +92,7 @@
         }
     ],
     "wof:id":1293035973,
-    "wof:lastmodified":1537683115,
+    "wof:lastmodified":1564216674,
     "wof:name":"La Cumbre",
     "wof:parent_id":102080441,
     "wof:placetype":"locality",

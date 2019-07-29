@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10632164.316192,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.12255,18.368304,-66.12255,18.368304",
     "geom:latitude":18.368304,
     "geom:longitude":-66.12255,
@@ -27,11 +27,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Monte Bello"
+    ],
     "name:spa_x_preferred":[
         "Monte Bello"
     ],
     "name:spa_x_variant":[
         "Mte Bello"
+    ],
+    "name:swe_x_preferred":[
+        "Monte Bello"
     ],
     "name:unk_x_variant":[
         "Monte Bello"
@@ -118,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379425,
+    "wof:lastmodified":1564216631,
     "wof:name":"Monte Bello",
     "wof:parent_id":101919293,
     "wof:placetype":"neighbourhood",

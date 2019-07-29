@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000114,
-    "geom:area_square_m":1333321.984898,
+    "geom:area_square_m":1333321.984899,
     "geom:bbox":"-66.782996,18.453011,-66.771083,18.468407",
     "geom:latitude":18.460954,
     "geom:longitude":-66.777779,
@@ -27,9 +27,6 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u0440\u043a\u0430\u0432\u0430\u0434\u0443"
     ],
-    "name:bel_x_variant":[
-        "\u041a\u0430\u0440\u043a\u0430\u0432\u0430\u0434\u0443"
-    ],
     "name:bos_x_preferred":[
         "Corcovado"
     ],
@@ -46,6 +43,9 @@
         "Corcovado"
     ],
     "name:deu_x_preferred":[
+        "Corcovado"
+    ],
+    "name:est_x_preferred":[
         "Corcovado"
     ],
     "name:eus_x_preferred":[
@@ -65,6 +65,9 @@
     ],
     "name:hrv_x_preferred":[
         "Corcovado"
+    ],
+    "name:hun_x_preferred":[
+        "Corcovado-hegy"
     ],
     "name:ita_x_preferred":[
         "Corcovado"
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":101919269,
-    "wof:lastmodified":1534379440,
+    "wof:lastmodified":1564216904,
     "wof:name":"Corcovado",
     "wof:parent_id":102080381,
     "wof:placetype":"locality",

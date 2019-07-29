@@ -27,6 +27,15 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Minillas"
+    ],
+    "name:spa_x_preferred":[
+        "Minillas"
+    ],
+    "name:swe_x_preferred":[
+        "Minillas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1327066429,
-    "wof:lastmodified":1536711567,
+    "wof:lastmodified":1564216513,
     "wof:name":"Minillas",
     "wof:parent_id":102080357,
     "wof:placetype":"locality",

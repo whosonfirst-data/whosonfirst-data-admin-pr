@@ -27,6 +27,105 @@
     "iso:country":"PR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bcl_x_preferred":[
+        "Negrito"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u0433\u0440\u0438\u0442\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Negrito"
+    ],
+    "name:ces_x_preferred":[
+        "Negritov\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "Negrito"
+    ],
+    "name:est_x_preferred":[
+        "Negriitod"
+    ],
+    "name:eus_x_preferred":[
+        "Negrito"
+    ],
+    "name:fin_x_preferred":[
+        "Negriitit"
+    ],
+    "name:fra_x_preferred":[
+        "N\u00e9gritos"
+    ],
+    "name:glg_x_preferred":[
+        "Negritos"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d2\u05e8\u05d9\u05d8\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u0947\u0917\u094d\u0930\u093f\u091f\u094b"
+    ],
+    "name:hrv_x_preferred":[
+        "Negrito"
+    ],
+    "name:ilo_x_preferred":[
+        "Negrito"
+    ],
+    "name:ind_x_preferred":[
+        "Orang Negrito"
+    ],
+    "name:ita_x_preferred":[
+        "Negritos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30b0\u30ea\u30c8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d4\u10d2\u10e0\u10d8\u10e2\u10dd\u10e1\u10d4\u10d1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub124\uadf8\ub9ac\ud1a0"
+    ],
+    "name:msa_x_preferred":[
+        "Orang Negrito"
+    ],
+    "name:nld_x_preferred":[
+        "Negrito"
+    ],
+    "name:nor_x_preferred":[
+        "Negrito"
+    ],
+    "name:pol_x_preferred":[
+        "Negryci"
+    ],
+    "name:por_x_preferred":[
+        "Negritos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0433\u0440\u0438\u0442\u043e\u0441\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Negrito"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u0433\u0440\u0438\u0442\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Negrito"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bc6\u0b95\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bcb"
+    ],
+    "name:tgl_x_preferred":[
+        "Mga Negrito"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0433\u0440\u0438\u0442\u043e\u0441\u0438"
+    ],
+    "name:vie_x_preferred":[
+        "Ng\u01b0\u1eddi Negrito"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u683c\u5229\u9640\u4eba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +152,7 @@
         }
     ],
     "wof:id":1343597375,
-    "wof:lastmodified":1537044185,
+    "wof:lastmodified":1564216600,
     "wof:name":"Negrito",
     "wof:parent_id":102080317,
     "wof:placetype":"locality",

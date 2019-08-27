@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.1785,18.38495,-66.1385,18.42495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Vereda"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1276473475,
-    "wof:lastmodified":1564216721,
+    "wof:lastmodified":1566600254,
     "wof:name":"Vereda",
     "wof:parent_id":102080443,
     "wof:placetype":"locality",

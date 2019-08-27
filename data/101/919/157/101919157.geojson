@@ -9,18 +9,20 @@
     "geom:bbox":"-66.548108,18.442843,-66.526186,18.465365",
     "geom:latitude":18.45299,
     "geom:longitude":-66.538077,
-    "geonames:id":"7276408,4562768",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":22322,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"7276408,4562768",
     "gn:population":22322,
     "iso:country":"PR",
     "lbl:latitude":18.447478,
     "lbl:longitude":-66.542641,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":18.447478,
     "mps:longitude":-66.542641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09b8\u09c7\u09b2\u09cb\u09a8\u09c7\u09a4\u09be"
     ],
@@ -63,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0441\u0435\u043b\u043e\u043d\u0435\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barrgeloneta"
     ],
     "name:urd_x_preferred":[
@@ -114,7 +116,7 @@
     "qs_pg:woe_id":160686,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1298,
     "wof:belongsto":[
@@ -128,7 +130,6 @@
     "wof:concordances":{
         "gn:id":4562768,
         "gp:id":160686,
-        "qs:id":211128,
         "qs_pg:id":211128,
         "wd:id":"Q2025087",
         "wk:page":"Barceloneta, Puerto Rico"
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":101919157,
-    "wof:lastmodified":1563237115,
+    "wof:lastmodified":1566600316,
     "wof:name":"Barceloneta",
     "wof:parent_id":102080375,
     "wof:placetype":"locality",

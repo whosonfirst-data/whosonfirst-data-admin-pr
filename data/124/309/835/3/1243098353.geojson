@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.10155,18.35939,-66.06155,18.39939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Francisco"
     ],
@@ -530,7 +534,7 @@
         }
     ],
     "wof:id":1243098353,
-    "wof:lastmodified":1564216996,
+    "wof:lastmodified":1566600368,
     "wof:name":"San Francisco",
     "wof:parent_id":102080441,
     "wof:placetype":"locality",

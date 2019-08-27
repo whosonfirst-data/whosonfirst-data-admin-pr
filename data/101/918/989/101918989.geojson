@@ -9,22 +9,24 @@
     "geom:bbox":"-66.376489,17.953475,-66.357265,17.969125",
     "geom:latitude":17.961634,
     "geom:longitude":-66.366853,
-    "geonames:id":"4565676,7275075",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1838,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"4565676,7275075",
     "gn:population":1838,
     "iso:country":"PR",
     "lbl:latitude":17.960468,
     "lbl:longitude":-66.365105,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":17.960468,
     "mps:longitude":-66.365105,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Jauca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jaucas"
     ],
     "qs:a0":"Puerto Rico",
@@ -61,7 +63,7 @@
     "qs_pg:woe_id":161239,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101918989,
-    "wof:lastmodified":1564216893,
+    "wof:lastmodified":1566600314,
     "wof:name":"Jauca",
     "wof:parent_id":102080335,
     "wof:placetype":"locality",

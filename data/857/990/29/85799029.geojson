@@ -12,8 +12,10 @@
     "gn:latitude":41.12582,
     "gn:longitude":-8.60396,
     "iso:country":"PR",
+    "lbl:bbox":"-8.617855,41.135333,-8.607855,41.145333",
     "lbl:latitude":41.140333,
     "lbl:longitude":-8.612855,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.127351,
     "mps:longitude":-8.615572,
     "mz:hierarchy_label":0,
@@ -67,9 +69,6 @@
     "name:tur_x_preferred":[
         "Mafamude"
     ],
-    "name:unk_x_variant":[
-        "Mafamude"
-    ],
     "name:zho_x_preferred":[
         "\u9a6c\u6cd5\u7a46\u8fea"
     ],
@@ -104,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":108,
     "wof:belongsto":[
         102191581,
@@ -116,7 +115,7 @@
     "wof:concordances":{
         "gn:id":2738025,
         "gp:id":743001,
-        "qs:id":906640,
+        "qs_pg:id":906640,
         "wd:id":"Q1883686",
         "wk:page":"Mafamude"
     },
@@ -135,7 +134,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563236856,
+    "wof:lastmodified":1566600225,
     "wof:name":"Mafamude",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",

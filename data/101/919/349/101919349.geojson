@@ -9,15 +9,18 @@
     "geom:bbox":"-66.518373,18.043002,-66.491572,18.066243",
     "geom:latitude":18.053168,
     "geom:longitude":-66.504633,
-    "geonames:id":"4565712,7276438",
+    "gn:id":"4565712,7276438",
     "gn:population":9427,
     "iso:country":"PR",
     "lbl:latitude":18.050074,
     "lbl:longitude":-66.505951,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.050074,
     "mps:longitude":-66.505951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c1\u09af\u09bc\u09be\u09a8\u09be \u09a1\u09bf\u09af\u09bc\u09be\u099c"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":4565712,
         "gp:id":161250,
-        "qs:id":1024152,
+        "qs_pg:id":1024152,
         "wd:id":"Q2361577",
         "wk:page":"Juana D\u00edaz, Puerto Rico"
     },
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101919349,
-    "wof:lastmodified":1563237146,
+    "wof:lastmodified":1566600326,
     "wof:name":"Juana D\u00edaz",
     "wof:parent_id":102080415,
     "wof:placetype":"locality",

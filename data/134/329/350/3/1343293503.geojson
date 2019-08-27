@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.56073,18.43161,-66.52073,18.47161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Catalina"
     ],
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":1343293503,
-    "wof:lastmodified":1564216620,
+    "wof:lastmodified":1566600221,
     "wof:name":"Catalina",
     "wof:parent_id":102080375,
     "wof:placetype":"locality",

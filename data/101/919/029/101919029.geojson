@@ -9,14 +9,17 @@
     "geom:bbox":"-67.150759,18.274393,-67.132341,18.298371",
     "geom:latitude":18.285772,
     "geom:longitude":-67.141279,
-    "geonames:id":"4562600,7276405",
+    "gn:id":"4562600,7276405",
     "iso:country":"PR",
     "lbl:latitude":18.285178,
     "lbl:longitude":-67.140652,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.285178,
     "mps:longitude":-67.140652,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09cd\u09a8\u09be\u09b8\u0995\u09cb"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101919029,
-    "wof:lastmodified":1563237163,
+    "wof:lastmodified":1566600330,
     "wof:name":"A\u00f1asco",
     "wof:parent_id":102080323,
     "wof:placetype":"locality",

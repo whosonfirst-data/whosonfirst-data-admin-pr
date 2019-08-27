@@ -9,13 +9,15 @@
     "geom:bbox":"-66.140151,18.432302,-66.140151,18.432302",
     "geom:latitude":18.432302,
     "geom:longitude":-66.140151,
+    "gn:country":"PR",
     "gn:elevation":2,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PR",
+    "lbl:bbox":"-66.145151,18.427302,-66.135151,18.437302",
     "lbl:latitude":18.432302,
     "lbl:longitude":-66.140151,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.430681,
     "mps:longitude":-66.147803,
     "mz:hierarchy_label":0,
@@ -90,9 +92,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043c\u0435\u043b\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Amelia"
-    ],
     "name:vol_x_preferred":[
         "Amelia"
     ],
@@ -144,7 +143,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
         102191575,
@@ -157,7 +156,6 @@
     "wof:concordances":{
         "gn:id":4562595,
         "gp:id":24550941,
-        "qs:id":483526,
         "qs_pg:id":483526
     },
     "wof:country":"PR",
@@ -178,7 +176,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564216640,
+    "wof:lastmodified":1566600229,
     "wof:name":"Amelia",
     "wof:parent_id":101918955,
     "wof:placetype":"neighbourhood",

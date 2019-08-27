@@ -12,8 +12,10 @@
     "gn:latitude":41.16837,
     "gn:longitude":-8.64772,
     "iso:country":"PR",
+    "lbl:bbox":"-8.64635,41.160456,-8.63635,41.170456",
     "lbl:latitude":41.165456,
     "lbl:longitude":-8.64135,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.16872,
     "mps:longitude":-8.643279,
     "mz:hierarchy_label":0,
@@ -70,9 +72,6 @@
     "name:spa_x_preferred":[
         "Ramalde"
     ],
-    "name:unk_x_variant":[
-        "Ramalde"
-    ],
     "name:zho_x_preferred":[
         "\u62c9\u9a6c\u5c14\u8fea"
     ],
@@ -107,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":47,
     "wof:belongsto":[
         102191581,
@@ -119,7 +118,7 @@
     "wof:concordances":{
         "gn:id":2735476,
         "gp:id":746885,
-        "qs:id":1081405,
+        "qs_pg:id":1081405,
         "wd:id":"Q1973526",
         "wk:page":"Ramalde"
     },
@@ -138,7 +137,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563236856,
+    "wof:lastmodified":1566600224,
     "wof:name":"Ramalde",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",

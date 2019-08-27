@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-65.72572,18.18468,-65.68572,18.22468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Santiago y Lima"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343989457,
-    "wof:lastmodified":1564216580,
+    "wof:lastmodified":1566600206,
     "wof:name":"Santiago y Lima",
     "wof:parent_id":102080355,
     "wof:placetype":"locality",

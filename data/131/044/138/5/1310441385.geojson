@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.61128,17.98524,-66.57128,18.02524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Bucan\u00e1"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310441385,
-    "wof:lastmodified":1564216852,
+    "wof:lastmodified":1566600296,
     "wof:name":"Bucana",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-66.055434,
     "gn:id":"",
     "iso:country":"PR",
+    "lbl:bbox":"-66.060434,18.417479,-66.050434,18.427479",
     "lbl:latitude":18.422479,
     "lbl:longitude":-66.055434,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.423512,
     "mps:longitude":-66.052019,
     "mz:hierarchy_label":0,
@@ -51,9 +53,6 @@
     "name:spa_x_preferred":[
         "Hato Rey"
     ],
-    "name:unk_x_variant":[
-        "Hato Rey"
-    ],
     "name:zho_x_preferred":[
         "\u54c8\u6258\u96f7\u4f0a"
     ],
@@ -84,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":483,
     "wof:belongsto":[
         85633729,
@@ -97,7 +96,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":15021132,
-        "qs:id":229724,
+        "qs_pg:id":229724,
         "wd:id":"Q3783649"
     },
     "wof:country":"PR",
@@ -118,7 +117,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563236860,
+    "wof:lastmodified":1566600226,
     "wof:name":"Hato Rey",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

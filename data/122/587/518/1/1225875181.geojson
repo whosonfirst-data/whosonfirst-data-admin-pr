@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-67.1774,18.00135,-67.1374,18.04135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sosa"
     ],
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":1225875181,
-    "wof:lastmodified":1564217100,
+    "wof:lastmodified":1566600407,
     "wof:name":"Sosa",
     "wof:parent_id":102080409,
     "wof:placetype":"locality",

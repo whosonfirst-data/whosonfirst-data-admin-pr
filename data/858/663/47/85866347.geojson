@@ -9,13 +9,15 @@
     "geom:bbox":"-66.073342,18.36663,-66.073342,18.36663",
     "geom:latitude":18.36663,
     "geom:longitude":-66.073342,
+    "gn:country":"PR",
     "gn:elevation":72,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PR",
+    "lbl:bbox":"-66.078342,18.36163,-66.068342,18.37163",
     "lbl:latitude":18.36663,
     "lbl:longitude":-66.073342,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.367081,
     "mps:longitude":-66.078012,
     "mz:hierarchy_label":0,
@@ -41,9 +43,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043c\u0430\u043d\u0438"
-    ],
-    "name:unk_x_variant":[
-        "Romany"
     ],
     "qs:gn_adm0_cc":"PR",
     "qs:gn_fcode":"PPL",
@@ -93,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":113,
     "wof:belongsto":[
         85633729,
@@ -107,7 +106,6 @@
     "wof:concordances":{
         "gn:id":4567988,
         "gp:id":24551176,
-        "qs:id":902672,
         "qs_pg:id":902672
     },
     "wof:country":"PR",
@@ -128,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564216638,
+    "wof:lastmodified":1566600228,
     "wof:name":"Romany",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

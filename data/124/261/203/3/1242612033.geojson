@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.06461,18.21134,-66.02461,18.25134",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u062a\u0631\u062f\u0627\u0645"
     ],
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":1242612033,
-    "wof:lastmodified":1564217008,
+    "wof:lastmodified":1566600373,
     "wof:name":"Notre Dame",
     "wof:parent_id":102080425,
     "wof:placetype":"locality",

@@ -21,10 +21,13 @@
     ],
     "lbl:latitude":17.946645,
     "lbl:longitude":-66.920425,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":17.946645,
     "mps:longitude":-66.920425,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09a8\u09bf\u0995\u09be"
     ],
@@ -96,9 +99,9 @@
     "qs:source":"US Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"96",
     "statoids:area_mi":"37",
     "statoids:as_of_date":"2010-04-01",
@@ -138,9 +141,6 @@
     ],
     "wof:id":102080429,
     "wof:label":"Municipio de Gu\u00e1nica",
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "eng"
@@ -149,11 +149,10 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1563236798,
+    "wof:lastmodified":1566600200,
     "wof:name":"Gu\u00e1nica",
     "wof:parent_id":85687331,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"Municipio",
     "wof:population":19427,
     "wof:population_rank":6,

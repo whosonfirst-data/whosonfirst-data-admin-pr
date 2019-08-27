@@ -9,14 +9,17 @@
     "geom:bbox":"-65.856741,18.029513,-65.844247,18.042692",
     "geom:latitude":18.036932,
     "geom:longitude":-65.849446,
-    "geonames:id":"4564214,7275057",
+    "gn:id":"4564214,7275057",
     "iso:country":"PR",
     "lbl:latitude":18.036891,
     "lbl:longitude":-65.847983,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.036891,
     "mps:longitude":-65.847983,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Negro"
     ],
@@ -45,7 +48,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":64,
     "wof:belongsto":[
         85633729,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101918975,
-    "wof:lastmodified":1564216894,
+    "wof:lastmodified":1566600315,
     "wof:name":"El Negro",
     "wof:parent_id":102080371,
     "wof:placetype":"locality",

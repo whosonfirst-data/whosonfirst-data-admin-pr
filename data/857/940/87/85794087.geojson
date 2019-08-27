@@ -5,19 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5300900.060304,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.027438,18.41894,-66.027438,18.41894",
     "geom:latitude":18.41894,
     "geom:longitude":-66.027438,
+    "gn:country":"PR",
     "gn:elevation":3,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:fcode":"PPL",
     "gn:latitude":18.418,
     "gn:longitude":-66.03294,
+    "gn:population":0,
     "iso:country":"PR",
+    "lbl:bbox":"-66.032438,18.41394,-66.022438,18.42394",
     "lbl:latitude":18.41894,
     "lbl:longitude":-66.027438,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.417124,
     "mps:longitude":-66.026682,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
     "name:spa_x_variant":[
         "S. Jose",
         "S Jose"
-    ],
-    "name:unk_x_variant":[
-        "San Jose"
     ],
     "qs:gn_adm0_cc":"PR",
     "qs:gn_fcode":"PPL",
@@ -87,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
         102191575,
@@ -100,7 +99,6 @@
     "wof:concordances":{
         "gn:id":4568121,
         "gp:id":161682,
-        "qs:id":249472,
         "qs_pg:id":249472
     },
     "wof:country":"PR",
@@ -121,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379425,
+    "wof:lastmodified":1566600225,
     "wof:name":"San Jose",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

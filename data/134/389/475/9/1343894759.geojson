@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.86629,18.45633,-66.82629,18.49633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343894759,
-    "wof:lastmodified":1536614648,
+    "wof:lastmodified":1566600223,
     "wof:name":"Sector Pena Militar",
     "wof:parent_id":102080293,
     "wof:placetype":"locality",

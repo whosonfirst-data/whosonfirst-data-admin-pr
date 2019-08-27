@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3369773.170691,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.120636,18.390306,-66.120636,18.390306",
     "geom:latitude":18.390306,
     "geom:longitude":-66.120636,
     "gn:elevation":86,
     "iso:country":"PR",
+    "lbl:bbox":"-66.125636,18.385306,-66.115636,18.395306",
     "lbl:latitude":18.390306,
     "lbl:longitude":-66.120636,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.388905,
     "mps:longitude":-66.119525,
     "mz:hierarchy_label":0,
@@ -27,9 +29,8 @@
     "name:spa_x_preferred":[
         "Prado Alto"
     ],
-    "name:unk_x_variant":[
-        "Colonia Palo Alto",
-        "Prado Alto"
+    "name:und_x_variant":[
+        "Colonia Palo Alto"
     ],
     "qs:gn_adm0_cc":"PR",
     "qs:gn_fcode":"PPL",
@@ -59,20 +60,20 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         101919293,
         136253057,
-        102080365
+        102080365,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566489,
         "gp:id":24550990,
-        "qs:id":503558
+        "qs_pg:id":503558
     },
     "wof:country":"PR",
     "wof:geomhash":"9fab5dbc1a28c28b6b609c8807d7cb55",
@@ -92,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531871153,
+    "wof:lastmodified":1566600229,
     "wof:name":"Prado Alto",
     "wof:parent_id":101919293,
     "wof:placetype":"neighbourhood",

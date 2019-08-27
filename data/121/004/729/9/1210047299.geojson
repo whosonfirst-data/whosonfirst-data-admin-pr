@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-67.16157,18.16718,-67.12157,18.20718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b2\u09ae\u09cb\u09a8\u09cd\u099f\u09c7"
     ],
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":1210047299,
-    "wof:lastmodified":1564216798,
+    "wof:lastmodified":1566600281,
     "wof:name":"Belmonte",
     "wof:parent_id":102080311,
     "wof:placetype":"locality",

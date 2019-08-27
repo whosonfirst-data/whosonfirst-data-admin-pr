@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.10211,18.34995,-66.06211,18.38995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343696459,
-    "wof:lastmodified":1536903293,
+    "wof:lastmodified":1566600215,
     "wof:name":"Las Marias",
     "wof:parent_id":102080441,
     "wof:placetype":"locality",

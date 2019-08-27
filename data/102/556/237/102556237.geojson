@@ -12,6 +12,7 @@
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Benjam\u00edn Rivera Noriega Airport"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":102556237,
-    "wof:lastmodified":1563236773,
+    "wof:lastmodified":1566600188,
     "wof:name":"Culebra Airport",
     "wof:parent_id":101919287,
     "wof:placetype":"campus",

@@ -9,14 +9,17 @@
     "geom:bbox":"-67.084909,18.467448,-67.069869,18.477231",
     "geom:latitude":18.471855,
     "geom:longitude":-67.078585,
-    "geonames:id":"4567575,7274988",
+    "gn:id":"4567575,7274988",
     "iso:country":"PR",
     "lbl:latitude":18.471768,
     "lbl:longitude":-67.078471,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.471768,
     "mps:longitude":-67.078471,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Rafael Hern\u00e1ndez"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":76,
     "wof:belongsto":[
         85633729,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101919019,
-    "wof:lastmodified":1561827132,
+    "wof:lastmodified":1566600331,
     "wof:name":"Rafael Hern\u00e1ndez",
     "wof:parent_id":102080275,
     "wof:placetype":"locality",

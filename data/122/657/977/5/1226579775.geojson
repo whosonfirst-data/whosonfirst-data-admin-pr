@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-67.03379,18.428,-66.99379,18.468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u062a\u064a\u0644\u0627"
     ],
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":1226579775,
-    "wof:lastmodified":1564217095,
+    "wof:lastmodified":1566600406,
     "wof:name":"Mantilla",
     "wof:parent_id":102080383,
     "wof:placetype":"locality",

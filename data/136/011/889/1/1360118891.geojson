@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.9324,18.13635,-66.8924,18.17635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360118891,
-    "wof:lastmodified":1536896745,
+    "wof:lastmodified":1566600305,
     "wof:name":"Hacienda Esperanza",
     "wof:parent_id":102080437,
     "wof:placetype":"locality",

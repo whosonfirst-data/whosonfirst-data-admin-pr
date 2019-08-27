@@ -9,18 +9,20 @@
     "geom:bbox":"-66.257099,18.298292,-66.236053,18.307435",
     "geom:latitude":18.302111,
     "geom:longitude":-66.245945,
-    "geonames:id":"4566402,7276375",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2005,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"4566402,7276375",
     "gn:population":2005,
     "iso:country":"PR",
     "lbl:latitude":18.301441,
     "lbl:longitude":-66.245222,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.301441,
     "mps:longitude":-66.245222,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09be\u09b0\u09be\u09a8\u099c\u09bf\u09a4\u09cb"
     ],
@@ -112,7 +114,7 @@
     "qs_pg:woe_id":161475,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":725,
     "wof:belongsto":[
@@ -126,7 +128,6 @@
     "wof:concordances":{
         "gn:id":4566402,
         "gp:id":161475,
-        "qs:id":251614,
         "qs_pg:id":251614,
         "wd:id":"Q2623972",
         "wk:page":"Naranjito, Puerto Rico"
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":101919383,
-    "wof:lastmodified":1563237142,
+    "wof:lastmodified":1566600324,
     "wof:name":"Naranjito",
     "wof:parent_id":102080303,
     "wof:placetype":"locality",

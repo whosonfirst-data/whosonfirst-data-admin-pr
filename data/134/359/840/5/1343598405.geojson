@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-65.89516,18.1569,-65.85516,18.1969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Parkhurst"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1343598405,
-    "wof:lastmodified":1564216603,
+    "wof:lastmodified":1566600214,
     "wof:name":"Parkhurst",
     "wof:parent_id":102080391,
     "wof:placetype":"locality",

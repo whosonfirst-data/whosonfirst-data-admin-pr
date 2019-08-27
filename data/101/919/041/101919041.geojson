@@ -9,14 +9,17 @@
     "geom:bbox":"-67.18374,18.024705,-67.160835,18.042179",
     "geom:latitude":18.034074,
     "geom:longitude":-67.171609,
-    "geonames:id":"4562903,7275029",
+    "gn:id":"4562903,7275029",
     "iso:country":"PR",
     "lbl:latitude":18.032963,
     "lbl:longitude":-67.170491,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.032963,
     "mps:longitude":-67.170491,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boquer\u00f3n"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":95,
     "wof:belongsto":[
         85633729,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101919041,
-    "wof:lastmodified":1564216897,
+    "wof:lastmodified":1566600318,
     "wof:name":"Boquer\u00f3n",
     "wof:parent_id":102080409,
     "wof:placetype":"locality",

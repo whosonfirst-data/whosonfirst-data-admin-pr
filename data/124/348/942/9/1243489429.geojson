@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-65.94127,18.21357,-65.90127,18.25357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u041ca\u0434\u0440\u0438\u0434"
     ],
@@ -707,7 +711,7 @@
         }
     ],
     "wof:id":1243489429,
-    "wof:lastmodified":1564217016,
+    "wof:lastmodified":1566600375,
     "wof:name":"Madrid",
     "wof:parent_id":102080301,
     "wof:placetype":"locality",

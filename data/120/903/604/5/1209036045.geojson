@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-67.15351,18.18273,-67.11351,18.22273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0431\u043e\u0430"
     ],
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":1209036045,
-    "wof:lastmodified":1564216775,
+    "wof:lastmodified":1566600273,
     "wof:name":"Balboa",
     "wof:parent_id":85633729,
     "wof:placetype":"locality",

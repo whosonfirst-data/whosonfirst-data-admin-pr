@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16587193.736693,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-8.663034,41.134162,-8.663034,41.134162",
     "geom:latitude":41.134162,
     "geom:longitude":-8.663034,
     "gn:latitude":41.12869,
     "gn:longitude":-8.66286,
     "iso:country":"PR",
+    "lbl:bbox":"-8.668034,41.129162,-8.658034,41.139162",
     "lbl:latitude":41.134162,
     "lbl:longitude":-8.663034,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.119319,
     "mps:longitude":-8.66032,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Lavadores"
     ],
     "name:por_x_preferred":[
-        "Lavadores"
-    ],
-    "name:unk_x_variant":[
         "Lavadores"
     ],
     "qs:gn_adm0_cc":"PT",
@@ -62,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101752095,
@@ -73,7 +72,7 @@
     "wof:concordances":{
         "gn:id":2738373,
         "gp:id":742588,
-        "qs:id":217226
+        "qs_pg:id":217226
     },
     "wof:country":"PR",
     "wof:geomhash":"631be146e3fb69485710e6a3140dfc1b",
@@ -90,7 +89,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531861970,
+    "wof:lastmodified":1566600225,
     "wof:name":"Lavadores",
     "wof:parent_id":101752095,
     "wof:placetype":"neighbourhood",

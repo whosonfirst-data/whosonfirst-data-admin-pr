@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-65.84377,18.13024,-65.80377,18.17024",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344087211,
-    "wof:lastmodified":1536836091,
+    "wof:lastmodified":1566600209,
     "wof:name":"Pereyo",
     "wof:parent_id":102080351,
     "wof:placetype":"locality",

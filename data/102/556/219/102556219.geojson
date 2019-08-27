@@ -16,6 +16,7 @@
     "mps:longitude":-67.149684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Rafael Hernandez Airport"
     ],
@@ -66,7 +67,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424935,
         "county_id":26806004,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":102556219,
-    "wof:lastmodified":1563236772,
+    "wof:lastmodified":1566600188,
     "wof:name":"Aeropuerto Rafael Hern\u00edndez",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

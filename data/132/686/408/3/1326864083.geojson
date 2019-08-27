@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.18906,18.42606,-66.14906,18.46606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326864083,
-    "wof:lastmodified":1537002095,
+    "wof:lastmodified":1566600173,
     "wof:name":"Villas de Levittown",
     "wof:parent_id":102080329,
     "wof:placetype":"locality",

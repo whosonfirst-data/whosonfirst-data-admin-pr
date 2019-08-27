@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000237,
-    "geom:area_square_m":2781683.30325,
+    "geom:area_square_m":2781683.303252,
     "geom:bbox":"-66.9095,17.991651,-66.887602,18.008405",
     "geom:latitude":18.001522,
     "geom:longitude":-66.899502,
@@ -13,10 +13,13 @@
     "iso:country":"PR",
     "lbl:latitude":18.001775,
     "lbl:longitude":-66.899501,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.001775,
     "mps:longitude":-66.899501,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "L\u00e9ster Ruiz"
     ],
@@ -36,7 +39,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101919223,
-    "wof:lastmodified":1509998612,
+    "wof:lastmodified":1566600330,
     "wof:name":"El Tumbao",
     "wof:parent_id":102080429,
     "wof:placetype":"locality",

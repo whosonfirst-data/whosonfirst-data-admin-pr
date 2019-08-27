@@ -11,8 +11,10 @@
     "geom:longitude":-66.057972,
     "gn:id":"",
     "iso:country":"PR",
+    "lbl:bbox":"-66.062972,18.447931,-66.052972,18.457931",
     "lbl:latitude":18.452931,
     "lbl:longitude":-66.057972,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.458473,
     "mps:longitude":-66.055064,
     "mz:hierarchy_label":0,
@@ -77,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
         102191575,
@@ -89,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":15021133,
-        "qs:id":236258,
+        "qs_pg:id":236258,
         "wd:id":"Q511729"
     },
     "wof:country":"PR",
@@ -110,7 +112,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563236859,
+    "wof:lastmodified":1566600226,
     "wof:name":"Santurce",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

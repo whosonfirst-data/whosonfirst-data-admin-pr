@@ -9,18 +9,20 @@
     "geom:bbox":"-66.133681,17.959256,-66.086451,17.992609",
     "geom:latitude":17.974396,
     "geom:longitude":-66.110389,
-    "geonames:id":"4565105,7276429",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":21575,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"4565105,7276429",
     "gn:population":21575,
     "iso:country":"PR",
     "lbl:latitude":17.975982,
     "lbl:longitude":-66.112372,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":17.975982,
     "mps:longitude":-66.112372,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09af\u09bc\u09be\u09ae\u09be"
     ],
@@ -81,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0432\u0430\u044f\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "City of Witches"
     ],
     "name:urd_x_preferred":[
@@ -132,7 +134,7 @@
     "qs_pg:woe_id":160988,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -145,7 +147,6 @@
     "wof:concordances":{
         "gn:id":4565105,
         "gp:id":160988,
-        "qs:id":211134,
         "qs_pg:id":211134,
         "wd:id":"Q1870997",
         "wk:page":"Guayama, Puerto Rico"
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":101919309,
-    "wof:lastmodified":1563237114,
+    "wof:lastmodified":1566600315,
     "wof:name":"Guayama",
     "wof:parent_id":102080373,
     "wof:placetype":"locality",

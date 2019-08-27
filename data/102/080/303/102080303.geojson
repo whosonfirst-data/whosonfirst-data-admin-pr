@@ -21,10 +21,13 @@
     ],
     "lbl:latitude":18.28879,
     "lbl:longitude":-66.251507,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.28879,
     "mps:longitude":-66.251507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "Naranjito"
     ],
@@ -72,9 +75,9 @@
     "qs:source":"US Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"71",
     "statoids:area_mi":"27",
     "statoids:as_of_date":"2010-04-01",
@@ -112,9 +115,6 @@
     ],
     "wof:id":102080303,
     "wof:label":"Municipio de Naranjito",
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "eng"
@@ -123,11 +123,10 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1564216569,
+    "wof:lastmodified":1566600196,
     "wof:name":"Naranjito",
     "wof:parent_id":85687331,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"Municipio",
     "wof:population":30402,
     "wof:population_rank":7,

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-65.65933,18.31356,-65.61933,18.35356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209251105,
-    "wof:lastmodified":1536293002,
+    "wof:lastmodified":1566600269,
     "wof:name":"Residencial Puerto Real",
     "wof:parent_id":85633729,
     "wof:placetype":"locality",

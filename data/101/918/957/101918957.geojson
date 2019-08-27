@@ -9,18 +9,20 @@
     "geom:bbox":"-65.982043,18.17545,-65.95362,18.201933",
     "geom:latitude":18.189386,
     "geom:longitude":-65.967493,
-    "geonames:id":"4568149,7276387",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9373,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"4568149,7276387",
     "gn:population":9373,
     "iso:country":"PR",
     "lbl:latitude":18.189143,
     "lbl:longitude":-65.966096,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.189143,
     "mps:longitude":-65.966096,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8 \u09b2\u09cb\u09b0\u09c7\u099e\u09cd\u099c\u09cb"
     ],
@@ -63,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0441\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Miguel de Hato Grande"
     ],
     "name:urd_x_preferred":[
@@ -114,7 +116,7 @@
     "qs_pg:woe_id":161686,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":101918957,
-    "wof:lastmodified":1563237104,
+    "wof:lastmodified":1566600311,
     "wof:name":"San Lorenzo",
     "wof:parent_id":102080309,
     "wof:placetype":"locality",

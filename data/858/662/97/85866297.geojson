@@ -11,8 +11,10 @@
     "geom:longitude":-66.087708,
     "gn:elevation":97,
     "iso:country":"PR",
+    "lbl:bbox":"-66.092708,18.405302,-66.082708,18.415302",
     "lbl:latitude":18.410302,
     "lbl:longitude":-66.087708,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.409308,
     "mps:longitude":-66.088338,
     "mz:hierarchy_label":0,
@@ -135,9 +137,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u043e\u043b\u043e\u0442\u0456 \u0412\u043e\u0440\u043e\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Golden Gate"
-    ],
     "name:vie_x_preferred":[
         "Golden Gate"
     ],
@@ -172,7 +171,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1065,
     "wof:belongsto":[
         85633729,
@@ -186,7 +185,7 @@
     "wof:concordances":{
         "gn:id":4565065,
         "gp:id":24551005,
-        "qs:id":1103596
+        "qs_pg:id":1103596
     },
     "wof:country":"PR",
     "wof:geomhash":"860b1dc13d1af468fe8e94703df4a62a",
@@ -206,7 +205,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564216641,
+    "wof:lastmodified":1566600229,
     "wof:name":"Golden Gate",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

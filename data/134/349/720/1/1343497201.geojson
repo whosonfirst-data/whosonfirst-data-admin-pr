@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.52795,18.31912,-66.48795,18.35912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Camarones"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1343497201,
-    "wof:lastmodified":1564216600,
+    "wof:lastmodified":1566600213,
     "wof:name":"Camarones",
     "wof:parent_id":102080317,
     "wof:placetype":"locality",

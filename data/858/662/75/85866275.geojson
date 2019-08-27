@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10706827.634453,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.013742,18.444783,-66.013742,18.444783",
     "geom:latitude":18.444783,
     "geom:longitude":-66.013742,
     "gn:elevation":3,
     "iso:country":"PR",
+    "lbl:bbox":"-66.018742,18.439783,-66.008742,18.449783",
     "lbl:latitude":18.444783,
     "lbl:longitude":-66.013742,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.454485,
     "mps:longitude":-66.000426,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Biascochea"
-    ],
-    "name:unk_x_variant":[
         "Biascochea"
     ],
     "qs:gn_adm0_cc":"PR",
@@ -58,20 +57,20 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         101919197,
         136253057,
-        102080347
+        102080347,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4562869,
         "gp:id":24550972,
-        "qs:id":1086159
+        "qs_pg:id":1086159
     },
     "wof:country":"PR",
     "wof:geomhash":"0a1032e0b86d47f0f6e2f3ba03710cea",
@@ -91,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531871149,
+    "wof:lastmodified":1566600229,
     "wof:name":"Biascochea",
     "wof:parent_id":101919197,
     "wof:placetype":"neighbourhood",

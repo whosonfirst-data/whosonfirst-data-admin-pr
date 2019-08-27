@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.21406,18.22829,-66.17406,18.26829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326959331,
-    "wof:lastmodified":1536864573,
+    "wof:lastmodified":1566600179,
     "wof:name":"Iglesia Virgen de la Providencia",
     "wof:parent_id":102080291,
     "wof:placetype":"locality",

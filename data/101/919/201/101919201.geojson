@@ -9,18 +9,20 @@
     "geom:bbox":"-66.183634,18.102396,-66.134435,18.127099",
     "geom:latitude":18.115019,
     "geom:longitude":-66.162997,
-    "geonames:id":"4563308,7276417",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":18494,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"4563308,7276417",
     "gn:population":18494,
     "iso:country":"PR",
     "lbl:latitude":18.11191,
     "lbl:longitude":-66.171175,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.11191,
     "mps:longitude":-66.171175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09af\u09bc\u09c7\u09af\u09bc"
     ],
@@ -72,7 +74,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0454\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cayey de Muesas"
     ],
     "name:urd_x_preferred":[
@@ -123,7 +125,7 @@
     "qs_pg:woe_id":160793,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -136,7 +138,6 @@
     "wof:concordances":{
         "gn:id":4563308,
         "gp:id":160793,
-        "qs:id":154492,
         "qs_pg:id":154492,
         "wd:id":"Q2307508",
         "wk:page":"Cayey, Puerto Rico"
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":101919201,
-    "wof:lastmodified":1563237175,
+    "wof:lastmodified":1566600333,
     "wof:name":"Cayey",
     "wof:parent_id":102080419,
     "wof:placetype":"locality",

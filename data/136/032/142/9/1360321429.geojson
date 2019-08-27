@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.11072,17.95997,-66.07072,17.99997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360321429,
-    "wof:lastmodified":1536601473,
+    "wof:lastmodified":1566600307,
     "wof:name":"Bello Horizonte",
     "wof:parent_id":102080373,
     "wof:placetype":"locality",

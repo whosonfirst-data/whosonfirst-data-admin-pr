@@ -9,18 +9,20 @@
     "geom:bbox":"-66.280739,18.130505,-66.249114,18.151555",
     "geom:latitude":18.13983,
     "geom:longitude":-66.265817,
-    "geonames:id":"4562529,7276404",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8947,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"4562529,7276404",
     "gn:population":8947,
     "iso:country":"PR",
     "lbl:latitude":18.138351,
     "lbl:longitude":-66.264259,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.138351,
     "mps:longitude":-66.264259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Aibonito"
     ],
@@ -66,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0439\u0431\u043e\u043d\u0456\u0442\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jatibonicu"
     ],
     "name:urd_x_preferred":[
@@ -117,7 +119,7 @@
     "qs_pg:woe_id":160649,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -130,7 +132,6 @@
     "wof:concordances":{
         "gn:id":4562529,
         "gp:id":160649,
-        "qs:id":154481,
         "qs_pg:id":154481,
         "wd:id":"Q2485628"
     },
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":101919147,
-    "wof:lastmodified":1563237183,
+    "wof:lastmodified":1566600336,
     "wof:name":"Aibonito",
     "wof:parent_id":102080431,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.55589,17.99319,-66.51589,18.03319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729
@@ -36,7 +40,7 @@
         "gn:id":7275041
     },
     "wof:country":"PR",
-    "wof:geomhash":"918fdaa05af0cb9060dd6e4808f46124",
+    "wof:geomhash":"2f856d6e9816e96cffebb5e065b9ed85",
     "wof:hierarchy":[
         {
             "dependency_id":85633729,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209035933,
-    "wof:lastmodified":1536299700,
+    "wof:lastmodified":1566600273,
     "wof:name":"Capitanejo Comunidad",
     "wof:parent_id":85633729,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     -66.53589000000001,
-    18.013189999999994,
+    18.01318999999999,
     -66.53589000000001,
-    18.013189999999994
+    18.01318999999999
 ],
   "geometry": {"coordinates":[-66.53589000000001,18.01318999999999],"type":"Point"}
 }

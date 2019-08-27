@@ -21,10 +21,13 @@
     ],
     "lbl:latitude":18.250279,
     "lbl:longitude":-66.123106,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.250279,
     "mps:longitude":-66.123106,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u0997\u09c1\u09f1\u09be\u09b8 \u09ac\u09c1\u09af\u09bc\u09c7\u09a8\u09be\u09b8"
     ],
@@ -99,9 +102,9 @@
     "qs:source":"US Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"78",
     "statoids:area_mi":"30",
     "statoids:as_of_date":"2010-04-01",
@@ -140,9 +143,6 @@
     ],
     "wof:id":102080321,
     "wof:label":"Municipio de Aguas Buenas",
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "eng"
@@ -151,11 +151,10 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1563236806,
+    "wof:lastmodified":1566600205,
     "wof:name":"Aguas Buenas",
     "wof:parent_id":85687331,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"Municipio",
     "wof:population":28659,
     "wof:population_rank":7,

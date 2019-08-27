@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":243269.648753,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.04843,18.452208,-66.04843,18.452208",
     "geom:latitude":18.452208,
     "geom:longitude":-66.04843,
     "gn:id":"",
     "iso:country":"PR",
+    "lbl:bbox":"-66.05343,18.447208,-66.04343,18.457208",
     "lbl:latitude":18.452208,
     "lbl:longitude":-66.04843,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.451252,
     "mps:longitude":-66.048399,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
     "name:spa_x_preferred":[
         "Park Boulevard",
         "Bedford Park Boulevard\u2013Lehman College"
-    ],
-    "name:unk_x_variant":[
-        "Park Boulevard"
     ],
     "qs:gn_adm0_cc":"PR",
     "qs:gn_id":0,
@@ -67,19 +66,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         101919427,
         136253057,
-        102080441
+        102080441,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24550958,
-        "qs:id":1330221
+        "qs_pg:id":1330221
     },
     "wof:country":"PR",
     "wof:geomhash":"9f8b28c0bfb42ef3d8c1f12c3f07e7c6",
@@ -99,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531871144,
+    "wof:lastmodified":1566600228,
     "wof:name":"Park Boulevard",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

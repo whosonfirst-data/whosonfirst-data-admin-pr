@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-67.01101,18.32023,-66.97101,18.36023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310042855,
-    "wof:lastmodified":1537083526,
+    "wof:lastmodified":1566600300,
     "wof:name":"Barriada Chinto Rodon",
     "wof:parent_id":102080411,
     "wof:placetype":"locality",

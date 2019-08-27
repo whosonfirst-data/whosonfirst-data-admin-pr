@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-67.15518,18.18468,-67.11518,18.22468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Paris"
     ],
@@ -764,7 +768,7 @@
         }
     ],
     "wof:id":1293329207,
-    "wof:lastmodified":1564216685,
+    "wof:lastmodified":1566600243,
     "wof:name":"Paris",
     "wof:parent_id":102080311,
     "wof:placetype":"locality",

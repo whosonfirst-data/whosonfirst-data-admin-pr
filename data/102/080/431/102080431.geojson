@@ -21,10 +21,13 @@
     ],
     "lbl:latitude":18.131798,
     "lbl:longitude":-66.265381,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.131798,
     "mps:longitude":-66.265381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Aibonito"
     ],
@@ -102,9 +105,9 @@
     "qs:source":"US Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"81",
     "statoids:area_mi":"31",
     "statoids:as_of_date":"2010-04-01",
@@ -143,9 +146,6 @@
     ],
     "wof:id":102080431,
     "wof:label":"Municipio de Aibonito",
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "eng"
@@ -154,11 +154,10 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1563236783,
+    "wof:lastmodified":1566600193,
     "wof:name":"Aibonito",
     "wof:parent_id":85687331,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"Municipio",
     "wof:population":25900,
     "wof:population_rank":7,

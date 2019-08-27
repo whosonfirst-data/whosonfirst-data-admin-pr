@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-67.16768,18.16468,-67.12768,18.20468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Miguel"
     ],
@@ -149,7 +153,7 @@
         }
     ],
     "wof:id":1243207009,
-    "wof:lastmodified":1564217039,
+    "wof:lastmodified":1566600382,
     "wof:name":"San Miguel",
     "wof:parent_id":102080311,
     "wof:placetype":"locality",

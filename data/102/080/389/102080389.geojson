@@ -21,10 +21,13 @@
     ],
     "lbl:latitude":17.98878,
     "lbl:longitude":-65.873696,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":17.98878,
     "mps:longitude":-65.873696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cc\u09a8\u09be\u09ac\u09cb"
     ],
@@ -84,9 +87,9 @@
     "qs:source":"US Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"55",
     "statoids:area_mi":"21",
     "statoids:as_of_date":"2010-04-01",
@@ -125,9 +128,6 @@
     ],
     "wof:id":102080389,
     "wof:label":"Municipio de Maunabo",
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "eng"
@@ -136,11 +136,10 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1563236804,
+    "wof:lastmodified":1566600203,
     "wof:name":"Maunabo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"Municipio",
     "wof:population":12225,
     "wof:population_rank":6,

@@ -21,10 +21,13 @@
     ],
     "lbl:latitude":18.373045,
     "lbl:longitude":-66.556601,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.373045,
     "mps:longitude":-66.556601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Florida"
     ],
@@ -558,9 +561,9 @@
     "qs:source":"US Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"39",
     "statoids:area_mi":"15",
     "statoids:as_of_date":"2010-04-01",
@@ -597,9 +600,6 @@
     ],
     "wof:id":102080343,
     "wof:label":"Municipio de Florida",
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "eng"
@@ -608,11 +608,10 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1564216577,
+    "wof:lastmodified":1566600205,
     "wof:name":"Florida",
     "wof:parent_id":85687331,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"Municipio",
     "wof:population":12680,
     "wof:population_rank":6,

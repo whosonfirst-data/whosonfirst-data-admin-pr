@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3095731.716843,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.014099,18.336277,-66.014099,18.336277",
     "geom:latitude":18.336277,
     "geom:longitude":-66.014099,
     "gn:elevation":22,
     "iso:country":"PR",
+    "lbl:bbox":"-66.019099,18.331277,-66.009099,18.341277",
     "lbl:latitude":18.336277,
     "lbl:longitude":-66.014099,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.334887,
     "mps:longitude":-66.015419,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Pedro Regalado Diaz"
-    ],
-    "name:unk_x_variant":[
         "Pedro Regalado Diaz"
     ],
     "qs:gn_adm0_cc":"PR",
@@ -58,19 +57,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         136253057,
-        102080361
+        102080361,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566664,
         "gp:id":24551229,
-        "qs:id":466564
+        "qs_pg:id":466564
     },
     "wof:country":"PR",
     "wof:geomhash":"01303fb9874260c53af0094c9016f103",
@@ -90,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531871177,
+    "wof:lastmodified":1566600226,
     "wof:name":"Pedro Regalado Diaz",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

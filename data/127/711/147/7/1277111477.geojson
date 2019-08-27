@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-65.71238,18.3344,-65.67238,18.3744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Borras"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1277111477,
-    "wof:lastmodified":1564216748,
+    "wof:lastmodified":1566600262,
     "wof:name":"Borras",
     "wof:parent_id":102080339,
     "wof:placetype":"locality",

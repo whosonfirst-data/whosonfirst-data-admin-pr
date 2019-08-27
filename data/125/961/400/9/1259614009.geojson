@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-67.05073,18.16523,-67.01073,18.20523",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Las Vegas"
     ],
@@ -446,7 +450,7 @@
         }
     ],
     "wof:id":1259614009,
-    "wof:lastmodified":1564217062,
+    "wof:lastmodified":1566600391,
     "wof:name":"Las Vegas",
     "wof:parent_id":102080311,
     "wof:placetype":"locality",

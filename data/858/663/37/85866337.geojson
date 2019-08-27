@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8717371.562723,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.121939,18.349175,-66.121939,18.349175",
     "geom:latitude":18.349175,
     "geom:longitude":-66.121939,
     "gn:elevation":46,
     "iso:country":"PR",
+    "lbl:bbox":"-66.126939,18.344175,-66.116939,18.354175",
     "lbl:latitude":18.349175,
     "lbl:longitude":-66.121939,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.343939,
     "mps:longitude":-66.140393,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "name:spa_x_preferred":[
         "Sierra Berdecia",
         "Mar\u00eda Teresa Bab\u00edn Cort\u00e9s"
-    ],
-    "name:unk_x_variant":[
-        "Sierra Berdecia"
     ],
     "qs:gn_adm0_cc":"PR",
     "qs:gn_fcode":"PPL",
@@ -59,19 +58,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         136253057,
-        102080365
+        102080365,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568321,
         "gp:id":24551124,
-        "qs:id":1002120
+        "qs_pg:id":1002120
     },
     "wof:country":"PR",
     "wof:geomhash":"010730d48fcd6e1a4d1fd69c505eeda1",
@@ -91,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531871170,
+    "wof:lastmodified":1566600227,
     "wof:name":"Sierra Berdecia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

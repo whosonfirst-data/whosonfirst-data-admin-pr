@@ -21,10 +21,13 @@
     ],
     "lbl:latitude":18.088289,
     "lbl:longitude":-66.863161,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.088289,
     "mps:longitude":-66.863161,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09af\u09bc\u09be\u0989\u0995\u09cb"
     ],
@@ -93,9 +96,9 @@
     "qs:source":"US Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"177",
     "statoids:area_mi":"68",
     "statoids:as_of_date":"2010-04-01",
@@ -134,9 +137,6 @@
     ],
     "wof:id":102080397,
     "wof:label":"Municipio de Yauco",
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "eng"
@@ -145,11 +145,10 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1563236777,
+    "wof:lastmodified":1566600191,
     "wof:name":"Yauco",
     "wof:parent_id":85687331,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"Municipio",
     "wof:population":42043,
     "wof:population_rank":7,

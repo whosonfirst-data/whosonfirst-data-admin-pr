@@ -9,18 +9,20 @@
     "geom:bbox":"-67.125033,18.38633,-67.103138,18.407262",
     "geom:latitude":18.397066,
     "geom:longitude":-67.11543,
-    "geonames:id":"7276372,4566270",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4964,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"7276372,4566270",
     "gn:population":4964,
     "iso:country":"PR",
     "lbl:latitude":18.39547,
     "lbl:longitude":-67.115267,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.39547,
     "mps:longitude":-67.115267,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0643\u0627"
     ],
@@ -132,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "The Literary City"
     ],
     "name:urd_x_preferred":[
@@ -186,7 +188,7 @@
     "qs_pg:woe_id":161451,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":841,
     "wof:belongsto":[
@@ -200,7 +202,6 @@
     "wof:concordances":{
         "gn:id":4566270,
         "gp:id":161451,
-        "qs:id":266484,
         "qs_pg:id":266484,
         "wd:id":"Q2288079",
         "wk:page":"Moca, Puerto Rico"
@@ -219,7 +220,7 @@
         }
     ],
     "wof:id":101919385,
-    "wof:lastmodified":1563237145,
+    "wof:lastmodified":1566600325,
     "wof:name":"Moca",
     "wof:parent_id":102080423,
     "wof:placetype":"locality",

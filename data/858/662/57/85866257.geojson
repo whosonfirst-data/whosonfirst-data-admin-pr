@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3192469.312603,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.073215,18.422146,-66.073215,18.422146",
     "geom:latitude":18.422146,
     "geom:longitude":-66.073215,
     "gn:id":"",
     "iso:country":"PR",
+    "lbl:bbox":"-66.078215,18.417146,-66.068215,18.427146",
     "lbl:latitude":18.422146,
     "lbl:longitude":-66.073215,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.427024,
     "mps:longitude":-66.081369,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Industrial Tres Monjitas"
-    ],
-    "name:unk_x_variant":[
         "Industrial Tres Monjitas"
     ],
     "qs:gn_adm0_cc":"PR",
@@ -57,19 +56,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         101919427,
         136253057,
-        102080441
+        102080441,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24550948,
-        "qs:id":1064850
+        "qs_pg:id":1064850
     },
     "wof:country":"PR",
     "wof:geomhash":"f54bd54ef01c14619c325170aa42dbdd",
@@ -89,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531871142,
+    "wof:lastmodified":1566600228,
     "wof:name":"Industrial Tres Monjitas",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

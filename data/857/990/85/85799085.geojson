@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2975895.019751,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-8.637609,41.147392,-8.637609,41.147392",
     "geom:latitude":41.147392,
     "geom:longitude":-8.637609,
     "iso:country":"PR",
+    "lbl:bbox":"-8.642609,41.142392,-8.632609,41.152392",
     "lbl:latitude":41.147392,
     "lbl:longitude":-8.637609,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.140673,
     "mps:longitude":-8.640968,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:por_x_preferred":[
-        "Ponte da Arrabi"
-    ],
-    "name:unk_x_variant":[
         "Ponte da Arrabi"
     ],
     "qs:gn_adm0_cc":"PT",
@@ -57,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101752093,
@@ -83,7 +82,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531861975,
+    "wof:lastmodified":1566600225,
     "wof:name":"Ponte da Arrabi",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",

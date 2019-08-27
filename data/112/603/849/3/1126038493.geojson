@@ -9,15 +9,18 @@
     "geom:bbox":"-66.10572,18.46633,-66.10572,18.46633",
     "geom:latitude":18.46633,
     "geom:longitude":-66.10572,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPLC",
-    "gn:gn_pop":418140,
+    "gn:country":"PR",
+    "gn:fcode":"PPLC",
     "gn:population":418140,
     "iso:country":"PR",
+    "lbl:bbox":"-66.12572,18.44633,-66.08572,18.48633",
     "lbl:latitude":18.46633,
     "lbl:longitude":-66.10572,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "San Juan"
@@ -280,7 +283,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint Iuan"
     ],
     "name:urd_x_preferred":[
@@ -331,7 +334,7 @@
     "qs_pg:qs_id":98631,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -361,7 +364,7 @@
         }
     ],
     "wof:id":1126038493,
-    "wof:lastmodified":1563237210,
+    "wof:lastmodified":1566600347,
     "wof:name":"San Juan",
     "wof:parent_id":102080441,
     "wof:placetype":"locality",

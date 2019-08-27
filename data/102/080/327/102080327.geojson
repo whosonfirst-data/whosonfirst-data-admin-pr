@@ -21,10 +21,13 @@
     ],
     "lbl:latitude":17.990439,
     "lbl:longitude":-67.036514,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":17.990439,
     "mps:longitude":-67.036514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Lajas"
     ],
@@ -66,9 +69,9 @@
     "qs:source":"US Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"155",
     "statoids:area_mi":"60",
     "statoids:as_of_date":"2010-04-01",
@@ -106,9 +109,6 @@
     ],
     "wof:id":102080327,
     "wof:label":"Municipio de Lajas",
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "eng"
@@ -117,11 +117,10 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1564216574,
+    "wof:lastmodified":1566600202,
     "wof:name":"Lajas",
     "wof:parent_id":85687331,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"Municipio",
     "wof:population":25753,
     "wof:population_rank":7,

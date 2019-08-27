@@ -5,17 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3726303.097555,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.073817,18.442804,-66.073817,18.442804",
     "geom:latitude":18.442804,
     "geom:longitude":-66.073817,
+    "gn:country":"PR",
     "gn:elevation":7,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PR",
+    "lbl:bbox":"-66.078817,18.437804,-66.068817,18.447804",
     "lbl:latitude":18.442804,
     "lbl:longitude":-66.073817,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.441105,
     "mps:longitude":-66.076504,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Tras Talleres"
-    ],
-    "name:unk_x_variant":[
         "Tras Talleres"
     ],
     "qs:gn_adm0_cc":"PR",
@@ -81,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
         102191575,
@@ -94,7 +93,6 @@
     "wof:concordances":{
         "gn:id":4568439,
         "gp:id":24550947,
-        "qs:id":1193300,
         "qs_pg:id":1193300
     },
     "wof:country":"PR",
@@ -115,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379422,
+    "wof:lastmodified":1566600229,
     "wof:name":"Tras Talleres",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

@@ -9,22 +9,24 @@
     "geom:bbox":"-66.191291,18.418329,-66.169322,18.437593",
     "geom:latitude":18.427296,
     "geom:longitude":-66.180888,
-    "geonames:id":"4568023,7274998",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6247,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"4568023,7274998",
     "gn:population":6247,
     "iso:country":"PR",
     "lbl:latitude":18.42648,
     "lbl:longitude":-66.180721,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.42648,
     "mps:longitude":-66.180721,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Sabana Seca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sabana Seco"
     ],
     "qs:a0":"Puerto Rico",
@@ -63,7 +65,7 @@
     "qs_pg:woe_id":161655,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101919065,
-    "wof:lastmodified":1564216901,
+    "wof:lastmodified":1566600320,
     "wof:name":"Sabana Seca",
     "wof:parent_id":102080329,
     "wof:placetype":"locality",

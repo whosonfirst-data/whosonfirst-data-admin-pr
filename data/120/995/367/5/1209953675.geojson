@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.95091,17.94976,-66.91091,17.98976",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209953675,
-    "wof:lastmodified":1536380805,
+    "wof:lastmodified":1566600272,
     "wof:name":"Guanica Zona Urbana",
     "wof:parent_id":102080429,
     "wof:placetype":"locality",

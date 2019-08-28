@@ -9,14 +9,17 @@
     "geom:bbox":"-66.248649,18.056801,-66.212213,18.077122",
     "geom:latitude":18.068732,
     "geom:longitude":-66.233898,
-    "geonames:id":"4568527,7275013",
+    "gn:id":"4568527,7275013",
     "iso:country":"PR",
     "lbl:latitude":18.065971,
     "lbl:longitude":-66.235408,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.065971,
     "mps:longitude":-66.235408,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aar_x_preferred":[
         "V\u00e1squez"
     ],
@@ -675,7 +678,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":621,
     "wof:belongsto":[
         85633729,
@@ -703,7 +706,7 @@
         }
     ],
     "wof:id":101919425,
-    "wof:lastmodified":1563237121,
+    "wof:lastmodified":1566600318,
     "wof:name":"V\u00e1zquez",
     "wof:parent_id":102080337,
     "wof:placetype":"locality",

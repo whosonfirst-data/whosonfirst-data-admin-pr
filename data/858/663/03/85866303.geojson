@@ -11,8 +11,10 @@
     "geom:longitude":-66.073868,
     "gn:id":"",
     "iso:country":"PR",
+    "lbl:bbox":"-66.078868,18.41058,-66.068868,18.42058",
     "lbl:latitude":18.41558,
     "lbl:longitude":-66.073868,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.414559,
     "mps:longitude":-66.076591,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Residencial Las Casas"
     ],
     "name:spa_x_preferred":[
-        "Residencial Nemesio Canales"
-    ],
-    "name:unk_x_variant":[
         "Residencial Nemesio Canales"
     ],
     "qs:gn_adm0_cc":"PR",
@@ -60,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":579,
     "wof:belongsto":[
         85633729,
@@ -73,7 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24551023,
-        "qs:id":1318382,
+        "qs_pg:id":1318382,
         "wd:id":"Q7315422"
     },
     "wof:country":"PR",
@@ -94,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563236861,
+    "wof:lastmodified":1566600226,
     "wof:name":"Residencial Nemesio Canales",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

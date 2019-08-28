@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-65.84266,18.13357,-65.80266,18.17357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jardines"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243300879,
-    "wof:lastmodified":1537683115,
+    "wof:lastmodified":1566600369,
     "wof:name":"Jardines de Humacao",
     "wof:parent_id":102080351,
     "wof:placetype":"locality",

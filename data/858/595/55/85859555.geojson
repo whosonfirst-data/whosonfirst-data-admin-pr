@@ -5,17 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3728942.60508,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.095614,18.463492,-66.095614,18.463492",
     "geom:latitude":18.463492,
     "geom:longitude":-66.095614,
+    "gn:country":"PR",
     "gn:elevation":3,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PR",
+    "lbl:bbox":"-66.100614,18.458492,-66.090614,18.468492",
     "lbl:latitude":18.463492,
     "lbl:longitude":-66.095614,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.452615,
     "mps:longitude":-66.103252,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Puerta de Tierra"
-    ],
-    "name:unk_x_variant":[
         "Puerta de Tierra"
     ],
     "qs:gn_adm0_cc":"PR",
@@ -80,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":156,
     "wof:belongsto":[
         85633729,
@@ -94,7 +93,6 @@
     "wof:concordances":{
         "gn:id":4566978,
         "gp:id":15021137,
-        "qs:id":1149767,
         "qs_pg:id":1149767,
         "wd:id":"Q7258533"
     },
@@ -116,7 +114,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379422,
+    "wof:lastmodified":1566600226,
     "wof:name":"Puerta de Tierra",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

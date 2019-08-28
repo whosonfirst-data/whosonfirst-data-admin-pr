@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-65.66599,18.28357,-65.62599,18.32357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Fortuna"
     ],
@@ -203,7 +207,7 @@
         }
     ],
     "wof:id":1310436555,
-    "wof:lastmodified":1564216855,
+    "wof:lastmodified":1566600298,
     "wof:name":"Fortuna",
     "wof:parent_id":102080287,
     "wof:placetype":"locality",

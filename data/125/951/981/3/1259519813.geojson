@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.99323,18.05996,-66.95323,18.09996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Antonio"
     ],
@@ -383,7 +387,7 @@
         }
     ],
     "wof:id":1259519813,
-    "wof:lastmodified":1564217071,
+    "wof:lastmodified":1566600395,
     "wof:name":"San Antonio",
     "wof:parent_id":102080395,
     "wof:placetype":"locality",

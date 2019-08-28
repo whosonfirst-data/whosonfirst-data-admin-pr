@@ -9,14 +9,17 @@
     "geom:bbox":"-66.959436,17.959294,-66.901292,17.97986",
     "geom:latitude":17.969756,
     "geom:longitude":-66.93091,
-    "geonames:id":"4565090,7276428",
+    "gn:id":"4565090,7276428",
     "iso:country":"PR",
     "lbl:latitude":17.966508,
     "lbl:longitude":-66.935761,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.966508,
     "mps:longitude":-66.935761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09a8\u09bf\u0995\u09be"
     ],
@@ -90,7 +93,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101919227,
-    "wof:lastmodified":1563237120,
+    "wof:lastmodified":1566600318,
     "wof:name":"Gu\u00e1nica",
     "wof:parent_id":102080429,
     "wof:placetype":"locality",

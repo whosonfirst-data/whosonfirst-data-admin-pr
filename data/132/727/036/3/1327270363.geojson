@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-65.98489,18.17551,-65.94489,18.21551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0632\u0641\u0644\u062a"
     ],
@@ -179,7 +183,7 @@
         }
     ],
     "wof:id":1327270363,
-    "wof:lastmodified":1564216561,
+    "wof:lastmodified":1566600188,
     "wof:name":"Roosevelt",
     "wof:parent_id":102080309,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5722044.510471,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.116078,18.419572,-66.116078,18.419572",
     "geom:latitude":18.419572,
     "geom:longitude":-66.116078,
     "gn:id":"",
     "iso:country":"PR",
+    "lbl:bbox":"-66.121078,18.414572,-66.111078,18.424572",
     "lbl:latitude":18.419572,
     "lbl:longitude":-66.116078,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.424896,
     "mps:longitude":-66.123915,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Zenon Diaz Valcarcel"
-    ],
-    "name:unk_x_variant":[
         "Zenon Diaz Valcarcel"
     ],
     "qs:gn_adm0_cc":"PR",
@@ -57,19 +56,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         101919293,
         136253057,
-        102080365
+        102080365,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24550938,
-        "qs:id":1121239
+        "qs_pg:id":1121239
     },
     "wof:country":"PR",
     "wof:geomhash":"aa13fb64bce82f20a78ffa559ac141d8",
@@ -89,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531871137,
+    "wof:lastmodified":1566600229,
     "wof:name":"Zenon Diaz Valcarcel",
     "wof:parent_id":101919293,
     "wof:placetype":"neighbourhood",

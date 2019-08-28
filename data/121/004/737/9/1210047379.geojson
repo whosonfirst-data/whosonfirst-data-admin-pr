@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.05711,18.34689,-66.01711,18.38689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Fairview"
     ],
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":1210047379,
-    "wof:lastmodified":1564216795,
+    "wof:lastmodified":1566600280,
     "wof:name":"Fairview",
     "wof:parent_id":102080441,
     "wof:placetype":"locality",

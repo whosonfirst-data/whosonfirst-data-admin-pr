@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-65.93072,18.19023,-65.89072,18.23023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Virginia Valley"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1310340245,
-    "wof:lastmodified":1564216863,
+    "wof:lastmodified":1566600300,
     "wof:name":"Virginia Valley",
     "wof:parent_id":102080301,
     "wof:placetype":"locality",

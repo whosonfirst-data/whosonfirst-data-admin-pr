@@ -9,14 +9,17 @@
     "geom:bbox":"-65.747753,18.231604,-65.737348,18.244223",
     "geom:latitude":18.238169,
     "geom:longitude":-65.743167,
-    "geonames:id":"4564149,7275055",
+    "gn:id":"4564149,7275055",
     "iso:country":"PR",
     "lbl:latitude":18.238246,
     "lbl:longitude":-65.743167,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.238246,
     "mps:longitude":-65.743167,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Duque"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":131,
     "wof:belongsto":[
         85633729,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101919397,
-    "wof:lastmodified":1564216896,
+    "wof:lastmodified":1566600317,
     "wof:name":"Duque",
     "wof:parent_id":102080355,
     "wof:placetype":"locality",

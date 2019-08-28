@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-67.15407,17.96496,-67.11407,18.00496",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0644\u0627\u0633 \u067e\u0627\u0644\u0645\u0627\u0633"
     ],
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":1343692807,
-    "wof:lastmodified":1564216606,
+    "wof:lastmodified":1566600215,
     "wof:name":"Las Palmas",
     "wof:parent_id":102080409,
     "wof:placetype":"locality",

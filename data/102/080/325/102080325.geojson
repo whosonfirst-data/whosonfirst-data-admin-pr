@@ -21,10 +21,13 @@
     ],
     "lbl:latitude":18.460541,
     "lbl:longitude":-66.92974,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.460541,
     "mps:longitude":-66.92974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u06a9\u0648\u0626\u0628\u0631\u0627\u062f\u06cc\u0644\u0627\u0633"
     ],
@@ -90,9 +93,9 @@
     "qs:source":"US Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"59",
     "statoids:area_mi":"23",
     "statoids:as_of_date":"2010-04-01",
@@ -131,9 +134,6 @@
     ],
     "wof:id":102080325,
     "wof:label":"Municipio de Quebradillas",
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "eng"
@@ -142,11 +142,10 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1563236789,
+    "wof:lastmodified":1566600195,
     "wof:name":"Quebradillas",
     "wof:parent_id":85687331,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"Municipio",
     "wof:population":25919,
     "wof:population_rank":7,

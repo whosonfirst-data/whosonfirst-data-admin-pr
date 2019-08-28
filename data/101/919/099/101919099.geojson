@@ -9,14 +9,17 @@
     "geom:bbox":"-66.116972,18.171427,-66.101719,18.185763",
     "geom:latitude":18.178136,
     "geom:longitude":-66.109726,
-    "geonames:id":"4562832,7275026",
+    "gn:id":"4562832,7275026",
     "iso:country":"PR",
     "lbl:latitude":18.178501,
     "lbl:longitude":-66.109842,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.178501,
     "mps:longitude":-66.109842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0627\u0645\u0648\u0646"
     ],
@@ -138,7 +141,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101919099,
-    "wof:lastmodified":1563237136,
+    "wof:lastmodified":1566600321,
     "wof:name":"Bayam\u00f3n",
     "wof:parent_id":102080345,
     "wof:placetype":"locality",

@@ -21,10 +21,13 @@
     ],
     "lbl:latitude":18.364357,
     "lbl:longitude":-66.234224,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.364357,
     "mps:longitude":-66.234224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u099f\u09f1\u09be \u0986\u09b2\u099f\u09be"
     ],
@@ -90,9 +93,9 @@
     "qs:source":"US Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"70",
     "statoids:area_mi":"27",
     "statoids:as_of_date":"2010-04-01",
@@ -131,9 +134,6 @@
     ],
     "wof:id":102080359,
     "wof:label":"Municipio de Toa Alta",
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "eng"
@@ -142,11 +142,10 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1563236790,
+    "wof:lastmodified":1566600196,
     "wof:name":"Toa Alta",
     "wof:parent_id":85687331,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"Municipio",
     "wof:population":74066,
     "wof:population_rank":8,

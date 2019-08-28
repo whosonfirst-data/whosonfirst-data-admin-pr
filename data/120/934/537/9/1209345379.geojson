@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.9874,18.41383,-66.9474,18.45383",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Villa de Ponce"
     ],
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209345379,
-    "wof:lastmodified":1537683118,
+    "wof:lastmodified":1566600275,
     "wof:name":"Pueblito de Ponce",
     "wof:parent_id":85633729,
     "wof:placetype":"locality",

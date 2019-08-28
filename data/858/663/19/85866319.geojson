@@ -11,8 +11,10 @@
     "geom:longitude":-66.051796,
     "gn:elevation":16,
     "iso:country":"PR",
+    "lbl:bbox":"-66.056796,18.398683,-66.046796,18.408683",
     "lbl:latitude":18.403683,
     "lbl:longitude":-66.051796,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.404778,
     "mps:longitude":-66.051506,
     "mz:hierarchy_label":0,
@@ -45,9 +47,6 @@
     "name:spa_x_variant":[
         "L\u00f3pez Sicard\u00f3"
     ],
-    "name:unk_x_variant":[
-        "Lopez Sicardo"
-    ],
     "qs:gn_adm0_cc":"PR",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":4568220,
@@ -76,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
         102191575,
@@ -89,7 +88,7 @@
     "wof:concordances":{
         "gn:id":4566044,
         "gp:id":24551047,
-        "qs:id":1193389,
+        "qs_pg:id":1193389,
         "wd:id":"Q6711311",
         "wk:page":"L\u00f3pez Sicard\u00f3 (Oriente)"
     },
@@ -111,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563236864,
+    "wof:lastmodified":1566600227,
     "wof:name":"Lopez Sicardo",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

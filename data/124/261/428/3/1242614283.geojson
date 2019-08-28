@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.8749,18.23495,-66.8349,18.27495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Milagros"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1242614283,
-    "wof:lastmodified":1564217009,
+    "wof:lastmodified":1566600374,
     "wof:name":"Milagros",
     "wof:parent_id":102080379,
     "wof:placetype":"locality",

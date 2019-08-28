@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3345223.153747,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.047974,18.367559,-66.047974,18.367559",
     "geom:latitude":18.367559,
     "geom:longitude":-66.047974,
     "gn:elevation":677,
     "iso:country":"PR",
+    "lbl:bbox":"-66.052974,18.362559,-66.042974,18.372559",
     "lbl:latitude":18.367559,
     "lbl:longitude":-66.047974,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.365128,
     "mps:longitude":-66.048063,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Villa Olga"
-    ],
-    "name:unk_x_variant":[
         "Villa Olga"
     ],
     "qs:gn_adm0_cc":"PR",
@@ -58,20 +57,20 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         101919427,
         136253057,
-        102080441
+        102080441,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568654,
         "gp:id":24551185,
-        "qs:id":1103611
+        "qs_pg:id":1103611
     },
     "wof:country":"PR",
     "wof:geomhash":"36bd14974f64aa1829aae50b8101d9ed",
@@ -91,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531871174,
+    "wof:lastmodified":1566600226,
     "wof:name":"Villa Olga",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

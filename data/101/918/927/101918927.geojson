@@ -9,14 +9,17 @@
     "geom:bbox":"-66.231173,18.348628,-66.206427,18.375432",
     "geom:latitude":18.360958,
     "geom:longitude":-66.218403,
-    "geonames:id":"7274961,4566471,4566470",
+    "gn:id":"7274961,4566471,4566470",
     "iso:country":"PR",
     "lbl:latitude":18.361277,
     "lbl:longitude":-66.220469,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.361277,
     "mps:longitude":-66.220469,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "P\u00e1jaros"
     ],
@@ -60,7 +63,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
         85633729,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101918927,
-    "wof:lastmodified":1563237110,
+    "wof:lastmodified":1566600314,
     "wof:name":"P\u00e1jaros",
     "wof:parent_id":102080359,
     "wof:placetype":"locality",

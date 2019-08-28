@@ -9,14 +9,17 @@
     "geom:bbox":"-66.258109,18.378001,-66.243263,18.395928",
     "geom:latitude":18.388352,
     "geom:longitude":-66.25032,
-    "geonames:id":"4568403,7276390",
+    "gn:id":"4568403,7276390",
     "iso:country":"PR",
     "lbl:latitude":18.389366,
     "lbl:longitude":-66.2492,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.389366,
     "mps:longitude":-66.2492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09f1\u09be \u0986\u09b2\u099f\u09be"
     ],
@@ -87,7 +90,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101918923,
-    "wof:lastmodified":1563237101,
+    "wof:lastmodified":1566600310,
     "wof:name":"Toa Alta",
     "wof:parent_id":102080359,
     "wof:placetype":"locality",

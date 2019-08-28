@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.61045,17.9883,-66.57045,18.0283",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cooperativa Villa Flor es",
         "Villas Flores"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1277112779,
-    "wof:lastmodified":1537683120,
+    "wof:lastmodified":1566600262,
     "wof:name":"Villa Flores",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.21128,18.37967,-66.17128,18.41967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Valencia"
     ],
@@ -413,7 +417,7 @@
         }
     ],
     "wof:id":1360016553,
-    "wof:lastmodified":1564216878,
+    "wof:lastmodified":1566600304,
     "wof:name":"Valencia",
     "wof:parent_id":102080443,
     "wof:placetype":"locality",

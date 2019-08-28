@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-65.73322,18.35467,-65.69322,18.39467",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259620217,
-    "wof:lastmodified":1536661711,
+    "wof:lastmodified":1566600387,
     "wof:name":"Sandy Hills",
     "wof:parent_id":102080339,
     "wof:placetype":"locality",

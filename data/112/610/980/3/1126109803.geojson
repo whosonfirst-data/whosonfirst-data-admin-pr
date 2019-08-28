@@ -9,20 +9,20 @@
     "geom:bbox":"-65.98378,18.37995,-65.98378,18.37995",
     "geom:latitude":18.37995,
     "geom:longitude":-65.98378,
+    "gn:country":"PR",
     "gn:elevation":23,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PR",
+    "lbl:bbox":"-65.98878,18.37495,-65.97878,18.38495",
     "lbl:latitude":18.37995,
     "lbl:longitude":-65.98378,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
-        "Bolling Hills"
-    ],
-    "name:unk_x_variant":[
         "Bolling Hills"
     ],
     "qs_pg:aaroncc":"PR",
@@ -46,7 +46,7 @@
     "qs_pg:woe_adm0":23424935,
     "qs_pg:woe_id":24551235,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424935,
     "woe:name_adm0":"Puerto Rico",
     "woe:name_adm1":"Carolina",
@@ -63,7 +63,6 @@
     "wof:concordances":{
         "gn:id":4567987,
         "gp:id":24551235,
-        "qs:id":888275,
         "qs_pg:id":888275
     },
     "wof:country":"PR",
@@ -82,7 +81,7 @@
         }
     ],
     "wof:id":1126109803,
-    "wof:lastmodified":1534379443,
+    "wof:lastmodified":1566600345,
     "wof:name":"Bolling Hills",
     "wof:parent_id":101919197,
     "wof:placetype":"neighbourhood",

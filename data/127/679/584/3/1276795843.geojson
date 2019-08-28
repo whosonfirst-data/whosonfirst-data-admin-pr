@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.11905,17.9508,-66.07905,17.9908",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Elena"
     ],
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":1276795843,
-    "wof:lastmodified":1564216726,
+    "wof:lastmodified":1566600256,
     "wof:name":"Santa Elena",
     "wof:parent_id":102080373,
     "wof:placetype":"locality",

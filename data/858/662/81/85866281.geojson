@@ -5,17 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1965640.958052,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-65.98114,18.430107,-65.98114,18.430107",
     "geom:latitude":18.430107,
     "geom:longitude":-65.98114,
+    "gn:country":"PR",
     "gn:elevation":3,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PR",
+    "lbl:bbox":"-65.98614,18.425107,-65.97614,18.435107",
     "lbl:latitude":18.430107,
     "lbl:longitude":-65.98114,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.429713,
     "mps:longitude":-65.978193,
     "mz:hierarchy_label":0,
@@ -30,8 +32,7 @@
     "name:spa_x_preferred":[
         "Vistamar"
     ],
-    "name:unk_x_variant":[
-        "Vistamar",
+    "name:und_x_variant":[
         "Bahia Vistamar"
     ],
     "qs:gn_adm0_cc":"PR",
@@ -82,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
         102191575,
@@ -95,7 +96,6 @@
     "wof:concordances":{
         "gn:id":4568721,
         "gp:id":24550975,
-        "qs:id":888274,
         "qs_pg:id":888274
     },
     "wof:country":"PR",
@@ -116,7 +116,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379427,
+    "wof:lastmodified":1566600229,
     "wof:name":"Vistamar",
     "wof:parent_id":101919197,
     "wof:placetype":"neighbourhood",

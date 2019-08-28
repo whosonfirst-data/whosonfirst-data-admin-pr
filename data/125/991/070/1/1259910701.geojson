@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-67.12935,18.00107,-67.08935,18.04107",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259910701,
-    "wof:lastmodified":1536739904,
+    "wof:lastmodified":1566600386,
     "wof:name":"Hacienda Desengano",
     "wof:parent_id":102080327,
     "wof:placetype":"locality",

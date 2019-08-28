@@ -9,18 +9,20 @@
     "geom:bbox":"-66.481326,18.32698,-66.462237,18.344649",
     "geom:latitude":18.334414,
     "geom:longitude":-66.470362,
-    "geonames:id":"4563773,7276419",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3256,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"4563773,7276419",
     "gn:population":3256,
     "iso:country":"PR",
     "lbl:latitude":18.334944,
     "lbl:longitude":-66.469425,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.334944,
     "mps:longitude":-66.469425,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09bf\u09af\u09bc\u09be\u09b2\u09c7\u09b8"
     ],
@@ -63,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0430\u043b\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Siales"
     ],
     "name:urd_x_preferred":[
@@ -114,7 +116,7 @@
     "qs_pg:woe_id":160813,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -127,7 +129,6 @@
     "wof:concordances":{
         "gn:id":4563773,
         "gp:id":160813,
-        "qs:id":489357,
         "qs_pg:id":489357,
         "wd:id":"Q2485522",
         "wk:page":"Ciales"
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":101919179,
-    "wof:lastmodified":1563237181,
+    "wof:lastmodified":1566600336,
     "wof:name":"Ciales",
     "wof:parent_id":102080317,
     "wof:placetype":"locality",

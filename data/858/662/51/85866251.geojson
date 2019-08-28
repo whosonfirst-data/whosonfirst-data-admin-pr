@@ -9,13 +9,15 @@
     "geom:bbox":"-66.069856,18.453499,-66.069856,18.453499",
     "geom:latitude":18.453499,
     "geom:longitude":-66.069856,
+    "gn:country":"PR",
     "gn:elevation":3,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PR",
+    "lbl:bbox":"-66.074856,18.448499,-66.064856,18.458499",
     "lbl:latitude":18.453499,
     "lbl:longitude":-66.069856,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.459553,
     "mps:longitude":-66.069566,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Condado"
     ],
     "name:spa_x_preferred":[
-        "Condado"
-    ],
-    "name:unk_x_variant":[
         "Condado"
     ],
     "qs:gn_adm0_cc":"PR",
@@ -83,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
         102191575,
@@ -96,7 +95,6 @@
     "wof:concordances":{
         "gn:id":4563965,
         "gp:id":24550946,
-        "qs:id":1193299,
         "qs_pg:id":1193299,
         "wd:id":"Q5159133",
         "wk:page":"Condado (Santurce)"
@@ -119,7 +117,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563236871,
+    "wof:lastmodified":1566600228,
     "wof:name":"Condado",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

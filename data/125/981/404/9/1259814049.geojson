@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.11195,18.39556,-66.07195,18.43556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259814049,
-    "wof:lastmodified":1536878563,
+    "wof:lastmodified":1566600396,
     "wof:name":"Puerto Nuevo Norte",
     "wof:parent_id":102080441,
     "wof:placetype":"locality",

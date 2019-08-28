@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.52166,18.05604,-66.48166,18.09604",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326660877,
-    "wof:lastmodified":1536798750,
+    "wof:lastmodified":1566600178,
     "wof:name":"Guayabal Comunidad",
     "wof:parent_id":102080415,
     "wof:placetype":"locality",

@@ -5,17 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2088546.203535,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.074707,18.407697,-66.074707,18.407697",
     "geom:latitude":18.407697,
     "geom:longitude":-66.074707,
+    "gn:country":"PR",
     "gn:elevation":7,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PR",
+    "lbl:bbox":"-66.079707,18.402697,-66.069707,18.412697",
     "lbl:latitude":18.407697,
     "lbl:longitude":-66.074707,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.406189,
     "mps:longitude":-66.07718,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Las Americas"
-    ],
-    "name:unk_x_variant":[
         "Las Americas"
     ],
     "qs:gn_adm0_cc":"PR",
@@ -81,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
         102191575,
@@ -94,7 +93,6 @@
     "wof:concordances":{
         "gn:id":4565915,
         "gp:id":24551025,
-        "qs:id":466561,
         "qs_pg:id":466561
     },
     "wof:country":"PR",
@@ -115,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379420,
+    "wof:lastmodified":1566600227,
     "wof:name":"Las Americas",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

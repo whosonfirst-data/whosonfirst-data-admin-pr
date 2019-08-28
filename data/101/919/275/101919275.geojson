@@ -9,18 +9,20 @@
     "geom:bbox":"-66.836636,18.467841,-66.810584,18.494642",
     "geom:latitude":18.483638,
     "geom:longitude":-66.822587,
-    "geonames:id":"7276433,4565346",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5622,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"7276433,4565346",
     "gn:population":5622,
     "iso:country":"PR",
     "lbl:latitude":18.487816,
     "lbl:longitude":-66.82275,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.487816,
     "mps:longitude":-66.82275,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b9\u09be\u09a4\u09bf\u09b2\u09cd\u09b2\u09cb"
     ],
@@ -63,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0442\u0456\u043b\u044c\u0439\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hatillo del Corazon"
     ],
     "name:urd_x_preferred":[
@@ -114,7 +116,7 @@
     "qs_pg:woe_id":161196,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1144,
     "wof:belongsto":[
@@ -128,7 +130,6 @@
     "wof:concordances":{
         "gn:id":4565346,
         "gp:id":161196,
-        "qs:id":433532,
         "qs_pg:id":433532,
         "wd:id":"Q2412723",
         "wk:page":"Hatillo, Puerto Rico"
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":101919275,
-    "wof:lastmodified":1563237130,
+    "wof:lastmodified":1566600320,
     "wof:name":"Hatillo",
     "wof:parent_id":102080381,
     "wof:placetype":"locality",

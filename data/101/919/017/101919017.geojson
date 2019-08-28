@@ -9,18 +9,20 @@
     "geom:bbox":"-67.166014,18.393491,-67.143849,18.463574",
     "geom:latitude":18.438007,
     "geom:longitude":-67.154763,
-    "geonames:id":"7276402,4562506",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":16073,
+    "gn:country":"PR",
+    "gn:fcode":"PPLA",
+    "gn:id":"7276402,4562506",
     "gn:population":16073,
     "iso:country":"PR",
     "lbl:latitude":18.449202,
     "lbl:longitude":-67.154594,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.449202,
     "mps:longitude":-67.154594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u0997\u09c1\u09f1\u09be\u09a1\u09bf\u09b2\u09be"
     ],
@@ -90,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0433\u0443\u0430\u0434\u0456\u043b\u044c\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guadiya"
     ],
     "name:urd_x_preferred":[
@@ -141,7 +143,7 @@
     "qs_pg:woe_id":160644,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -154,7 +156,6 @@
     "wof:concordances":{
         "gn:id":4562506,
         "gp:id":160644,
-        "qs:id":1082662,
         "qs_pg:id":1082662,
         "wd:id":"Q397826",
         "wk:page":"Aguadilla, Puerto Rico"
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":101919017,
-    "wof:lastmodified":1563237167,
+    "wof:lastmodified":1566600331,
     "wof:name":"Aguadilla",
     "wof:parent_id":102080275,
     "wof:placetype":"locality",

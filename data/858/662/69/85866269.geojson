@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6502664.794572,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.040082,18.450677,-66.040082,18.450677",
     "geom:latitude":18.450677,
     "geom:longitude":-66.040082,
     "gn:elevation":-1,
     "iso:country":"PR",
+    "lbl:bbox":"-66.045082,18.445677,-66.035082,18.455677",
     "lbl:latitude":18.450677,
     "lbl:longitude":-66.040082,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.45239,
     "mps:longitude":-66.037512,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Atlantic View"
-    ],
-    "name:unk_x_variant":[
         "Atlantic View"
     ],
     "qs:gn_adm0_cc":"PR",
@@ -58,20 +57,20 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         101919427,
         136253057,
-        102080441
+        102080441,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4562697,
         "gp:id":24550969,
-        "qs:id":224025
+        "qs_pg:id":224025
     },
     "wof:country":"PR",
     "wof:geomhash":"1598ed29b19ede5059281208a9a54927",
@@ -91,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531871147,
+    "wof:lastmodified":1566600228,
     "wof:name":"Atlantic View",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

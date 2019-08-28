@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.15205,18.19093,-66.11205,18.23093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259618303,
-    "wof:lastmodified":1536664595,
+    "wof:lastmodified":1566600392,
     "wof:name":"Santa Clara Comunidad",
     "wof:parent_id":102080321,
     "wof:placetype":"locality",

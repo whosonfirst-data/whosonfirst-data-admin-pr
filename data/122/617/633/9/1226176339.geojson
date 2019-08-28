@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.66545,18.01413,-66.62545,18.05413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Delicias"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1226176339,
-    "wof:lastmodified":1564217079,
+    "wof:lastmodified":1566600397,
     "wof:name":"Las Delicias",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

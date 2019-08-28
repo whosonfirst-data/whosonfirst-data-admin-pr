@@ -9,14 +9,17 @@
     "geom:bbox":"-66.09201,17.988816,-66.071599,18.001622",
     "geom:latitude":17.994008,
     "geom:longitude":-66.083355,
-    "geonames:id":"4563990,7275050",
+    "gn:id":"4563990,7275050",
     "iso:country":"PR",
     "lbl:latitude":17.993855,
     "lbl:longitude":-66.083202,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.993855,
     "mps:longitude":-66.083202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Coraz\u00f3n"
     ],
@@ -57,7 +60,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":125,
     "wof:belongsto":[
         85633729,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101919311,
-    "wof:lastmodified":1564216915,
+    "wof:lastmodified":1566600335,
     "wof:name":"Coraz\u00f3n",
     "wof:parent_id":102080373,
     "wof:placetype":"locality",

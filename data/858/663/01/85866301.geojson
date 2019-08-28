@@ -5,17 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4429617.837162,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.084454,18.394826,-66.084454,18.394826",
     "geom:latitude":18.394826,
     "geom:longitude":-66.084454,
+    "gn:country":"PR",
     "gn:elevation":36,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PR",
+    "lbl:bbox":"-66.089454,18.389826,-66.079454,18.399826",
     "lbl:latitude":18.394826,
     "lbl:longitude":-66.084454,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.388889,
     "mps:longitude":-66.082843,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "La Riviera"
-    ],
-    "name:unk_x_variant":[
         "La Riviera"
     ],
     "qs:gn_adm0_cc":"PR",
@@ -81,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
         102191575,
@@ -94,7 +93,6 @@
     "wof:concordances":{
         "gn:id":4565819,
         "gp:id":24551020,
-        "qs:id":1002114,
         "qs_pg:id":1002114
     },
     "wof:country":"PR",
@@ -115,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379425,
+    "wof:lastmodified":1566600227,
     "wof:name":"La Riviera",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

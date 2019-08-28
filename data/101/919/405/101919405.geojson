@@ -9,15 +9,18 @@
     "geom:bbox":"-66.879,18.019288,-66.84052,18.05092",
     "geom:latitude":18.034392,
     "geom:longitude":-66.861413,
-    "geonames:id":"4568917,7276399",
+    "gn:id":"4568917,7276399",
     "gn:population":20295,
     "iso:country":"PR",
     "lbl:latitude":18.032586,
     "lbl:longitude":-66.863306,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":18.032586,
     "mps:longitude":-66.863306,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09af\u09bc\u09be\u0989\u0995\u09cb"
     ],
@@ -66,7 +69,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u0443\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Coayuco"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +100,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":4568917,
         "gp:id":161836,
-        "qs:id":154524,
+        "qs_pg:id":154524,
         "wd:id":"Q368526",
         "wk:page":"Yauco, Puerto Rico"
     },
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101919405,
-    "wof:lastmodified":1563237171,
+    "wof:lastmodified":1566600332,
     "wof:name":"Yauco",
     "wof:parent_id":102080397,
     "wof:placetype":"locality",

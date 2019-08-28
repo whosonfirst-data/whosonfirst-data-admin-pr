@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-67.13995,18.12371,-67.09995,18.16371",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259419607,
-    "wof:lastmodified":1536950664,
+    "wof:lastmodified":1566600388,
     "wof:name":"Hormigueros Zona Urbana",
     "wof:parent_id":102080407,
     "wof:placetype":"locality",

@@ -9,18 +9,20 @@
     "geom:bbox":"-66.379056,18.062826,-66.341205,18.087252",
     "geom:latitude":18.07646,
     "geom:longitude":-66.363792,
-    "geonames:id":"4563811,7276421",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11940,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"4563811,7276421",
     "gn:population":11940,
     "iso:country":"PR",
     "lbl:latitude":18.077547,
     "lbl:longitude":-66.36351,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.077547,
     "mps:longitude":-66.36351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09af\u09bc\u09be\u09ae\u09cb"
     ],
@@ -63,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0430\u043c\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Blas de Cuam o"
     ],
     "name:urd_x_preferred":[
@@ -114,7 +116,7 @@
     "qs_pg:woe_id":160819,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -127,7 +129,6 @@
     "wof:concordances":{
         "gn:id":4563811,
         "gp:id":160819,
-        "qs:id":154495,
         "qs_pg:id":154495,
         "wd:id":"Q1942303"
     },
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":101918947,
-    "wof:lastmodified":1563237102,
+    "wof:lastmodified":1566600311,
     "wof:name":"Coamo",
     "wof:parent_id":102080279,
     "wof:placetype":"locality",

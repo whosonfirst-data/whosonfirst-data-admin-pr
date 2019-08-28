@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000177,
-    "geom:area_square_m":2073916.116186,
+    "geom:area_square_m":2073916.116182,
     "geom:bbox":"-65.641683,18.359653,-65.62065,18.378371",
     "geom:latitude":18.367627,
     "geom:longitude":-65.630317,
@@ -13,11 +13,14 @@
     "iso:country":"PR",
     "lbl:latitude":18.366398,
     "lbl:longitude":-65.630477,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.366398,
     "mps:longitude":-65.630477,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "P laya Croabas"
     ],
     "qs:a0":"Puerto Rico",
@@ -36,7 +39,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101918901,
-    "wof:lastmodified":1509998620,
+    "wof:lastmodified":1566600308,
     "wof:name":"Las Croabas",
     "wof:parent_id":102080287,
     "wof:placetype":"locality",

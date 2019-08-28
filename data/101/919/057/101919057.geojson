@@ -9,18 +9,20 @@
     "geom:bbox":"-66.070862,17.955724,-66.051343,17.984544",
     "geom:latitude":17.968852,
     "geom:longitude":-66.061339,
-    "geonames:id":"4562681,7276407",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7520,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"4562681,7276407",
     "gn:population":7520,
     "iso:country":"PR",
     "lbl:latitude":17.964699,
     "lbl:longitude":-66.06216,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":17.964699,
     "mps:longitude":-66.06216,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09cb\u09af\u09bc\u09cb"
     ],
@@ -118,7 +120,7 @@
     "qs_pg:woe_id":55870463,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1083,
     "wof:belongsto":[
@@ -132,7 +134,6 @@
     "wof:concordances":{
         "gn:id":4562681,
         "gp:id":55870463,
-        "qs:id":957569,
         "qs_pg:id":957569,
         "wd:id":"Q425678",
         "wk:page":"Arroyo, Puerto Rico"
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":101919057,
-    "wof:lastmodified":1563237174,
+    "wof:lastmodified":1566600333,
     "wof:name":"Arroyo",
     "wof:parent_id":102080285,
     "wof:placetype":"locality",

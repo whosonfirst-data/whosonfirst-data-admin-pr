@@ -9,18 +9,20 @@
     "geom:bbox":"-65.880247,18.159605,-65.86036,18.195862",
     "geom:latitude":18.178422,
     "geom:longitude":-65.87081,
-    "geonames:id":"4565980,7276365",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6655,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"4565980,7276365",
     "gn:population":6655,
     "iso:country":"PR",
     "lbl:latitude":18.179006,
     "lbl:longitude":-65.867343,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.179006,
     "mps:longitude":-65.867343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u09b8 \u09aa\u09bf\u09af\u09bc\u09c7\u09a1\u09cd\u09b0\u09be\u09b8"
     ],
@@ -60,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0441-\u041f'\u0454\u0434\u0440\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ribera de las Piedras"
     ],
     "name:urd_x_preferred":[
@@ -111,7 +113,7 @@
     "qs_pg:woe_id":161352,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -141,7 +143,7 @@
         }
     ],
     "wof:id":101919331,
-    "wof:lastmodified":1563237115,
+    "wof:lastmodified":1566600315,
     "wof:name":"Las Piedras",
     "wof:parent_id":102080391,
     "wof:placetype":"locality",

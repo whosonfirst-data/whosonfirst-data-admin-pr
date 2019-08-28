@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":432295.29348,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.05146,18.3995,-66.05146,18.3995",
     "geom:latitude":18.3995,
     "geom:longitude":-66.05146,
     "gn:id":"",
     "iso:country":"PR",
+    "lbl:bbox":"-66.05646,18.3945,-66.04646,18.4045",
     "lbl:latitude":18.3995,
     "lbl:longitude":-66.05146,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.398579,
     "mps:longitude":-66.05285,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "65 de Infanteria"
-    ],
-    "name:unk_x_variant":[
         "65 de Infanteria"
     ],
     "qs:gn_adm0_cc":"PR",
@@ -57,19 +56,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         101919427,
         136253057,
-        102080441
+        102080441,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":15021136,
-        "qs:id":1084654
+        "qs_pg:id":1084654
     },
     "wof:country":"PR",
     "wof:geomhash":"ee0c13aefa95b3b4048374317fe7c0e6",
@@ -89,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531870390,
+    "wof:lastmodified":1566600225,
     "wof:name":"65 de Infanteria",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

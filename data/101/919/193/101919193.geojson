@@ -9,18 +9,20 @@
     "geom:bbox":"-66.322671,18.178133,-66.29669,18.190979",
     "geom:latitude":18.184765,
     "geom:longitude":-66.310174,
-    "geonames:id":"4562778,7276409",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3021,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"4562778,7276409",
     "gn:population":3021,
     "iso:country":"PR",
     "lbl:latitude":18.183788,
     "lbl:longitude":-66.312345,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.183788,
     "mps:longitude":-66.312345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09be\u0982\u0995\u09c1\u09af\u09bc\u09bf\u09a4\u09be\u09b8"
     ],
@@ -105,7 +107,7 @@
     "qs_pg:woe_id":160691,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -118,7 +120,6 @@
     "wof:concordances":{
         "gn:id":4562778,
         "gp:id":160691,
-        "qs:id":1082663,
         "qs_pg:id":1082663,
         "wd:id":"Q2485615",
         "wk:page":"Barranquitas, Puerto Rico"
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":101919193,
-    "wof:lastmodified":1563237118,
+    "wof:lastmodified":1566600317,
     "wof:name":"Barranquitas",
     "wof:parent_id":102080333,
     "wof:placetype":"locality",

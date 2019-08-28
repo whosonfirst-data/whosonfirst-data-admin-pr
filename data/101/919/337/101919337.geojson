@@ -9,14 +9,17 @@
     "geom:bbox":"-65.888645,18.42385,-65.872659,18.443777",
     "geom:latitude":18.432021,
     "geom:longitude":-65.879575,
-    "geonames:id":"4566022,7276366",
+    "gn:id":"4566022,7276366",
     "iso:country":"PR",
     "lbl:latitude":18.431427,
     "lbl:longitude":-65.879574,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.431427,
     "mps:longitude":-65.879574,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09cb\u0987\u099c\u09be"
     ],
@@ -87,7 +90,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101919337,
-    "wof:lastmodified":1563237116,
+    "wof:lastmodified":1566600316,
     "wof:name":"Lo\u00edza",
     "wof:parent_id":102080363,
     "wof:placetype":"locality",

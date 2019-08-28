@@ -21,10 +21,13 @@
     ],
     "lbl:latitude":17.964937,
     "lbl:longitude":-66.73863,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":17.964937,
     "mps:longitude":-66.73863,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a8\u09cd\u09a8\u09c1\u09af\u09bc\u09c7\u09b2\u09be\u09b8"
     ],
@@ -96,9 +99,9 @@
     "qs:source":"US Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"116",
     "statoids:area_mi":"45",
     "statoids:as_of_date":"2010-04-01",
@@ -137,9 +140,6 @@
     ],
     "wof:id":102080319,
     "wof:label":"Municipio de Pe\u00f1uelas",
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "eng"
@@ -148,11 +148,10 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1563236806,
+    "wof:lastmodified":1566600204,
     "wof:name":"Pe\u00f1uelas",
     "wof:parent_id":85687331,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"Municipio",
     "wof:population":24282,
     "wof:population_rank":7,

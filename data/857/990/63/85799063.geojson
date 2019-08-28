@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23630449.176631,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-8.594537,41.109587,-8.594537,41.109587",
     "geom:latitude":41.109587,
     "geom:longitude":-8.594537,
@@ -13,8 +13,10 @@
     "gn:longitude":-8.58463,
     "gn:population":24407,
     "iso:country":"PR",
+    "lbl:bbox":"-8.599537,41.104587,-8.589537,41.114587",
     "lbl:latitude":41.109587,
     "lbl:longitude":-8.594537,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.109587,
     "mps:longitude":-8.594537,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:por_x_preferred":[
-        "Oliveira do Douro"
-    ],
-    "name:unk_x_variant":[
         "Oliveira do Douro"
     ],
     "qs:gn_adm0_cc":"PT",
@@ -60,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +71,7 @@
     "wof:concordances":{
         "gn:id":2737039,
         "gp:id":744720,
-        "qs:id":141253
+        "qs_pg:id":141253
     },
     "wof:country":"PR",
     "wof:geomhash":"0dbe50817e440ee964e7734bb7f14ba9",
@@ -86,7 +85,7 @@
         }
     ],
     "wof:id":85799063,
-    "wof:lastmodified":1531861973,
+    "wof:lastmodified":1566600225,
     "wof:name":"Oliveira do Douro",
     "wof:parent_id":101752095,
     "wof:placetype":"neighbourhood",

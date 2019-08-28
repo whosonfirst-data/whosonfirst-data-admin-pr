@@ -9,18 +9,20 @@
     "geom:bbox":"-66.722151,18.256827,-66.683408,18.288321",
     "geom:latitude":18.269725,
     "geom:longitude":-66.704907,
-    "geonames:id":"7276393,4568490",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9844,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"7276393,4568490",
     "gn:population":9844,
     "iso:country":"PR",
     "lbl:latitude":18.269391,
     "lbl:longitude":-66.706232,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.269391,
     "mps:longitude":-66.706232,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0989\u099f\u09c1\u09f1\u09be\u09a6\u09be"
     ],
@@ -120,7 +122,7 @@
     "qs_pg:woe_id":161785,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -133,7 +135,6 @@
     "wof:concordances":{
         "gn:id":4568490,
         "gp:id":161785,
-        "qs:id":1341584,
         "qs_pg:id":1341584,
         "wd:id":"Q617096",
         "wk:page":"Utuado, Puerto Rico"
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":101919023,
-    "wof:lastmodified":1563237120,
+    "wof:lastmodified":1566600317,
     "wof:name":"Utuado",
     "wof:parent_id":102080433,
     "wof:placetype":"locality",

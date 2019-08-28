@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.12953,17.9826,-66.08953,18.0226",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326963939,
-    "wof:lastmodified":1536857911,
+    "wof:lastmodified":1566600184,
     "wof:name":"Olimpo Comunidad",
     "wof:parent_id":102080373,
     "wof:placetype":"locality",

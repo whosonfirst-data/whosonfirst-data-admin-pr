@@ -12,8 +12,10 @@
     "gn:latitude":41.1671,
     "gn:longitude":-8.6691,
     "iso:country":"PR",
+    "lbl:bbox":"-8.687013,41.163092,-8.677013,41.173092",
     "lbl:latitude":41.168092,
     "lbl:longitude":-8.682013,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.167282,
     "mps:longitude":-8.680272,
     "mz:hierarchy_label":0,
@@ -67,9 +69,6 @@
     "name:spa_x_preferred":[
         "Aldoar"
     ],
-    "name:unk_x_variant":[
-        "Aldoar"
-    ],
     "name:zho_x_preferred":[
         "\u963f\u5c14\u591a\u963f\u5c14"
     ],
@@ -101,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":86,
     "wof:belongsto":[
         102191581,
@@ -113,7 +112,7 @@
     "wof:concordances":{
         "gn:id":2743131,
         "gp:id":735783,
-        "qs:id":1166739,
+        "qs_pg:id":1166739,
         "wd:id":"Q1973519",
         "wk:page":"Aldoar"
     },
@@ -132,7 +131,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563236859,
+    "wof:lastmodified":1566600225,
     "wof:name":"Aldoar",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",

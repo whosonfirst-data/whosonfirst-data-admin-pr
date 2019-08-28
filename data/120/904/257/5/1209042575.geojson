@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.01739,18.39384,-65.97739,18.43384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Extension Country Club",
         "Campo Rico",
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209042575,
-    "wof:lastmodified":1537683113,
+    "wof:lastmodified":1566600273,
     "wof:name":"Country Club Extension",
     "wof:parent_id":85633729,
     "wof:placetype":"locality",

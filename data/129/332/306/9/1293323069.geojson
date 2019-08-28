@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-67.18018,18.36189,-67.14018,18.40189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Central Coloso"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293323069,
-    "wof:lastmodified":1537683112,
+    "wof:lastmodified":1566600242,
     "wof:name":"Coloso",
     "wof:parent_id":102080353,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-67.18212,18.07274,-67.14212,18.11274",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309748783,
-    "wof:lastmodified":1537012546,
+    "wof:lastmodified":1566600342,
     "wof:name":"Parabueyon",
     "wof:parent_id":102080409,
     "wof:placetype":"locality",

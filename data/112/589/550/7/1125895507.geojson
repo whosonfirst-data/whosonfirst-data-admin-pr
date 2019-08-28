@@ -9,15 +9,18 @@
     "geom:bbox":"-66.80177,18.15849,-66.80177,18.15849",
     "geom:latitude":18.15849,
     "geom:longitude":-66.80177,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5080,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
     "gn:population":5080,
     "iso:country":"PR",
+    "lbl:bbox":"-66.82177,18.13849,-66.78177,18.17849",
     "lbl:latitude":18.15849,
     "lbl:longitude":-66.80177,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u0985\u09cd\u09af\u09be\u09a1\u099c\u09c1\u09a8\u099f\u09be\u09b8"
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0434\u0445\u0443\u043d\u0442\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Adjuntas Pueblo"
     ],
     "name:urd_x_preferred":[
@@ -103,7 +106,7 @@
     "qs_pg:woe_adm0":23424935,
     "qs_pg:woe_id":160641,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424935,
     "woe:name_adm0":"Puerto Rico",
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1125895507,
-    "wof:lastmodified":1563237215,
+    "wof:lastmodified":1566600348,
     "wof:name":"Adjuntas",
     "wof:parent_id":102080393,
     "wof:placetype":"locality",

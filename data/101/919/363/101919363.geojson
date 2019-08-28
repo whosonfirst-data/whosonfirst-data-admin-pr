@@ -9,18 +9,20 @@
     "geom:bbox":"-65.990067,18.241174,-65.96338,18.260772",
     "geom:latitude":18.252861,
     "geom:longitude":-65.97857,
-    "geonames:id":"4565125,7276432",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8973,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"4565125,7276432",
     "gn:population":8973,
     "iso:country":"PR",
     "lbl:latitude":18.254816,
     "lbl:longitude":-65.979884,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.254816,
     "mps:longitude":-65.979884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09b0\u09be\u09ac\u09cb"
     ],
@@ -114,7 +116,7 @@
     "qs_pg:woe_id":160993,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":550,
     "wof:belongsto":[
@@ -128,7 +130,6 @@
     "wof:concordances":{
         "gn:id":4565125,
         "gp:id":160993,
-        "qs:id":211136,
         "qs_pg:id":211136,
         "wd:id":"Q2159630",
         "wk:page":"Gurabo, Puerto Rico"
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":101919363,
-    "wof:lastmodified":1563237119,
+    "wof:lastmodified":1566600317,
     "wof:name":"Gurabo",
     "wof:parent_id":102080435,
     "wof:placetype":"locality",

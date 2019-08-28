@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-65.921,18.3605,-65.881,18.4005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Country View"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310441689,
-    "wof:lastmodified":1564216852,
+    "wof:lastmodified":1566600296,
     "wof:name":"Country View",
     "wof:parent_id":102080387,
     "wof:placetype":"locality",

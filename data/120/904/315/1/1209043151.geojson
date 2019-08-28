@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-67.04962,18.47467,-67.00962,18.51467",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729
@@ -36,7 +40,7 @@
         "gn:id":4568274
     },
     "wof:country":"PR",
-    "wof:geomhash":"16c767383bf46c8aba3c44a4afef73f7",
+    "wof:geomhash":"4fde74651e5933f2a51668929666308c",
     "wof:hierarchy":[
         {
             "dependency_id":85633729,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209043151,
-    "wof:lastmodified":1536299480,
+    "wof:lastmodified":1566600273,
     "wof:name":"Sector Florida",
     "wof:parent_id":85633729,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     -67.02962,
-    18.494670000000006,
+    18.49467000000001,
     -67.02962,
-    18.494670000000006
+    18.49467000000001
 ],
   "geometry": {"coordinates":[-67.02961999999999,18.49467000000001],"type":"Point"}
 }

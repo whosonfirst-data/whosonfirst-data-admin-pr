@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8176545.600557,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.144686,18.392083,-66.144686,18.392083",
     "geom:latitude":18.392083,
     "geom:longitude":-66.144686,
     "gn:id":"",
     "iso:country":"US",
+    "lbl:bbox":"-66.149686,18.387083,-66.139686,18.397083",
     "lbl:latitude":18.392083,
     "lbl:longitude":-66.144686,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.39079,
     "mps:longitude":-66.147166,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Caparra Arts."
     ],
     "name:spa_x_preferred":[
-        "Caparra Arts."
-    ],
-    "name:unk_x_variant":[
         "Caparra Arts."
     ],
     "qs:gn_adm0_cc":"PR",
@@ -60,19 +59,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         101919125,
         136253057,
-        102080443
+        102080443,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24550980,
-        "qs:id":985483
+        "qs_pg:id":985483
     },
     "wof:country":"PR",
     "wof:geomhash":"e2bdd9ee80b66443320b71b178003bb9",
@@ -92,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531871152,
+    "wof:lastmodified":1566600229,
     "wof:name":"Caparra Arts.",
     "wof:parent_id":101919125,
     "wof:placetype":"neighbourhood",

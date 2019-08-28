@@ -9,17 +9,20 @@
     "geom:bbox":"-65.804895,18.11007,-65.793566,18.120121",
     "geom:latitude":18.115311,
     "geom:longitude":-65.799057,
+    "gn:country":"PR",
     "gn:elevation":10,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PR",
     "lbl:latitude":18.116148,
     "lbl:longitude":-65.79803,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.116148,
     "mps:longitude":-65.79803,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0646\u0627 \u0641\u064a\u0633\u062a\u0627"
     ],
@@ -113,7 +116,7 @@
     "qs_pg:woe_id":160729,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -126,7 +129,6 @@
         "fct:id":"0262d0a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4562975,
         "gp:id":160729,
-        "qs:id":211130,
         "qs_pg:id":211130
     },
     "wof:country":"PR",
@@ -146,7 +148,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564216914,
+    "wof:lastmodified":1566600333,
     "wof:name":"Buena Vista",
     "wof:parent_id":102080351,
     "wof:placetype":"locality",

@@ -9,18 +9,20 @@
     "geom:bbox":"-65.85998,18.358078,-65.849011,18.383764",
     "geom:latitude":18.372611,
     "geom:longitude":-65.854682,
-    "geonames:id":"4565755,7275079",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3534,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"4565755,7275079",
     "gn:population":3534,
     "iso:country":"PR",
     "lbl:latitude":18.372682,
     "lbl:longitude":-65.855514,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.372682,
     "mps:longitude":-65.855514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "La Dolores"
     ],
@@ -39,7 +41,7 @@
     "name:srp_x_preferred":[
         "\u041b\u0430 \u0414\u043e\u043b\u043e\u0440\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colonia Dolores"
     ],
     "qs:a0":"Puerto Rico",
@@ -74,7 +76,7 @@
     "qs_pg:woe_id":161268,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":123,
     "wof:belongsto":[
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101919259,
-    "wof:lastmodified":1563237133,
+    "wof:lastmodified":1566600320,
     "wof:name":"La Dolores",
     "wof:parent_id":102080399,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"-66.8499,18.03496,-66.8499,18.03496",
     "geom:latitude":18.03496,
     "geom:longitude":-66.8499,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":20295,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
     "gn:population":20295,
     "iso:country":"PR",
+    "lbl:bbox":"-66.8699,18.01496,-66.8299,18.05496",
     "lbl:latitude":18.03496,
     "lbl:longitude":-66.8499,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u09af\u09bc\u09be\u0989\u0995\u09cb"
@@ -64,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u0443\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Coayuco"
     ],
     "name:urd_x_preferred":[
@@ -100,7 +103,7 @@
     "qs_pg:woe_adm0":23424935,
     "qs_pg:woe_id":161836,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424935,
     "woe:name_adm0":"Puerto Rico",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1125968295,
-    "wof:lastmodified":1563237222,
+    "wof:lastmodified":1566600351,
     "wof:name":"Yauco",
     "wof:parent_id":102080397,
     "wof:placetype":"locality",

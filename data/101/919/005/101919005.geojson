@@ -9,14 +9,17 @@
     "geom:bbox":"-67.009817,18.320295,-66.979226,18.349945",
     "geom:latitude":18.335468,
     "geom:longitude":-66.994808,
-    "geonames:id":"4568175,7276388",
+    "gn:id":"4568175,7276388",
     "iso:country":"PR",
     "lbl:latitude":18.334731,
     "lbl:longitude":-66.994572,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.334731,
     "mps:longitude":-66.994572,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8 \u09b8\u09c7\u09ac\u09be\u09b8\u09cd\u09a4\u09bf\u09a8"
     ],
@@ -87,7 +90,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101919005,
-    "wof:lastmodified":1563237176,
+    "wof:lastmodified":1566600333,
     "wof:name":"San Sebasti\u00e1n",
     "wof:parent_id":102080411,
     "wof:placetype":"locality",

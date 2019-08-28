@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.84351,18.46633,-66.80351,18.50633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360120719,
-    "wof:lastmodified":1536893921,
+    "wof:lastmodified":1566600302,
     "wof:name":"Barriada Aguilar",
     "wof:parent_id":102080381,
     "wof:placetype":"locality",

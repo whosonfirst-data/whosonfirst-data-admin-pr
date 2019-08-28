@@ -21,10 +21,13 @@
     ],
     "lbl:latitude":18.343502,
     "lbl:longitude":-66.169243,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.343502,
     "mps:longitude":-66.169243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0627\u0645\u0648\u0646"
     ],
@@ -141,9 +144,9 @@
     "qs:source":"US Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"115",
     "statoids:area_mi":"44",
     "statoids:as_of_date":"2010-04-01",
@@ -182,9 +185,6 @@
     ],
     "wof:id":102080443,
     "wof:label":"Municipio de Bayam\u00f3n",
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "eng"
@@ -193,11 +193,10 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1563236796,
+    "wof:lastmodified":1566600199,
     "wof:name":"Bayam\u00f3n",
     "wof:parent_id":85687331,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"Municipio",
     "wof:population":208116,
     "wof:population_rank":10,

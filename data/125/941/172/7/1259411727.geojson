@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.84045,18.46522,-66.80045,18.50522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Villa del Carmen"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1259411727,
-    "wof:lastmodified":1564217055,
+    "wof:lastmodified":1566600388,
     "wof:name":"Villa del Carmen",
     "wof:parent_id":102080381,
     "wof:placetype":"locality",

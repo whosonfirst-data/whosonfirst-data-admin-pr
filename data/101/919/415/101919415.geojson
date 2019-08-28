@@ -9,14 +9,17 @@
     "geom:bbox":"-66.285315,17.98747,-66.244942,18.015742",
     "geom:latitude":18.001041,
     "geom:longitude":-66.260275,
-    "geonames:id":"4563816,7275047",
+    "gn:id":"4563816,7275047",
     "iso:country":"PR",
     "lbl:latitude":18.002356,
     "lbl:longitude":-66.256601,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.002356,
     "mps:longitude":-66.256601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Coco"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":524,
     "wof:belongsto":[
         85633729,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101919415,
-    "wof:lastmodified":1564216900,
+    "wof:lastmodified":1566600319,
     "wof:name":"Coco",
     "wof:parent_id":102080337,
     "wof:placetype":"locality",

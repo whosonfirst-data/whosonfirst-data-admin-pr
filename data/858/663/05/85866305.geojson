@@ -9,13 +9,15 @@
     "geom:bbox":"-66.068222,18.418637,-66.068222,18.418637",
     "geom:latitude":18.418637,
     "geom:longitude":-66.068222,
+    "gn:country":"PR",
     "gn:elevation":10,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PR",
+    "lbl:bbox":"-66.073222,18.413637,-66.063222,18.423637",
     "lbl:latitude":18.418637,
     "lbl:longitude":-66.068222,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.418106,
     "mps:longitude":-66.067927,
     "mz:hierarchy_label":0,
@@ -267,9 +269,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u0435\u043e\u043d\u043e\u0440\u0430 \u0420\u0443\u0437\u0432\u0435\u043b\u044c\u0442"
     ],
-    "name:unk_x_variant":[
-        "Eleanor Roosevelt"
-    ],
     "name:vie_x_preferred":[
         "Eleanor Roosevelt"
     ],
@@ -330,7 +329,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":9369,
     "wof:belongsto":[
         85633729,
@@ -344,7 +343,6 @@
     "wof:concordances":{
         "gn:id":4564253,
         "gp:id":24551024,
-        "qs:id":1193364,
         "qs_pg:id":1193364,
         "wd:id":"Q83396"
     },
@@ -366,7 +364,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563236863,
+    "wof:lastmodified":1566600226,
     "wof:name":"Eleanor Roosevelt",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

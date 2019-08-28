@@ -9,18 +9,20 @@
     "geom:bbox":"-65.68592,18.306196,-65.626711,18.360302",
     "geom:latitude":18.332981,
     "geom:longitude":-65.659316,
-    "geonames:id":"7276426,4564946",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":34068,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"7276426,4564946",
     "gn:population":34068,
     "iso:country":"PR",
     "lbl:latitude":18.328746,
     "lbl:longitude":-65.666261,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":18.328746,
     "mps:longitude":-65.666261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09be\u099c\u09be\u09b0\u09cd\u09a1\u09cb"
     ],
@@ -81,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0430\u0445\u0430\u0440\u0434\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Faxardo"
     ],
     "name:urd_x_preferred":[
@@ -132,7 +134,7 @@
     "qs_pg:woe_id":160948,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -145,7 +147,6 @@
     "wof:concordances":{
         "gn:id":4564946,
         "gp:id":160948,
-        "qs:id":489362,
         "qs_pg:id":489362,
         "wd:id":"Q542833",
         "wk:page":"Fajardo, Puerto Rico"
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":101918905,
-    "wof:lastmodified":1563237107,
+    "wof:lastmodified":1566600312,
     "wof:name":"Fajardo",
     "wof:parent_id":102080287,
     "wof:placetype":"locality",

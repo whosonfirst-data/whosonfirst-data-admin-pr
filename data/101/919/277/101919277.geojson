@@ -9,18 +9,20 @@
     "geom:bbox":"-67.038002,18.484652,-67.002123,18.520161",
     "geom:latitude":18.501594,
     "geom:longitude":-67.023382,
-    "geonames:id":"4565577,7276436",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":12505,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"4565577,7276436",
     "gn:population":12505,
     "iso:country":"PR",
     "lbl:latitude":18.498802,
     "lbl:longitude":-67.023659,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.498802,
     "mps:longitude":-67.023659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0987\u09b8\u09be\u09ac\u09c7\u09b2\u09be"
     ],
@@ -120,7 +122,7 @@
     "qs_pg:woe_id":161222,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -133,7 +135,6 @@
     "wof:concordances":{
         "gn:id":4565577,
         "gp:id":161222,
-        "qs:id":489363,
         "qs_pg:id":489363,
         "wd:id":"Q2307520"
     },
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":101919277,
-    "wof:lastmodified":1563237159,
+    "wof:lastmodified":1566600329,
     "wof:name":"Isabela",
     "wof:parent_id":102080383,
     "wof:placetype":"locality",

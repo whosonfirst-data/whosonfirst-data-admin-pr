@@ -9,15 +9,18 @@
     "geom:bbox":"-66.862939,18.473311,-66.835769,18.490352",
     "geom:latitude":18.482387,
     "geom:longitude":-66.850232,
-    "geonames:id":"4563064,7276413",
+    "gn:id":"4563064,7276413",
     "gn:population":4240,
     "iso:country":"PR",
     "lbl:latitude":18.48303,
     "lbl:longitude":-66.853423,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.48303,
     "mps:longitude":-66.853423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09c1\u09af\u09bc"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -98,7 +101,7 @@
     "wof:concordances":{
         "gn:id":4563064,
         "gp:id":160764,
-        "qs:id":211129,
+        "qs_pg:id":211129,
         "wd:id":"Q2380860",
         "wk:page":"Camuy, Puerto Rico"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101918937,
-    "wof:lastmodified":1563237096,
+    "wof:lastmodified":1566600309,
     "wof:name":"Camuy",
     "wof:parent_id":102080293,
     "wof:placetype":"locality",

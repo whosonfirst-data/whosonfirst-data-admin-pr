@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
-    "geom:area_square_m":1454313.38002,
+    "geom:area_square_m":1454313.380027,
     "geom:bbox":"-66.079687,18.233596,-66.063738,18.247508",
     "geom:latitude":18.240897,
     "geom:longitude":-66.072085,
@@ -13,11 +13,14 @@
     "iso:country":"PR",
     "lbl:latitude":18.241087,
     "lbl:longitude":-66.071969,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.241087,
     "mps:longitude":-66.071969,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Hacienda San Jose Comunidad"
     ],
     "name:urd_x_preferred":[
@@ -39,7 +42,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101919163,
-    "wof:lastmodified":1509998615,
+    "wof:lastmodified":1566600328,
     "wof:name":"Hacienda San Jose",
     "wof:parent_id":102080425,
     "wof:placetype":"locality",

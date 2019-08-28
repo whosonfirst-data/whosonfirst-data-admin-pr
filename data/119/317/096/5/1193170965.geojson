@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-65.8985,18.02441,-65.8585,18.06441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193170965,
-    "wof:lastmodified":1536380547,
+    "wof:lastmodified":1566600283,
     "wof:name":"Residencial Doctoro Victor Berrios",
     "wof:parent_id":102080371,
     "wof:placetype":"locality",

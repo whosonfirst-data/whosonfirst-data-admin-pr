@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.61406,18.06718,-66.57406,18.10718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Maraguez"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293323023,
-    "wof:lastmodified":1537683114,
+    "wof:lastmodified":1566600243,
     "wof:name":"Hacienda Maragueez",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.03655,18.36773,-65.99655,18.40773",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276264509,
-    "wof:lastmodified":1536869734,
+    "wof:lastmodified":1566600249,
     "wof:name":"Alturas de Berwind",
     "wof:parent_id":102080441,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-66.048675,
     "gn:id":"",
     "iso:country":"PR",
+    "lbl:bbox":"-66.053675,18.407633,-66.043675,18.417633",
     "lbl:latitude":18.412633,
     "lbl:longitude":-66.048675,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.411976,
     "mps:longitude":-66.041662,
     "mz:hierarchy_label":0,
@@ -45,9 +47,6 @@
     "name:swe_x_preferred":[
         "Gonzalez"
     ],
-    "name:unk_x_variant":[
-        "Gonzalez"
-    ],
     "name:vie_x_preferred":[
         "Gonzalez"
     ],
@@ -78,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
         102191575,
@@ -90,7 +89,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24551046,
-        "qs:id":1103305
+        "qs_pg:id":1103305
     },
     "wof:country":"PR",
     "wof:geomhash":"c19b0921a243f12825335b40890023a3",
@@ -110,7 +109,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564216633,
+    "wof:lastmodified":1566600227,
     "wof:name":"Gonzalez",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

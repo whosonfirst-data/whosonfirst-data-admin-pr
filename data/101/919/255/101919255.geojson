@@ -9,14 +9,17 @@
     "geom:bbox":"-65.852399,18.370025,-65.824332,18.388069",
     "geom:latitude":18.378897,
     "geom:longitude":-65.838892,
-    "geonames:id":"4567817,7276382",
+    "gn:id":"4567817,7276382",
     "iso:country":"PR",
     "lbl:latitude":18.377972,
     "lbl:longitude":-65.8417,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.377972,
     "mps:longitude":-65.8417,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993 \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
     ],
@@ -90,7 +93,7 @@
     "qs:type":"G4210",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101919255,
-    "wof:lastmodified":1563237177,
+    "wof:lastmodified":1566600334,
     "wof:name":"R\u00edo Grande",
     "wof:parent_id":102080399,
     "wof:placetype":"locality",

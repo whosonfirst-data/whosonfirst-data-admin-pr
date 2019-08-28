@@ -9,13 +9,15 @@
     "geom:bbox":"-66.12255,18.368304,-66.12255,18.368304",
     "geom:latitude":18.368304,
     "geom:longitude":-66.12255,
+    "gn:country":"PR",
     "gn:elevation":67,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PR",
+    "lbl:bbox":"-66.12755,18.363304,-66.11755,18.373304",
     "lbl:latitude":18.368304,
     "lbl:longitude":-66.12255,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.365184,
     "mps:longitude":-66.13287,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "Mte Bello"
     ],
     "name:swe_x_preferred":[
-        "Monte Bello"
-    ],
-    "name:unk_x_variant":[
         "Monte Bello"
     ],
     "qs:gn_adm0_cc":"PR",
@@ -90,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633729,
         102191575,
@@ -103,7 +102,6 @@
     "wof:concordances":{
         "gn:id":4566299,
         "gp:id":24551122,
-        "qs:id":1193415,
         "qs_pg:id":1193415
     },
     "wof:country":"PR",
@@ -124,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564216631,
+    "wof:lastmodified":1566600226,
     "wof:name":"Monte Bello",
     "wof:parent_id":101919293,
     "wof:placetype":"neighbourhood",

@@ -5,26 +5,28 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00014,
-    "geom:area_square_m":1644259.742417,
+    "geom:area_square_m":1644259.742418,
     "geom:bbox":"-66.235186,17.945592,-66.218802,17.963587",
     "geom:latitude":17.955878,
     "geom:longitude":-66.226438,
+    "gn:country":"PR",
     "gn:elevation":3,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1588,
+    "gn:fcode":"PPL",
     "gn:population":1588,
     "iso:country":"PR",
     "lbl:latitude":17.957644,
     "lbl:longitude":-66.226309,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":17.957644,
     "mps:longitude":-66.226309,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Central Aguirre"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Central Aguirre Comunidad"
     ],
     "qs:a0":"Puerto Rico",
@@ -63,7 +65,7 @@
     "qs_pg:woe_id":160799,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633729,
@@ -76,7 +78,6 @@
     "wof:concordances":{
         "gn:id":4563411,
         "gp:id":160799,
-        "qs:id":154494,
         "qs_pg:id":154494
     },
     "wof:country":"PR",
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":101919413,
-    "wof:lastmodified":1534379424,
+    "wof:lastmodified":1566600318,
     "wof:name":"Central Aguirre",
     "wof:parent_id":102080337,
     "wof:placetype":"locality",

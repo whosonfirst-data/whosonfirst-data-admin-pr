@@ -9,19 +9,23 @@
     "geom:bbox":"-66.27434,18.473,-66.27434,18.473",
     "geom:latitude":18.473,
     "geom:longitude":-66.27434,
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PR",
+    "lbl:bbox":"-66.29434,18.453,-66.25434,18.493",
     "lbl:latitude":18.473,
     "lbl:longitude":-66.27434,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Mameyal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Comunidad Mameyal"
     ],
     "qs_pg:aaroncc":"PR",
@@ -45,7 +49,7 @@
     "qs_pg:woe_adm0":23424935,
     "qs_pg:woe_id":55870123,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424935,
     "woe:name_adm0":"Puerto Rico",
     "woe:name_adm1":"Dorado",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1125787961,
-    "wof:lastmodified":1564216984,
+    "wof:lastmodified":1566600364,
     "wof:name":"Mameyal",
     "wof:parent_id":102080417,
     "wof:placetype":"locality",

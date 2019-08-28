@@ -9,18 +9,20 @@
     "geom:bbox":"-66.295112,18.449974,-66.25321,18.483403",
     "geom:latitude":18.467688,
     "geom:longitude":-66.271303,
-    "geonames:id":"7276425,4564133",
-    "gn:gn_country":"PR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":13117,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
+    "gn:id":"7276425,4564133",
     "gn:population":13117,
     "iso:country":"PR",
     "lbl:latitude":18.470148,
     "lbl:longitude":-66.270981,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.470148,
     "mps:longitude":-66.270981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u09b0\u09be\u09a1\u09cb"
     ],
@@ -114,7 +116,7 @@
     "qs_pg:woe_id":160880,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1737,
     "wof:belongsto":[
@@ -128,7 +130,6 @@
     "wof:concordances":{
         "gn:id":4564133,
         "gp:id":160880,
-        "qs:id":489359,
         "qs_pg:id":489359,
         "wd:id":"Q2217567",
         "wk:page":"Dorado, Puerto Rico"
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":101919291,
-    "wof:lastmodified":1563237173,
+    "wof:lastmodified":1566600333,
     "wof:name":"Dorado",
     "wof:parent_id":102080417,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-66.088803,
     "gn:id":"",
     "iso:country":"PR",
+    "lbl:bbox":"-66.093803,18.46154,-66.083803,18.47154",
     "lbl:latitude":18.46654,
     "lbl:longitude":-66.088803,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.47111,
     "mps:longitude":-66.086898,
     "mz:hierarchy_label":0,
@@ -115,9 +117,6 @@
     "name:tur_x_preferred":[
         "Manuel Fern\u00e1ndez Juncos"
     ],
-    "name:unk_x_variant":[
-        "Fernandez Juncos"
-    ],
     "qs:gn_adm0_cc":"PR",
     "qs:gn_id":0,
     "qs:gn_local":4568220,
@@ -145,7 +144,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":716,
     "wof:belongsto":[
         85633729,
@@ -158,7 +157,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":15021135,
-        "qs:id":1084653,
+        "qs_pg:id":1084653,
         "wd:id":"Q344554"
     },
     "wof:country":"PR",
@@ -179,7 +178,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563236860,
+    "wof:lastmodified":1566600226,
     "wof:name":"Fernandez Juncos",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

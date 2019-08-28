@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Puerto_Rico",
     "iso:country":"PR",
+    "lbl:bbox":"-66.036,17.99219,-65.996,18.03219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309741421,
-    "wof:lastmodified":1537022970,
+    "wof:lastmodified":1566600341,
     "wof:name":"San Jose",
     "wof:parent_id":102080445,
     "wof:placetype":"locality",

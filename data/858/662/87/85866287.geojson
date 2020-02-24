@@ -76,6 +76,9 @@
         "qs_pg:id":503558
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9fab5dbc1a28c28b6b609c8807d7cb55",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600229,
+    "wof:lastmodified":1582358355,
     "wof:name":"Prado Alto",
     "wof:parent_id":101919293,
     "wof:placetype":"neighbourhood",

@@ -73,6 +73,9 @@
         "qs_pg:id":1103611
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"36bd14974f64aa1829aae50b8101d9ed",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600226,
+    "wof:lastmodified":1582358354,
     "wof:name":"Villa Olga",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

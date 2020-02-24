@@ -72,6 +72,9 @@
         "qs_pg:id":1197849
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0ccb4bba53716c4bdea3dccbe872d642",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600227,
+    "wof:lastmodified":1582358354,
     "wof:name":"Los Choferes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

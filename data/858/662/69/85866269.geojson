@@ -73,6 +73,9 @@
         "qs_pg:id":224025
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1598ed29b19ede5059281208a9a54927",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600228,
+    "wof:lastmodified":1582358354,
     "wof:name":"Atlantic View",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

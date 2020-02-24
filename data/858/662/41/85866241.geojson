@@ -75,6 +75,9 @@
         "qs:id":10231
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a1afd7a5c660460d73eb4813dc8f43ac",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379432,
+    "wof:lastmodified":1582358355,
     "wof:name":"Vietnam",
     "wof:parent_id":101918955,
     "wof:placetype":"neighbourhood",

@@ -99,6 +99,9 @@
         "qs_pg:id":888274
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a6c369b64ae83d8fc2ae1f15e827e935",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600229,
+    "wof:lastmodified":1582358355,
     "wof:name":"Vistamar",
     "wof:parent_id":101919197,
     "wof:placetype":"neighbourhood",

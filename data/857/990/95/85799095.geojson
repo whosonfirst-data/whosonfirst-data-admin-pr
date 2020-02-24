@@ -123,6 +123,9 @@
         "wk:page":"Ramalde"
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"495c6dfabcaf5f349768e31440661903",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566600224,
+    "wof:lastmodified":1582358352,
     "wof:name":"Ramalde",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",

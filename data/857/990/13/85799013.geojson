@@ -83,6 +83,9 @@
         "wk:page":"Lordelo do Ouro"
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"03598fe9554b775f8b5d30031713f484",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566600225,
+    "wof:lastmodified":1582358353,
     "wof:name":"Lordelo do Ouro",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",

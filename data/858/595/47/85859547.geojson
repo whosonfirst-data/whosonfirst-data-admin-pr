@@ -161,6 +161,9 @@
         "wd:id":"Q344554"
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8a759a1b39563a29d3680e6b57cf49c8",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600226,
+    "wof:lastmodified":1582358353,
     "wof:name":"Fernandez Juncos",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

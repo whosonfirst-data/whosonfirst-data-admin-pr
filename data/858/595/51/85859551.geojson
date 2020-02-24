@@ -71,6 +71,9 @@
         "qs_pg:id":1084654
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ee0c13aefa95b3b4048374317fe7c0e6",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600225,
+    "wof:lastmodified":1582358353,
     "wof:name":"65 de Infanteria",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

@@ -76,6 +76,9 @@
         "qs:id":1193387
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"097792f4506f5f0a6077cafda9919d71",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379440,
+    "wof:lastmodified":1582358354,
     "wof:name":"Baldrich",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

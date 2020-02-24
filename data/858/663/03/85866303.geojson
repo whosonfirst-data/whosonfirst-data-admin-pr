@@ -76,6 +76,9 @@
         "wd:id":"Q7315422"
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ced8a1084ec1b5692a77a493cb0c103f",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600226,
+    "wof:lastmodified":1582358354,
     "wof:name":"Residencial Nemesio Canales",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

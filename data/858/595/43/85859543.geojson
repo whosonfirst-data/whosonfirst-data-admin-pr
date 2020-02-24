@@ -95,6 +95,9 @@
         "wd:id":"Q511729"
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f7c7bf3c991dda3cf73bbbd000c936be",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600226,
+    "wof:lastmodified":1582358353,
     "wof:name":"Santurce",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

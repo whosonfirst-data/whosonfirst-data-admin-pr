@@ -79,6 +79,9 @@
         "qs:id":503628
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ff544804620a68d4bf09bcc5d0c46198",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379440,
+    "wof:lastmodified":1582358354,
     "wof:name":"El Vedado",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

@@ -100,6 +100,9 @@
         "wk:page":"Condado (Santurce)"
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"02aecaff433810d7deca13421dad4a87",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600228,
+    "wof:lastmodified":1582358355,
     "wof:name":"Condado",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

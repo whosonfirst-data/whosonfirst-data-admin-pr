@@ -44,6 +44,9 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f4f478e4898af4d68d08046fb3182381",
     "wof:hierarchy":[
         {
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":101874835,
-    "wof:lastmodified":1566600308,
+    "wof:lastmodified":1582358357,
     "wof:name":"Paranho de Areia",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

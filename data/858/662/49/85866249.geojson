@@ -83,6 +83,9 @@
         "wk:page":"Miramar (Santurce)"
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d16453724958c98de4309ed5f6d964f8",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561827121,
+    "wof:lastmodified":1582358355,
     "wof:name":"Miramar",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

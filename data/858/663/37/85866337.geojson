@@ -73,6 +73,9 @@
         "qs_pg:id":1002120
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"010730d48fcd6e1a4d1fd69c505eeda1",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600227,
+    "wof:lastmodified":1582358354,
     "wof:name":"Sierra Berdecia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

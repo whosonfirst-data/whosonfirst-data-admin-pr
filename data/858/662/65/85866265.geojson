@@ -96,6 +96,9 @@
         "qs_pg:id":1193322
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3e2d52384d1d467b623799f5cafe3b33",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600229,
+    "wof:lastmodified":1582358355,
     "wof:name":"Residencial El Mirador",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

@@ -100,6 +100,9 @@
         "qs:id":1103594
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e7ad586a3d40a00c126a125bf65fcf00",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379435,
+    "wof:lastmodified":1582358355,
     "wof:name":"Las Lomas",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

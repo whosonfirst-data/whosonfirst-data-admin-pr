@@ -93,6 +93,9 @@
         "wk:page":"L\u00f3pez Sicard\u00f3 (Oriente)"
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8d5a1cbd7545a01e4d79ee86afb7472d",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600227,
+    "wof:lastmodified":1582358354,
     "wof:name":"Lopez Sicardo",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

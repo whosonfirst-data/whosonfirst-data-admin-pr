@@ -99,6 +99,9 @@
         "qs_pg:id":1193302
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c95434fd174eeb48b05cdc9116d64380",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600228,
+    "wof:lastmodified":1582358354,
     "wof:name":"Monte Flores",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

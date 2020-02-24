@@ -97,6 +97,9 @@
         "wd:id":"Q7258533"
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1ca46a31500817f44a10248f79be169c",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600226,
+    "wof:lastmodified":1582358353,
     "wof:name":"Puerta de Tierra",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

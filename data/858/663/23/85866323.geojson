@@ -759,6 +759,9 @@
         "qs_pg:id":1193379
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c0409ec7ce8750fed5e805d66fb42f02",
     "wof:hierarchy":[
         {
@@ -776,7 +779,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600227,
+    "wof:lastmodified":1582358354,
     "wof:name":"Venezuela",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

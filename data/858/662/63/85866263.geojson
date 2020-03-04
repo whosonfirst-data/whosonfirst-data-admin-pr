@@ -80,6 +80,9 @@
         "qs:id":1330399
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9d282a696ca0f77d7c37936aadd13c25",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379432,
+    "wof:lastmodified":1582358355,
     "wof:name":"Martin Pena",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

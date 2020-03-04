@@ -117,6 +117,9 @@
         "wk:page":"Aldoar"
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1446dac85c3d7d4849d3036a1cb4ecbb",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566600225,
+    "wof:lastmodified":1582358353,
     "wof:name":"Aldoar",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",

@@ -76,6 +76,9 @@
         "qs:id":888275
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"50b5eac41c189a822a72847e597ab7eb",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379443,
+    "wof:lastmodified":1582358353,
     "wof:name":"Bolling Hills",
     "wof:parent_id":101919197,
     "wof:placetype":"neighbourhood",

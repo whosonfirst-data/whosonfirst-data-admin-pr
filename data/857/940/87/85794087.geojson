@@ -102,6 +102,9 @@
         "qs_pg:id":249472
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a99fd589545ecdabaf3d2c95e4b0d628",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600225,
+    "wof:lastmodified":1582358353,
     "wof:name":"San Jose",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

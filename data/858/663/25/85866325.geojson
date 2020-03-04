@@ -90,6 +90,9 @@
         "wk:page":"San Ant\u00f3n"
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3f46153df41573ba26a3c5a5cf5639b2",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600228,
+    "wof:lastmodified":1582358354,
     "wof:name":"San Anton",
     "wof:parent_id":101919197,
     "wof:placetype":"neighbourhood",

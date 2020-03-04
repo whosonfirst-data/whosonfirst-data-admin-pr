@@ -111,6 +111,9 @@
         "qs_pg:id":891927
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b56360ba472c534070185db35697de4f",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566600225,
+    "wof:lastmodified":1582358352,
     "wof:name":"Lapa",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",

@@ -74,6 +74,9 @@
         "qs_pg:id":230050
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e04627b968ea6107963e15944d84bcaa",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600230,
+    "wof:lastmodified":1582358355,
     "wof:name":"Tintillo Hills",
     "wof:parent_id":101919125,
     "wof:placetype":"neighbourhood",

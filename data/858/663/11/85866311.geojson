@@ -211,6 +211,9 @@
         "qs_pg:id":466562
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"09de05175fdf48cc6b518be85a115615",
     "wof:hierarchy":[
         {
@@ -228,7 +231,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600227,
+    "wof:lastmodified":1582358354,
     "wof:name":"Santa Ana",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

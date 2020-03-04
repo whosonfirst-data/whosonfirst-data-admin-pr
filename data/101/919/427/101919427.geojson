@@ -347,6 +347,9 @@
         "wd:id":"Q41211"
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d113f9f71ff8db0fe188e0bb78a3bada",
     "wof:hierarchy":[
         {
@@ -360,7 +363,7 @@
         }
     ],
     "wof:id":101919427,
-    "wof:lastmodified":1566600331,
+    "wof:lastmodified":1582358358,
     "wof:name":"San Juan",
     "wof:parent_id":102080441,
     "wof:placetype":"locality",

@@ -75,6 +75,9 @@
         "qs_pg:id":479035
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4d293afe7ceb2e0141e6cd70c5a2a8c8",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566600225,
+    "wof:lastmodified":1582358353,
     "wof:name":"Candal",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",

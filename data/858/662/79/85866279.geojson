@@ -70,6 +70,9 @@
         "qs_pg:id":1191362
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"42c502cd54162c65b26c349168ecce32",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600229,
+    "wof:lastmodified":1582358355,
     "wof:name":"Bahia Vistamar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

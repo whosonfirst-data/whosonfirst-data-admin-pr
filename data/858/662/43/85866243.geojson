@@ -159,6 +159,9 @@
         "qs_pg:id":483526
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8922888ae02e2857624de54dcc5d28bb",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600229,
+    "wof:lastmodified":1582358355,
     "wof:name":"Amelia",
     "wof:parent_id":101918955,
     "wof:placetype":"neighbourhood",

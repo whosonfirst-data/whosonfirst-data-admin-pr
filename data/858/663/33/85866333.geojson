@@ -121,6 +121,9 @@
         "qs_pg:id":224028
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bac34597a3c5b59717db42ddaceb208f",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600226,
+    "wof:lastmodified":1582358354,
     "wof:name":"Las Cruces",
     "wof:parent_id":101919197,
     "wof:placetype":"neighbourhood",

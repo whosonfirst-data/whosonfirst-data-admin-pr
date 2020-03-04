@@ -101,6 +101,9 @@
         "wk:page":"R\u00edo Piedras, Puerto Rico"
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"75500b0e6b9b4edecca42a9f65bad5ba",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379437,
+    "wof:lastmodified":1582358354,
     "wof:name":"Rio Piedras",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

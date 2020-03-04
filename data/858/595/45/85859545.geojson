@@ -111,6 +111,9 @@
         "wd:id":"Q1136674"
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"146d2bd62cd1d84f8d0649b61509085d",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600225,
+    "wof:lastmodified":1582358353,
     "wof:name":"Old San Juan",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

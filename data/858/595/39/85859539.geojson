@@ -100,6 +100,9 @@
         "wd:id":"Q3783649"
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"73deb6fac3d96917e0c6aad7dd507e63",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600226,
+    "wof:lastmodified":1582358353,
     "wof:name":"Hato Rey",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

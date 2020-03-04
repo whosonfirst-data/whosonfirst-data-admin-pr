@@ -347,6 +347,9 @@
         "wd:id":"Q83396"
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"efed2cf51869522423b1e979de13d0a7",
     "wof:hierarchy":[
         {
@@ -364,7 +367,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566600226,
+    "wof:lastmodified":1582358354,
     "wof:name":"Eleanor Roosevelt",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

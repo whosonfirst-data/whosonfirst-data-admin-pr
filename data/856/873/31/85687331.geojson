@@ -32,7 +32,7 @@
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":26658,
@@ -46,6 +46,9 @@
         "wd:id":"Q1183"
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"2b9bb3ca0e4b20f523ec20a7840e18af",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1532035626,
+    "wof:lastmodified":1582358353,
     "wof:name":"Puerto Rico",
     "wof:parent_id":85633729,
     "wof:placetype":"region",

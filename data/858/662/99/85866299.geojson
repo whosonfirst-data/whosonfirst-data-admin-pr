@@ -76,6 +76,9 @@
         "qs:id":1193348
     },
     "wof:country":"PR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"77e9bb7cd5a3512a678cf56e5b1126e8",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379435,
+    "wof:lastmodified":1582358355,
     "wof:name":"Parkside",
     "wof:parent_id":101919293,
     "wof:placetype":"neighbourhood",

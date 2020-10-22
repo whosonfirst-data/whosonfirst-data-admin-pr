@@ -9,7 +9,6 @@
     "geom:bbox":"-66.054536,18.384601,-66.054536,18.384601",
     "geom:latitude":18.384601,
     "geom:longitude":-66.054536,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-66.059536,18.379601,-66.049536,18.389601",
     "lbl:latitude":18.384601,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85866349,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358354,
+    "wof:lastmodified":1603260024,
     "wof:name":"Extension San Gerardo",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

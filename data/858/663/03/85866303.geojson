@@ -9,7 +9,6 @@
     "geom:bbox":"-66.073868,18.41558,-66.073868,18.41558",
     "geom:latitude":18.41558,
     "geom:longitude":-66.073868,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-66.078868,18.41058,-66.068868,18.42058",
     "lbl:latitude":18.41558,
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85866303,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358354,
+    "wof:lastmodified":1603260023,
     "wof:name":"Residencial Nemesio Canales",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

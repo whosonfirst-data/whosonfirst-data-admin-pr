@@ -9,7 +9,6 @@
     "geom:bbox":"-66.096497,18.43532,-66.096497,18.43532",
     "geom:latitude":18.43532,
     "geom:longitude":-66.096497,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-66.101497,18.43032,-66.091497,18.44032",
     "lbl:latitude":18.43532,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85866245,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358355,
+    "wof:lastmodified":1603260024,
     "wof:name":"Zona Portuaria",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

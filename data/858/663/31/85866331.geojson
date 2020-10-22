@@ -9,7 +9,6 @@
     "geom:bbox":"-65.975647,18.404049,-65.975647,18.404049",
     "geom:latitude":18.404049,
     "geom:longitude":-65.975647,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-65.980647,18.399049,-65.970647,18.409049",
     "lbl:latitude":18.404049,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85866331,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358354,
+    "wof:lastmodified":1603260023,
     "wof:name":"Extension El Comandante",
     "wof:parent_id":101919197,
     "wof:placetype":"neighbourhood",

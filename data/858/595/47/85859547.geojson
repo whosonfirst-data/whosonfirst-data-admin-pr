@@ -9,7 +9,6 @@
     "geom:bbox":"-66.088803,18.46654,-66.088803,18.46654",
     "geom:latitude":18.46654,
     "geom:longitude":-66.088803,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-66.093803,18.46154,-66.083803,18.47154",
     "lbl:latitude":18.46654,
@@ -178,10 +177,7 @@
         }
     ],
     "wof:id":85859547,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358353,
+    "wof:lastmodified":1603260023,
     "wof:name":"Fernandez Juncos",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

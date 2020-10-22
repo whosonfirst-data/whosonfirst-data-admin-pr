@@ -9,7 +9,6 @@
     "geom:bbox":"-66.04843,18.452208,-66.04843,18.452208",
     "geom:latitude":18.452208,
     "geom:longitude":-66.04843,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-66.05343,18.447208,-66.04343,18.457208",
     "lbl:latitude":18.452208,
@@ -98,10 +97,7 @@
         }
     ],
     "wof:id":85866261,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358354,
+    "wof:lastmodified":1603260024,
     "wof:name":"Park Boulevard",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

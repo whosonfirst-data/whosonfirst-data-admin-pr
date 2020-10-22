@@ -9,7 +9,6 @@
     "geom:bbox":"-66.073215,18.422146,-66.073215,18.422146",
     "geom:latitude":18.422146,
     "geom:longitude":-66.073215,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-66.078215,18.417146,-66.068215,18.427146",
     "lbl:latitude":18.422146,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85866257,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358354,
+    "wof:lastmodified":1603260024,
     "wof:name":"Industrial Tres Monjitas",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

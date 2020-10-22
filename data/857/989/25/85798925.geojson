@@ -9,7 +9,6 @@
     "geom:bbox":"-8.697321,41.187329,-8.697321,41.187329",
     "geom:latitude":41.187329,
     "geom:longitude":-8.697321,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-8.702321,41.182329,-8.692321,41.192329",
     "lbl:latitude":41.187329,
@@ -125,10 +124,7 @@
         }
     ],
     "wof:id":85798925,
-    "wof:lang":[
-        "por"
-    ],
-    "wof:lastmodified":1582358353,
+    "wof:lastmodified":1603260023,
     "wof:name":"Bom Jesus",
     "wof:parent_id":101759281,
     "wof:placetype":"neighbourhood",

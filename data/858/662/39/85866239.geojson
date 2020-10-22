@@ -9,7 +9,6 @@
     "geom:bbox":"-66.116078,18.419572,-66.116078,18.419572",
     "geom:latitude":18.419572,
     "geom:longitude":-66.116078,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-66.121078,18.414572,-66.111078,18.424572",
     "lbl:latitude":18.419572,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85866239,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358355,
+    "wof:lastmodified":1603260024,
     "wof:name":"Zenon Diaz Valcarcel",
     "wof:parent_id":101919293,
     "wof:placetype":"neighbourhood",

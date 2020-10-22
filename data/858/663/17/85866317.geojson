@@ -9,7 +9,6 @@
     "geom:bbox":"-66.048675,18.412633,-66.048675,18.412633",
     "geom:latitude":18.412633,
     "geom:longitude":-66.048675,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-66.053675,18.407633,-66.043675,18.417633",
     "lbl:latitude":18.412633,
@@ -109,10 +108,7 @@
         }
     ],
     "wof:id":85866317,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358354,
+    "wof:lastmodified":1603260023,
     "wof:name":"Gonzalez",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

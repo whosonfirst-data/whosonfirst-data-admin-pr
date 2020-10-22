@@ -9,7 +9,6 @@
     "geom:bbox":"-66.133352,18.40468,-66.133352,18.40468",
     "geom:latitude":18.40468,
     "geom:longitude":-66.133352,
-    "gn:id":"",
     "iso:country":"US",
     "lbl:bbox":"-66.138352,18.39968,-66.128352,18.40968",
     "lbl:latitude":18.40468,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85866285,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358355,
+    "wof:lastmodified":1603260024,
     "wof:name":"Tintillo Hills",
     "wof:parent_id":101919125,
     "wof:placetype":"neighbourhood",

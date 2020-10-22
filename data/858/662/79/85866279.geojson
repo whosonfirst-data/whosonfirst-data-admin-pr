@@ -9,7 +9,6 @@
     "geom:bbox":"-65.967942,18.451291,-65.967942,18.451291",
     "geom:latitude":18.451291,
     "geom:longitude":-65.967942,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-65.972942,18.446291,-65.962942,18.456291",
     "lbl:latitude":18.451291,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85866279,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358355,
+    "wof:lastmodified":1603260024,
     "wof:name":"Bahia Vistamar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

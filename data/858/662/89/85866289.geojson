@@ -9,7 +9,6 @@
     "geom:bbox":"-66.107483,18.388411,-66.107483,18.388411",
     "geom:latitude":18.388411,
     "geom:longitude":-66.107483,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-66.112483,18.383411,-66.102483,18.393411",
     "lbl:latitude":18.388411,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85866289,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358355,
+    "wof:lastmodified":1603260024,
     "wof:name":"Martin's Court",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-66.117806,18.466572,-66.117806,18.466572",
     "geom:latitude":18.466572,
     "geom:longitude":-66.117806,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-66.122806,18.461572,-66.112806,18.471572",
     "lbl:latitude":18.466572,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85866247,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358355,
+    "wof:lastmodified":1603260024,
     "wof:name":"San Juan Antiguo",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

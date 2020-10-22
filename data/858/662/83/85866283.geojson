@@ -9,7 +9,6 @@
     "geom:bbox":"-66.144686,18.392083,-66.144686,18.392083",
     "geom:latitude":18.392083,
     "geom:longitude":-66.144686,
-    "gn:id":"",
     "iso:country":"US",
     "lbl:bbox":"-66.149686,18.387083,-66.139686,18.397083",
     "lbl:latitude":18.392083,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85866283,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358355,
+    "wof:lastmodified":1603260024,
     "wof:name":"Caparra Arts.",
     "wof:parent_id":101919125,
     "wof:placetype":"neighbourhood",

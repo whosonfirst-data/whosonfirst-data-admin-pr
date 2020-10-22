@@ -9,7 +9,6 @@
     "geom:bbox":"-66.091766,18.343721,-66.091766,18.343721",
     "geom:latitude":18.343721,
     "geom:longitude":-66.091766,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-66.096766,18.338721,-66.086766,18.348721",
     "lbl:latitude":18.343721,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85866341,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358354,
+    "wof:lastmodified":1603260023,
     "wof:name":"Monte Alvernia",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

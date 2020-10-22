@@ -9,7 +9,6 @@
     "geom:bbox":"-66.107483,18.398836,-66.107483,18.398836",
     "geom:latitude":18.398836,
     "geom:longitude":-66.107483,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-66.112483,18.393836,-66.102483,18.403836",
     "lbl:latitude":18.398836,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85866295,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358354,
+    "wof:lastmodified":1603260024,
     "wof:name":"Mansione de Garden Hills",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

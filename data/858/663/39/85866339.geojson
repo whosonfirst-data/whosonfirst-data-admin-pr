@@ -9,7 +9,6 @@
     "geom:bbox":"-66.112523,18.360954,-66.112523,18.360954",
     "geom:latitude":18.360954,
     "geom:longitude":-66.112523,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-66.117523,18.355954,-66.107523,18.365954",
     "lbl:latitude":18.360954,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85866339,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358354,
+    "wof:lastmodified":1603260023,
     "wof:name":"Mansiones de Guaynabo",
     "wof:parent_id":101919293,
     "wof:placetype":"neighbourhood",

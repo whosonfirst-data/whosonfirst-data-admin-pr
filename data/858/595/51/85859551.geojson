@@ -9,7 +9,6 @@
     "geom:bbox":"-66.05146,18.3995,-66.05146,18.3995",
     "geom:latitude":18.3995,
     "geom:longitude":-66.05146,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-66.05646,18.3945,-66.04646,18.4045",
     "lbl:latitude":18.3995,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85859551,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358353,
+    "wof:lastmodified":1603260023,
     "wof:name":"65 de Infanteria",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

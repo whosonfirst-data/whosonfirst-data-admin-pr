@@ -9,7 +9,6 @@
     "geom:bbox":"-66.055434,18.422479,-66.055434,18.422479",
     "geom:latitude":18.422479,
     "geom:longitude":-66.055434,
-    "gn:id":"",
     "iso:country":"PR",
     "lbl:bbox":"-66.060434,18.417479,-66.050434,18.427479",
     "lbl:latitude":18.422479,
@@ -117,10 +116,7 @@
         }
     ],
     "wof:id":85859539,
-    "wof:lang":[
-        "spa"
-    ],
-    "wof:lastmodified":1582358353,
+    "wof:lastmodified":1603260023,
     "wof:name":"Hato Rey",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

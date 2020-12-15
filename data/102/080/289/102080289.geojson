@@ -116,16 +116,19 @@
     "statoids:type":"municipality",
     "wd:wordcount":1716,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
-        136253057
+        85633729,
+        136253057,
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.CT",
         "wd:id":"Q768483"
     },
+    "wof:coterminous":[
+        101918955
+    ],
     "wof:country":"PR",
     "wof:geomhash":"034423e148ba9f107bcb14d70bd01eee",
     "wof:hierarchy":[
@@ -148,7 +151,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600192,
+    "wof:lastmodified":1607986515,
     "wof:name":"Cata\u00f1o",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

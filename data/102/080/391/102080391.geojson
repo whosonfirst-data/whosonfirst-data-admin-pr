@@ -46,6 +46,9 @@
     "name:eng_x_variant":[
         "Las Piedras Municipality"
     ],
+    "name:fra_x_preferred":[
+        "Las Piedras"
+    ],
     "name:glg_x_preferred":[
         "Las Piedras"
     ],
@@ -144,7 +147,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600189,
+    "wof:lastmodified":1627522519,
     "wof:name":"Las Piedras",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

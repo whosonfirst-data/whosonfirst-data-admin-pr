@@ -43,6 +43,9 @@
     "name:eng_x_variant":[
         "Naranjito Municipality"
     ],
+    "name:fra_x_preferred":[
+        "Naranjito"
+    ],
     "name:ita_x_preferred":[
         "Naranjito"
     ],
@@ -123,7 +126,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600196,
+    "wof:lastmodified":1627522519,
     "wof:name":"Naranjito",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

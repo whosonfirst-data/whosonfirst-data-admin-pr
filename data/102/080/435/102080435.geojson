@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Gurabo Municipality"
     ],
+    "name:fra_x_preferred":[
+        "Gurabo"
+    ],
     "name:ita_x_preferred":[
         "Gurabo"
     ],
@@ -111,7 +114,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600202,
+    "wof:lastmodified":1627522518,
     "wof:name":"Gurabo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

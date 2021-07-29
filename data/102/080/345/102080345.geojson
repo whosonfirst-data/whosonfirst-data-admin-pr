@@ -34,6 +34,9 @@
     "name:eng_x_variant":[
         "Cidra Municipality"
     ],
+    "name:fra_x_preferred":[
+        "Cidra"
+    ],
     "name:spa_x_preferred":[
         "Municipio Cidra"
     ],
@@ -95,7 +98,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600203,
+    "wof:lastmodified":1627522518,
     "wof:name":"Cidra",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

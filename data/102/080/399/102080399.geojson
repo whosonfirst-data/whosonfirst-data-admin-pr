@@ -35,6 +35,9 @@
         "R\u00edo Grande Municipality",
         "R\u00edo Grande"
     ],
+    "name:fra_x_preferred":[
+        "R\u00edo Grande"
+    ],
     "name:spa_x_preferred":[
         "Municipio R\u00edo Grande"
     ],
@@ -97,7 +100,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600190,
+    "wof:lastmodified":1627522519,
     "wof:name":"R\u00edo Grande",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

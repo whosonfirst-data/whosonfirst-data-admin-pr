@@ -40,6 +40,9 @@
     "name:eng_x_variant":[
         "Aguada Municipality"
     ],
+    "name:fra_x_preferred":[
+        "Aguada"
+    ],
     "name:glg_x_preferred":[
         "Aguada"
     ],
@@ -123,7 +126,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600190,
+    "wof:lastmodified":1627522518,
     "wof:name":"Aguada",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

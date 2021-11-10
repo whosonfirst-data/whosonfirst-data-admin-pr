@@ -59,6 +59,9 @@
         "\u30a8\u30b9\u30da\u30e9\u30f3\u30b5"
     ],
     "name:kor_x_preferred":[
+        "\uc5d0\uc2a4\ud398\ub780\uc790"
+    ],
+    "name:kor_x_variant":[
         "\uc5d0\uc2a4\ud398\ub780\uc0ac"
     ],
     "name:nds_x_preferred":[
@@ -85,14 +88,29 @@
     "name:tgl_x_preferred":[
         "Esperanza"
     ],
+    "name:tur_x_preferred":[
+        "Esperanza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0441\u043f\u0435\u0440\u0430\u043d\u0441\u0430"
+    ],
     "name:und_x_variant":[
         "Minima Esperanza"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0633\u067e\u06cc\u0631\u06cc\u0646\u0632\u0627"
     ],
     "name:vie_x_preferred":[
         "Esperanza"
     ],
     "name:war_x_preferred":[
         "Esperanza"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u57c3\u65af\u4f69\u5170\u8428"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u57c3\u65af\u4f69\u862d\u85a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -107,7 +125,7 @@
         "gn:id":4564857
     },
     "wof:country":"PR",
-    "wof:geomhash":"2f4e569341c51ad09b0c2f8b5ac532da",
+    "wof:geomhash":"e5f6330ab20ae8f296436646f77bc8d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":1209951229,
-    "wof:lastmodified":1566600272,
+    "wof:lastmodified":1636502697,
     "wof:name":"Esperanza",
     "wof:parent_id":102080425,
     "wof:placetype":"locality",
@@ -130,10 +148,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -66.06766999999999,
+    -66.06767,
     18.2069,
-    -66.06766999999999,
+    -66.06767,
     18.2069
 ],
-  "geometry": {"coordinates":[-66.06766999999999,18.2069],"type":"Point"}
+  "geometry": {"coordinates":[-66.06767000000001,18.2069],"type":"Point"}
 }

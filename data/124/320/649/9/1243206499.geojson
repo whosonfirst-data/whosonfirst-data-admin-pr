@@ -46,6 +46,9 @@
     "name:fra_x_preferred":[
         "Barinas"
     ],
+    "name:hun_x_preferred":[
+        "Barinas"
+    ],
     "name:ita_x_preferred":[
         "Barinas"
     ],
@@ -77,7 +80,7 @@
         "gn:id":4562772
     },
     "wof:country":"PR",
-    "wof:geomhash":"59be92e04706d6d4f8d214876fcdff62",
+    "wof:geomhash":"3f77cdd504b19d21995d5e23e9e98bb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1243206499,
-    "wof:lastmodified":1566600383,
+    "wof:lastmodified":1636502710,
     "wof:name":"Barinas",
     "wof:parent_id":102080397,
     "wof:placetype":"locality",
@@ -101,9 +104,9 @@
 },
   "bbox": [
     -66.84323,
-    18.01357999999999,
+    18.01358,
     -66.84323,
-    18.01357999999999
+    18.01358
 ],
-  "geometry": {"coordinates":[-66.84323000000001,18.01357999999999],"type":"Point"}
+  "geometry": {"coordinates":[-66.84323000000001,18.01358],"type":"Point"}
 }

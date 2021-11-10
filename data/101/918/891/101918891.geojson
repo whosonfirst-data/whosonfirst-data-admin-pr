@@ -83,6 +83,9 @@
     "name:hin_x_preferred":[
         "\u092a\u094b\u0928\u094d\u0938"
     ],
+    "name:hun_x_preferred":[
+        "Ponce"
+    ],
     "name:hye_x_preferred":[
         "\u054a\u0578\u0576\u057d\u0565"
     ],
@@ -340,7 +343,7 @@
         }
     ],
     "wof:id":101918891,
-    "wof:lastmodified":1566600313,
+    "wof:lastmodified":1636502702,
     "wof:name":"Ponce",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

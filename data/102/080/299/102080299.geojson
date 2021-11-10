@@ -46,6 +46,9 @@
     "name:fra_x_preferred":[
         "Ponce"
     ],
+    "name:hun_x_preferred":[
+        "Ponce"
+    ],
     "name:ita_x_preferred":[
         "Ponce"
     ],
@@ -132,7 +135,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600202,
+    "wof:lastmodified":1636502691,
     "wof:name":"Ponce",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

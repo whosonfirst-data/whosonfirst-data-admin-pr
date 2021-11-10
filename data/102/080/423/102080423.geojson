@@ -46,6 +46,12 @@
     "name:hbs_x_preferred":[
         "MOCA"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e7\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Moca"
+    ],
     "name:ita_x_preferred":[
         "Moca"
     ],
@@ -135,7 +141,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600192,
+    "wof:lastmodified":1636502690,
     "wof:name":"Moca",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

@@ -23,6 +23,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09ae\u09be\u09b8"
+    ],
     "name:cat_x_preferred":[
         "Palmas"
     ],
@@ -32,7 +35,19 @@
     "name:deu_x_preferred":[
         "Palmas"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03bb\u03bc\u03b1\u03c2"
+    ],
     "name:fra_x_preferred":[
+        "Palmas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05dc\u05de\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0932\u094d\u092e\u093e\u0938"
+    ],
+    "name:ind_x_preferred":[
         "Palmas"
     ],
     "name:ita_x_preferred":[
@@ -62,6 +77,7 @@
     "name:spa_x_preferred":[
         "Palmas"
     ],
+    "name:spa_x_variant":[],
     "name:srp_x_preferred":[
         "\u041f\u0430\u043b\u043c\u0430\u0441"
     ],
@@ -70,6 +86,15 @@
     ],
     "name:szl_x_preferred":[
         "Palmas"
+    ],
+    "name:tur_x_preferred":[
+        "Palmas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043b\u044c\u043c\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0644\u0645\u0627\u0633"
     ],
     "name:vie_x_preferred":[
         "Palmas"
@@ -149,7 +174,7 @@
         }
     ],
     "wof:id":101918915,
-    "wof:lastmodified":1566600310,
+    "wof:lastmodified":1636502701,
     "wof:name":"Palmas",
     "wof:parent_id":102080285,
     "wof:placetype":"locality",

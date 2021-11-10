@@ -469,6 +469,9 @@
         "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
     ],
     "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648"
+    ],
+    "name:urd_x_variant":[
         "\u0633\u06cc\u0646\u0679\u06cc\u0627\u06af\u0648"
     ],
     "name:uzb_x_preferred":[
@@ -476,6 +479,9 @@
     ],
     "name:vep_x_preferred":[
         "Santjago"
+    ],
+    "name:vie_x_preferred":[
+        "Santiago"
     ],
     "name:vls_x_preferred":[
         "Santiago"
@@ -501,6 +507,12 @@
     "name:zea_x_preferred":[
         "Santiago"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u5730\u4e9a\u54e5\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u5730\u7259\u54e5"
+    ],
     "name:zho_x_preferred":[
         "\u5723\u5730\u4e9a\u54e5"
     ],
@@ -520,7 +532,7 @@
         "gn:id":4568248
     },
     "wof:country":"PR",
-    "wof:geomhash":"2d331e97aa4e05364b4e0c1ea7948b5f",
+    "wof:geomhash":"e375d16c463075d69e67ddbbe6370600",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -533,7 +545,7 @@
         }
     ],
     "wof:id":1310630219,
-    "wof:lastmodified":1566600296,
+    "wof:lastmodified":1636502700,
     "wof:name":"Santiago",
     "wof:parent_id":102080383,
     "wof:placetype":"locality",
@@ -543,10 +555,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -67.06629000000001,
+    -67.06629,
     18.49078,
-    -67.06629000000001,
+    -67.06629,
     18.49078
 ],
-  "geometry": {"coordinates":[-67.06629000000001,18.49078],"type":"Point"}
+  "geometry": {"coordinates":[-67.06629,18.49078],"type":"Point"}
 }

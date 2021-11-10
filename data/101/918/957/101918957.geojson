@@ -69,13 +69,23 @@
         "San Miguel de Hato Grande"
     ],
     "name:urd_x_preferred":[
-        "\u0633\u0627\u0646 \u0644\u0648\u0631\u06cc\u0646\u0633\u0648\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+        "\u0633\u0627\u0646 \u0644\u0648\u0631\u06cc\u0646\u0632\u0648"
     ],
     "name:urd_x_variant":[
-        "\u0633\u0627\u0646 \u0644\u0648\u0631\u06cc\u0646\u0633\u0648"
+        "\u0633\u0627\u0646 \u0644\u0648\u0631\u06cc\u0646\u0633\u0648",
+        "\u0633\u0627\u0646 \u0644\u0648\u0631\u06cc\u0646\u0633\u0648\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "San Lorenzo"
     ],
     "name:war_x_preferred":[
         "San Lorenzo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u6d1b\u4f26\u7d22"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u6d1b\u502b\u7d22"
     ],
     "name:zho_x_preferred":[
         "\u8056\u6d1b\u502b\u7d22"
@@ -146,7 +156,7 @@
         }
     ],
     "wof:id":101918957,
-    "wof:lastmodified":1566600311,
+    "wof:lastmodified":1636502701,
     "wof:name":"San Lorenzo",
     "wof:parent_id":102080309,
     "wof:placetype":"locality",

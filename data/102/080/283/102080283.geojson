@@ -88,6 +88,9 @@
     "name:hin_x_preferred":[
         "\u0905\u0930\u0947\u0938\u093f\u092c\u094b"
     ],
+    "name:hun_x_preferred":[
+        "Arecibo"
+    ],
     "name:ind_x_preferred":[
         "Arecibo"
     ],
@@ -244,7 +247,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600198,
+    "wof:lastmodified":1636502690,
     "wof:name":"Arecibo",
     "wof:parent_id":85687331,
     "wof:placetype":"county",

@@ -72,10 +72,13 @@
         "Porto de las Salinas"
     ],
     "name:urd_x_preferred":[
-        "\u0633\u0627\u0644\u06cc\u0646\u0627\u0633\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+        "\u0633\u0627\u0644\u06cc\u0646\u0627\u0633"
     ],
     "name:urd_x_variant":[
-        "\u0633\u0627\u0644\u06cc\u0646\u0627\u0633"
+        "\u0633\u0627\u0644\u06cc\u0646\u0627\u0633\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Salinas"
     ],
     "name:war_x_preferred":[
         "Salinas"
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101919423,
-    "wof:lastmodified":1566600319,
+    "wof:lastmodified":1636502702,
     "wof:name":"Salinas",
     "wof:parent_id":102080337,
     "wof:placetype":"locality",

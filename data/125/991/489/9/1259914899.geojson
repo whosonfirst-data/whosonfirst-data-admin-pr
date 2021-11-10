@@ -52,6 +52,12 @@
     "name:glg_x_preferred":[
         "La Romana"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05e8\u05d5\u05de\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "La Romana"
+    ],
     "name:ita_x_preferred":[
         "La romana"
     ],
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1259914899,
-    "wof:lastmodified":1566600386,
+    "wof:lastmodified":1636502710,
     "wof:name":"La Romana",
     "wof:parent_id":102080283,
     "wof:placetype":"locality",

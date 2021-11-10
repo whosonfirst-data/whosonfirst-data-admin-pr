@@ -287,10 +287,11 @@
         "Saint Iuan"
     ],
     "name:urd_x_preferred":[
-        "\u0633\u0627\u0646 \u062e\u0648\u0622\u0646"
+        "\u0633\u0627\u0646 \u062c\u0648\u0627\u0646"
     ],
     "name:urd_x_variant":[
-        "\u0633\u0627\u0646 \u062c\u0648\u0622\u0646"
+        "\u0633\u0627\u0646 \u062c\u0648\u0622\u0646",
+        "\u0633\u0627\u0646 \u062e\u0648\u0622\u0646"
     ],
     "name:uzb_x_preferred":[
         "San Xuan"
@@ -318,6 +319,12 @@
     ],
     "name:yue_x_preferred":[
         "\u8056\u74b0"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u80e1\u5b89\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u80e1\u5b89"
     ],
     "name:zho_x_preferred":[
         "\u5723\u80e1\u5b89"
@@ -364,7 +371,7 @@
         }
     ],
     "wof:id":1126038493,
-    "wof:lastmodified":1566600347,
+    "wof:lastmodified":1636502706,
     "wof:name":"San Juan",
     "wof:parent_id":102080441,
     "wof:placetype":"locality",

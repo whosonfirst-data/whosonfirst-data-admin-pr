@@ -75,10 +75,11 @@
         "\u0406\u0441\u0430\u0431\u0435\u043b\u0430"
     ],
     "name:urd_x_preferred":[
-        "\u0627\u0633\u0627\u0628\u06cc\u0644\u0627\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+        "\u0627\u06cc\u0632\u0627\u0628\u06cc\u0644\u0627"
     ],
     "name:urd_x_variant":[
-        "\u0627\u0633\u0627\u0628\u06cc\u0644\u0627"
+        "\u0627\u0633\u0627\u0628\u06cc\u0644\u0627",
+        "\u0627\u0633\u0627\u0628\u06cc\u0644\u0627\u060c \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
     ],
     "name:war_x_preferred":[
         "Isabela"
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":101919277,
-    "wof:lastmodified":1566600329,
+    "wof:lastmodified":1636502704,
     "wof:name":"Isabela",
     "wof:parent_id":102080383,
     "wof:placetype":"locality",

@@ -131,6 +131,9 @@
         "San Salvad\u00f2"
     ],
     "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05e1\u05df \u05e1\u05dc\u05d1\u05d3\u05d5\u05e8"
+    ],
+    "name:heb_x_variant":[
         "\u05e1\u05df \u05e1\u05dc\u05d5\u05d5\u05d3\u05d5\u05e8"
     ],
     "name:hif_x_preferred":[
@@ -372,7 +375,7 @@
         }
     ],
     "wof:id":1310235657,
-    "wof:lastmodified":1566600292,
+    "wof:lastmodified":1636502699,
     "wof:name":"San Salvador",
     "wof:parent_id":102080271,
     "wof:placetype":"locality",

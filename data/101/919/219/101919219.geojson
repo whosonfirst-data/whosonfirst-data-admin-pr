@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Florida"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d5\u05e8\u05d9\u05d3\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Florida"
+    ],
     "name:ita_x_preferred":[
         "Florida"
     ],
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":101919219,
-    "wof:lastmodified":1566600319,
+    "wof:lastmodified":1636502702,
     "wof:name":"Florida",
     "wof:parent_id":102080343,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014533,
-    "geom:area_square_m":170463256.179881,
+    "geom:area_square_m":170463256.179888,
     "geom:bbox":"-65.993401,18.378128,-65.805313,18.516598",
     "geom:latitude":18.457828,
     "geom:longitude":-65.902522,
@@ -127,10 +127,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.LZ",
+        "uscensus:geoid":"72087",
         "wd:id":"Q1853983"
     },
     "wof:country":"PR",
-    "wof:geomhash":"502b4cca79f55992e6855f8fec2039d4",
+    "wof:geomhash":"60e45cea3ad36c178ec30b743d63994a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,9 +152,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600191,
+    "wof:lastmodified":1684438195,
     "wof:name":"Lo\u00edza",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":30060,

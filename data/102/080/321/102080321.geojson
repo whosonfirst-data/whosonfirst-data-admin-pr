@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006659,
-    "geom:area_square_m":78200478.476721,
+    "geom:area_square_m":78200478.476865,
     "geom:bbox":"-66.190676,18.19763,-66.066103,18.303321",
     "geom:latitude":18.251074,
     "geom:longitude":-66.127346,
@@ -127,10 +127,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.AB",
+        "uscensus:geoid":"72007",
         "wd:id":"Q2361568"
     },
     "wof:country":"PR",
-    "wof:geomhash":"9050a455ace35689882bb71d85286c94",
+    "wof:geomhash":"d65a334c1a9c7d7f68e573e27880cd05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,9 +152,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600205,
+    "wof:lastmodified":1684438192,
     "wof:name":"Aguas Buenas",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":28659,

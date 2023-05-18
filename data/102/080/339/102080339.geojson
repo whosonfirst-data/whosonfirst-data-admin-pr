@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010302,
-    "geom:area_square_m":120899717.189396,
+    "geom:area_square_m":120899717.189394,
     "geom:bbox":"-65.770556,18.288031,-65.646083,18.444024",
     "geom:latitude":18.368664,
     "geom:longitude":-65.712153,
@@ -127,10 +127,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.LQ",
+        "uscensus:geoid":"72089",
         "wd:id":"Q1984618"
     },
     "wof:country":"PR",
-    "wof:geomhash":"fb069723f3bfb9bf8b963560b4e2842f",
+    "wof:geomhash":"4aed70fdde163eeee1c1ca066a71687a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,9 +152,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600190,
+    "wof:lastmodified":1684438195,
     "wof:name":"Luquillo",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":20068,

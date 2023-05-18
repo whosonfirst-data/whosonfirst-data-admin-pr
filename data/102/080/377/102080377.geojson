@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008189,
-    "geom:area_square_m":96233694.547015,
+    "geom:area_square_m":96233694.546979,
     "geom:bbox":"-66.530043,18.080915,-66.418716,18.178854",
     "geom:latitude":18.128174,
     "geom:longitude":-66.472804,
@@ -120,10 +120,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.VL"
+        "hasc:id":"PR.VL",
+        "uscensus:geoid":"72149"
     },
     "wof:country":"PR",
-    "wof:geomhash":"d7792b50239743f889398e31ba0f3451",
+    "wof:geomhash":"075645bdbe7084bbe124e6f5206cc1ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -144,9 +145,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600194,
+    "wof:lastmodified":1684438198,
     "wof:name":"Villalba",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":26073,

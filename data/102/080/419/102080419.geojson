@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011488,
-    "geom:area_square_m":135017605.608895,
+    "geom:area_square_m":135017605.608981,
     "geom:bbox":"-66.227059,18.036917,-66.051162,18.169077",
     "geom:latitude":18.102923,
     "geom:longitude":-66.149502,
@@ -130,10 +130,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.CY",
+        "uscensus:geoid":"72035",
         "wd:id":"Q2307508"
     },
     "wof:country":"PR",
-    "wof:geomhash":"6d8011f46a41477e4cf40a7cd28972f3",
+    "wof:geomhash":"5f74ae4e3449d66d216014c4361b550d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -154,9 +155,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600198,
+    "wof:lastmodified":1684438193,
     "wof:name":"Cayey",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":48119,

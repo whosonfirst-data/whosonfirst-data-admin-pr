@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014997,
-    "geom:area_square_m":176344125.076103,
+    "geom:area_square_m":176344125.076073,
     "geom:bbox":"-66.775486,17.912068,-66.676826,18.135002",
     "geom:latitude":18.024444,
     "geom:longitude":-66.727946,
@@ -124,10 +124,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.PN",
+        "uscensus:geoid":"72111",
         "wd:id":"Q369880"
     },
     "wof:country":"PR",
-    "wof:geomhash":"08d8aac53d657a553234898ffabaa01e",
+    "wof:geomhash":"c768d7715d5ed8a3679bdfc84358bf10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,9 +149,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600204,
+    "wof:lastmodified":1684438196,
     "wof:name":"Pe\u00f1uelas",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":24282,

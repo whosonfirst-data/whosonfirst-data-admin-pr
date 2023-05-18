@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023669,
-    "geom:area_square_m":278354879.975739,
+    "geom:area_square_m":278354879.97589,
     "geom:bbox":"-66.565363,17.841558,-66.420939,18.153175",
     "geom:latitude":17.997218,
     "geom:longitude":-66.490372,
@@ -124,10 +124,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.JD",
+        "uscensus:geoid":"72075",
         "wd:id":"Q2361577"
     },
     "wof:country":"PR",
-    "wof:geomhash":"a61de7eb5befd5fab3a92baa2b31a895",
+    "wof:geomhash":"b74ddaa3d3ed80cb504578d27595db16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,9 +149,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600192,
+    "wof:lastmodified":1684438195,
     "wof:name":"Juana D\u00edaz",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":50747,

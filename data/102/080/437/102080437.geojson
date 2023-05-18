@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008101,
-    "geom:area_square_m":95172829.445628,
+    "geom:area_square_m":95172829.44568,
     "geom:bbox":"-67.051461,18.137981,-66.83676,18.207916",
     "geom:latitude":18.172094,
     "geom:longitude":-66.942283,
@@ -112,10 +112,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.MR",
+        "uscensus:geoid":"72093",
         "wd:id":"Q2624359"
     },
     "wof:country":"PR",
-    "wof:geomhash":"180bbec73a69f9458ff762addef005a0",
+    "wof:geomhash":"2e9fef1cc903c55950d8411fe7af4907",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,9 +137,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600193,
+    "wof:lastmodified":1684438195,
     "wof:name":"Maricao",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":6276,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009855,
-    "geom:area_square_m":115664202.903364,
+    "geom:area_square_m":115664202.903401,
     "geom:bbox":"-66.213537,18.25884,-66.11836,18.430998",
     "geom:latitude":18.349636,
     "geom:longitude":-66.168336,
@@ -169,10 +169,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.BY",
+        "uscensus:geoid":"72021",
         "wd:id":"Q739675"
     },
     "wof:country":"PR",
-    "wof:geomhash":"9d85db20a37bf858e3b14f5f6ef45962",
+    "wof:geomhash":"28e52feee7036135cbf35e0913638a1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -193,9 +194,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600199,
+    "wof:lastmodified":1684438192,
     "wof:name":"Bayam\u00f3n",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":208116,

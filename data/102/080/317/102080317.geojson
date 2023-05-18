@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014763,
-    "geom:area_square_m":173328583.35123,
+    "geom:area_square_m":173328583.35124,
     "geom:bbox":"-66.611124,18.155662,-66.453353,18.371834",
     "geom:latitude":18.289018,
     "geom:longitude":-66.516442,
@@ -118,10 +118,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.CL",
+        "uscensus:geoid":"72039",
         "wd:id":"Q2485522"
     },
     "wof:country":"PR",
-    "wof:geomhash":"13ef0a4a99429f8bc5c9d6fbb99bf7d3",
+    "wof:geomhash":"39a034d12c4195525e56d41bde232029",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,9 +143,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600204,
+    "wof:lastmodified":1684438193,
     "wof:name":"Ciales",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":18782,

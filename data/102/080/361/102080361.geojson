@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004733,
-    "geom:area_square_m":55557538.04994,
+    "geom:area_square_m":55557538.049966,
     "geom:bbox":"-66.041535,18.293326,-65.938861,18.380683",
     "geom:latitude":18.336311,
     "geom:longitude":-65.999124,
@@ -130,10 +130,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.TJ",
+        "uscensus:geoid":"72139",
         "wd:id":"Q1150895"
     },
     "wof:country":"PR",
-    "wof:geomhash":"4533eeb028a6f09f0b8372fabd6b3eb7",
+    "wof:geomhash":"1e239a76c7137bcaf32f8bb03de3e7dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -154,9 +155,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600195,
+    "wof:lastmodified":1684438197,
     "wof:name":"Trujillo Alto",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":74842,

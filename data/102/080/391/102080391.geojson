@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007497,
-    "geom:area_square_m":88066064.558385,
+    "geom:area_square_m":88066064.558429,
     "geom:bbox":"-65.928341,18.117735,-65.815653,18.275246",
     "geom:latitude":18.187527,
     "geom:longitude":-65.869317,
@@ -123,10 +123,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.LP"
+        "hasc:id":"PR.LP",
+        "uscensus:geoid":"72085"
     },
     "wof:country":"PR",
-    "wof:geomhash":"6396350964aea40d6640330b108743c6",
+    "wof:geomhash":"51def9fde23e80fb215485cd7cc538d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -147,9 +148,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1627522519,
+    "wof:lastmodified":1684438195,
     "wof:name":"Las Piedras",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":38675,

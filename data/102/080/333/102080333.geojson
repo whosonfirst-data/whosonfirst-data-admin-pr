@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007584,
-    "geom:area_square_m":89080243.048241,
+    "geom:area_square_m":89080243.048271,
     "geom:bbox":"-66.373896,18.152088,-66.240357,18.249704",
     "geom:latitude":18.201706,
     "geom:longitude":-66.309873,
@@ -115,10 +115,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.BQ",
+        "uscensus:geoid":"72019",
         "wd:id":"Q2485615"
     },
     "wof:country":"PR",
-    "wof:geomhash":"eac31a0d222c3a81c6d25d8f969d0132",
+    "wof:geomhash":"e4860ebfd96e49590e132f70776d45a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,9 +140,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600198,
+    "wof:lastmodified":1684438192,
     "wof:name":"Barranquitas",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":30318,

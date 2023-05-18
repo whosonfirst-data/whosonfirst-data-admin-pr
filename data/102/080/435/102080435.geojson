@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006265,
-    "geom:area_square_m":73567761.929444,
+    "geom:area_square_m":73567761.929458,
     "geom:bbox":"-66.030747,18.206992,-65.918535,18.311183",
     "geom:latitude":18.266411,
     "geom:longitude":-65.979269,
@@ -90,10 +90,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.GR"
+        "hasc:id":"PR.GR",
+        "uscensus:geoid":"72063"
     },
     "wof:country":"PR",
-    "wof:geomhash":"eb383c8db75dcbf9c9d3aeff5c066e42",
+    "wof:geomhash":"b1a80c7c0b09d754dff3769a0b819a3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -114,9 +115,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1627522518,
+    "wof:lastmodified":1684438194,
     "wof:name":"Gurabo",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":45369,

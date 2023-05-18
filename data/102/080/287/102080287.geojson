@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023321,
-    "geom:area_square_m":273681053.784652,
+    "geom:area_square_m":273681053.784602,
     "geom:bbox":"-65.753591,18.267574,-65.469132,18.45126",
     "geom:latitude":18.362209,
     "geom:longitude":-65.606561,
@@ -137,10 +137,11 @@
     "wof:concordances":{
         "gp:id":26806263,
         "hasc:id":"PR.FJ",
+        "uscensus:geoid":"72053",
         "wd:id":"Q542833"
     },
     "wof:country":"PR",
-    "wof:geomhash":"deeaf11e630f9fdba6981f47d8160d2c",
+    "wof:geomhash":"085a1c663e99a95e36fa141233b924a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -161,9 +162,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600191,
+    "wof:lastmodified":1684438194,
     "wof:name":"Fajardo",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":36993,

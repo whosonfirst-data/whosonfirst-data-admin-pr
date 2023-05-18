@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010084,
-    "geom:area_square_m":118328283.284505,
+    "geom:area_square_m":118328283.284474,
     "geom:bbox":"-67.249384,18.312691,-67.126434,18.44228",
     "geom:latitude":18.376289,
     "geom:longitude":-67.186729,
@@ -102,10 +102,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.AD"
+        "hasc:id":"PR.AD",
+        "uscensus:geoid":"72003"
     },
     "wof:country":"PR",
-    "wof:geomhash":"b6a8e326c548d9dcb02e0dcee62df4de",
+    "wof:geomhash":"b1b27b3e7ec29834d20c8b31273eac16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,9 +127,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1627522518,
+    "wof:lastmodified":1684438191,
     "wof:name":"Aguada",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":41959,

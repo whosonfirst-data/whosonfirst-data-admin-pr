@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009262,
-    "geom:area_square_m":108630238.98861,
+    "geom:area_square_m":108630238.988596,
     "geom:bbox":"-66.264379,18.389289,-66.128966,18.526271",
     "geom:latitude":18.457237,
     "geom:longitude":-66.190582,
@@ -121,10 +121,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.TB",
+        "uscensus:geoid":"72137",
         "wd:id":"Q2238070"
     },
     "wof:country":"PR",
-    "wof:geomhash":"4f77659511f28f88bba8252b602a8ba7",
+    "wof:geomhash":"08ebb3c8899bb80a156e4e47f0765b23",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,9 +146,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600203,
+    "wof:lastmodified":1684438197,
     "wof:name":"Toa Baja",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":89609,

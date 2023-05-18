@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01484,
-    "geom:area_square_m":174342351.463546,
+    "geom:area_square_m":174342351.463548,
     "geom:bbox":"-66.837235,18.111929,-66.664697,18.250344",
     "geom:latitude":18.179733,
     "geom:longitude":-66.753957,
@@ -133,10 +133,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.AJ",
+        "uscensus:geoid":"72001",
         "wd:id":"Q1864884"
     },
     "wof:country":"PR",
-    "wof:geomhash":"2d211c0fbb5dd42d25cb15d401ea2fdb",
+    "wof:geomhash":"a530800eb07d74d8c6a781ccab89cc75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,9 +158,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600197,
+    "wof:lastmodified":1684438191,
     "wof:name":"Adjuntas",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":19483,

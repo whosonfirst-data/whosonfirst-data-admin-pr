@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005888,
-    "geom:area_square_m":69156854.873505,
+    "geom:area_square_m":69156854.873342,
     "geom:bbox":"-65.951741,18.142845,-65.851729,18.27013",
     "geom:latitude":18.223517,
     "geom:longitude":-65.908898,
@@ -115,10 +115,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.JC",
+        "uscensus:geoid":"72077",
         "wd:id":"Q2347667"
     },
     "wof:country":"PR",
-    "wof:geomhash":"b10b5d30676c83b0483d238037c71820",
+    "wof:geomhash":"96ea1e163f4e276f9b28b20b0042aa99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,9 +140,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600190,
+    "wof:lastmodified":1684438195,
     "wof:name":"Juncos",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":40290,

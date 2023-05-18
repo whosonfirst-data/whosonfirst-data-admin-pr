@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007923,
-    "geom:area_square_m":93134669.783083,
+    "geom:area_square_m":93134669.782903,
     "geom:bbox":"-66.985147,18.023247,-66.884653,18.151434",
     "geom:latitude":18.082937,
     "geom:longitude":-66.943579,
@@ -96,10 +96,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.SB"
+        "hasc:id":"PR.SB",
+        "uscensus:geoid":"72121"
     },
     "wof:country":"PR",
-    "wof:geomhash":"2a99fc0c940dbbcf814a99577a917031",
+    "wof:geomhash":"c2db1bb532b2d31ef17d590108f19275",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -120,9 +121,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600195,
+    "wof:lastmodified":1684438197,
     "wof:name":"Sabana Grande",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":25265,

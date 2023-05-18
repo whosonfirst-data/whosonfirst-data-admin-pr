@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04278,
-    "geom:area_square_m":503079219.394447,
+    "geom:area_square_m":503079219.394507,
     "geom:bbox":"-66.715244,17.831509,-66.499601,18.172482",
     "geom:latitude":18.002727,
     "geom:longitude":-66.607259,
@@ -111,10 +111,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.PO"
+        "hasc:id":"PR.PO",
+        "uscensus:geoid":"72113"
     },
     "wof:country":"PR",
-    "wof:geomhash":"679ce59be0ac2119e84adf106ae4409c",
+    "wof:geomhash":"a3111af84a74805224008dc122fd75da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,9 +136,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1636502691,
+    "wof:lastmodified":1684438196,
     "wof:name":"Ponce",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":166327,

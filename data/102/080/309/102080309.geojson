@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011766,
-    "geom:area_square_m":138252921.519734,
+    "geom:area_square_m":138252921.519658,
     "geom:bbox":"-66.052736,18.075565,-65.920545,18.229431",
     "geom:latitude":18.147998,
     "geom:longitude":-65.976454,
@@ -192,10 +192,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.SL"
+        "hasc:id":"PR.SL",
+        "uscensus:geoid":"72129"
     },
     "wof:country":"PR",
-    "wof:geomhash":"829a9911af15ff412e0c39b03e79ff33",
+    "wof:geomhash":"ef9934ac0a26e0715c8ac85882855504",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -216,9 +217,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1636502689,
+    "wof:lastmodified":1684438197,
     "wof:name":"San Lorenzo",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":41058,

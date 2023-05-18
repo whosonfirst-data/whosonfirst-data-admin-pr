@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019824,
-    "geom:area_square_m":232632410.063323,
+    "geom:area_square_m":232632410.063351,
     "geom:bbox":"-65.876845,18.27168,-65.713825,18.478253",
     "geom:latitude":18.375556,
     "geom:longitude":-65.800243,
@@ -76,10 +76,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.RG"
+        "hasc:id":"PR.RG",
+        "uscensus:geoid":"72119"
     },
     "wof:country":"PR",
-    "wof:geomhash":"918b86955acb39dbe680760cd654d3d6",
+    "wof:geomhash":"ed0e412954f953b1b0338316cd89303b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -100,9 +101,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1627522519,
+    "wof:lastmodified":1684438197,
     "wof:name":"R\u00edo Grande",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":54304,

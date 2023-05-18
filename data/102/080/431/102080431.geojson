@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00693,
-    "geom:area_square_m":81430757.374543,
+    "geom:area_square_m":81430757.374561,
     "geom:bbox":"-66.320913,18.075884,-66.216397,18.180381",
     "geom:latitude":18.131132,
     "geom:longitude":-66.26438,
@@ -130,10 +130,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.AI",
+        "uscensus:geoid":"72009",
         "wd:id":"Q2485628"
     },
     "wof:country":"PR",
-    "wof:geomhash":"422cb25241d1f971e627746936f9cb14",
+    "wof:geomhash":"3448e9c366342845ad483264a100afff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -154,9 +155,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600193,
+    "wof:lastmodified":1684438192,
     "wof:name":"Aibonito",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":25900,

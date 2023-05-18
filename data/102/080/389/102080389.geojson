@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008455,
-    "geom:area_square_m":99435292.242055,
+    "geom:area_square_m":99435292.242093,
     "geom:bbox":"-65.98912,17.937895,-65.816449,18.061282",
     "geom:latitude":17.997984,
     "geom:longitude":-65.8953,
@@ -112,10 +112,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.MB",
+        "uscensus:geoid":"72095",
         "wd:id":"Q967149"
     },
     "wof:country":"PR",
-    "wof:geomhash":"aac0a6552541f0315f2a3785ba25daed",
+    "wof:geomhash":"76faa7a56c1a08b160ae340b2c813219",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,9 +137,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600203,
+    "wof:lastmodified":1684438196,
     "wof:name":"Maunabo",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":12225,

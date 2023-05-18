@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014109,
-    "geom:area_square_m":165712900.272967,
+    "geom:area_square_m":165712900.27293,
     "geom:bbox":"-66.54722,18.147365,-66.350278,18.293976",
     "geom:latitude":18.214902,
     "geom:longitude":-66.433996,
@@ -124,10 +124,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.OR",
+        "uscensus:geoid":"72107",
         "wd:id":"Q2624345"
     },
     "wof:country":"PR",
-    "wof:geomhash":"ce2095703b3d0289dc731d738e318b17",
+    "wof:geomhash":"9d85aeae119fdab2c1209a6eeecec328",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,9 +149,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600200,
+    "wof:lastmodified":1684438196,
     "wof:name":"Orocovis",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":23423,

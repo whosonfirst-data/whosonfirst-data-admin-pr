@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01364,
-    "geom:area_square_m":160157566.173705,
+    "geom:area_square_m":160157566.173671,
     "geom:bbox":"-66.912859,18.170344,-66.817133,18.368177",
     "geom:latitude":18.268677,
     "geom:longitude":-66.86678,
@@ -175,10 +175,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.LR",
+        "uscensus:geoid":"72081",
         "wd:id":"Q504377"
     },
     "wof:country":"PR",
-    "wof:geomhash":"4146cdc41f7e710c7c2b42e452fe76d4",
+    "wof:geomhash":"5c8d4f08648a970c8f3976e89d6205b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -199,9 +200,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600194,
+    "wof:lastmodified":1684438195,
     "wof:name":"Lares",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":30753,

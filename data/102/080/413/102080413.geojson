@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008306,
-    "geom:area_square_m":97436326.33371,
+    "geom:area_square_m":97436326.33385,
     "geom:bbox":"-66.378134,18.330622,-66.299597,18.541014",
     "geom:latitude":18.435393,
     "geom:longitude":-66.335596,
@@ -133,10 +133,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.VA",
+        "uscensus:geoid":"72143",
         "wd:id":"Q2640843"
     },
     "wof:country":"PR",
-    "wof:geomhash":"4a6d2a8f17d93cc0f0282679ecd5ca0e",
+    "wof:geomhash":"07e847a39f6caad066f13dff2612e204",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,9 +158,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600192,
+    "wof:lastmodified":1684438198,
     "wof:name":"Vega Alta",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":39951,

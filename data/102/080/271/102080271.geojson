@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015658,
-    "geom:area_square_m":183665128.072426,
+    "geom:area_square_m":183665128.072439,
     "geom:bbox":"-66.543785,18.350255,-66.436752,18.540805",
     "geom:latitude":18.449576,
     "geom:longitude":-66.487727,
@@ -130,10 +130,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.MT",
+        "uscensus:geoid":"72091",
         "wd:id":"Q674599"
     },
     "wof:country":"PR",
-    "wof:geomhash":"ec5876b85864a0c57930139635fecfa0",
+    "wof:geomhash":"750e6c38f12e3344882a1f2331e7bd83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -154,9 +155,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600200,
+    "wof:lastmodified":1684438195,
     "wof:name":"Manat\u00ed",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":44113,

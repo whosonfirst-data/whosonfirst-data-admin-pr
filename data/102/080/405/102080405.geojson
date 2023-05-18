@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009852,
-    "geom:area_square_m":115718113.034221,
+    "geom:area_square_m":115718113.034151,
     "geom:bbox":"-66.65455,18.149659,-66.531023,18.300412",
     "geom:latitude":18.210646,
     "geom:longitude":-66.588445,
@@ -127,10 +127,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.JY",
+        "uscensus:geoid":"72073",
         "wd:id":"Q2095818"
     },
     "wof:country":"PR",
-    "wof:geomhash":"0a1f773933d211a93267c05f8507a5d8",
+    "wof:geomhash":"e383e810219b8a0df545e67ec63d7390",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,9 +152,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600201,
+    "wof:lastmodified":1684438195,
     "wof:name":"Jayuya",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":16642,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007875,
-    "geom:area_square_m":92632286.156719,
+    "geom:area_square_m":92632286.156726,
     "geom:bbox":"-66.095209,17.894131,-65.987551,18.040472",
     "geom:latitude":17.95859,
     "geom:longitude":-66.041855,
@@ -122,10 +122,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.AR"
+        "hasc:id":"PR.AR",
+        "uscensus:geoid":"72015"
     },
     "wof:country":"PR",
-    "wof:geomhash":"2f94dcfcf300410942df24296b511a36",
+    "wof:geomhash":"a2f343aa1adcb6f5082815fbe330bcd3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -146,9 +147,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600200,
+    "wof:lastmodified":1684438192,
     "wof:name":"Arroyo",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":19575,

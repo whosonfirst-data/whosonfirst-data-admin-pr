@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003371,
-    "geom:area_square_m":39552609.086876,
+    "geom:area_square_m":39552609.086858,
     "geom:bbox":"-66.591656,18.337308,-66.530529,18.413309",
     "geom:latitude":18.373444,
     "geom:longitude":-66.560214,
@@ -584,10 +584,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.FL"
+        "hasc:id":"PR.FL",
+        "uscensus:geoid":"72054"
     },
     "wof:country":"PR",
-    "wof:geomhash":"9ae6101d61bf306b4a6b50c04e1d16d9",
+    "wof:geomhash":"34bdc8d124a2f3a679f9c7ba8d1a583d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -608,9 +609,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600205,
+    "wof:lastmodified":1684438194,
     "wof:name":"Florida",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":12680,

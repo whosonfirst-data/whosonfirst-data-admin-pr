@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006311,
-    "geom:area_square_m":74116580.524763,
+    "geom:area_square_m":74116580.524724,
     "geom:bbox":"-66.270994,18.172858,-66.168775,18.277096",
     "geom:latitude":18.224743,
     "geom:longitude":-66.221819,
@@ -118,10 +118,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.CM",
+        "uscensus:geoid":"72045",
         "wd:id":"Q2222328"
     },
     "wof:country":"PR",
-    "wof:geomhash":"200b8b150522f6efade15cbd20dd9113",
+    "wof:geomhash":"91f581791e45b3bea1bc558625bb01fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,9 +143,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600201,
+    "wof:lastmodified":1684438194,
     "wof:name":"Comer\u00edo",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":20778,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025464,
-    "geom:area_square_m":298992608.393257,
+    "geom:area_square_m":298992608.393386,
     "geom:bbox":"-66.831243,18.150682,-66.566556,18.349698",
     "geom:latitude":18.271003,
     "geom:longitude":-66.702448,
@@ -124,10 +124,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.UT",
+        "uscensus:geoid":"72141",
         "wd:id":"Q617096"
     },
     "wof:country":"PR",
-    "wof:geomhash":"f2d730ee3b8017e8bcca7e91d629e249",
+    "wof:geomhash":"3512d7ce03ef2f6c853cb1b9feb8da7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,9 +149,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600201,
+    "wof:lastmodified":1684438198,
     "wof:name":"Utuado",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":33149,

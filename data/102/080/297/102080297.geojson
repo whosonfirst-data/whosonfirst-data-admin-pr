@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014196,
-    "geom:area_square_m":166937313.210103,
+    "geom:area_square_m":166937313.210008,
     "geom:bbox":"-66.858233,17.898993,-66.732974,18.138652",
     "geom:latitude":18.00712,
     "geom:longitude":-66.797129,
@@ -115,10 +115,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.GL",
+        "uscensus:geoid":"72059",
         "wd:id":"Q2333093"
     },
     "wof:country":"PR",
-    "wof:geomhash":"b8007276e3573273aec11d4560b5c18f",
+    "wof:geomhash":"f9dabec7419cbf169af556d2c2ddc1a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,9 +140,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600202,
+    "wof:lastmodified":1684438194,
     "wof:name":"Guayanilla",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":21581,

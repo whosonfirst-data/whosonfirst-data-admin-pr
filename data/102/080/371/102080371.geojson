@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018399,
-    "geom:area_square_m":216302854.805142,
+    "geom:area_square_m":216302854.80505,
     "geom:bbox":"-66.010887,17.965504,-65.739112,18.126145",
     "geom:latitude":18.055966,
     "geom:longitude":-65.863302,
@@ -121,10 +121,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.YB",
+        "uscensus:geoid":"72151",
         "wd:id":"Q2361097"
     },
     "wof:country":"PR",
-    "wof:geomhash":"e1ed923c202eb27fe0cde54dc835a3f3",
+    "wof:geomhash":"166b37661bb9a0df9f69dcaf1d0ec70f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,9 +146,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600195,
+    "wof:lastmodified":1684438198,
     "wof:name":"Yabucoa",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":37941,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008063,
-    "geom:area_square_m":94725422.636798,
+    "geom:area_square_m":94725422.636867,
     "geom:bbox":"-66.243315,18.132577,-66.094522,18.230373",
     "geom:latitude":18.173709,
     "geom:longitude":-66.160928,
@@ -74,10 +74,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.CD"
+        "hasc:id":"PR.CD",
+        "uscensus:geoid":"72041"
     },
     "wof:country":"PR",
-    "wof:geomhash":"7f9f300c958e7986843c7bed1951452b",
+    "wof:geomhash":"a56d0c21860fd31db2071392f6359b11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,9 +99,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1627522518,
+    "wof:lastmodified":1684438193,
     "wof:name":"Cidra",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":43480,

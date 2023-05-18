@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00761,
-    "geom:area_square_m":89257423.861833,
+    "geom:area_square_m":89257423.861936,
     "geom:bbox":"-66.968564,18.36561,-66.8989,18.540451",
     "geom:latitude":18.463048,
     "geom:longitude":-66.926266,
@@ -118,10 +118,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.QB",
+        "uscensus:geoid":"72115",
         "wd:id":"Q2057872"
     },
     "wof:country":"PR",
-    "wof:geomhash":"d51fac8c56f44af8ce13acc73c89c45a",
+    "wof:geomhash":"0da89cd99fdd608551b0600342747236",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,9 +143,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600195,
+    "wof:lastmodified":1684438196,
     "wof:name":"Quebradillas",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":25919,

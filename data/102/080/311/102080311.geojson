@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060623,
-    "geom:area_square_m":712183529.824191,
+    "geom:area_square_m":712183529.824687,
     "geom:bbox":"-67.998751,17.999432,-67.017388,18.438615",
     "geom:latitude":18.183101,
     "geom:longitude":-67.605067,
@@ -214,10 +214,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.MG",
+        "uscensus:geoid":"72097",
         "wd:id":"Q632727"
     },
     "wof:country":"PR",
-    "wof:geomhash":"2ca5b31d9b1744bc7f11e9d6868fd7ec",
+    "wof:geomhash":"85c2131be9422248d3cf645c930faf09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -238,9 +239,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600203,
+    "wof:lastmodified":1684438196,
     "wof:name":"Mayag\u00fcez",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":89080,

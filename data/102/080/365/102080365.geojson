@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006147,
-    "geom:area_square_m":72142350.363193,
+    "geom:area_square_m":72142350.363122,
     "geom:bbox":"-66.144119,18.2777,-66.080428,18.440542",
     "geom:latitude":18.343826,
     "geom:longitude":-66.114051,
@@ -136,10 +136,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.GB",
+        "uscensus:geoid":"72061",
         "wd:id":"Q590060"
     },
     "wof:country":"PR",
-    "wof:geomhash":"5500733b08ed2daf30c8bd47043e1b2b",
+    "wof:geomhash":"762d42801053709e09bd5214687c3fa2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -160,9 +161,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600189,
+    "wof:lastmodified":1684438194,
     "wof:name":"Guaynabo",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":97924,

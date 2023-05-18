@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006102,
-    "geom:area_square_m":71608264.968592,
+    "geom:area_square_m":71608264.968605,
     "geom:bbox":"-66.319241,18.315908,-66.19698,18.401477",
     "geom:latitude":18.362547,
     "geom:longitude":-66.246423,
@@ -118,10 +118,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.TA",
+        "uscensus:geoid":"72135",
         "wd:id":"Q2485509"
     },
     "wof:country":"PR",
-    "wof:geomhash":"0d854ef9e88838d1b9e26733f953aadb",
+    "wof:geomhash":"2308785765840e19e49cc10b561584ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,9 +143,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600196,
+    "wof:lastmodified":1684438197,
     "wof:name":"Toa Alta",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":74066,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013016,
-    "geom:area_square_m":152678615.719334,
+    "geom:area_square_m":152678615.719348,
     "geom:bbox":"-66.838706,18.320614,-66.764548,18.543784",
     "geom:latitude":18.441029,
     "geom:longitude":-66.797715,
@@ -93,10 +93,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.HA"
+        "hasc:id":"PR.HA",
+        "uscensus:geoid":"72065"
     },
     "wof:country":"PR",
-    "wof:geomhash":"5155392e01b53fc5d9634334dfb3f5c5",
+    "wof:geomhash":"134fda499bcbfc86d5fc2bebc411f21c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -117,9 +118,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600205,
+    "wof:lastmodified":1684438194,
     "wof:name":"Hatillo",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":41953,

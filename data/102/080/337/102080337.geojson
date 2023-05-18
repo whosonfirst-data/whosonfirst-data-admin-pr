@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025212,
-    "geom:area_square_m":296541034.588904,
+    "geom:area_square_m":296541034.588795,
     "geom:bbox":"-66.342607,17.862241,-66.166145,18.095925",
     "geom:latitude":17.972954,
     "geom:longitude":-66.261976,
@@ -184,10 +184,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26806666,
-        "hasc:id":"PR.SA"
+        "hasc:id":"PR.SA",
+        "uscensus:geoid":"72123"
     },
     "wof:country":"PR",
-    "wof:geomhash":"c9ff7d08916d3f841a7404ee65eb13b1",
+    "wof:geomhash":"d47db8c47d5340cec235c1fa21543350",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -208,9 +209,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1636502689,
+    "wof:lastmodified":1684438197,
     "wof:name":"Salinas",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":31078,

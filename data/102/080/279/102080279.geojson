@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01725,
-    "geom:area_square_m":202749644.725773,
+    "geom:area_square_m":202749644.725728,
     "geom:bbox":"-66.44456,18.015455,-66.257527,18.176736",
     "geom:latitude":18.097305,
     "geom:longitude":-66.36017,
@@ -127,10 +127,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.CO",
+        "uscensus:geoid":"72043",
         "wd:id":"Q1942303"
     },
     "wof:country":"PR",
-    "wof:geomhash":"776ef71caa7df7191d0d004f5abfa15d",
+    "wof:geomhash":"f6b665625e8d0d1c75e5f75a99311c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,9 +152,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600199,
+    "wof:lastmodified":1684438194,
     "wof:name":"Coamo",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":40512,

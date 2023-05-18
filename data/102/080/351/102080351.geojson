@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015787,
-    "geom:area_square_m":185519690.907205,
+    "geom:area_square_m":185519690.907113,
     "geom:bbox":"-65.877615,18.069306,-65.699335,18.206759",
     "geom:latitude":18.133208,
     "geom:longitude":-65.787794,
@@ -127,10 +127,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.HU",
+        "uscensus:geoid":"72069",
         "wd:id":"Q2307535"
     },
     "wof:country":"PR",
-    "wof:geomhash":"8333bcde0e84b6bb63fa842129be9d9d",
+    "wof:geomhash":"6e47d4dd9abe855f7bc62e522093f34b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,9 +152,9 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600197,
+    "wof:lastmodified":1684438195,
     "wof:name":"Humacao",
-    "wof:parent_id":85687331,
+    "wof:parent_id":"85633729",
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
     "wof:population":58466,

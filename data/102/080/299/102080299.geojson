@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04278,
-    "geom:area_square_m":503079219.394447,
+    "geom:area_square_m":503079219.394507,
     "geom:bbox":"-66.715244,17.831509,-66.499601,18.172482",
     "geom:latitude":18.002727,
     "geom:longitude":-66.607259,
@@ -88,8 +88,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"297",
     "statoids:area_mi":"115",
     "statoids:as_of_date":"2010-04-01",
@@ -102,6 +102,8 @@
     "statoids:population":"166327",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":137149,
+    "uscensus:population_year":2020,
     "wd:wordcount":91,
     "wof:belongsto":[
         85633729,
@@ -111,10 +113,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.PO"
+        "hasc:id":"PR.PO",
+        "uscensus:geoid":"72113"
     },
     "wof:country":"PR",
-    "wof:geomhash":"679ce59be0ac2119e84adf106ae4409c",
+    "wof:geomhash":"a3111af84a74805224008dc122fd75da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,12 +138,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1636502691,
+    "wof:lastmodified":1684476306,
     "wof:name":"Ponce",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":166327,
+    "wof:population":137149,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"PO",

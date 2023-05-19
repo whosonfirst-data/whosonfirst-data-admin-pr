@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007497,
-    "geom:area_square_m":88066064.558385,
+    "geom:area_square_m":88066064.558429,
     "geom:bbox":"-65.928341,18.117735,-65.815653,18.275246",
     "geom:latitude":18.187527,
     "geom:longitude":-65.869317,
@@ -100,8 +100,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"88",
     "statoids:area_mi":"34",
     "statoids:as_of_date":"2010-04-01",
@@ -114,6 +114,8 @@
     "statoids:population":"38675",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":35179,
+    "uscensus:population_year":2020,
     "wd:wordcount":42,
     "wof:belongsto":[
         85633729,
@@ -123,10 +125,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.LP"
+        "hasc:id":"PR.LP",
+        "uscensus:geoid":"72085"
     },
     "wof:country":"PR",
-    "wof:geomhash":"6396350964aea40d6640330b108743c6",
+    "wof:geomhash":"51def9fde23e80fb215485cd7cc538d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -147,12 +150,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1627522519,
+    "wof:lastmodified":1684476305,
     "wof:name":"Las Piedras",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":38675,
+    "wof:population":35179,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"LP",

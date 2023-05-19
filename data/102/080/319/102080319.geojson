@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014997,
-    "geom:area_square_m":176344125.076103,
+    "geom:area_square_m":176344125.076073,
     "geom:bbox":"-66.775486,17.912068,-66.676826,18.135002",
     "geom:latitude":18.024444,
     "geom:longitude":-66.727946,
@@ -100,8 +100,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"116",
     "statoids:area_mi":"45",
     "statoids:as_of_date":"2010-04-01",
@@ -114,6 +114,8 @@
     "statoids:population":"24282",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":20349,
+    "uscensus:population_year":2020,
     "wd:wordcount":1204,
     "wof:belongsto":[
         85633729,
@@ -124,10 +126,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.PN",
+        "uscensus:geoid":"72111",
         "wd:id":"Q369880"
     },
     "wof:country":"PR",
-    "wof:geomhash":"08d8aac53d657a553234898ffabaa01e",
+    "wof:geomhash":"c768d7715d5ed8a3679bdfc84358bf10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,12 +151,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600204,
+    "wof:lastmodified":1684476306,
     "wof:name":"Pe\u00f1uelas",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":24282,
+    "wof:population":20349,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"PN",

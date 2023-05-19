@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015658,
-    "geom:area_square_m":183665128.072426,
+    "geom:area_square_m":183665128.072439,
     "geom:bbox":"-66.543785,18.350255,-66.436752,18.540805",
     "geom:latitude":18.449576,
     "geom:longitude":-66.487727,
@@ -106,8 +106,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"117",
     "statoids:area_mi":"45",
     "statoids:as_of_date":"2010-04-01",
@@ -120,6 +120,8 @@
     "statoids:population":"44113",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":39451,
+    "uscensus:population_year":2020,
     "wd:wordcount":756,
     "wof:belongsto":[
         85633729,
@@ -130,10 +132,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.MT",
+        "uscensus:geoid":"72091",
         "wd:id":"Q674599"
     },
     "wof:country":"PR",
-    "wof:geomhash":"ec5876b85864a0c57930139635fecfa0",
+    "wof:geomhash":"750e6c38f12e3344882a1f2331e7bd83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -154,12 +157,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600200,
+    "wof:lastmodified":1684476305,
     "wof:name":"Manat\u00ed",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":44113,
+    "wof:population":39451,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"MT",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015985,
-    "geom:area_square_m":187760032.085467,
+    "geom:area_square_m":187760032.085465,
     "geom:bbox":"-65.831388,18.116113,-65.654728,18.296545",
     "geom:latitude":18.21103,
     "geom:longitude":-65.736095,
@@ -88,8 +88,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"134",
     "statoids:area_mi":"52",
     "statoids:as_of_date":"2010-04-01",
@@ -102,6 +102,8 @@
     "statoids:population":"26720",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":23384,
+    "uscensus:population_year":2020,
     "wd:wordcount":258,
     "wof:belongsto":[
         85633729,
@@ -112,10 +114,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.NG",
+        "uscensus:geoid":"72103",
         "wd:id":"Q2659720"
     },
     "wof:country":"PR",
-    "wof:geomhash":"22c4eb37fe1b1676e69b11cb140949b3",
+    "wof:geomhash":"f64abbc20ac6bbec15d0987ef21194c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,12 +139,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600191,
+    "wof:lastmodified":1684476306,
     "wof:name":"Naguabo",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":26720,
+    "wof:population":23384,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"NG",

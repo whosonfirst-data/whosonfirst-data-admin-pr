@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058372,
-    "geom:area_square_m":685961973.534872,
+    "geom:area_square_m":685961973.534856,
     "geom:bbox":"-65.631111,18.027641,-65.215089,18.222214",
     "geom:latitude":18.125265,
     "geom:longitude":-65.432305,
@@ -166,8 +166,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"131",
     "statoids:area_mi":"51",
     "statoids:as_of_date":"2010-04-01",
@@ -180,6 +180,8 @@
     "statoids:population":"9301",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":8236,
+    "uscensus:population_year":2020,
     "wd:wordcount":4425,
     "wof:belongsto":[
         85633729,
@@ -190,10 +192,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.VQ",
+        "uscensus:geoid":"72147",
         "wd:id":"Q737624"
     },
     "wof:country":"PR",
-    "wof:geomhash":"0d864a112f4be85b574567e17252daf3",
+    "wof:geomhash":"fb2d82913f278e1fed6bde6518272f4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -214,12 +217,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600195,
+    "wof:lastmodified":1684476308,
     "wof:name":"Vieques",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":9301,
+    "wof:population":8236,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"VQ",

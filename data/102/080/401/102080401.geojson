@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008616,
-    "geom:area_square_m":101141593.846789,
+    "geom:area_square_m":101141593.84682,
     "geom:bbox":"-66.465142,18.255846,-66.365272,18.378107",
     "geom:latitude":18.317084,
     "geom:longitude":-66.420293,
@@ -94,8 +94,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"101",
     "statoids:area_mi":"39",
     "statoids:as_of_date":"2010-04-01",
@@ -108,6 +108,8 @@
     "statoids:population":"32610",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":28704,
+    "uscensus:population_year":2020,
     "wd:wordcount":544,
     "wof:belongsto":[
         85633729,
@@ -118,10 +120,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.MV",
+        "uscensus:geoid":"72101",
         "wd:id":"Q2623982"
     },
     "wof:country":"PR",
-    "wof:geomhash":"2a5b72cba90e7bbb9a8298454fcfab16",
+    "wof:geomhash":"d929b1bfb3ac7b3c0cc979491e39d066",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,12 +145,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600193,
+    "wof:lastmodified":1684476306,
     "wof:name":"Morovis",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":32610,
+    "wof:population":28704,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"MV",

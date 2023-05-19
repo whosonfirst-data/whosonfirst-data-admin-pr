@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00156,
-    "geom:area_square_m":18304064.292107,
+    "geom:area_square_m":18304064.292112,
     "geom:bbox":"-66.170306,18.420801,-66.108281,18.465632",
     "geom:latitude":18.441567,
     "geom:longitude":-66.138841,
@@ -100,8 +100,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"13",
     "statoids:area_mi":"5",
     "statoids:as_of_date":"2010-04-01",
@@ -114,23 +114,26 @@
     "statoids:population":"28140",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":23113,
+    "uscensus:population_year":2020,
     "wd:wordcount":1716,
     "wof:belongsto":[
-        102191575,
         85633729,
-        136253057,
-        85687331
+        85687331,
+        102191575,
+        136253057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.CT",
+        "uscensus:geoid":"72033",
         "wd:id":"Q768483"
     },
     "wof:coterminous":[
         101918955
     ],
     "wof:country":"PR",
-    "wof:geomhash":"034423e148ba9f107bcb14d70bd01eee",
+    "wof:geomhash":"aa2df8e856dcc7acc617fd0ed1c27544",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,12 +154,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1607986515,
+    "wof:lastmodified":1684476303,
     "wof:name":"Cata\u00f1o",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":28140,
+    "wof:population":23113,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"CT",

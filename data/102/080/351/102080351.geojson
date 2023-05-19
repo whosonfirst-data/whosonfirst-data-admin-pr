@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015787,
-    "geom:area_square_m":185519690.907205,
+    "geom:area_square_m":185519690.907113,
     "geom:bbox":"-65.877615,18.069306,-65.699335,18.206759",
     "geom:latitude":18.133208,
     "geom:longitude":-65.787794,
@@ -103,8 +103,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"116",
     "statoids:area_mi":"45",
     "statoids:as_of_date":"2010-04-01",
@@ -117,6 +117,8 @@
     "statoids:population":"58466",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":50824,
+    "uscensus:population_year":2020,
     "wd:wordcount":1727,
     "wof:belongsto":[
         85633729,
@@ -127,10 +129,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.HU",
+        "uscensus:geoid":"72069",
         "wd:id":"Q2307535"
     },
     "wof:country":"PR",
-    "wof:geomhash":"8333bcde0e84b6bb63fa842129be9d9d",
+    "wof:geomhash":"6e47d4dd9abe855f7bc62e522093f34b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,12 +154,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600197,
+    "wof:lastmodified":1684476304,
     "wof:name":"Humacao",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":58466,
+    "wof:population":50824,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"HU",

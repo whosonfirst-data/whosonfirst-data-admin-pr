@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012046,
-    "geom:area_square_m":141384818.814285,
+    "geom:area_square_m":141384818.814315,
     "geom:bbox":"-67.323412,18.252638,-67.181695,18.418924",
     "geom:latitude":18.339271,
     "geom:longitude":-67.264684,
@@ -92,8 +92,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"37",
     "statoids:area_mi":"14",
     "statoids:as_of_date":"2010-04-01",
@@ -106,6 +106,8 @@
     "statoids:population":"15200",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":15206,
+    "uscensus:population_year":2020,
     "wd:wordcount":430,
     "wof:belongsto":[
         85633729,
@@ -115,10 +117,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.RC"
+        "hasc:id":"PR.RC",
+        "uscensus:geoid":"72117"
     },
     "wof:country":"PR",
-    "wof:geomhash":"ab0672ce6a57aa999fa5feef7d8a533c",
+    "wof:geomhash":"31caeb1c0bcd7b8cb08065c878ddfa50",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,12 +142,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600189,
+    "wof:lastmodified":1684476306,
     "wof:name":"Rinc\u00f3n",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":15200,
+    "wof:population":15206,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"RC",

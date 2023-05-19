@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013016,
-    "geom:area_square_m":152678615.719334,
+    "geom:area_square_m":152678615.719348,
     "geom:bbox":"-66.838706,18.320614,-66.764548,18.543784",
     "geom:latitude":18.441029,
     "geom:longitude":-66.797715,
@@ -70,8 +70,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"108",
     "statoids:area_mi":"42",
     "statoids:as_of_date":"2010-04-01",
@@ -84,6 +84,8 @@
     "statoids:population":"41953",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":38447,
+    "uscensus:population_year":2020,
     "wd:wordcount":58,
     "wof:belongsto":[
         85633729,
@@ -93,10 +95,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.HA"
+        "hasc:id":"PR.HA",
+        "uscensus:geoid":"72065"
     },
     "wof:country":"PR",
-    "wof:geomhash":"5155392e01b53fc5d9634334dfb3f5c5",
+    "wof:geomhash":"134fda499bcbfc86d5fc2bebc411f21c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -117,12 +120,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600205,
+    "wof:lastmodified":1684476304,
     "wof:name":"Hatillo",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":41953,
+    "wof:population":38447,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"HA",

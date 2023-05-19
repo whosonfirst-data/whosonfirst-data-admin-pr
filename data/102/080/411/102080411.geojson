@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015765,
-    "geom:area_square_m":185051342.052945,
+    "geom:area_square_m":185051342.053096,
     "geom:bbox":"-67.052583,18.252073,-66.891918,18.395127",
     "geom:latitude":18.328726,
     "geom:longitude":-66.971219,
@@ -290,8 +290,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"182",
     "statoids:area_mi":"70",
     "statoids:as_of_date":"2010-04-01",
@@ -304,6 +304,8 @@
     "statoids:population":"42430",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":39312,
+    "uscensus:population_year":2020,
     "wof:belongsto":[
         85633729,
         85687331,
@@ -312,10 +314,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.SS"
+        "hasc:id":"PR.SS",
+        "uscensus:geoid":"72131"
     },
     "wof:country":"PR",
-    "wof:geomhash":"b55f67bda185d5c245eb52d6a42e67b6",
+    "wof:geomhash":"02d53c845e444de14e1728dd6a6875be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -336,12 +339,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600200,
+    "wof:lastmodified":1684476307,
     "wof:name":"San Sebasti\u00e1n",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":42430,
+    "wof:population":39312,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"SS",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022344,
-    "geom:area_square_m":262792668.230981,
+    "geom:area_square_m":262792668.23114,
     "geom:bbox":"-67.115871,17.883762,-66.958748,18.066408",
     "geom:latitude":17.979101,
     "geom:longitude":-67.042857,
@@ -70,8 +70,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"155",
     "statoids:area_mi":"60",
     "statoids:as_of_date":"2010-04-01",
@@ -84,6 +84,8 @@
     "statoids:population":"25753",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":23279,
+    "uscensus:population_year":2020,
     "wd:wordcount":26,
     "wof:belongsto":[
         85633729,
@@ -93,10 +95,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.LJ"
+        "hasc:id":"PR.LJ",
+        "uscensus:geoid":"72079"
     },
     "wof:country":"PR",
-    "wof:geomhash":"57af82fab95160b72c9a0b3647ec7bd5",
+    "wof:geomhash":"d12a638128e0ce4a07bc91dd9497f10f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -117,12 +120,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600202,
+    "wof:lastmodified":1684476305,
     "wof:name":"Lajas",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":25753,
+    "wof:population":23279,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"LJ",

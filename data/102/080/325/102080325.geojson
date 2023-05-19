@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00761,
-    "geom:area_square_m":89257423.861833,
+    "geom:area_square_m":89257423.861936,
     "geom:bbox":"-66.968564,18.36561,-66.8989,18.540451",
     "geom:latitude":18.463048,
     "geom:longitude":-66.926266,
@@ -94,8 +94,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"59",
     "statoids:area_mi":"23",
     "statoids:as_of_date":"2010-04-01",
@@ -108,6 +108,8 @@
     "statoids:population":"25919",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":23619,
+    "uscensus:population_year":2020,
     "wd:wordcount":1154,
     "wof:belongsto":[
         85633729,
@@ -118,10 +120,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.QB",
+        "uscensus:geoid":"72115",
         "wd:id":"Q2057872"
     },
     "wof:country":"PR",
-    "wof:geomhash":"d51fac8c56f44af8ce13acc73c89c45a",
+    "wof:geomhash":"0da89cd99fdd608551b0600342747236",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,12 +145,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600195,
+    "wof:lastmodified":1684476306,
     "wof:name":"Quebradillas",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":25919,
+    "wof:population":23619,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"QB",

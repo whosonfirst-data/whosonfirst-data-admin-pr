@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016744,
-    "geom:area_square_m":196369275.837674,
+    "geom:area_square_m":196369275.837596,
     "geom:bbox":"-67.22272,18.385925,-67.056404,18.56656",
     "geom:latitude":18.48029,
     "geom:longitude":-67.144722,
@@ -121,8 +121,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"95",
     "statoids:area_mi":"37",
     "statoids:as_of_date":"2010-04-01",
@@ -135,6 +135,8 @@
     "statoids:population":"60949",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":55046,
+    "uscensus:population_year":2020,
     "wd:wordcount":3589,
     "wof:belongsto":[
         85633729,
@@ -145,10 +147,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.AL",
+        "uscensus:geoid":"72005",
         "wd:id":"Q397826"
     },
     "wof:country":"PR",
-    "wof:geomhash":"eb791da3c36564481c0bff5e308236c9",
+    "wof:geomhash":"02e1f2e89035103b5005541296469564",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -169,12 +172,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600192,
+    "wof:lastmodified":1684476301,
     "wof:name":"Aguadilla",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":60949,
+    "wof:population":55046,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"AL",

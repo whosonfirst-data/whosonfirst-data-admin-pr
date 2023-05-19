@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006141,
-    "geom:area_square_m":72100072.683868,
+    "geom:area_square_m":72100072.683885,
     "geom:bbox":"-66.314074,18.240967,-66.20464,18.334194",
     "geom:latitude":18.288418,
     "geom:longitude":-66.252551,
@@ -79,8 +79,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"71",
     "statoids:area_mi":"27",
     "statoids:as_of_date":"2010-04-01",
@@ -93,6 +93,8 @@
     "statoids:population":"30402",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":29246,
+    "uscensus:population_year":2020,
     "wd:wordcount":36,
     "wof:belongsto":[
         85633729,
@@ -102,10 +104,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.NR"
+        "hasc:id":"PR.NR",
+        "uscensus:geoid":"72105"
     },
     "wof:country":"PR",
-    "wof:geomhash":"52f1b4ae3e274080934c11957382c648",
+    "wof:geomhash":"74cd9ba57f895a85c9823017d914c8f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,12 +129,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1627522519,
+    "wof:lastmodified":1684476306,
     "wof:name":"Naranjito",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":30402,
+    "wof:population":29246,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"NR",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010084,
-    "geom:area_square_m":118328283.284505,
+    "geom:area_square_m":118328283.284474,
     "geom:bbox":"-67.249384,18.312691,-67.126434,18.44228",
     "geom:latitude":18.376289,
     "geom:longitude":-67.186729,
@@ -79,8 +79,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"80",
     "statoids:area_mi":"31",
     "statoids:as_of_date":"2010-04-01",
@@ -93,6 +93,8 @@
     "statoids:population":"41959",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":38108,
+    "uscensus:population_year":2020,
     "wd:wordcount":112,
     "wof:belongsto":[
         85633729,
@@ -102,10 +104,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.AD"
+        "hasc:id":"PR.AD",
+        "uscensus:geoid":"72003"
     },
     "wof:country":"PR",
-    "wof:geomhash":"b6a8e326c548d9dcb02e0dcee62df4de",
+    "wof:geomhash":"b1b27b3e7ec29834d20c8b31273eac16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,12 +129,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1627522518,
+    "wof:lastmodified":1684476301,
     "wof:name":"Aguada",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":41959,
+    "wof:population":38108,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"AD",

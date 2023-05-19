@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009424,
-    "geom:area_square_m":110635879.781595,
+    "geom:area_square_m":110635879.781733,
     "geom:bbox":"-66.383236,18.238689,-66.27781,18.370045",
     "geom:latitude":18.304311,
     "geom:longitude":-66.3279,
@@ -115,8 +115,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"110",
     "statoids:area_mi":"43",
     "statoids:as_of_date":"2010-04-01",
@@ -129,6 +129,8 @@
     "statoids:population":"37142",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":34551,
+    "uscensus:population_year":2020,
     "wd:wordcount":51,
     "wof:belongsto":[
         85633729,
@@ -138,10 +140,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.CZ"
+        "hasc:id":"PR.CZ",
+        "uscensus:geoid":"72047"
     },
     "wof:country":"PR",
-    "wof:geomhash":"68c681885ca7a9817af1cdca708d635f",
+    "wof:geomhash":"6828e827dd41ffdcf180d7d1a540ccbf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -162,12 +165,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1636502690,
+    "wof:lastmodified":1684476303,
     "wof:name":"Corozal",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":37142,
+    "wof:population":34551,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"CZ",

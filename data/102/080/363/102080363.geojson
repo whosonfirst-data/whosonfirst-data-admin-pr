@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014533,
-    "geom:area_square_m":170463256.179881,
+    "geom:area_square_m":170463256.179888,
     "geom:bbox":"-65.993401,18.378128,-65.805313,18.516598",
     "geom:latitude":18.457828,
     "geom:longitude":-65.902522,
@@ -103,8 +103,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"50",
     "statoids:area_mi":"19",
     "statoids:as_of_date":"2010-04-01",
@@ -117,6 +117,8 @@
     "statoids:population":"30060",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":23608,
+    "uscensus:population_year":2020,
     "wd:wordcount":1150,
     "wof:belongsto":[
         85633729,
@@ -127,10 +129,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.LZ",
+        "uscensus:geoid":"72087",
         "wd:id":"Q1853983"
     },
     "wof:country":"PR",
-    "wof:geomhash":"502b4cca79f55992e6855f8fec2039d4",
+    "wof:geomhash":"60e45cea3ad36c178ec30b743d63994a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,12 +154,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600191,
+    "wof:lastmodified":1684476305,
     "wof:name":"Lo\u00edza",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":30060,
+    "wof:population":23608,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"LZ",

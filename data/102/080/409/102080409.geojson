@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039206,
-    "geom:area_square_m":460998355.875923,
+    "geom:area_square_m":460998355.875852,
     "geom:bbox":"-67.267494,17.881441,-67.098496,18.196153",
     "geom:latitude":18.023163,
     "geom:longitude":-67.185759,
@@ -67,8 +67,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"182",
     "statoids:area_mi":"70",
     "statoids:as_of_date":"2010-04-01",
@@ -81,6 +81,8 @@
     "statoids:population":"50917",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":47121,
+    "uscensus:population_year":2020,
     "wd:wordcount":56,
     "wof:belongsto":[
         85633729,
@@ -90,10 +92,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.CR"
+        "hasc:id":"PR.CR",
+        "uscensus:geoid":"72023"
     },
     "wof:country":"PR",
-    "wof:geomhash":"1547966db9ffe114640dedc78600d385",
+    "wof:geomhash":"ac90c56e0a5d25e2b990f9f3d0bd9142",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -114,13 +117,13 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600193,
+    "wof:lastmodified":1684476302,
     "wof:name":"Cabo Rojo",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":50917,
-    "wof:population_rank":8,
+    "wof:population":47121,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"CR",
     "wof:superseded_by":[],

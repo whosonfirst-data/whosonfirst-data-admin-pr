@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003371,
-    "geom:area_square_m":39552609.086876,
+    "geom:area_square_m":39552609.086858,
     "geom:bbox":"-66.591656,18.337308,-66.530529,18.413309",
     "geom:latitude":18.373444,
     "geom:longitude":-66.560214,
@@ -562,8 +562,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"39",
     "statoids:area_mi":"15",
     "statoids:as_of_date":"2010-04-01",
@@ -576,6 +576,8 @@
     "statoids:population":"12680",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":11682,
+    "uscensus:population_year":2020,
     "wof:belongsto":[
         85633729,
         85687331,
@@ -584,10 +586,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.FL"
+        "hasc:id":"PR.FL",
+        "uscensus:geoid":"72054"
     },
     "wof:country":"PR",
-    "wof:geomhash":"9ae6101d61bf306b4a6b50c04e1d16d9",
+    "wof:geomhash":"34bdc8d124a2f3a679f9c7ba8d1a583d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -608,12 +611,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600205,
+    "wof:lastmodified":1684476304,
     "wof:name":"Florida",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":12680,
+    "wof:population":11682,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"FL",

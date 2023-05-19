@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007306,
-    "geom:area_square_m":85760958.992622,
+    "geom:area_square_m":85760958.992654,
     "geom:bbox":"-65.93134,18.25273,-65.836387,18.413682",
     "geom:latitude":18.328989,
     "geom:longitude":-65.887889,
@@ -100,8 +100,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"85",
     "statoids:area_mi":"33",
     "statoids:as_of_date":"2010-04-01",
@@ -114,6 +114,8 @@
     "statoids:population":"47648",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":42326,
+    "uscensus:population_year":2020,
     "wd:wordcount":2065,
     "wof:belongsto":[
         85633729,
@@ -124,10 +126,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.CV",
+        "uscensus:geoid":"72029",
         "wd:id":"Q2361552"
     },
     "wof:country":"PR",
-    "wof:geomhash":"c59665499a81d2dc8d7b84f9f952d959",
+    "wof:geomhash":"8e3a2c9fa91ea5debeaf342b6ec65b9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,12 +151,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600204,
+    "wof:lastmodified":1684476302,
     "wof:name":"Can\u00f3vanas",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":47648,
+    "wof:population":42326,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"CV",

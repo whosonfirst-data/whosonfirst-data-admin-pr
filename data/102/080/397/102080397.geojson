@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015213,
-    "geom:area_square_m":178823008.825907,
+    "geom:area_square_m":178823008.82609,
     "geom:bbox":"-66.926517,17.950825,-66.796077,18.171242",
     "geom:latitude":18.079956,
     "geom:longitude":-66.858737,
@@ -97,8 +97,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"177",
     "statoids:area_mi":"68",
     "statoids:as_of_date":"2010-04-01",
@@ -111,6 +111,8 @@
     "statoids:population":"42043",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":34048,
+    "uscensus:population_year":2020,
     "wd:wordcount":2256,
     "wof:belongsto":[
         85633729,
@@ -121,10 +123,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.YU",
+        "uscensus:geoid":"72153",
         "wd:id":"Q368526"
     },
     "wof:country":"PR",
-    "wof:geomhash":"178ccd17aa95f700af75e5ff335bfa5d",
+    "wof:geomhash":"e8695a81b565d64112acd96fdbfa8005",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,12 +148,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600191,
+    "wof:lastmodified":1684476308,
     "wof:name":"Yauco",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":42043,
+    "wof:population":34048,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"YU",

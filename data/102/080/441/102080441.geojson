@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017044,
-    "geom:area_square_m":199953781.928512,
+    "geom:area_square_m":199953781.928472,
     "geom:bbox":"-66.129403,18.296521,-65.991415,18.524403",
     "geom:latitude":18.422257,
     "geom:longitude":-66.068326,
@@ -214,8 +214,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"124",
     "statoids:area_mi":"48",
     "statoids:as_of_date":"2010-04-01",
@@ -228,6 +228,8 @@
     "statoids:population":"395326",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":341667,
+    "uscensus:population_year":2020,
     "wof:belongsto":[
         85633729,
         85687331,
@@ -236,10 +238,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.SJ"
+        "hasc:id":"PR.SJ",
+        "uscensus:geoid":"72127"
     },
     "wof:country":"PR",
-    "wof:geomhash":"a623ad3c35a23ec1b9adc7162e4f7eae",
+    "wof:geomhash":"23835030b3fedad9f4ff487699d38e4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -260,12 +263,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1636502689,
+    "wof:lastmodified":1684476307,
     "wof:name":"San Juan",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":395326,
+    "wof:population":341667,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"SJ",

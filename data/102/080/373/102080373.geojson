@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023599,
-    "geom:area_square_m":277563101.661645,
+    "geom:area_square_m":277563101.661671,
     "geom:bbox":"-66.225359,17.877036,-66.053146,18.107602",
     "geom:latitude":17.973388,
     "geom:longitude":-66.136343,
@@ -112,8 +112,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"168",
     "statoids:area_mi":"65",
     "statoids:as_of_date":"2010-04-01",
@@ -126,6 +126,8 @@
     "statoids:population":"45362",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":36474,
+    "uscensus:population_year":2020,
     "wd:wordcount":2760,
     "wof:belongsto":[
         85633729,
@@ -136,10 +138,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.GM",
+        "uscensus:geoid":"72057",
         "wd:id":"Q1870997"
     },
     "wof:country":"PR",
-    "wof:geomhash":"b7ac90e900bdc52ff0e5e73d2a1ad94e",
+    "wof:geomhash":"ef0a2502134758663cd7f3b686e2e372",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -160,12 +163,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600204,
+    "wof:lastmodified":1684476304,
     "wof:name":"Guayama",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":45362,
+    "wof:population":36474,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"GM",

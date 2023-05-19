@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037918,
-    "geom:area_square_m":444811282.622377,
+    "geom:area_square_m":444811282.622392,
     "geom:bbox":"-66.770658,18.315205,-66.578441,18.544146",
     "geom:latitude":18.433693,
     "geom:longitude":-66.674969,
@@ -199,8 +199,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"326",
     "statoids:area_mi":"126",
     "statoids:as_of_date":"2010-04-01",
@@ -213,6 +213,8 @@
     "statoids:population":"96440",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":87637,
+    "uscensus:population_year":2020,
     "wd:wordcount":2583,
     "wof:belongsto":[
         85633729,
@@ -223,10 +225,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.AC",
+        "uscensus:geoid":"72013",
         "wd:id":"Q640728"
     },
     "wof:country":"PR",
-    "wof:geomhash":"6b697acedc369f3c403871f51c70a084",
+    "wof:geomhash":"35966e2838946100fbbeedd4e0442edd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -247,12 +250,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1636502690,
+    "wof:lastmodified":1684476302,
     "wof:name":"Arecibo",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":96440,
+    "wof:population":87637,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"AC",

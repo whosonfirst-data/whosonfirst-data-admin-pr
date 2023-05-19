@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013726,
-    "geom:area_square_m":161004195.595553,
+    "geom:area_square_m":161004195.595592,
     "geom:bbox":"-66.902107,18.342998,-66.810598,18.542609",
     "geom:latitude":18.443077,
     "geom:longitude":-66.862635,
@@ -91,8 +91,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"120",
     "statoids:area_mi":"46",
     "statoids:as_of_date":"2010-04-01",
@@ -105,6 +105,8 @@
     "statoids:population":"35159",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":32818,
+    "uscensus:population_year":2020,
     "wd:wordcount":1264,
     "wof:belongsto":[
         85633729,
@@ -115,10 +117,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.CA",
+        "uscensus:geoid":"72027",
         "wd:id":"Q2380860"
     },
     "wof:country":"PR",
-    "wof:geomhash":"b476ff3f4b120f4add4f2b36628b5e38",
+    "wof:geomhash":"ace1f199de0ab6900a8864a68e5211a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,12 +142,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600193,
+    "wof:lastmodified":1684476302,
     "wof:name":"Camuy",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":35159,
+    "wof:population":32818,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"CA",

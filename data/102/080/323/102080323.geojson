@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009943,
-    "geom:area_square_m":116731989.556518,
+    "geom:area_square_m":116731989.556535,
     "geom:bbox":"-67.243559,18.242814,-67.037935,18.323984",
     "geom:latitude":18.287079,
     "geom:longitude":-67.13153,
@@ -94,8 +94,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"102",
     "statoids:area_mi":"39",
     "statoids:as_of_date":"2010-04-01",
@@ -108,6 +108,8 @@
     "statoids:population":"29261",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":25570,
+    "uscensus:population_year":2020,
     "wd:wordcount":1215,
     "wof:belongsto":[
         85633729,
@@ -118,10 +120,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.AN",
+        "uscensus:geoid":"72011",
         "wd:id":"Q2390910"
     },
     "wof:country":"PR",
-    "wof:geomhash":"4830d4d593c28fea070bbeaac49cb235",
+    "wof:geomhash":"aeaf241b8cc3d42b9a81227a16849d58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,12 +145,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600195,
+    "wof:lastmodified":1684476302,
     "wof:name":"A\u00f1asco",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":29261,
+    "wof:population":25570,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"AN",

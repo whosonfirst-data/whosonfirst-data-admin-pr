@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002508,
-    "geom:area_square_m":29476993.385819,
+    "geom:area_square_m":29476993.385863,
     "geom:bbox":"-67.159733,18.103953,-67.077797,18.160334",
     "geom:latitude":18.13416,
     "geom:longitude":-67.114015,
@@ -97,8 +97,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"29",
     "statoids:area_mi":"11",
     "statoids:as_of_date":"2010-04-01",
@@ -111,6 +111,8 @@
     "statoids:population":"17250",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":15618,
+    "uscensus:population_year":2020,
     "wd:wordcount":1146,
     "wof:belongsto":[
         85633729,
@@ -121,10 +123,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.HO",
+        "uscensus:geoid":"72067",
         "wd:id":"Q2361536"
     },
     "wof:country":"PR",
-    "wof:geomhash":"926f1a2476ed6fca1638d3468ed5f19d",
+    "wof:geomhash":"cc21ff8d7999847812e98f22ca30633b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,12 +148,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600194,
+    "wof:lastmodified":1684476304,
     "wof:name":"Hormigueros",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":17250,
+    "wof:population":15618,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"HO",

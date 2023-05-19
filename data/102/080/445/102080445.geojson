@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016638,
-    "geom:area_square_m":195665066.670292,
+    "geom:area_square_m":195665066.670341,
     "geom:bbox":"-66.089399,17.908923,-65.873299,18.109878",
     "geom:latitude":18.000721,
     "geom:longitude":-65.988749,
@@ -91,8 +91,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"121",
     "statoids:area_mi":"47",
     "statoids:as_of_date":"2010-04-01",
@@ -105,6 +105,8 @@
     "statoids:population":"19277",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":15937,
+    "uscensus:population_year":2020,
     "wd:wordcount":974,
     "wof:belongsto":[
         85633729,
@@ -115,10 +117,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.PT",
+        "uscensus:geoid":"72109",
         "wd:id":"Q2485638"
     },
     "wof:country":"PR",
-    "wof:geomhash":"f6aad7dcc332f72b748f3d0706fa9675",
+    "wof:geomhash":"ee48c9ffedb11b66801e74f8f10d1a54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,12 +142,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600201,
+    "wof:lastmodified":1684476306,
     "wof:name":"Patillas",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":19277,
+    "wof:population":15937,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"PT",

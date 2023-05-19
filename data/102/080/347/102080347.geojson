@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013358,
-    "geom:area_square_m":156737383.01537,
+    "geom:area_square_m":156737383.01534,
     "geom:bbox":"-66.043086,18.270105,-65.901782,18.516598",
     "geom:latitude":18.396953,
     "geom:longitude":-65.968755,
@@ -148,8 +148,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"117",
     "statoids:area_mi":"45",
     "statoids:as_of_date":"2010-04-01",
@@ -162,6 +162,8 @@
     "statoids:population":"176762",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":154557,
+    "uscensus:population_year":2020,
     "wd:wordcount":244,
     "wof:belongsto":[
         85633729,
@@ -171,10 +173,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.CN"
+        "hasc:id":"PR.CN",
+        "uscensus:geoid":"72031"
     },
     "wof:country":"PR",
-    "wof:geomhash":"b2b1ca86f30b568b9e3a6177695127d1",
+    "wof:geomhash":"ddad2367e643e2bbc9fbc05253ae794b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -195,12 +198,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600195,
+    "wof:lastmodified":1684476303,
     "wof:name":"Carolina",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":176762,
+    "wof:population":154557,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"CN",

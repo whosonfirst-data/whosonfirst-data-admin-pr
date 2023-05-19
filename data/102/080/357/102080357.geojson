@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012052,
-    "geom:area_square_m":141637942.965994,
+    "geom:area_square_m":141637942.966011,
     "geom:bbox":"-67.109044,18.052409,-66.970369,18.174149",
     "geom:latitude":18.11112,
     "geom:longitude":-67.038421,
@@ -109,8 +109,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"141",
     "statoids:area_mi":"54",
     "statoids:as_of_date":"2010-04-01",
@@ -123,6 +123,8 @@
     "statoids:population":"35527",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":31824,
+    "uscensus:population_year":2020,
     "wd:wordcount":1860,
     "wof:belongsto":[
         85633729,
@@ -133,10 +135,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.SG",
+        "uscensus:geoid":"72125",
         "wd:id":"Q1598808"
     },
     "wof:country":"PR",
-    "wof:geomhash":"db794ebe45931c70132f8c9b21a217d7",
+    "wof:geomhash":"1e33a08d5d34937a0e7ce7275cd99ad5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,12 +160,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600196,
+    "wof:lastmodified":1684476307,
     "wof:name":"San Germ\u00e1n",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":35527,
+    "wof:population":31824,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"SG",

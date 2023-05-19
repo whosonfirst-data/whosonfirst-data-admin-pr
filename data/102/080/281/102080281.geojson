@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010289,
-    "geom:area_square_m":120838635.981155,
+    "geom:area_square_m":120838635.981083,
     "geom:bbox":"-67.082002,18.187744,-66.897964,18.290028",
     "geom:latitude":18.23709,
     "geom:longitude":-66.983415,
@@ -97,8 +97,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"120",
     "statoids:area_mi":"46",
     "statoids:as_of_date":"2010-04-01",
@@ -111,6 +111,8 @@
     "statoids:population":"9881",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":8856,
+    "uscensus:population_year":2020,
     "wd:wordcount":389,
     "wof:belongsto":[
         85633729,
@@ -121,10 +123,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.LM",
+        "uscensus:geoid":"72083",
         "wd:id":"Q2485590"
     },
     "wof:country":"PR",
-    "wof:geomhash":"29a8e2da4a1e76b3cf71e5941c5eb8e6",
+    "wof:geomhash":"e6f5dde7c8dd39604c62849655446f18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,12 +148,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600193,
+    "wof:lastmodified":1684476305,
     "wof:name":"Las Mar\u00edas",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":9881,
+    "wof:population":8856,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"LM",

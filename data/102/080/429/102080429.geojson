@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017553,
-    "geom:area_square_m":206488124.741912,
+    "geom:area_square_m":206488124.741851,
     "geom:bbox":"-66.999621,17.875176,-66.839929,18.033648",
     "geom:latitude":17.946362,
     "geom:longitude":-66.921938,
@@ -100,8 +100,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"96",
     "statoids:area_mi":"37",
     "statoids:as_of_date":"2010-04-01",
@@ -114,6 +114,8 @@
     "statoids:population":"19427",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":13686,
+    "uscensus:population_year":2020,
     "wd:wordcount":2415,
     "wof:belongsto":[
         85633729,
@@ -125,10 +127,11 @@
     "wof:concordances":{
         "gp:id":26806275,
         "hasc:id":"PR.GC",
+        "uscensus:geoid":"72055",
         "wd:id":"Q1019645"
     },
     "wof:country":"PR",
-    "wof:geomhash":"0ea78089a33bacdddd81ea84161c174d",
+    "wof:geomhash":"47d3e18e5aedd0329efd1f87ffe2601a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,12 +152,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600200,
+    "wof:lastmodified":1684476304,
     "wof:name":"Gu\u00e1nica",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":19427,
+    "wof:population":13686,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"GC",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011152,
-    "geom:area_square_m":130866515.986043,
+    "geom:area_square_m":130866515.986067,
     "geom:bbox":"-67.134515,18.306655,-67.027173,18.460984",
     "geom:latitude":18.377948,
     "geom:longitude":-67.080761,
@@ -94,8 +94,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"130",
     "statoids:area_mi":"50",
     "statoids:as_of_date":"2010-04-01",
@@ -108,6 +108,8 @@
     "statoids:population":"40109",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":37455,
+    "uscensus:population_year":2020,
     "wd:wordcount":156,
     "wof:belongsto":[
         85633729,
@@ -117,10 +119,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.MC"
+        "hasc:id":"PR.MC",
+        "uscensus:geoid":"72099"
     },
     "wof:country":"PR",
-    "wof:geomhash":"6c5fcae8e7882853ec68ff202c47ae72",
+    "wof:geomhash":"452ba56d33db5e02c02490c4f1af8d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,12 +144,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1636502690,
+    "wof:lastmodified":1684476305,
     "wof:name":"Moca",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":40109,
+    "wof:population":37455,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"MC",

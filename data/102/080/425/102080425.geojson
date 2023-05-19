@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013067,
-    "geom:area_square_m":153480585.223353,
+    "geom:area_square_m":153480585.223309,
     "geom:bbox":"-66.117916,18.113069,-65.997634,18.312448",
     "geom:latitude":18.211915,
     "geom:longitude":-66.050765,
@@ -187,8 +187,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"152",
     "statoids:area_mi":"59",
     "statoids:as_of_date":"2010-04-01",
@@ -201,6 +201,8 @@
     "statoids:population":"142893",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":127072,
+    "uscensus:population_year":2020,
     "wd:wordcount":2055,
     "wof:belongsto":[
         85633729,
@@ -211,10 +213,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.CG",
+        "uscensus:geoid":"72025",
         "wd:id":"Q527268"
     },
     "wof:country":"PR",
-    "wof:geomhash":"e4869ad886bb8c30663bd2eea1b83846",
+    "wof:geomhash":"5efe12423a19a2dd7ed19f18e29f15ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -235,12 +238,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600191,
+    "wof:lastmodified":1684476302,
     "wof:name":"Caguas",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":142893,
+    "wof:population":127072,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"CG",

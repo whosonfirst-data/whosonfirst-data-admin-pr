@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016997,
-    "geom:area_square_m":199939144.552918,
+    "geom:area_square_m":199939144.552894,
     "geom:bbox":"-66.455471,17.869217,-66.32322,18.042627",
     "geom:latitude":17.953003,
     "geom:longitude":-66.386694,
@@ -136,8 +136,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"88",
     "statoids:area_mi":"34",
     "statoids:as_of_date":"2010-04-01",
@@ -150,6 +150,8 @@
     "statoids:population":"23274",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":20269,
+    "uscensus:population_year":2020,
     "wd:wordcount":294,
     "wof:belongsto":[
         85633729,
@@ -159,10 +161,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.SI"
+        "hasc:id":"PR.SI",
+        "uscensus:geoid":"72133"
     },
     "wof:country":"PR",
-    "wof:geomhash":"13540a6cc16643c6bda26e4f215e4a1b",
+    "wof:geomhash":"54116bb1e1e23d7eac6f932377be6605",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -183,12 +186,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1636502690,
+    "wof:lastmodified":1684476307,
     "wof:name":"Santa Isabel",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":23274,
+    "wof:population":20269,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"SI",

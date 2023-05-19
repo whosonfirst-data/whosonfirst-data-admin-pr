@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037372,
-    "geom:area_square_m":438686752.474457,
+    "geom:area_square_m":438686752.474439,
     "geom:bbox":"-65.424431,18.22599,-65.168503,18.421483",
     "geom:latitude":18.323367,
     "geom:longitude":-65.300801,
@@ -70,8 +70,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"30",
     "statoids:area_mi":"12",
     "statoids:as_of_date":"2010-04-01",
@@ -84,6 +84,8 @@
     "statoids:population":"1818",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":1790,
+    "uscensus:population_year":2020,
     "wd:wordcount":56,
     "wof:belongsto":[
         85633729,
@@ -93,10 +95,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.CU"
+        "hasc:id":"PR.CU",
+        "uscensus:geoid":"72049"
     },
     "wof:country":"PR",
-    "wof:geomhash":"73120c418d84ae94ce64dbc78dfcd7eb",
+    "wof:geomhash":"827113efc6d92cf93e67e1f3db43cbaf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -117,12 +120,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600191,
+    "wof:lastmodified":1684476303,
     "wof:name":"Culebra",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":1818,
+    "wof:population":1790,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"CU",

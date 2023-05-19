@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008455,
-    "geom:area_square_m":99435292.242055,
+    "geom:area_square_m":99435292.242093,
     "geom:bbox":"-65.98912,17.937895,-65.816449,18.061282",
     "geom:latitude":17.997984,
     "geom:longitude":-65.8953,
@@ -88,8 +88,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"55",
     "statoids:area_mi":"21",
     "statoids:as_of_date":"2010-04-01",
@@ -102,6 +102,8 @@
     "statoids:population":"12225",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":10581,
+    "uscensus:population_year":2020,
     "wd:wordcount":1307,
     "wof:belongsto":[
         85633729,
@@ -112,10 +114,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.MB",
+        "uscensus:geoid":"72095",
         "wd:id":"Q967149"
     },
     "wof:country":"PR",
-    "wof:geomhash":"aac0a6552541f0315f2a3785ba25daed",
+    "wof:geomhash":"76faa7a56c1a08b160ae340b2c813219",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,12 +139,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600203,
+    "wof:lastmodified":1684476305,
     "wof:name":"Maunabo",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":12225,
+    "wof:population":10581,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"MB",

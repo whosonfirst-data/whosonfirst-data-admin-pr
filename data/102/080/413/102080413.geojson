@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008306,
-    "geom:area_square_m":97436326.33371,
+    "geom:area_square_m":97436326.33385,
     "geom:bbox":"-66.378134,18.330622,-66.299597,18.541014",
     "geom:latitude":18.435393,
     "geom:longitude":-66.335596,
@@ -109,8 +109,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"72",
     "statoids:area_mi":"28",
     "statoids:as_of_date":"2010-04-01",
@@ -123,6 +123,8 @@
     "statoids:population":"39951",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":35367,
+    "uscensus:population_year":2020,
     "wd:wordcount":1052,
     "wof:belongsto":[
         85633729,
@@ -133,10 +135,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PR.VA",
+        "uscensus:geoid":"72143",
         "wd:id":"Q2640843"
     },
     "wof:country":"PR",
-    "wof:geomhash":"4a6d2a8f17d93cc0f0282679ecd5ca0e",
+    "wof:geomhash":"07e847a39f6caad066f13dff2612e204",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,12 +160,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1566600192,
+    "wof:lastmodified":1684476307,
     "wof:name":"Vega Alta",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":39951,
+    "wof:population":35367,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"VA",

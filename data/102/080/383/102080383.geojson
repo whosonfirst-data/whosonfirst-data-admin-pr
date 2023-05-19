@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02035,
-    "geom:area_square_m":238656120.24061,
+    "geom:area_square_m":238656120.240538,
     "geom:bbox":"-67.104965,18.37523,-66.921885,18.568002",
     "geom:latitude":18.483056,
     "geom:longitude":-67.014162,
@@ -115,8 +115,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"143",
     "statoids:area_mi":"55",
     "statoids:as_of_date":"2010-04-01",
@@ -129,6 +129,8 @@
     "statoids:population":"45631",
     "statoids:timezone":"-4",
     "statoids:type":"municipality",
+    "uscensus:population":42939,
+    "uscensus:population_year":2020,
     "wd:wordcount":139,
     "wof:belongsto":[
         85633729,
@@ -138,10 +140,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"PR.IS"
+        "hasc:id":"PR.IS",
+        "uscensus:geoid":"72071"
     },
     "wof:country":"PR",
-    "wof:geomhash":"d9528ed561db601bd7625ca813ffeac9",
+    "wof:geomhash":"dcfc65e05fc8cfaad44caadbcc7f7e7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -162,12 +165,12 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1636502690,
+    "wof:lastmodified":1684476304,
     "wof:name":"Isabela",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"county",
     "wof:placetype_local":"Municipio",
-    "wof:population":45631,
+    "wof:population":42939,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:shortcode":"IS",

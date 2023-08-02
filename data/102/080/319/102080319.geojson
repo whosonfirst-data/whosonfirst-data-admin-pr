@@ -37,13 +37,22 @@
     "name:ceb_x_preferred":[
         "Pe\u00f1uelas Municipio"
     ],
+    "name:deu_x_preferred":[
+        "Pe\u00f1uelas"
+    ],
     "name:eng_x_preferred":[
         "Pe\u00f1uelas"
     ],
     "name:eng_x_variant":[
         "Pe\u00f1uelas Municipality"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0646\u0648\u0626\u0644\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Pe\u00f1uelas"
+    ],
+    "name:gle_x_preferred":[
         "Pe\u00f1uelas"
     ],
     "name:glg_x_preferred":[
@@ -61,8 +70,14 @@
     "name:nld_x_preferred":[
         "Pe\u00f1uelas"
     ],
+    "name:pol_x_preferred":[
+        "Pe\u00f1uelas"
+    ],
     "name:por_x_preferred":[
         "Pe\u00f1uelas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043d\u044c\u044e\u044d\u043b\u0430\u0441"
     ],
     "name:spa_x_preferred":[
         "Municipio Pe\u00f1uelas"
@@ -130,7 +145,7 @@
         "wd:id":"Q369880"
     },
     "wof:country":"PR",
-    "wof:geomhash":"c768d7715d5ed8a3679bdfc84358bf10",
+    "wof:geomhash":"08d8aac53d657a553234898ffabaa01e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +166,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476306,
+    "wof:lastmodified":1690855871,
     "wof:name":"Pe\u00f1uelas",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

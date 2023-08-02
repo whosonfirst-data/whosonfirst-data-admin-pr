@@ -20,11 +20,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Maguayo Barrio"
+    ],
     "name:eng_x_preferred":[
+        "Maguayo"
+    ],
+    "name:lld_x_preferred":[
         "Maguayo"
     ],
     "name:spa_x_preferred":[
         "Maguayo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0433\u0432\u0430\u0458\u043e"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":101919077,
-    "wof:lastmodified":1566600318,
+    "wof:lastmodified":1690855887,
     "wof:name":"Maguayo",
     "wof:parent_id":102080327,
     "wof:placetype":"locality",

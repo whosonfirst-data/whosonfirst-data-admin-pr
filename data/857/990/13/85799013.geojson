@@ -28,6 +28,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:che_x_preferred":[
+        "\u041b\u043e\u0440\u0434\u0435\u043b\u0443-\u0434\u0443-\u041e\u0440\u0443"
+    ],
     "name:kaz_x_preferred":[
         "\u041b\u043e\u0440\u0434\u0435\u043b\u0443-\u0434\u0443-\u041e\u0440\u0443"
     ],
@@ -35,6 +38,9 @@
         "Lordelo do Ouro"
     ],
     "name:rus_x_preferred":[
+        "\u041b\u043e\u0440\u0434\u0435\u043b\u0443-\u0434\u0443-\u041e\u0440\u0443"
+    ],
+    "name:tat_x_preferred":[
         "\u041b\u043e\u0440\u0434\u0435\u043b\u0443-\u0434\u0443-\u041e\u0440\u0443"
     ],
     "qs:gn_adm0_cc":"PT",
@@ -100,7 +106,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1582358353,
+    "wof:lastmodified":1690855872,
     "wof:name":"Lordelo do Ouro",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",

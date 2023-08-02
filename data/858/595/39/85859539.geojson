@@ -53,6 +53,9 @@
     "name:spa_x_preferred":[
         "Hato Rey"
     ],
+    "name:swe_x_preferred":[
+        "Hato Rey"
+    ],
     "name:zho_x_preferred":[
         "\u54c8\u6258\u96f7\u4f0a"
     ],
@@ -120,7 +123,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582358353,
+    "wof:lastmodified":1690855873,
     "wof:name":"Hato Rey",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

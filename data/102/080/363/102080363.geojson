@@ -40,13 +40,22 @@
     "name:deu_x_preferred":[
         "Lo\u00edza"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u0390\u03c3\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Lo\u00edza"
     ],
     "name:eng_x_variant":[
         "Lo\u00edza Municipality"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u06cc\u0632\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Lo\u00edza"
+    ],
+    "name:gle_x_preferred":[
         "Lo\u00edza"
     ],
     "name:hbs_x_preferred":[
@@ -58,6 +67,9 @@
     "name:jpn_x_preferred":[
         "\u30ed\u30a4\u30b5"
     ],
+    "name:lld_x_preferred":[
+        "Lo\u00edza"
+    ],
     "name:nld_x_preferred":[
         "Lo\u00edza"
     ],
@@ -66,6 +78,9 @@
     ],
     "name:por_x_preferred":[
         "Lo\u00edza"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0438\u0441\u0430"
     ],
     "name:spa_x_preferred":[
         "Municipio Lo\u00edza"
@@ -133,7 +148,7 @@
         "wd:id":"Q1853983"
     },
     "wof:country":"PR",
-    "wof:geomhash":"60e45cea3ad36c178ec30b743d63994a",
+    "wof:geomhash":"502b4cca79f55992e6855f8fec2039d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -154,7 +169,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476305,
+    "wof:lastmodified":1690855856,
     "wof:name":"Lo\u00edza",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

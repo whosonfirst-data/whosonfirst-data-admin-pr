@@ -26,6 +26,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "San Ant\u00f3n Barrio"
+    ],
     "name:eng_x_preferred":[
         "San Ant\u00f3n"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582358354,
+    "wof:lastmodified":1690855875,
     "wof:name":"San Anton",
     "wof:parent_id":101919197,
     "wof:placetype":"neighbourhood",

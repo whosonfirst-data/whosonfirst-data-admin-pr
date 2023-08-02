@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Cayuco"
     ],
+    "name:fra_x_preferred":[
+        "Cayuco"
+    ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
     "qs:a1_lc":"72",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101919021,
-    "wof:lastmodified":1566600332,
+    "wof:lastmodified":1690855901,
     "wof:name":"Cayuco",
     "wof:parent_id":102080433,
     "wof:placetype":"locality",

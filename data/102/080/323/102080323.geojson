@@ -37,13 +37,25 @@
     "name:ceb_x_preferred":[
         "A\u00f1asco"
     ],
+    "name:deu_x_preferred":[
+        "A\u00f1asco"
+    ],
     "name:eng_x_preferred":[
         "A\u00f1asco"
     ],
     "name:eng_x_variant":[
         "A\u00f1asco Municipality"
     ],
+    "name:epo_x_preferred":[
+        "A\u00f1asco"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0648\u0646\u0633\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
+        "A\u00f1asco"
+    ],
+    "name:gle_x_preferred":[
         "A\u00f1asco"
     ],
     "name:hbs_x_preferred":[
@@ -58,8 +70,14 @@
     "name:nld_x_preferred":[
         "A\u00f1asco"
     ],
+    "name:pol_x_preferred":[
+        "A\u00f1asco"
+    ],
     "name:por_x_preferred":[
         "A\u00f1asco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u044c\u044f\u0441\u043a\u043e"
     ],
     "name:spa_x_preferred":[
         "Municipio A\u00f1asco"
@@ -124,7 +142,7 @@
         "wd:id":"Q2390910"
     },
     "wof:country":"PR",
-    "wof:geomhash":"aeaf241b8cc3d42b9a81227a16849d58",
+    "wof:geomhash":"4830d4d593c28fea070bbeaac49cb235",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +163,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476302,
+    "wof:lastmodified":1690855861,
     "wof:name":"A\u00f1asco",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

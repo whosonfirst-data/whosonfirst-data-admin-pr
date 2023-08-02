@@ -32,6 +32,12 @@
     "name:cat_x_preferred":[
         "Santa Isabel"
     ],
+    "name:ceb_x_preferred":[
+        "Santa Isabel Municipio"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Isabel"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03bd\u03c4\u03b1 \u0399\u03b6\u03b1\u03bc\u03c0\u03ad\u03bb"
     ],
@@ -41,7 +47,13 @@
     "name:epo_x_preferred":[
         "Sankta Izabela"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0627\u06cc\u0632\u0627\u0628\u0644"
+    ],
     "name:fra_x_preferred":[
+        "Santa Isabel"
+    ],
+    "name:gle_x_preferred":[
         "Santa Isabel"
     ],
     "name:heb_x_preferred":[
@@ -59,11 +71,20 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30bf\u30fb\u30a4\u30b5\u30d9\u30eb"
     ],
+    "name:lld_x_preferred":[
+        "Santa Isabel"
+    ],
     "name:nld_x_preferred":[
+        "Santa Isabel"
+    ],
+    "name:pol_x_preferred":[
         "Santa Isabel"
     ],
     "name:por_x_preferred":[
         "Santa Isabel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0418\u0441\u0430\u0431\u0435\u043b\u044c"
     ],
     "name:spa_x_preferred":[
         "Santa Isabel"
@@ -155,7 +176,7 @@
         }
     ],
     "wof:id":101918985,
-    "wof:lastmodified":1636502701,
+    "wof:lastmodified":1690855879,
     "wof:name":"Santa Isabel",
     "wof:parent_id":102080335,
     "wof:placetype":"locality",

@@ -20,10 +20,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Su\u00e1rez"
+    ],
     "name:eng_x_preferred":[
         "Su\u00e1rez"
     ],
     "name:nld_x_preferred":[
+        "Su\u00e1rez"
+    ],
+    "name:spa_x_preferred":[
         "Su\u00e1rez"
     ],
     "name:srp_x_preferred":[
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":101919343,
-    "wof:lastmodified":1566600337,
+    "wof:lastmodified":1690855908,
     "wof:name":"Su\u00e1rez",
     "wof:parent_id":102080363,
     "wof:placetype":"locality",

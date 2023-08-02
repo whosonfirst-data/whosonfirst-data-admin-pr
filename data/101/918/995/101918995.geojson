@@ -35,7 +35,13 @@
     "name:eng_x_preferred":[
         "Rinc\u00f3n"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0646\u0633\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
+        "Rinc\u00f3n"
+    ],
+    "name:gle_x_preferred":[
         "Rinc\u00f3n"
     ],
     "name:hun_x_preferred":[
@@ -50,8 +56,14 @@
     "name:nld_x_preferred":[
         "Rinc\u00f3n"
     ],
+    "name:nob_x_preferred":[
+        "Rinc\u00f3n"
+    ],
     "name:por_x_preferred":[
         "Rinc\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043d\u043a\u043e\u043d\u0430"
     ],
     "name:spa_x_preferred":[
         "Rinc\u00f3n"
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":101918995,
-    "wof:lastmodified":1566600311,
+    "wof:lastmodified":1690855880,
     "wof:name":"Rinc\u00f3n",
     "wof:parent_id":102080307,
     "wof:placetype":"locality",

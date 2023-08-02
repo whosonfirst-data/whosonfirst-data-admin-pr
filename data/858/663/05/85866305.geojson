@@ -35,7 +35,13 @@
     "name:ara_x_preferred":[
         "\u0625\u0644\u064a\u0627\u0646\u0648\u0631 \u0631\u0648\u0632\u0641\u0644\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u064a\u0627\u0646\u0648\u0631 \u0631\u0648\u0632\u0641\u0644\u062a"
+    ],
     "name:ast_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:avk_x_preferred":[
         "Eleanor Roosevelt"
     ],
     "name:azb_x_preferred":[
@@ -77,6 +83,9 @@
     "name:cym_x_preferred":[
         "Eleanor Roosevelt"
     ],
+    "name:dag_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
     "name:dan_x_preferred":[
         "Eleanor Roosevelt"
     ],
@@ -116,6 +125,12 @@
     "name:glg_x_preferred":[
         "Eleanor Roosevelt"
     ],
+    "name:gsw_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
+    "name:hau_x_preferred":[
+        "Eleanor Roosevelt"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc\u05d9\u05e0\u05d5\u05e8 \u05e8\u05d5\u05d6\u05d5\u05d5\u05dc\u05d8"
     ],
@@ -130,6 +145,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0537\u056c\u0565\u0578\u0576\u0578\u0580 \u054c\u0578\u0582\u0566\u057e\u0565\u056c\u057f"
+    ],
+    "name:ibo_x_preferred":[
+        "Eleanor Roosevelt"
     ],
     "name:ido_x_preferred":[
         "Eleanor Roosevelt"
@@ -209,11 +227,17 @@
     "name:nob_x_preferred":[
         "Eleanor Roosevelt"
     ],
+    "name:nqo_x_preferred":[
+        "\u07cc\u07df\u07cc\u07e3\u07d0\u07d9 \u07d9\u07ce\u07db\u07dd\u07ed\u07cb\u07df\u07d5"
+    ],
     "name:oci_x_preferred":[
         "Eleanor Roosevelt"
     ],
     "name:pan_x_preferred":[
         "\u0a0f\u0a32\u0a40\u0a28\u0a4b\u0a30 \u0a30\u0a42\u0a1c\u0a35\u0a48\u0a32\u0a1f"
+    ],
+    "name:pap_x_preferred":[
+        "Eleanor Roosevelt"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0644\u06cc\u0646\u0631 \u0631\u0648\u0632\u0648\u06cc\u0644\u0679"
@@ -232,6 +256,9 @@
     ],
     "name:san_x_preferred":[
         "\u090f\u0932\u0947\u0928\u094b\u0930 \u0930\u094b\u091c\u093c\u0935\u0947\u0932\u094d\u091f"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c6e\u1c5e\u1c64\u1c71\u1c5a\u1c68 \u1c68\u1c5a\u1c61\u1c75\u1c66\u1c6e\u1c5e\u1c74"
     ],
     "name:sco_x_preferred":[
         "Eleanor Roosevelt"
@@ -269,14 +296,26 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u0435\u043e\u043d\u043e\u0440\u0430 \u0420\u0443\u0437\u0432\u0435\u043b\u044c\u0442"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644\u06cc\u0646\u0648\u0631 \u0631\u0648\u0632\u0648\u06cc\u0644\u0679"
+    ],
+    "name:uzb_x_preferred":[
+        "Eleanor Roosvelt"
+    ],
     "name:vie_x_preferred":[
         "Eleanor Roosevelt"
     ],
     "name:war_x_preferred":[
         "Eleanor Roosevelt"
     ],
+    "name:wuu_x_preferred":[
+        "\u57c3\u8389\u8bfa\u00b7\u7f57\u65af\u798f"
+    ],
     "name:yor_x_preferred":[
         "Eleanor Roosevelt"
+    ],
+    "name:yue_x_preferred":[
+        "\u611b\u84ee\u5a1c\u7f85\u65af\u798f"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u8389\u8bfa\u00b7\u7f57\u65af\u798f"
@@ -367,7 +406,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582358354,
+    "wof:lastmodified":1690855874,
     "wof:name":"Eleanor Roosevelt",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

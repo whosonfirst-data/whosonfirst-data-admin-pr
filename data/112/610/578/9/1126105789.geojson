@@ -22,10 +22,19 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Miramar Subbarrio"
+    ],
     "name:eng_x_preferred":[
         "Miramar"
     ],
     "name:fra_x_preferred":[
+        "Miramar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30e9\u30de\u30fc"
+    ],
+    "name:nld_x_preferred":[
         "Miramar"
     ],
     "name:spa_x_preferred":[
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1126105789,
-    "wof:lastmodified":1566600345,
+    "wof:lastmodified":1690855909,
     "wof:name":"Miramar",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

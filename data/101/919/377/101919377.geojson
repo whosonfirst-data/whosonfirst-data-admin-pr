@@ -35,11 +35,17 @@
     "name:eng_x_preferred":[
         "Manat\u00ed"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0646\u0627\u062a\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Manat\u00ed"
     ],
     "name:fry_x_preferred":[
         "Manati"
+    ],
+    "name:gle_x_preferred":[
+        "Manat\u00ed"
     ],
     "name:ita_x_preferred":[
         "Manat\u00ed"
@@ -52,6 +58,12 @@
     ],
     "name:pol_x_preferred":[
         "Manat\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Manat\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0442\u0438"
     ],
     "name:spa_x_preferred":[
         "Manat\u00ed"
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":101919377,
-    "wof:lastmodified":1566600324,
+    "wof:lastmodified":1690855893,
     "wof:name":"Manat\u00ed",
     "wof:parent_id":102080271,
     "wof:placetype":"locality",

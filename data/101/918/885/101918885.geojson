@@ -656,6 +656,9 @@
     "name:zea_x_preferred":[
         "Calzada"
     ],
+    "name:zho_x_preferred":[
+        "\u5361\u5c14\u8428\u8fbe"
+    ],
     "name:zul_x_preferred":[
         "Calzada"
     ],
@@ -703,7 +706,7 @@
         }
     ],
     "wof:id":101918885,
-    "wof:lastmodified":1566600313,
+    "wof:lastmodified":1690855881,
     "wof:name":"Calzada",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

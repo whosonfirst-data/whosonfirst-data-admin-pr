@@ -32,17 +32,32 @@
     "name:ceb_x_preferred":[
         "Coamo Municipio"
     ],
+    "name:deu_x_preferred":[
+        "Coamo"
+    ],
     "name:eng_x_preferred":[
         "Coamo"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0622\u0645\u0648"
+    ],
     "name:fra_x_preferred":[
         "Coamo"
+    ],
+    "name:gle_x_preferred":[
+        "Coamo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d0\u05de\u05d5"
     ],
     "name:ita_x_preferred":[
         "Coamo"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30a2\u30e2"
+    ],
+    "name:lld_x_preferred":[
+        "Coamo"
     ],
     "name:nld_x_preferred":[
         "Coamo"
@@ -76,6 +91,9 @@
     ],
     "name:war_x_preferred":[
         "Coamo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u963f\u83ab"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u963f\u83ab"
@@ -146,7 +164,7 @@
         }
     ],
     "wof:id":101918947,
-    "wof:lastmodified":1566600311,
+    "wof:lastmodified":1690855879,
     "wof:name":"Coamo",
     "wof:parent_id":102080279,
     "wof:placetype":"locality",

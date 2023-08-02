@@ -31,6 +31,12 @@
     "name:ara_x_preferred":[
         "\u0642\u0627\u0628\u0648\u0642"
     ],
+    "name:arg_x_preferred":[
+        "Ceiba"
+    ],
+    "name:arz_x_preferred":[
+        "\u0642\u0627\u0628\u0648\u0642"
+    ],
     "name:ast_x_preferred":[
         "Ceiba"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:bul_x_preferred":[
         "Ceiba"
+    ],
+    "name:bul_x_variant":[
+        "\u0441\u0435\u0439\u0431\u0430"
     ],
     "name:cat_x_preferred":[
         "Ceiba"
@@ -64,20 +73,59 @@
     "name:eng_x_variant":[
         "Ceiba Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Ceiba"
+    ],
+    "name:eus_x_preferred":[
+        "Ceiba"
+    ],
+    "name:ext_x_preferred":[
+        "Ceiba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0628\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kapokkipuut"
     ],
     "name:fra_x_preferred":[
         "Ceiba"
     ],
+    "name:gle_x_preferred":[
+        "Ceiba"
+    ],
+    "name:glg_x_preferred":[
+        "Ceiba"
+    ],
     "name:heb_x_preferred":[
         "\u05db\u05d5\u05e8\u05d9\u05d6\u05d9\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0575\u0562\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Ceiba"
+    ],
+    "name:ile_x_preferred":[
+        "Ceiba"
+    ],
+    "name:ina_x_preferred":[
+        "Ceiba"
+    ],
+    "name:ind_x_preferred":[
+        "Ceiba"
     ],
     "name:ita_x_preferred":[
         "Ceiba"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30a4\u30d0\u5c5e"
+    ],
     "name:kor_x_preferred":[
         "\uc591\ubaa9\uba74\uc18d"
+    ],
+    "name:kor_x_variant":[
+        "\uc138\uc774\ubc14"
     ],
     "name:lat_x_preferred":[
         "Ceiba"
@@ -86,6 +134,15 @@
         "Kapokmedis"
     ],
     "name:nld_x_preferred":[
+        "Ceiba"
+    ],
+    "name:nno_x_preferred":[
+        "Ceiba"
+    ],
+    "name:nob_x_preferred":[
+        "Ceiba"
+    ],
+    "name:oci_x_preferred":[
         "Ceiba"
     ],
     "name:pnb_x_preferred":[
@@ -97,6 +154,9 @@
     "name:por_x_preferred":[
         "Ceiba"
     ],
+    "name:ron_x_preferred":[
+        "Ceiba"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0439\u0431\u0430"
     ],
@@ -104,6 +164,9 @@
         "Municipio Ceiba"
     ],
     "name:spa_x_variant":[
+        "Ceiba"
+    ],
+    "name:sqi_x_preferred":[
         "Ceiba"
     ],
     "name:swe_x_preferred":[
@@ -115,11 +178,17 @@
     "name:vie_x_preferred":[
         "Chi B\u00f4ng g\u00f2n"
     ],
+    "name:vol_x_preferred":[
+        "Ceiba"
+    ],
     "name:war_x_preferred":[
         "Ceiba"
     ],
     "name:zho_x_preferred":[
         "\u722a\u54c7\u6728\u68c9\u5c5e"
+    ],
+    "name:zho_x_variant":[
+        "\u5409\u8d1d\u5c5e"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1_lc":"72",
@@ -164,7 +233,7 @@
         "wd:id":"Q284019"
     },
     "wof:country":"PR",
-    "wof:geomhash":"755acb98bb50a2f645c66535b10acc4a",
+    "wof:geomhash":"416fe1573abd700949f7319eed2dfeab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -185,7 +254,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476303,
+    "wof:lastmodified":1690855861,
     "wof:name":"Ceiba",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

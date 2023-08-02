@@ -31,6 +31,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0627\u0645\u0648\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u06cc\u0627\u0645\u0648\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Bayamon"
+    ],
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09af\u09bc\u09be\u09ae\u09a8"
     ],
@@ -70,6 +76,12 @@
     "name:fra_x_preferred":[
         "Bayam\u00f3n"
     ],
+    "name:gle_x_preferred":[
+        "Bayam\u00f3n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d9\u05d0\u05de\u05d5\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u092f\u093e\u092e\u094b\u0902"
     ],
@@ -84,6 +96,9 @@
     ],
     "name:lit_x_preferred":[
         "Bajamonas"
+    ],
+    "name:lld_x_preferred":[
+        "Bayam\u00f3n"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0458\u0430\u043c\u043e\u043d"
@@ -112,6 +127,9 @@
     "name:srp_x_preferred":[
         "\u0411\u0430\u0458\u0430\u043c\u043e\u043d"
     ],
+    "name:swa_x_preferred":[
+        "Bayam\u00f3n"
+    ],
     "name:swe_x_preferred":[
         "Bayam\u00f3n"
     ],
@@ -132,6 +150,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5df4\u963f\u8499"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u4e9a\u8499"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1_lc":"72",
@@ -175,7 +196,7 @@
         "wd:id":"Q739675"
     },
     "wof:country":"PR",
-    "wof:geomhash":"28e52feee7036135cbf35e0913638a1b",
+    "wof:geomhash":"9d85db20a37bf858e3b14f5f6ef45962",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -196,7 +217,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476302,
+    "wof:lastmodified":1690855866,
     "wof:name":"Bayam\u00f3n",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

@@ -28,6 +28,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:azb_x_preferred":[
+        "\u0622\u062f\u062c\u0648\u0646\u062a\u0627\u0633"
+    ],
     "name:bpy_x_preferred":[
         "\u0985\u09cd\u09af\u09be\u09a1\u099c\u09c1\u09a8\u099f\u09be\u09b8"
     ],
@@ -37,11 +40,17 @@
     "name:ceb_x_preferred":[
         "Adjuntas"
     ],
+    "name:deu_x_preferred":[
+        "Adjuntas"
+    ],
     "name:eng_x_preferred":[
         "Adjuntas"
     ],
     "name:eng_x_variant":[
         "Adjuntas Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Adjuntas"
     ],
     "name:fas_x_preferred":[
         "\u0627\u062c\u0648\u0646\u062a\u0627\u0633\u060c \u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648"
@@ -50,6 +59,9 @@
         "\u0627\u062c\u0648\u0646\u062a\u0627\u0633"
     ],
     "name:fra_x_preferred":[
+        "Adjuntas"
+    ],
+    "name:gle_x_preferred":[
         "Adjuntas"
     ],
     "name:hbs_x_preferred":[
@@ -61,11 +73,20 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30c9\u30d5\u30f3\u30bf\u30b9"
     ],
+    "name:lld_x_preferred":[
+        "Adjuntas"
+    ],
     "name:nld_x_preferred":[
+        "Adjuntas"
+    ],
+    "name:pol_x_preferred":[
         "Adjuntas"
     ],
     "name:por_x_preferred":[
         "Adjuntas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u0445\u0443\u043d\u0442\u0430\u0441"
     ],
     "name:scn_x_preferred":[
         "Adjuntas"
@@ -139,7 +160,7 @@
         "wd:id":"Q1864884"
     },
     "wof:country":"PR",
-    "wof:geomhash":"a530800eb07d74d8c6a781ccab89cc75",
+    "wof:geomhash":"2d211c0fbb5dd42d25cb15d401ea2fdb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -160,7 +181,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476301,
+    "wof:lastmodified":1690855864,
     "wof:name":"Adjuntas",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

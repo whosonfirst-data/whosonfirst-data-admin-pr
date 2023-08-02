@@ -29,7 +29,13 @@
     "name:eng_x_preferred":[
         "Lamboglia"
     ],
+    "name:lld_x_preferred":[
+        "Lamboglia"
+    ],
     "name:nld_x_preferred":[
+        "Lamboglia"
+    ],
+    "name:spa_x_preferred":[
         "Lamboglia"
     ],
     "name:srp_x_preferred":[
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":101918917,
-    "wof:lastmodified":1566600314,
+    "wof:lastmodified":1690855883,
     "wof:name":"Lamboglia",
     "wof:parent_id":102080445,
     "wof:placetype":"locality",

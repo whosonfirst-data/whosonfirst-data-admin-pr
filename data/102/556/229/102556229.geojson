@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0645\u064a\u0631\u0633\u064a\u062f\u064a\u062a\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Mercedita Airport"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102556229,
-    "wof:lastmodified":1566600188,
+    "wof:lastmodified":1690855853,
     "wof:name":"Aeropuerto Mercedita",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

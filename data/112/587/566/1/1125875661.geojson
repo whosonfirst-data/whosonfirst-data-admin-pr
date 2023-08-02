@@ -31,10 +31,19 @@
     "name:ceb_x_preferred":[
         "Pe\u00f1uelas Municipio"
     ],
+    "name:deu_x_preferred":[
+        "Pe\u00f1uelas"
+    ],
     "name:eng_x_preferred":[
         "Pe\u00f1uelas"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0646\u0648\u0626\u0644\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Pe\u00f1uelas"
+    ],
+    "name:gle_x_preferred":[
         "Pe\u00f1uelas"
     ],
     "name:glg_x_preferred":[
@@ -49,8 +58,14 @@
     "name:nld_x_preferred":[
         "Pe\u00f1uelas"
     ],
+    "name:pol_x_preferred":[
+        "Pe\u00f1uelas"
+    ],
     "name:por_x_preferred":[
         "Pe\u00f1uelas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043d\u044c\u044e\u044d\u043b\u0430\u0441"
     ],
     "name:spa_x_preferred":[
         "Pe\u00f1uelas"
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":1125875661,
-    "wof:lastmodified":1566600349,
+    "wof:lastmodified":1690855911,
     "wof:name":"Penuelas",
     "wof:parent_id":102080319,
     "wof:placetype":"locality",

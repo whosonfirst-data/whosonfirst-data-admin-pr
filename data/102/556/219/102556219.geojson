@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Rafael Hernandez Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rafael Hern\u00e1ndez"
+    ],
     "name:deu_x_preferred":[
         "Rafael Hern\u00e1ndez Airport"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":102556219,
-    "wof:lastmodified":1566600188,
+    "wof:lastmodified":1690855854,
     "wof:name":"Aeropuerto Rafael Hern\u00edndez",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

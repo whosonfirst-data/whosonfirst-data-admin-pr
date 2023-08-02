@@ -37,13 +37,22 @@
     "name:ceb_x_preferred":[
         "Maunabo"
     ],
+    "name:deu_x_preferred":[
+        "Maunabo"
+    ],
     "name:eng_x_preferred":[
         "Maunabo"
     ],
     "name:eng_x_variant":[
         "Maunabo Municipality"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0648\u0646\u0627\u0628\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Maunabo"
+    ],
+    "name:gle_x_preferred":[
         "Maunabo"
     ],
     "name:ita_x_preferred":[
@@ -52,8 +61,17 @@
     "name:jpn_x_preferred":[
         "\u30de\u30a6\u30ca\u30dc"
     ],
+    "name:lld_x_preferred":[
+        "Maunabo"
+    ],
     "name:nld_x_preferred":[
         "Maunabo"
+    ],
+    "name:por_x_preferred":[
+        "Maunabo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0443\u043d\u0430\u0431\u043e"
     ],
     "name:spa_x_preferred":[
         "Municipio Maunabo"
@@ -118,7 +136,7 @@
         "wd:id":"Q967149"
     },
     "wof:country":"PR",
-    "wof:geomhash":"76faa7a56c1a08b160ae340b2c813219",
+    "wof:geomhash":"aac0a6552541f0315f2a3785ba25daed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +157,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476305,
+    "wof:lastmodified":1690855870,
     "wof:name":"Maunabo",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

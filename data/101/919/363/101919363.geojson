@@ -32,10 +32,22 @@
     "name:ceb_x_preferred":[
         "Gurabo"
     ],
+    "name:deu_x_preferred":[
+        "Gurabo"
+    ],
     "name:eng_x_preferred":[
         "Gurabo"
     ],
+    "name:epo_x_preferred":[
+        "Gurabo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0627\u0628\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Gurabo"
+    ],
+    "name:gle_x_preferred":[
         "Gurabo"
     ],
     "name:hbs_x_preferred":[
@@ -47,6 +59,9 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30e9\u30fc\u30dc"
     ],
+    "name:lld_x_preferred":[
+        "Gurabo"
+    ],
     "name:nld_x_preferred":[
         "Gurabo"
     ],
@@ -56,6 +71,9 @@
     "name:por_x_preferred":[
         "Gurabo"
     ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0440\u0430\u0431\u043e"
+    ],
     "name:spa_x_preferred":[
         "Gurabo"
     ],
@@ -63,6 +81,9 @@
         "\u0413\u0443\u0440\u0430\u0431\u043e"
     ],
     "name:srp_x_variant":[
+        "Gurabo"
+    ],
+    "name:swe_x_preferred":[
         "Gurabo"
     ],
     "name:ukr_x_preferred":[
@@ -148,7 +169,7 @@
         }
     ],
     "wof:id":101919363,
-    "wof:lastmodified":1566600317,
+    "wof:lastmodified":1690855885,
     "wof:name":"Gurabo",
     "wof:parent_id":102080435,
     "wof:placetype":"locality",

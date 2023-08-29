@@ -34,13 +34,25 @@
     "name:cat_x_preferred":[
         "Morovis"
     ],
+    "name:ceb_x_preferred":[
+        "Morovis Municipio"
+    ],
+    "name:deu_x_preferred":[
+        "Morovis"
+    ],
     "name:eng_x_preferred":[
         "Morovis"
     ],
     "name:eng_x_variant":[
         "Morovis Municipality"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u06cc\u0633"
+    ],
     "name:fra_x_preferred":[
+        "Morovis"
+    ],
+    "name:gle_x_preferred":[
         "Morovis"
     ],
     "name:hbs_x_preferred":[
@@ -52,8 +64,17 @@
     "name:jpn_x_preferred":[
         "\u30e2\u30ed\u30d3\u30b9"
     ],
+    "name:lld_x_preferred":[
+        "Morovis"
+    ],
     "name:nld_x_preferred":[
         "Morovis"
+    ],
+    "name:por_x_preferred":[
+        "Morovis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0440\u043e\u0432\u0438\u0441"
     ],
     "name:spa_x_preferred":[
         "Municipio Morovis"
@@ -124,7 +145,7 @@
         "wd:id":"Q2623982"
     },
     "wof:country":"PR",
-    "wof:geomhash":"d929b1bfb3ac7b3c0cc979491e39d066",
+    "wof:geomhash":"2a5b72cba90e7bbb9a8298454fcfab16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +166,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476306,
+    "wof:lastmodified":1690855859,
     "wof:name":"Morovis",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

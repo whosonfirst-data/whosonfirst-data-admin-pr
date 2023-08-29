@@ -37,13 +37,22 @@
     "name:ceb_x_preferred":[
         "Patillas"
     ],
+    "name:deu_x_preferred":[
+        "Patillas"
+    ],
     "name:eng_x_preferred":[
         "Patillas"
     ],
     "name:eng_x_variant":[
         "Patillas Municipality"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u062a\u06cc\u0644\u0627\u0633"
+    ],
     "name:fra_x_preferred":[
+        "Patillas"
+    ],
+    "name:gle_x_preferred":[
         "Patillas"
     ],
     "name:ita_x_preferred":[
@@ -52,11 +61,17 @@
     "name:jpn_x_preferred":[
         "\u30d1\u30c6\u30a3\u30ea\u30e3\u30b9"
     ],
+    "name:lld_x_preferred":[
+        "Patillas"
+    ],
     "name:nld_x_preferred":[
         "Patillas"
     ],
     "name:por_x_preferred":[
         "Patillas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0442\u0438\u043b\u044c\u044f\u0441"
     ],
     "name:spa_x_preferred":[
         "Municipio Patillas"
@@ -121,7 +136,7 @@
         "wd:id":"Q2485638"
     },
     "wof:country":"PR",
-    "wof:geomhash":"ee48c9ffedb11b66801e74f8f10d1a54",
+    "wof:geomhash":"f6aad7dcc332f72b748f3d0706fa9675",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +157,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476306,
+    "wof:lastmodified":1690855867,
     "wof:name":"Patillas",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

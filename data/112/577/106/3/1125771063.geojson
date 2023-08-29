@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Su\u00e1rez"
+    ],
     "name:eng_x_preferred":[
         "Su\u00e1rez"
     ],
     "name:nld_x_preferred":[
+        "Su\u00e1rez"
+    ],
+    "name:spa_x_preferred":[
         "Su\u00e1rez"
     ],
     "name:srp_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1125771063,
-    "wof:lastmodified":1566600367,
+    "wof:lastmodified":1690855917,
     "wof:name":"Suarez",
     "wof:parent_id":102080363,
     "wof:placetype":"locality",

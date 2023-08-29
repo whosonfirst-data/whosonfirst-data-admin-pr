@@ -37,13 +37,22 @@
     "name:ceb_x_preferred":[
         "Las Mar\u00edas"
     ],
+    "name:deu_x_preferred":[
+        "Las Mar\u00edas"
+    ],
     "name:eng_x_preferred":[
         "Las Mar\u00edas"
     ],
     "name:eng_x_variant":[
         "Las Mar\u00edas Municipality"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0633 \u0645\u0627\u0631\u06cc\u0627\u0633"
+    ],
     "name:fra_x_preferred":[
+        "Las Mar\u00edas"
+    ],
+    "name:gle_x_preferred":[
         "Las Mar\u00edas"
     ],
     "name:hbs_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:por_x_preferred":[
         "Las Mar\u00edas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441-\u041c\u0430\u0440\u0438\u0430\u0441"
     ],
     "name:spa_x_preferred":[
         "Municipio Las Mar\u00edas"
@@ -127,7 +139,7 @@
         "wd:id":"Q2485590"
     },
     "wof:country":"PR",
-    "wof:geomhash":"e6f5dde7c8dd39604c62849655446f18",
+    "wof:geomhash":"29a8e2da4a1e76b3cf71e5941c5eb8e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +160,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476305,
+    "wof:lastmodified":1690855859,
     "wof:name":"Las Mar\u00edas",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

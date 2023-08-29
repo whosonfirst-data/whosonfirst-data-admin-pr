@@ -32,6 +32,9 @@
     "name:spa_x_preferred":[
         "R\u00edo Daguao"
     ],
+    "name:vec_x_preferred":[
+        "R\u00edo Daguao"
+    ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
     "qs:a1_lc":"72",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101919399,
-    "wof:lastmodified":1566600316,
+    "wof:lastmodified":1690855885,
     "wof:name":"Daguao",
     "wof:parent_id":102080355,
     "wof:placetype":"locality",

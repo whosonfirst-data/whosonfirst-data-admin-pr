@@ -28,6 +28,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u0627 \u0622\u0644\u062a\u0627"
+    ],
     "name:bpy_x_preferred":[
         "\u099f\u09f1\u09be \u0986\u09b2\u099f\u09be"
     ],
@@ -37,13 +40,22 @@
     "name:ceb_x_preferred":[
         "Toa Alta"
     ],
+    "name:deu_x_preferred":[
+        "Toa Alta"
+    ],
     "name:eng_x_preferred":[
         "Toa Alta"
     ],
     "name:eng_x_variant":[
         "Toa Alta Municipality"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0622 \u0622\u0644\u062a\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Toa Alta"
+    ],
+    "name:gle_x_preferred":[
         "Toa Alta"
     ],
     "name:ita_x_preferred":[
@@ -52,11 +64,17 @@
     "name:jpn_x_preferred":[
         "\u30c8\u30a2\u30fb\u30a2\u30eb\u30bf"
     ],
+    "name:lld_x_preferred":[
+        "Toa Alta"
+    ],
     "name:nld_x_preferred":[
         "Toa Alta"
     ],
     "name:por_x_preferred":[
         "Toa Alta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0430-\u0410\u043b\u044c\u0442\u0430"
     ],
     "name:scn_x_preferred":[
         "Toa Alta"
@@ -124,7 +142,7 @@
         "wd:id":"Q2485509"
     },
     "wof:country":"PR",
-    "wof:geomhash":"2308785765840e19e49cc10b561584ce",
+    "wof:geomhash":"0d854ef9e88838d1b9e26733f953aadb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +163,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476307,
+    "wof:lastmodified":1690855863,
     "wof:name":"Toa Alta",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

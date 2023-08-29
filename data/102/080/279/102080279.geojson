@@ -37,23 +37,38 @@
     "name:ceb_x_preferred":[
         "Coamo Municipio"
     ],
+    "name:deu_x_preferred":[
+        "Coamo"
+    ],
     "name:eng_x_preferred":[
         "Coamo"
     ],
     "name:eng_x_variant":[
         "Coamo Municipality"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0622\u0645\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Coamo"
+    ],
+    "name:gle_x_preferred":[
         "Coamo"
     ],
     "name:hbs_x_preferred":[
         "Coamo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d0\u05de\u05d5"
     ],
     "name:ita_x_preferred":[
         "Coamo"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30a2\u30e2"
+    ],
+    "name:lld_x_preferred":[
+        "Coamo"
     ],
     "name:nld_x_preferred":[
         "Coamo"
@@ -87,6 +102,9 @@
     ],
     "name:war_x_preferred":[
         "Coamo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u963f\u83ab"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u963f\u83ab"
@@ -133,7 +151,7 @@
         "wd:id":"Q1942303"
     },
     "wof:country":"PR",
-    "wof:geomhash":"f6b665625e8d0d1c75e5f75a99311c1d",
+    "wof:geomhash":"776ef71caa7df7191d0d004f5abfa15d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -154,7 +172,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476303,
+    "wof:lastmodified":1690855866,
     "wof:name":"Coamo",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

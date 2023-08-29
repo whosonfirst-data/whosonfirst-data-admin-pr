@@ -37,13 +37,25 @@
     "name:ceb_x_preferred":[
         "Canovanas"
     ],
+    "name:deu_x_preferred":[
+        "Can\u00f3vanas"
+    ],
     "name:eng_x_preferred":[
         "Can\u00f3vanas"
     ],
     "name:eng_x_variant":[
         "Can\u00f3vanas Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Can\u00f3vanas"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0646\u0648\u0648\u0627\u0646\u0627\u0633"
+    ],
     "name:fra_x_preferred":[
+        "Can\u00f3vanas"
+    ],
+    "name:gle_x_preferred":[
         "Can\u00f3vanas"
     ],
     "name:hbs_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043d\u043e\u0432\u0430\u043d\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Can\u00f3vanas"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u043e\u0432\u0430\u043d\u0430\u0441"
@@ -130,7 +145,7 @@
         "wd:id":"Q2361552"
     },
     "wof:country":"PR",
-    "wof:geomhash":"8e3a2c9fa91ea5debeaf342b6ec65b9c",
+    "wof:geomhash":"c59665499a81d2dc8d7b84f9f952d959",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +166,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476302,
+    "wof:lastmodified":1690855870,
     "wof:name":"Can\u00f3vanas",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

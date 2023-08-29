@@ -23,6 +23,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0633\u0626\u06cc\u0628\u0644\u0627"
+    ],
     "name:bpy_x_preferred":[
         "\u0987\u09b8\u09be\u09ac\u09c7\u09b2\u09be"
     ],
@@ -30,6 +33,9 @@
         "Isabela"
     ],
     "name:dan_x_preferred":[
+        "Isabela"
+    ],
+    "name:deu_x_preferred":[
         "Isabela"
     ],
     "name:eng_x_preferred":[
@@ -47,6 +53,9 @@
     "name:fra_x_preferred":[
         "Isabela"
     ],
+    "name:gle_x_preferred":[
+        "Isabela"
+    ],
     "name:ita_x_preferred":[
         "Isabela"
     ],
@@ -54,6 +63,9 @@
         "\u30a4\u30b5\u30d9\u30e9"
     ],
     "name:lit_x_preferred":[
+        "Isabela"
+    ],
+    "name:lld_x_preferred":[
         "Isabela"
     ],
     "name:nld_x_preferred":[
@@ -64,6 +76,9 @@
     ],
     "name:por_x_preferred":[
         "Isabela"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u0430\u0431\u0435\u043b\u0430"
     ],
     "name:spa_x_preferred":[
         "Isabela"
@@ -86,6 +101,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u85a9\u8c9d\u62c9"
+    ],
+    "name:zho_x_variant":[
+        "\u4f0a\u838e\u8d1d\u62c9"
     ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":101919277,
-    "wof:lastmodified":1636502704,
+    "wof:lastmodified":1690855899,
     "wof:name":"Isabela",
     "wof:parent_id":102080383,
     "wof:placetype":"locality",

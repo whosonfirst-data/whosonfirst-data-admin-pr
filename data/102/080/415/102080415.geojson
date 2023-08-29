@@ -28,6 +28,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0627\u0646\u0627 \u062f\u064a\u0627\u0632"
+    ],
     "name:bpy_x_preferred":[
         "\u099c\u09c1\u09af\u09bc\u09be\u09a8\u09be \u09a1\u09bf\u09af\u09bc\u09be\u099c"
     ],
@@ -40,13 +43,22 @@
     "name:ces_x_preferred":[
         "Juana D\u00edaz"
     ],
+    "name:deu_x_preferred":[
+        "Juana D\u00edaz"
+    ],
     "name:eng_x_preferred":[
         "Juana D\u00edaz"
     ],
     "name:eng_x_variant":[
         "Juana D\u00edaz Municipality"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0627\u0646\u0627 \u062f\u06cc\u0627\u0632"
+    ],
     "name:fra_x_preferred":[
+        "Juana D\u00edaz"
+    ],
+    "name:gle_x_preferred":[
         "Juana D\u00edaz"
     ],
     "name:ita_x_preferred":[
@@ -63,6 +75,9 @@
     ],
     "name:por_x_preferred":[
         "Juana D\u00edaz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0430\u043d\u0430-\u0414\u0438\u0430\u0441"
     ],
     "name:slk_x_preferred":[
         "Juana D\u00edaz"
@@ -130,7 +145,7 @@
         "wd:id":"Q2361577"
     },
     "wof:country":"PR",
-    "wof:geomhash":"b74ddaa3d3ed80cb504578d27595db16",
+    "wof:geomhash":"a61de7eb5befd5fab3a92baa2b31a895",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +166,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476305,
+    "wof:lastmodified":1690855858,
     "wof:name":"Juana D\u00edaz",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Lomas"
     ],
+    "name:ceb_x_variant":[
+        "Lomas Barrio"
+    ],
     "name:deu_x_preferred":[
         "Lomas"
     ],
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101919181,
-    "wof:lastmodified":1566600326,
+    "wof:lastmodified":1690855895,
     "wof:name":"Lomas",
     "wof:parent_id":102080387,
     "wof:placetype":"locality",

@@ -31,10 +31,19 @@
     "name:ceb_x_preferred":[
         "Las Mar\u00edas"
     ],
+    "name:deu_x_preferred":[
+        "Las Mar\u00edas"
+    ],
     "name:eng_x_preferred":[
         "Las Mar\u00edas"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0633 \u0645\u0627\u0631\u06cc\u0627\u0633"
+    ],
     "name:fra_x_preferred":[
+        "Las Mar\u00edas"
+    ],
+    "name:gle_x_preferred":[
         "Las Mar\u00edas"
     ],
     "name:ita_x_preferred":[
@@ -48,6 +57,9 @@
     ],
     "name:por_x_preferred":[
         "Las Mar\u00edas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441-\u041c\u0430\u0440\u0438\u0430\u0441"
     ],
     "name:spa_x_preferred":[
         "Las Mar\u00edas"
@@ -127,7 +139,7 @@
         }
     ],
     "wof:id":1125919787,
-    "wof:lastmodified":1566600353,
+    "wof:lastmodified":1690855914,
     "wof:name":"Las Marias",
     "wof:parent_id":102080323,
     "wof:placetype":"locality",

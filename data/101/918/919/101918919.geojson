@@ -38,7 +38,13 @@
     "name:eng_x_preferred":[
         "Luquillo"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u06a9\u06cc\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Luquillo"
+    ],
+    "name:gle_x_preferred":[
         "Luquillo"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +52,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30eb\u30ad\u30ea\u30e7"
+    ],
+    "name:lld_x_preferred":[
+        "Luquillo"
     ],
     "name:nld_x_preferred":[
         "Luquillo"
@@ -153,7 +162,7 @@
         }
     ],
     "wof:id":101918919,
-    "wof:lastmodified":1566600314,
+    "wof:lastmodified":1690855882,
     "wof:name":"Luquillo",
     "wof:parent_id":102080339,
     "wof:placetype":"locality",

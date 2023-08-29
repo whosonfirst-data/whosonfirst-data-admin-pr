@@ -62,10 +62,19 @@
     "name:epo_x_preferred":[
         "Arecibo"
     ],
+    "name:eus_x_preferred":[
+        "Arecibo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0633\u06cc\u0628\u0648"
+    ],
     "name:fin_x_preferred":[
         "Arecibo"
     ],
     "name:fra_x_preferred":[
+        "Arecibo"
+    ],
+    "name:gle_x_preferred":[
         "Arecibo"
     ],
     "name:guj_x_preferred":[
@@ -101,6 +110,9 @@
     "name:lit_x_preferred":[
         "Aresibas"
     ],
+    "name:lld_x_preferred":[
+        "Arecibo"
+    ],
     "name:mar_x_preferred":[
         "\u0905\u0930\u093f\u0936\u093f\u0913"
     ],
@@ -122,6 +134,9 @@
     "name:por_x_preferred":[
         "Arecibo"
     ],
+    "name:ron_x_preferred":[
+        "Arecibo"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0435\u0441\u0438\u0431\u043e"
     ],
@@ -133,6 +148,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0410\u0440\u0435\u0441\u0438\u0431\u043e"
+    ],
+    "name:swa_x_preferred":[
+        "Arecibo"
     ],
     "name:swe_x_preferred":[
         "Arecibo"
@@ -331,7 +349,7 @@
         }
     ],
     "wof:id":101919135,
-    "wof:lastmodified":1636502702,
+    "wof:lastmodified":1690855883,
     "wof:name":"Arecibo",
     "wof:parent_id":102080283,
     "wof:placetype":"locality",

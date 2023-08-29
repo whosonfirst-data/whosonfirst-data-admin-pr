@@ -26,6 +26,12 @@
     "name:eng_x_preferred":[
         "El combate"
     ],
+    "name:gle_x_preferred":[
+        "El combate"
+    ],
+    "name:hat_x_preferred":[
+        "El combate"
+    ],
     "name:por_x_preferred":[
         "El combate"
     ],
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":101919045,
-    "wof:lastmodified":1566600329,
+    "wof:lastmodified":1690855898,
     "wof:name":"El Combate",
     "wof:parent_id":102080409,
     "wof:placetype":"locality",

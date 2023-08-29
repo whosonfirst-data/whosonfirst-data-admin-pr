@@ -29,7 +29,13 @@
     "name:eng_x_preferred":[
         "Bajandas"
     ],
+    "name:lld_x_preferred":[
+        "Bajandas"
+    ],
     "name:nld_x_preferred":[
+        "Bajandas"
+    ],
+    "name:spa_x_preferred":[
         "Bajandas"
     ],
     "name:srp_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":101919251,
-    "wof:lastmodified":1566600322,
+    "wof:lastmodified":1690855892,
     "wof:name":"Bajandas",
     "wof:parent_id":102080351,
     "wof:placetype":"locality",

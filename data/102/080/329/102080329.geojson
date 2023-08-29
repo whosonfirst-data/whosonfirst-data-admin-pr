@@ -28,6 +28,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0627\u0628\u0627\u062e\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u0627 \u0628\u0627\u062c\u0627"
+    ],
+    "name:bpy_x_preferred":[
+        "\u099f\u09f1\u09be \u09ac\u09be\u099c\u09be"
+    ],
     "name:cat_x_preferred":[
         "Toa Baja"
     ],
@@ -46,7 +55,13 @@
     "name:eng_x_variant":[
         "Toa Baja Municipality"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0622 \u0628\u0627\u062e\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Toa Baja"
+    ],
+    "name:gle_x_preferred":[
         "Toa Baja"
     ],
     "name:ita_x_preferred":[
@@ -55,11 +70,20 @@
     "name:jpn_x_preferred":[
         "\u30c8\u30a2\u30fb\u30d0\u30cf"
     ],
+    "name:lld_x_preferred":[
+        "Toa Baja"
+    ],
     "name:nld_x_preferred":[
+        "Toa Baja"
+    ],
+    "name:pol_x_preferred":[
         "Toa Baja"
     ],
     "name:por_x_preferred":[
         "Toa Baixa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0430-\u0411\u0430\u0445\u0430"
     ],
     "name:scn_x_preferred":[
         "Toa Baja"
@@ -72,6 +96,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0422\u043e\u0430 \u0411\u0430\u0445\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Toa Baja"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0430-\u0411\u0430\u0445\u0430"
@@ -127,7 +154,7 @@
         "wd:id":"Q2238070"
     },
     "wof:country":"PR",
-    "wof:geomhash":"08ebb3c8899bb80a156e4e47f0765b23",
+    "wof:geomhash":"4f77659511f28f88bba8252b602a8ba7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +175,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476307,
+    "wof:lastmodified":1690855869,
     "wof:name":"Toa Baja",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

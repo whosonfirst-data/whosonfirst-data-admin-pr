@@ -38,7 +38,13 @@
     "name:ceb_x_preferred":[
         "Moca"
     ],
+    "name:ceb_x_variant":[
+        "Moca Municipio"
+    ],
     "name:dan_x_preferred":[
+        "Moca"
+    ],
+    "name:deu_x_preferred":[
         "Moca"
     ],
     "name:ell_x_preferred":[
@@ -47,10 +53,16 @@
     "name:eng_x_preferred":[
         "Moca"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Moca"
     ],
     "name:fra_x_preferred":[
+        "Moca"
+    ],
+    "name:gle_x_preferred":[
         "Moca"
     ],
     "name:guj_x_preferred":[
@@ -88,6 +100,9 @@
     ],
     "name:lit_x_preferred":[
         "Moka"
+    ],
+    "name:lld_x_preferred":[
+        "Moca"
     ],
     "name:mar_x_preferred":[
         "\u092e\u094b\u0915\u093e"
@@ -226,7 +241,7 @@
         }
     ],
     "wof:id":101919385,
-    "wof:lastmodified":1636502703,
+    "wof:lastmodified":1690855894,
     "wof:name":"Moca",
     "wof:parent_id":102080423,
     "wof:placetype":"locality",

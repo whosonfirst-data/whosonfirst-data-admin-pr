@@ -28,10 +28,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:bpy_x_preferred":[
+        "\u099f\u09cd\u09b0\u09c1\u099c\u09bf\u09b2\u09cd\u09b2\u09cb \u0986\u09b2\u099f\u09cb"
+    ],
     "name:cat_x_preferred":[
         "Trujillo Alto"
     ],
     "name:ceb_x_preferred":[
+        "Trujillo Alto"
+    ],
+    "name:deu_x_preferred":[
         "Trujillo Alto"
     ],
     "name:eng_x_preferred":[
@@ -49,6 +55,9 @@
     "name:fra_x_preferred":[
         "Trujillo Alto"
     ],
+    "name:gle_x_preferred":[
+        "Trujillo Alto"
+    ],
     "name:ita_x_preferred":[
         "Trujillo Alto"
     ],
@@ -57,6 +66,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud2b8\ub8e8\ud788\uc694\uc54c\ud1a0"
+    ],
+    "name:lld_x_preferred":[
+        "Trujillo Alto"
     ],
     "name:nld_x_preferred":[
         "Trujillo Alto"
@@ -81,6 +93,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u0443\u0445\u0438\u0459\u043e \u0410\u043b\u0442\u043e"
+    ],
+    "name:szl_x_preferred":[
+        "Trujillo Alto"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0443\u0445\u0456\u043b\u044c\u0439\u043e-\u0410\u043b\u044c\u0442\u043e"
@@ -136,7 +151,7 @@
         "wd:id":"Q1150895"
     },
     "wof:country":"PR",
-    "wof:geomhash":"1e239a76c7137bcaf32f8bb03de3e7dc",
+    "wof:geomhash":"4533eeb028a6f09f0b8372fabd6b3eb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +172,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476307,
+    "wof:lastmodified":1690855862,
     "wof:name":"Trujillo Alto",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

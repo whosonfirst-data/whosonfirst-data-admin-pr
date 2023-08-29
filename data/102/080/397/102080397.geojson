@@ -28,6 +28,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:azb_x_preferred":[
+        "\u06cc\u0627\u0648\u06a9\u0648"
+    ],
     "name:bpy_x_preferred":[
         "\u09af\u09bc\u09be\u0989\u0995\u09cb"
     ],
@@ -37,13 +40,25 @@
     "name:ceb_x_preferred":[
         "Yauco"
     ],
+    "name:deu_x_preferred":[
+        "Yauco"
+    ],
     "name:eng_x_preferred":[
         "Yauco"
     ],
     "name:eng_x_variant":[
         "Yauco Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Yauco"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0648\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Yauco"
+    ],
+    "name:gle_x_preferred":[
         "Yauco"
     ],
     "name:ita_x_preferred":[
@@ -56,6 +71,9 @@
         "Yauco"
     ],
     "name:pol_x_preferred":[
+        "Yauco"
+    ],
+    "name:por_x_preferred":[
         "Yauco"
     ],
     "name:rus_x_preferred":[
@@ -127,7 +145,7 @@
         "wd:id":"Q368526"
     },
     "wof:country":"PR",
-    "wof:geomhash":"e8695a81b565d64112acd96fdbfa8005",
+    "wof:geomhash":"178ccd17aa95f700af75e5ff335bfa5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +166,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476308,
+    "wof:lastmodified":1690855856,
     "wof:name":"Yauco",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

@@ -38,6 +38,9 @@
     "name:ang_x_preferred":[
         "V\u00e1squez"
     ],
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0633\u0643\u064a\u0632"
+    ],
     "name:arg_x_preferred":[
         "V\u00e1squez"
     ],
@@ -283,6 +286,9 @@
     ],
     "name:jbo_x_preferred":[
         "V\u00e1squez"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30b9\u30b1\u30b9"
     ],
     "name:jut_x_preferred":[
         "V\u00e1squez"
@@ -572,6 +578,9 @@
     "name:srn_x_preferred":[
         "V\u00e1squez"
     ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0441\u043a\u0435\u0437"
+    ],
     "name:srq_x_preferred":[
         "V\u00e1squez"
     ],
@@ -659,6 +668,9 @@
     "name:zea_x_preferred":[
         "V\u00e1squez"
     ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u62c9\u65af\u514b\u65af"
+    ],
     "name:zul_x_preferred":[
         "V\u00e1squez"
     ],
@@ -706,7 +718,7 @@
         }
     ],
     "wof:id":101919425,
-    "wof:lastmodified":1566600318,
+    "wof:lastmodified":1690855886,
     "wof:name":"V\u00e1zquez",
     "wof:parent_id":102080337,
     "wof:placetype":"locality",

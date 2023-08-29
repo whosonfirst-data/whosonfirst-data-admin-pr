@@ -32,8 +32,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u0648\u064a\u0644 \u0641\u0631\u0646\u0627\u0646\u062f\u064a\u0632"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0646\u0648\u064a\u0644 \u0641\u0631\u0646\u0627\u0646\u062f\u064a\u0632"
+    ],
     "name:ast_x_preferred":[
         "Manuel Fern\u00e1ndez Xuncos"
+    ],
+    "name:ast_x_variant":[
+        "Manuel Fern\u00e1ndez Juncos"
     ],
     "name:cat_x_preferred":[
         "Manuel Fern\u00e1ndez Juncos"
@@ -62,6 +68,9 @@
     "name:fra_x_preferred":[
         "Manuel Fern\u00e1ndez Juncos"
     ],
+    "name:gle_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
     "name:gsw_x_preferred":[
         "Manuel Fern\u00e1ndez Juncos"
     ],
@@ -87,6 +96,9 @@
         "Manuel Fern\u00e1ndez Juncos"
     ],
     "name:nob_x_preferred":[
+        "Manuel Fern\u00e1ndez Juncos"
+    ],
+    "name:pap_x_preferred":[
         "Manuel Fern\u00e1ndez Juncos"
     ],
     "name:pol_x_preferred":[
@@ -181,7 +193,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582358353,
+    "wof:lastmodified":1690855874,
     "wof:name":"Fernandez Juncos",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

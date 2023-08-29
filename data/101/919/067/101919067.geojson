@@ -23,6 +23,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0627\u0628\u0627\u062e\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u0627 \u0628\u0627\u062c\u0627"
+    ],
+    "name:bpy_x_preferred":[
+        "\u099f\u09f1\u09be \u09ac\u09be\u099c\u09be"
+    ],
     "name:cat_x_preferred":[
         "Toa Baja"
     ],
@@ -38,7 +47,13 @@
     "name:eng_x_preferred":[
         "Toa Baja"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0622 \u0628\u0627\u062e\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Toa Baja"
+    ],
+    "name:gle_x_preferred":[
         "Toa Baja"
     ],
     "name:ita_x_preferred":[
@@ -47,11 +62,20 @@
     "name:jpn_x_preferred":[
         "\u30c8\u30a2\u30fb\u30d0\u30cf"
     ],
+    "name:lld_x_preferred":[
+        "Toa Baja"
+    ],
     "name:nld_x_preferred":[
+        "Toa Baja"
+    ],
+    "name:pol_x_preferred":[
         "Toa Baja"
     ],
     "name:por_x_preferred":[
         "Toa Baixa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0430-\u0411\u0430\u0445\u0430"
     ],
     "name:scn_x_preferred":[
         "Toa Baja"
@@ -61,6 +85,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0422\u043e\u0430 \u0411\u0430\u0445\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Toa Baja"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0430-\u0411\u0430\u0445\u0430"
@@ -143,7 +170,7 @@
         }
     ],
     "wof:id":101919067,
-    "wof:lastmodified":1566600334,
+    "wof:lastmodified":1690855906,
     "wof:name":"Toa Baja",
     "wof:parent_id":102080329,
     "wof:placetype":"locality",

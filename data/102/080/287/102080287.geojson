@@ -49,11 +49,23 @@
     "name:eng_x_variant":[
         "Fajardo Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Fajardo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u062c\u0627\u0631\u062f\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Fajardo"
+    ],
+    "name:gle_x_preferred":[
         "Fajardo"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d0\u05d7\u05e8\u05d3\u05d5"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0561\u056d\u0561\u0580\u0564\u0578"
     ],
     "name:ita_x_preferred":[
         "Fajardo"
@@ -63,6 +75,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0424\u0430\u0445\u0430\u0440\u0434\u043e"
+    ],
+    "name:lld_x_preferred":[
+        "Fajardo"
     ],
     "name:nld_x_preferred":[
         "Fajardo"
@@ -143,7 +158,7 @@
         "wd:id":"Q542833"
     },
     "wof:country":"PR",
-    "wof:geomhash":"085a1c663e99a95e36fa141233b924a1",
+    "wof:geomhash":"deeaf11e630f9fdba6981f47d8160d2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -164,7 +179,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476304,
+    "wof:lastmodified":1690855857,
     "wof:name":"Fajardo",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

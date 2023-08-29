@@ -70,6 +70,12 @@
     "name:ces_x_preferred":[
         "Souhv\u011bzd\u00ed Me\u010douna"
     ],
+    "name:ces_x_variant":[
+        "Me\u010doun"
+    ],
+    "name:cor_x_preferred":[
+        "Dorado"
+    ],
     "name:cos_x_preferred":[
         "Dorado"
     ],
@@ -81,6 +87,9 @@
     ],
     "name:deu_x_preferred":[
         "Schwertfisch"
+    ],
+    "name:diq_x_preferred":[
+        "Q\u0131lincmase"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03bf\u03c1\u03ac\u03c2"
@@ -175,8 +184,14 @@
     "name:msa_x_preferred":[
         "Todak"
     ],
+    "name:mya_x_preferred":[
+        "\u1012\u102d\u102f\u101b\u1012\u102d\u102f"
+    ],
     "name:nan_x_preferred":[
         "K\u00ee-h\u00ee-ch\u014d"
+    ],
+    "name:nds_x_preferred":[
+        "Swertfisch"
     ],
     "name:nld_x_preferred":[
         "Goudvis"
@@ -250,6 +265,9 @@
     "name:war_x_preferred":[
         "Dorado"
     ],
+    "name:wuu_x_preferred":[
+        "\u5251\u9c7c\u5ea7"
+    ],
     "name:yue_x_preferred":[
         "\u528d\u9b5a\u5ea7"
     ],
@@ -301,7 +319,7 @@
         "wd:id":"Q8837"
     },
     "wof:country":"PR",
-    "wof:geomhash":"e25ca7e3a954cf51db1a9eaf5920ac60",
+    "wof:geomhash":"6fc06e1f0566785625c50fcd1f61043f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -322,7 +340,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476303,
+    "wof:lastmodified":1690855865,
     "wof:name":"Dorado",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

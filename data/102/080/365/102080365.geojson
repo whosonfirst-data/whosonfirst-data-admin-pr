@@ -28,6 +28,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0627\u06cc\u0646\u0627\u0628\u0648"
+    ],
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09af\u09bc\u09a8\u09be\u09ac\u09cb"
     ],
@@ -55,6 +58,9 @@
     "name:fra_x_preferred":[
         "Guaynabo"
     ],
+    "name:gle_x_preferred":[
+        "Guaynabo"
+    ],
     "name:ita_x_preferred":[
         "Guaynabo"
     ],
@@ -63,6 +69,9 @@
     ],
     "name:lit_x_preferred":[
         "Guainabas"
+    ],
+    "name:lld_x_preferred":[
+        "Guaynabo"
     ],
     "name:mkd_x_preferred":[
         "\u0413\u0443\u0430\u0458\u043d\u0430\u0431\u043e"
@@ -76,6 +85,9 @@
     "name:por_x_preferred":[
         "Guaynabo"
     ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0430\u0439\u043d\u0430\u0431\u043e"
+    ],
     "name:sco_x_preferred":[
         "Guaynabo"
     ],
@@ -86,6 +98,12 @@
         "Guaynabo"
     ],
     "name:srp_x_preferred":[
+        "Guaynabo"
+    ],
+    "name:swa_x_preferred":[
+        "Guaynabo"
+    ],
+    "name:swe_x_preferred":[
         "Guaynabo"
     ],
     "name:ukr_x_preferred":[
@@ -142,7 +160,7 @@
         "wd:id":"Q590060"
     },
     "wof:country":"PR",
-    "wof:geomhash":"762d42801053709e09bd5214687c3fa2",
+    "wof:geomhash":"5500733b08ed2daf30c8bd47043e1b2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -163,7 +181,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476304,
+    "wof:lastmodified":1690855855,
     "wof:name":"Guaynabo",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

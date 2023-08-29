@@ -40,7 +40,13 @@
     "name:eng_x_variant":[
         "Rinc\u00f3n"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0646\u0633\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
+        "Rinc\u00f3n"
+    ],
+    "name:gle_x_preferred":[
         "Rinc\u00f3n"
     ],
     "name:hun_x_preferred":[
@@ -55,8 +61,14 @@
     "name:nld_x_preferred":[
         "Rinc\u00f3n"
     ],
+    "name:nob_x_preferred":[
+        "Rinc\u00f3n"
+    ],
     "name:por_x_preferred":[
         "Rinc\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043d\u043a\u043e\u043d\u0430"
     ],
     "name:spa_x_preferred":[
         "Rinc\u00f3n"
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":1125848679,
-    "wof:lastmodified":1566600365,
+    "wof:lastmodified":1690855916,
     "wof:name":"Rincon",
     "wof:parent_id":102080307,
     "wof:placetype":"locality",

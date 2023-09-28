@@ -141,6 +141,10 @@
         "uscensus:geoid":"72103",
         "wd:id":"Q2659720"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"22c4eb37fe1b1676e69b11cb140949b3",
     "wof:hierarchy":[
@@ -163,7 +167,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855856,
+    "wof:lastmodified":1695887197,
     "wof:name":"Naguabo",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

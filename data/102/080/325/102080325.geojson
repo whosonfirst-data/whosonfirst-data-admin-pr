@@ -147,6 +147,10 @@
         "uscensus:geoid":"72115",
         "wd:id":"Q2057872"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"d51fac8c56f44af8ce13acc73c89c45a",
     "wof:hierarchy":[
@@ -169,7 +173,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855862,
+    "wof:lastmodified":1695887197,
     "wof:name":"Quebradillas",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

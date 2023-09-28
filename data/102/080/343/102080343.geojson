@@ -589,6 +589,10 @@
         "hasc:id":"PR.FL",
         "uscensus:geoid":"72054"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"34bdc8d124a2f3a679f9c7ba8d1a583d",
     "wof:hierarchy":[
@@ -611,7 +615,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476304,
+    "wof:lastmodified":1695887194,
     "wof:name":"Florida",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

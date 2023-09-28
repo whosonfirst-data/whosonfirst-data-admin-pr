@@ -139,6 +139,10 @@
         "uscensus:geoid":"72055",
         "wd:id":"Q1019645"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"0ea78089a33bacdddd81ea84161c174d",
     "wof:hierarchy":[
@@ -161,7 +165,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855866,
+    "wof:lastmodified":1695887195,
     "wof:name":"Gu\u00e1nica",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

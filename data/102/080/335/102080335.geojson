@@ -164,6 +164,10 @@
         "hasc:id":"PR.SI",
         "uscensus:geoid":"72133"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"54116bb1e1e23d7eac6f932377be6605",
     "wof:hierarchy":[
@@ -186,7 +190,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476307,
+    "wof:lastmodified":1695887198,
     "wof:name":"Santa Isabel",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

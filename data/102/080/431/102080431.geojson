@@ -156,6 +156,10 @@
         "uscensus:geoid":"72009",
         "wd:id":"Q2485628"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"422cb25241d1f971e627746936f9cb14",
     "wof:hierarchy":[
@@ -178,7 +182,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855860,
+    "wof:lastmodified":1695887193,
     "wof:name":"Aibonito",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

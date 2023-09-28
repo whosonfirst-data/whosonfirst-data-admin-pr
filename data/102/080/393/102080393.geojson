@@ -159,6 +159,10 @@
         "uscensus:geoid":"72001",
         "wd:id":"Q1864884"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"2d211c0fbb5dd42d25cb15d401ea2fdb",
     "wof:hierarchy":[
@@ -181,7 +185,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855864,
+    "wof:lastmodified":1695887192,
     "wof:name":"Adjuntas",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

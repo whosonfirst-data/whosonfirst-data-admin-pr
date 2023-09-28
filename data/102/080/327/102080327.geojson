@@ -98,6 +98,10 @@
         "hasc:id":"PR.LJ",
         "uscensus:geoid":"72079"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"d12a638128e0ce4a07bc91dd9497f10f",
     "wof:hierarchy":[
@@ -120,7 +124,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476305,
+    "wof:lastmodified":1695887196,
     "wof:name":"Lajas",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

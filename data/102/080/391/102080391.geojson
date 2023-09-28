@@ -128,6 +128,10 @@
         "hasc:id":"PR.LP",
         "uscensus:geoid":"72085"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"51def9fde23e80fb215485cd7cc538d8",
     "wof:hierarchy":[
@@ -150,7 +154,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476305,
+    "wof:lastmodified":1695887196,
     "wof:name":"Las Piedras",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

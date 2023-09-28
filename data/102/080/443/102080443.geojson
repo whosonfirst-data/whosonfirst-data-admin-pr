@@ -195,6 +195,10 @@
         "uscensus:geoid":"72021",
         "wd:id":"Q739675"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"9d85db20a37bf858e3b14f5f6ef45962",
     "wof:hierarchy":[
@@ -217,7 +221,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855866,
+    "wof:lastmodified":1695887193,
     "wof:name":"Bayam\u00f3n",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

@@ -153,6 +153,10 @@
         "uscensus:geoid":"72151",
         "wd:id":"Q2361097"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"e1ed923c202eb27fe0cde54dc835a3f3",
     "wof:hierarchy":[
@@ -175,7 +179,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855862,
+    "wof:lastmodified":1695887199,
     "wof:name":"Yabucoa",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

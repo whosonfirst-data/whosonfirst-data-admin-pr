@@ -135,6 +135,10 @@
         "uscensus:geoid":"72095",
         "wd:id":"Q967149"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"aac0a6552541f0315f2a3785ba25daed",
     "wof:hierarchy":[
@@ -157,7 +161,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855870,
+    "wof:lastmodified":1695887196,
     "wof:name":"Maunabo",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

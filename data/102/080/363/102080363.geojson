@@ -147,6 +147,10 @@
         "uscensus:geoid":"72087",
         "wd:id":"Q1853983"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"502b4cca79f55992e6855f8fec2039d4",
     "wof:hierarchy":[
@@ -169,7 +173,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855856,
+    "wof:lastmodified":1695887196,
     "wof:name":"Lo\u00edza",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

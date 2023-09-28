@@ -95,6 +95,10 @@
         "hasc:id":"PR.GR",
         "uscensus:geoid":"72063"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"b1a80c7c0b09d754dff3769a0b819a3b",
     "wof:hierarchy":[
@@ -117,7 +121,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476304,
+    "wof:lastmodified":1695887195,
     "wof:name":"Gurabo",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

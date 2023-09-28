@@ -150,6 +150,10 @@
         "uscensus:geoid":"72035",
         "wd:id":"Q2307508"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"6d8011f46a41477e4cf40a7cd28972f3",
     "wof:hierarchy":[
@@ -172,7 +176,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855865,
+    "wof:lastmodified":1695887194,
     "wof:name":"Cayey",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

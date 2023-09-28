@@ -81,6 +81,10 @@
         "hasc:id":"PR.RG",
         "uscensus:geoid":"72119"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"ed0e412954f953b1b0338316cd89303b",
     "wof:hierarchy":[
@@ -103,7 +107,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476306,
+    "wof:lastmodified":1695887198,
     "wof:name":"R\u00edo Grande",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

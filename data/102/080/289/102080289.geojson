@@ -147,6 +147,10 @@
         "uscensus:geoid":"72033",
         "wd:id":"Q768483"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         101918955
     ],
@@ -172,7 +176,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855858,
+    "wof:lastmodified":1695887193,
     "wof:name":"Cata\u00f1o",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

@@ -153,6 +153,10 @@
         "uscensus:geoid":"72137",
         "wd:id":"Q2238070"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"4f77659511f28f88bba8252b602a8ba7",
     "wof:hierarchy":[
@@ -175,7 +179,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855869,
+    "wof:lastmodified":1695887198,
     "wof:name":"Toa Baja",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

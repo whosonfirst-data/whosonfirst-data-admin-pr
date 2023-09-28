@@ -159,6 +159,10 @@
         "uscensus:geoid":"72061",
         "wd:id":"Q590060"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"5500733b08ed2daf30c8bd47043e1b2b",
     "wof:hierarchy":[
@@ -181,7 +185,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855855,
+    "wof:lastmodified":1695887195,
     "wof:name":"Guaynabo",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

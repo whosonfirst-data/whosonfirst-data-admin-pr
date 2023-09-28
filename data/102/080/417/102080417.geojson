@@ -318,6 +318,10 @@
         "uscensus:geoid":"72051",
         "wd:id":"Q8837"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"6fc06e1f0566785625c50fcd1f61043f",
     "wof:hierarchy":[
@@ -340,7 +344,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855865,
+    "wof:lastmodified":1695887194,
     "wof:name":"Dorado",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

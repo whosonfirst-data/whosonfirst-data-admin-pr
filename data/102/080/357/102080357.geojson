@@ -159,6 +159,10 @@
         "uscensus:geoid":"72125",
         "wd:id":"Q1598808"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"db794ebe45931c70132f8c9b21a217d7",
     "wof:hierarchy":[
@@ -181,7 +185,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855863,
+    "wof:lastmodified":1695887198,
     "wof:name":"San Germ\u00e1n",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

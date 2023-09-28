@@ -241,6 +241,10 @@
         "hasc:id":"PR.SJ",
         "uscensus:geoid":"72127"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"23835030b3fedad9f4ff487699d38e4c",
     "wof:hierarchy":[
@@ -263,7 +267,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476307,
+    "wof:lastmodified":1695887199,
     "wof:name":"San Juan",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

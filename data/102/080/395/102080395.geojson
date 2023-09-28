@@ -101,6 +101,10 @@
         "hasc:id":"PR.SB",
         "uscensus:geoid":"72121"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"c2db1bb532b2d31ef17d590108f19275",
     "wof:hierarchy":[
@@ -123,7 +127,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476306,
+    "wof:lastmodified":1695887197,
     "wof:name":"Sabana Grande",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

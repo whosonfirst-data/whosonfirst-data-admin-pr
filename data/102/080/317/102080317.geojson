@@ -135,6 +135,10 @@
         "uscensus:geoid":"72039",
         "wd:id":"Q2485522"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"13ef0a4a99429f8bc5c9d6fbb99bf7d3",
     "wof:hierarchy":[
@@ -157,7 +161,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855871,
+    "wof:lastmodified":1695887193,
     "wof:name":"Ciales",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

@@ -107,6 +107,10 @@
         "hasc:id":"PR.AD",
         "uscensus:geoid":"72003"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"b1b27b3e7ec29834d20c8b31273eac16",
     "wof:hierarchy":[
@@ -129,7 +133,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476301,
+    "wof:lastmodified":1695887192,
     "wof:name":"Aguada",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

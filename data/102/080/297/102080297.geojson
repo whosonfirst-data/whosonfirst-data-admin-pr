@@ -141,6 +141,10 @@
         "uscensus:geoid":"72059",
         "wd:id":"Q2333093"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"b8007276e3573273aec11d4560b5c18f",
     "wof:hierarchy":[
@@ -163,7 +167,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855869,
+    "wof:lastmodified":1695887194,
     "wof:name":"Guayanilla",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

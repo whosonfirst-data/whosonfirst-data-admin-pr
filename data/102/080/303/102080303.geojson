@@ -107,6 +107,10 @@
         "hasc:id":"PR.NR",
         "uscensus:geoid":"72105"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"74cd9ba57f895a85c9823017d914c8f4",
     "wof:hierarchy":[
@@ -129,7 +133,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476306,
+    "wof:lastmodified":1695887197,
     "wof:name":"Naranjito",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

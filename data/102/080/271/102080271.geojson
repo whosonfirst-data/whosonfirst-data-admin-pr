@@ -147,6 +147,10 @@
         "uscensus:geoid":"72091",
         "wd:id":"Q674599"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"ec5876b85864a0c57930139635fecfa0",
     "wof:hierarchy":[
@@ -169,7 +173,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855867,
+    "wof:lastmodified":1695887195,
     "wof:name":"Manat\u00ed",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

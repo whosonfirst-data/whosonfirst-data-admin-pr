@@ -135,6 +135,10 @@
         "uscensus:geoid":"72109",
         "wd:id":"Q2485638"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"f6aad7dcc332f72b748f3d0706fa9675",
     "wof:hierarchy":[
@@ -157,7 +161,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855867,
+    "wof:lastmodified":1695887198,
     "wof:name":"Patillas",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

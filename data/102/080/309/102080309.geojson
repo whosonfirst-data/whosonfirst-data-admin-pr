@@ -197,6 +197,10 @@
         "hasc:id":"PR.SL",
         "uscensus:geoid":"72129"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"ef9934ac0a26e0715c8ac85882855504",
     "wof:hierarchy":[
@@ -219,7 +223,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476307,
+    "wof:lastmodified":1695887198,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

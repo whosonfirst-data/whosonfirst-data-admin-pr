@@ -168,6 +168,10 @@
         "uscensus:geoid":"72005",
         "wd:id":"Q397826"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"eb791da3c36564481c0bff5e308236c9",
     "wof:hierarchy":[
@@ -190,7 +194,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855858,
+    "wof:lastmodified":1695887192,
     "wof:name":"Aguadilla",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

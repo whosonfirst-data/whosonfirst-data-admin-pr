@@ -135,6 +135,10 @@
         "uscensus:geoid":"72077",
         "wd:id":"Q2347667"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"b10b5d30676c83b0483d238037c71820",
     "wof:hierarchy":[
@@ -157,7 +161,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855855,
+    "wof:lastmodified":1695887196,
     "wof:name":"Juncos",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

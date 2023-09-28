@@ -176,6 +176,10 @@
         "hasc:id":"PR.CN",
         "uscensus:geoid":"72031"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"ddad2367e643e2bbc9fbc05253ae794b",
     "wof:hierarchy":[
@@ -198,7 +202,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476303,
+    "wof:lastmodified":1695887194,
     "wof:name":"Carolina",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

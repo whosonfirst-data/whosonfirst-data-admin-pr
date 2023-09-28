@@ -317,6 +317,10 @@
         "hasc:id":"PR.SS",
         "uscensus:geoid":"72131"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"02d53c845e444de14e1728dd6a6875be",
     "wof:hierarchy":[
@@ -339,7 +343,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476307,
+    "wof:lastmodified":1695887199,
     "wof:name":"San Sebasti\u00e1n",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

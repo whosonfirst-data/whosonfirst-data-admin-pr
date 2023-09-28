@@ -159,6 +159,10 @@
         "uscensus:geoid":"72145",
         "wd:id":"Q2179051"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"f5d66261e57d813d19cfdfeae63c8d89",
     "wof:hierarchy":[
@@ -181,7 +185,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855864,
+    "wof:lastmodified":1695887199,
     "wof:name":"Vega Baja",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

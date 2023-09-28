@@ -143,6 +143,10 @@
         "hasc:id":"PR.CZ",
         "uscensus:geoid":"72047"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"6828e827dd41ffdcf180d7d1a540ccbf",
     "wof:hierarchy":[
@@ -165,7 +169,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476303,
+    "wof:lastmodified":1695887194,
     "wof:name":"Corozal",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

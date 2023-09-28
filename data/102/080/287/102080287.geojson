@@ -157,6 +157,10 @@
         "uscensus:geoid":"72053",
         "wd:id":"Q542833"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"deeaf11e630f9fdba6981f47d8160d2c",
     "wof:hierarchy":[
@@ -179,7 +183,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855857,
+    "wof:lastmodified":1695887194,
     "wof:name":"Fajardo",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

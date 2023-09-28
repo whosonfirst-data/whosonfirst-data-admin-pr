@@ -116,6 +116,10 @@
         "hasc:id":"PR.PO",
         "uscensus:geoid":"72113"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"a3111af84a74805224008dc122fd75da",
     "wof:hierarchy":[
@@ -138,7 +142,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476306,
+    "wof:lastmodified":1695887197,
     "wof:name":"Ponce",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

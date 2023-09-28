@@ -138,6 +138,10 @@
         "uscensus:geoid":"72083",
         "wd:id":"Q2485590"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"29a8e2da4a1e76b3cf71e5941c5eb8e6",
     "wof:hierarchy":[
@@ -160,7 +164,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855859,
+    "wof:lastmodified":1695887196,
     "wof:name":"Las Mar\u00edas",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

@@ -150,6 +150,10 @@
         "uscensus:geoid":"72141",
         "wd:id":"Q617096"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"f2d730ee3b8017e8bcca7e91d629e249",
     "wof:hierarchy":[
@@ -172,7 +176,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855868,
+    "wof:lastmodified":1695887199,
     "wof:name":"Utuado",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

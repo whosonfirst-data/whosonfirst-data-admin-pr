@@ -150,6 +150,10 @@
         "uscensus:geoid":"72069",
         "wd:id":"Q2307535"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"8333bcde0e84b6bb63fa842129be9d9d",
     "wof:hierarchy":[
@@ -172,7 +176,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855863,
+    "wof:lastmodified":1695887195,
     "wof:name":"Humacao",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

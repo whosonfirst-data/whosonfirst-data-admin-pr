@@ -98,6 +98,10 @@
         "hasc:id":"PR.BC",
         "uscensus:geoid":"72017"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"0d87778a6a8012e7a39e87d3e5fb97e0",
     "wof:hierarchy":[
@@ -120,7 +124,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476302,
+    "wof:lastmodified":1695887192,
     "wof:name":"Barceloneta",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

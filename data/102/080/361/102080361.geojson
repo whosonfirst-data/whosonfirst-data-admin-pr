@@ -150,6 +150,10 @@
         "uscensus:geoid":"72139",
         "wd:id":"Q1150895"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"4533eeb028a6f09f0b8372fabd6b3eb7",
     "wof:hierarchy":[
@@ -172,7 +176,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855862,
+    "wof:lastmodified":1695887199,
     "wof:name":"Trujillo Alto",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

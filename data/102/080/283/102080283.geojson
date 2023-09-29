@@ -246,6 +246,10 @@
         "uscensus:geoid":"72013",
         "wd:id":"Q640728"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"6b697acedc369f3c403871f51c70a084",
     "wof:hierarchy":[
@@ -268,7 +272,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855865,
+    "wof:lastmodified":1695887192,
     "wof:name":"Arecibo",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

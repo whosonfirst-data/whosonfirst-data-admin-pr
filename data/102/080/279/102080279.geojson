@@ -150,6 +150,10 @@
         "uscensus:geoid":"72043",
         "wd:id":"Q1942303"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"776ef71caa7df7191d0d004f5abfa15d",
     "wof:hierarchy":[
@@ -172,7 +176,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855866,
+    "wof:lastmodified":1695887193,
     "wof:name":"Coamo",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

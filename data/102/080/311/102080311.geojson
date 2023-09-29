@@ -234,6 +234,10 @@
         "uscensus:geoid":"72097",
         "wd:id":"Q632727"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"2ca5b31d9b1744bc7f11e9d6868fd7ec",
     "wof:hierarchy":[
@@ -256,7 +260,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855869,
+    "wof:lastmodified":1695887196,
     "wof:name":"Mayag\u00fcez",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

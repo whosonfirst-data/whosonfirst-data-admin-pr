@@ -141,6 +141,10 @@
         "uscensus:geoid":"72089",
         "wd:id":"Q1984618"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"fb069723f3bfb9bf8b963560b4e2842f",
     "wof:hierarchy":[
@@ -163,7 +167,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855856,
+    "wof:lastmodified":1695887196,
     "wof:name":"Luquillo",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

@@ -98,6 +98,10 @@
         "hasc:id":"PR.CU",
         "uscensus:geoid":"72049"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"827113efc6d92cf93e67e1f3db43cbaf",
     "wof:hierarchy":[
@@ -120,7 +124,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476303,
+    "wof:lastmodified":1695887193,
     "wof:name":"Culebra",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

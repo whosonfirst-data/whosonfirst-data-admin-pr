@@ -144,6 +144,10 @@
         "uscensus:geoid":"72093",
         "wd:id":"Q2624359"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"180bbec73a69f9458ff762addef005a0",
     "wof:hierarchy":[
@@ -166,7 +170,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855859,
+    "wof:lastmodified":1695887197,
     "wof:name":"Maricao",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

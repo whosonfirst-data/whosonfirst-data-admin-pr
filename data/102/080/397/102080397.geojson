@@ -144,6 +144,10 @@
         "uscensus:geoid":"72153",
         "wd:id":"Q368526"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"178ccd17aa95f700af75e5ff335bfa5d",
     "wof:hierarchy":[
@@ -166,7 +170,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855856,
+    "wof:lastmodified":1695887200,
     "wof:name":"Yauco",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

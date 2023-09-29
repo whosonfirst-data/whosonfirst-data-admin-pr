@@ -127,6 +127,10 @@
         "hasc:id":"PR.AR",
         "uscensus:geoid":"72015"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"a2f343aa1adcb6f5082815fbe330bcd3",
     "wof:hierarchy":[
@@ -149,7 +153,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476302,
+    "wof:lastmodified":1695887192,
     "wof:name":"Arroyo",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

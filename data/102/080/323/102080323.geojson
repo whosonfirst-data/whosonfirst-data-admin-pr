@@ -141,6 +141,10 @@
         "uscensus:geoid":"72011",
         "wd:id":"Q2390910"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"4830d4d593c28fea070bbeaac49cb235",
     "wof:hierarchy":[
@@ -163,7 +167,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855861,
+    "wof:lastmodified":1695887192,
     "wof:name":"A\u00f1asco",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

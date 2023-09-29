@@ -138,6 +138,10 @@
         "uscensus:geoid":"72019",
         "wd:id":"Q2485615"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"eac31a0d222c3a81c6d25d8f969d0132",
     "wof:hierarchy":[
@@ -160,7 +164,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855864,
+    "wof:lastmodified":1695887192,
     "wof:name":"Barranquitas",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

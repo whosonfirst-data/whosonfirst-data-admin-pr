@@ -144,6 +144,10 @@
         "uscensus:geoid":"72101",
         "wd:id":"Q2623982"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"2a5b72cba90e7bbb9a8298454fcfab16",
     "wof:hierarchy":[
@@ -166,7 +170,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855859,
+    "wof:lastmodified":1695887198,
     "wof:name":"Morovis",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

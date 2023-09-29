@@ -219,6 +219,10 @@
         "uscensus:geoid":"72147",
         "wd:id":"Q737624"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"0d864a112f4be85b574567e17252daf3",
     "wof:hierarchy":[
@@ -241,7 +245,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855861,
+    "wof:lastmodified":1695887199,
     "wof:name":"Vieques",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

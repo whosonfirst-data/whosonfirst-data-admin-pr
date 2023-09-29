@@ -189,6 +189,10 @@
         "hasc:id":"PR.SA",
         "uscensus:geoid":"72123"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"d47db8c47d5340cec235c1fa21543350",
     "wof:hierarchy":[
@@ -211,7 +215,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476306,
+    "wof:lastmodified":1695887197,
     "wof:name":"Salinas",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

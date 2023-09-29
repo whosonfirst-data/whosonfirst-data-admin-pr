@@ -153,6 +153,10 @@
         "uscensus:geoid":"72057",
         "wd:id":"Q1870997"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"b7ac90e900bdc52ff0e5e73d2a1ad94e",
     "wof:hierarchy":[
@@ -175,7 +179,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855870,
+    "wof:lastmodified":1695887195,
     "wof:name":"Guayama",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

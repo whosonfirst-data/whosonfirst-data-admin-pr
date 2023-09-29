@@ -156,6 +156,10 @@
         "uscensus:geoid":"72143",
         "wd:id":"Q2640843"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"4a6d2a8f17d93cc0f0282679ecd5ca0e",
     "wof:hierarchy":[
@@ -178,7 +182,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855857,
+    "wof:lastmodified":1695887199,
     "wof:name":"Vega Alta",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

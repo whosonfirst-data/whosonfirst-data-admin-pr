@@ -122,6 +122,10 @@
         "hasc:id":"PR.MC",
         "uscensus:geoid":"72099"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"452ba56d33db5e02c02490c4f1af8d5f",
     "wof:hierarchy":[
@@ -144,7 +148,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476305,
+    "wof:lastmodified":1695887197,
     "wof:name":"Moca",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

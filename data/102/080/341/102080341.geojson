@@ -232,6 +232,10 @@
         "uscensus:geoid":"72037",
         "wd:id":"Q284019"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"416fe1573abd700949f7319eed2dfeab",
     "wof:hierarchy":[
@@ -254,7 +258,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855861,
+    "wof:lastmodified":1695887194,
     "wof:name":"Ceiba",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

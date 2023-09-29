@@ -144,6 +144,10 @@
         "uscensus:geoid":"72107",
         "wd:id":"Q2624345"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"ce2095703b3d0289dc731d738e318b17",
     "wof:hierarchy":[
@@ -166,7 +170,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855867,
+    "wof:lastmodified":1695887198,
     "wof:name":"Orocovis",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

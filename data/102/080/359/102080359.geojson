@@ -141,6 +141,10 @@
         "uscensus:geoid":"72135",
         "wd:id":"Q2485509"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"0d854ef9e88838d1b9e26733f953aadb",
     "wof:hierarchy":[
@@ -163,7 +167,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855863,
+    "wof:lastmodified":1695887198,
     "wof:name":"Toa Alta",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

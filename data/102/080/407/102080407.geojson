@@ -138,6 +138,10 @@
         "uscensus:geoid":"72067",
         "wd:id":"Q2361536"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"926f1a2476ed6fca1638d3468ed5f19d",
     "wof:hierarchy":[
@@ -160,7 +164,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855860,
+    "wof:lastmodified":1695887195,
     "wof:name":"Hormigueros",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

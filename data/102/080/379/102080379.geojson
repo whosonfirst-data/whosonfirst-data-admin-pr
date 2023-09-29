@@ -189,6 +189,10 @@
         "uscensus:geoid":"72081",
         "wd:id":"Q504377"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"4146cdc41f7e710c7c2b42e452fe76d4",
     "wof:hierarchy":[
@@ -211,7 +215,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855861,
+    "wof:lastmodified":1695887196,
     "wof:name":"Lares",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

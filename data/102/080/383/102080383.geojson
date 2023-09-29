@@ -143,6 +143,10 @@
         "hasc:id":"PR.IS",
         "uscensus:geoid":"72071"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"dcfc65e05fc8cfaad44caadbcc7f7e7e",
     "wof:hierarchy":[
@@ -165,7 +169,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476304,
+    "wof:lastmodified":1695887195,
     "wof:name":"Isabela",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

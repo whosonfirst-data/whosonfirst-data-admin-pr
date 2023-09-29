@@ -79,6 +79,10 @@
         "hasc:id":"PR.CD",
         "uscensus:geoid":"72041"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"a56d0c21860fd31db2071392f6359b11",
     "wof:hierarchy":[
@@ -101,7 +105,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1684476303,
+    "wof:lastmodified":1695887194,
     "wof:name":"Cidra",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

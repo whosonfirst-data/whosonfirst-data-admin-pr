@@ -141,6 +141,10 @@
         "uscensus:geoid":"72027",
         "wd:id":"Q2380860"
     },
+    "wof:concordances_official":"uscensus:geoid",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"PR",
     "wof:geomhash":"b476ff3f4b120f4add4f2b36628b5e38",
     "wof:hierarchy":[
@@ -163,7 +167,7 @@
         "spa",
         "eng"
     ],
-    "wof:lastmodified":1690855860,
+    "wof:lastmodified":1695887192,
     "wof:name":"Camuy",
     "wof:parent_id":85633729,
     "wof:placetype":"county",

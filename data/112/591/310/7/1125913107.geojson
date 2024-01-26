@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-65.74822,18.16635,-65.74822,18.16635",
@@ -19,7 +21,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fra_x_preferred":[
@@ -81,14 +83,16 @@
         }
     ],
     "wof:id":1125913107,
-    "wof:lastmodified":1566600354,
+    "wof:lastmodified":1706240613,
     "wof:name":"Punta Santiago",
     "wof:parent_id":102080351,
     "wof:placetype":"locality",
     "wof:population":5803,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919243
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

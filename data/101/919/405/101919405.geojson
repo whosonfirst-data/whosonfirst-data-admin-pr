@@ -9,9 +9,12 @@
     "geom:bbox":"-66.879,18.019288,-66.84052,18.05092",
     "geom:latitude":18.034392,
     "geom:longitude":-66.861413,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
     "gn:id":"4568917,7276399",
     "gn:population":20295,
     "iso:country":"PR",
+    "lbl:bbox":"-66.8699,18.01496,-66.8299,18.05496",
     "lbl:latitude":18.032586,
     "lbl:longitude":-66.863306,
     "lbl:max_zoom":14.0,
@@ -21,6 +24,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u06cc\u0627\u0648\u06a9\u0648"
     ],
@@ -116,10 +120,34 @@
     "qs:pop":0,
     "qs:source":"IUS Census",
     "qs:type":"G4210",
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4568917,
+    "qs_pg:gn_pop":20295,
+    "qs_pg:name":"Yauco",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Yauco",
+    "qs_pg:photos":141,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":141,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":154524,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":161836,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Yauco",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -135,6 +163,20 @@
         "wd:id":"Q368526",
         "wk:page":"Yauco, Puerto Rico"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4568917
+        ],
+        "gp:id":[
+            161836
+        ],
+        "qs_pg:id":[
+            154524
+        ],
+        "wd:id":[
+            "Q368526"
+        ]
+    },
     "wof:country":"PR",
     "wof:geomhash":"b6e5403fa8cd7152ef7b03f427f47c1d",
     "wof:hierarchy":[
@@ -149,7 +191,7 @@
         }
     ],
     "wof:id":101919405,
-    "wof:lastmodified":1690855903,
+    "wof:lastmodified":1706240613,
     "wof:name":"Yauco",
     "wof:parent_id":102080397,
     "wof:placetype":"locality",
@@ -157,7 +199,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125968295
+    ],
     "wof:tags":[]
 },
   "bbox": [

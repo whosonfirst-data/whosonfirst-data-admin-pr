@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-65.82738,18.14968,-65.82738,18.14968",
@@ -19,7 +21,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
@@ -159,14 +161,16 @@
         }
     ],
     "wof:id":1125966443,
-    "wof:lastmodified":1690855913,
+    "wof:lastmodified":1706240613,
     "wof:name":"Humacao",
     "wof:parent_id":102080351,
     "wof:placetype":"locality",
     "wof:population":20387,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919245
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

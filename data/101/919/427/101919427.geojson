@@ -9,8 +9,12 @@
     "geom:bbox":"-66.129403,18.329169,-65.991415,18.480827",
     "geom:latitude":18.406523,
     "geom:longitude":-66.063914,
+    "gn:country":"PR",
+    "gn:fcode":"PPLC",
     "gn:id":"4568127,7276386",
+    "gn:population":418140,
     "iso:country":"PR",
+    "lbl:bbox":"-66.12572,18.44633,-66.08572,18.48633",
     "lbl:latitude":18.402821,
     "lbl:longitude":-66.05817,
     "lbl:max_zoom":18.0,
@@ -20,6 +24,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "San Juan"
     ],
@@ -176,6 +181,9 @@
     "name:kor_x_preferred":[
         "\uc0b0\ud6c4\uc548"
     ],
+    "name:kor_x_variant":[
+        "\uc0cc\ud658"
+    ],
     "name:lat_x_preferred":[
         "Urbs Sancti Ioannis de Portu Divite"
     ],
@@ -222,6 +230,9 @@
         "San Juan"
     ],
     "name:nob_x_preferred":[
+        "San Juan"
+    ],
+    "name:nor_x_preferred":[
         "San Juan"
     ],
     "name:oci_x_preferred":[
@@ -311,6 +322,9 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d"
     ],
+    "name:und_x_variant":[
+        "Saint Iuan"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u062c\u0648\u0627\u0646"
     ],
@@ -370,11 +384,23 @@
     "qs:pop":0,
     "qs:source":"IUS Census",
     "qs:type":"G4210",
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPLC",
+    "qs_pg:gn_id":4568127,
+    "qs_pg:gn_pop":418140,
+    "qs_pg:name":"San Juan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":12,
+    "qs_pg:qs_id":98631,
+    "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -388,6 +414,17 @@
         "ne:id":1159151181,
         "qs_pg:id":611081,
         "wd:id":"Q41211"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4568127
+        ],
+        "qs_pg:id":[
+            98631
+        ],
+        "wd:id":[
+            "Q41211"
+        ]
     },
     "wof:country":"PR",
     "wof:geom_alt":[
@@ -406,15 +443,18 @@
         }
     ],
     "wof:id":101919427,
-    "wof:lastmodified":1690855901,
+    "wof:lastmodified":1706240613,
     "wof:megacity":1,
     "wof:name":"San Juan",
     "wof:parent_id":102080441,
     "wof:placetype":"locality",
+    "wof:population":418140,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1141909405
+        1141909405,
+        1126038493
     ],
     "wof:tags":[]
 },

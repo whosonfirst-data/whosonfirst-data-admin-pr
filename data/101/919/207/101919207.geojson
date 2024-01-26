@@ -9,8 +9,12 @@
     "geom:bbox":"-66.758652,18.056474,-66.730335,18.088295",
     "geom:latitude":18.072218,
     "geom:longitude":-66.745802,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
     "gn:id":"4568253,7275006",
+    "gn:population":3633,
     "iso:country":"PR",
+    "lbl:bbox":"-66.7724,18.0433,-66.7324,18.0833",
     "lbl:latitude":18.073574,
     "lbl:longitude":-66.746017,
     "lbl:max_zoom":18.0,
@@ -20,6 +24,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Santo Domingo"
     ],
@@ -55,13 +60,34 @@
     "qs:pop":0,
     "qs:source":"IUS Census",
     "qs:type":"G4210",
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4568253,
+    "qs_pg:gn_pop":3633,
+    "qs_pg:name":"Santo Domingo",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Pe\u00f1uelas",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1204900,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":161734,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:elevation":14.0,
     "wd:latitude":18.476389,
     "wd:longitude":-69.893333,
     "wd:wordcount":5610,
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Pe\u00f1uelas",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -71,8 +97,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":4568253,
         "gp:id":161734,
+        "qs_pg:id":1204900,
         "wd:id":"Q4365313"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            161734
+        ],
+        "wd:id":[
+            "Q4365313"
+        ]
     },
     "wof:country":"PR",
     "wof:geomhash":"5a138ea3098589c22d753961a88e2026",
@@ -88,13 +124,17 @@
         }
     ],
     "wof:id":101919207,
-    "wof:lastmodified":1690855902,
+    "wof:lastmodified":1706240613,
     "wof:name":"Santo Domingo",
     "wof:parent_id":102080319,
     "wof:placetype":"locality",
+    "wof:population":3633,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125771047
+    ],
     "wof:tags":[]
 },
   "bbox": [

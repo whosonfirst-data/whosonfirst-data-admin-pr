@@ -9,8 +9,12 @@
     "geom:bbox":"-65.678831,18.227081,-65.647718,18.259971",
     "geom:latitude":18.244675,
     "geom:longitude":-65.666198,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
     "gn:id":"4562517,7275017",
+    "gn:population":3499,
     "iso:country":"PR",
+    "lbl:bbox":"-65.6735,18.23273,-65.6335,18.27273",
     "lbl:latitude":18.244125,
     "lbl:longitude":-65.666205,
     "lbl:max_zoom":18.0,
@@ -20,6 +24,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:und_x_variant":[
+        "Parcelas Aguas Claras"
+    ],
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
     "qs:a1_lc":"72",
@@ -34,9 +42,30 @@
     "qs:pop":0,
     "qs:source":"IUS Census",
     "qs:type":"G4210",
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4562517,
+    "qs_pg:gn_pop":3499,
+    "qs_pg:name":"Aguas Claras",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Ceiba",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1204789,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":160646,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Ceiba",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -46,7 +75,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":160646
+        "gn:id":4562517,
+        "gp:id":160646,
+        "qs_pg:id":1204789
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            160646
+        ]
     },
     "wof:country":"PR",
     "wof:geomhash":"51cb685d6b3ca5a88b9f0d413c5fcd24",
@@ -62,13 +98,17 @@
         }
     ],
     "wof:id":101919093,
-    "wof:lastmodified":1566600334,
+    "wof:lastmodified":1706240612,
     "wof:name":"Aguas Claras",
     "wof:parent_id":102080341,
     "wof:placetype":"locality",
+    "wof:population":3499,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125951433
+    ],
     "wof:tags":[]
 },
   "bbox": [

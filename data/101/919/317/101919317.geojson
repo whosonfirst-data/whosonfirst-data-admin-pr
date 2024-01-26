@@ -9,8 +9,12 @@
     "geom:bbox":"-66.362567,18.433802,-66.333309,18.45397",
     "geom:latitude":18.443364,
     "geom:longitude":-66.346822,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
     "gn:id":"4563379,7275044",
+    "gn:population":6576,
     "iso:country":"PR",
+    "lbl:bbox":"-66.37073,18.42634,-66.33073,18.46634",
     "lbl:latitude":18.443338,
     "lbl:longitude":-66.345395,
     "lbl:max_zoom":18.0,
@@ -20,6 +24,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0642\u0627\u0628\u0648\u0642"
     ],
@@ -103,9 +108,34 @@
     "qs:pop":0,
     "qs:source":"IUS Census",
     "qs:type":"G4210",
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4563379,
+    "qs_pg:gn_pop":6576,
+    "qs_pg:name":"Ceiba",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Vega Baja",
+    "qs_pg:photos":34,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":34,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":154493,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":160796,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Vega Baja",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -115,7 +145,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":24550934
+        "gn:id":4563379,
+        "gp:id":24550934,
+        "qs_pg:id":154493
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            160796
+        ]
     },
     "wof:country":"PR",
     "wof:geomhash":"d5b2f2a21f60133af7c7829333980d0f",
@@ -131,13 +168,17 @@
         }
     ],
     "wof:id":101919317,
-    "wof:lastmodified":1566600336,
+    "wof:lastmodified":1706240613,
     "wof:name":"Ceiba",
     "wof:parent_id":102080413,
     "wof:placetype":"locality",
+    "wof:population":6576,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126038509
+    ],
     "wof:tags":[]
 },
   "bbox": [

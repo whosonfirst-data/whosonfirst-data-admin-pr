@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
         "San Juan Antiguo"
@@ -56,11 +57,30 @@
     "qs:woe_lau":0,
     "qs:woe_local":161685,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"San Juan Antiguo",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"San Juan",
+    "qs_pg:photos":29387,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":130,
+    "qs_pg:photos_9r":22,
+    "qs_pg:photos_all":29387,
+    "qs_pg:photos_sr":28,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":954961,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":24550944,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"San Juan",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85633729,
         102191575,
@@ -73,6 +93,14 @@
     "wof:concordances":{
         "gp:id":24550944,
         "qs_pg:id":954961
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            24550944
+        ],
+        "qs_pg:id":[
+            954961
+        ]
     },
     "wof:country":"PR",
     "wof:geom_alt":[
@@ -95,13 +123,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582358355,
+    "wof:lastmodified":1706240611,
     "wof:name":"San Juan Antiguo",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126064087
+    ],
     "wof:tags":[]
 },
   "bbox": [

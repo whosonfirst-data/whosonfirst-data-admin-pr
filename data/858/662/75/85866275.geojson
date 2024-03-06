@@ -9,7 +9,10 @@
     "geom:bbox":"-66.013742,18.444783,-66.013742,18.444783",
     "geom:latitude":18.444783,
     "geom:longitude":-66.013742,
+    "gn:country":"PR",
     "gn:elevation":3,
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PR",
     "lbl:bbox":"-66.018742,18.439783,-66.008742,18.449783",
     "lbl:latitude":18.444783,
@@ -25,6 +28,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
         "Biascochea"
@@ -53,11 +57,35 @@
     "qs:woe_lau":0,
     "qs:woe_local":161685,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4562869,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Biascochea",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Carolina",
+    "qs_pg:photos":539,
+    "qs_pg:photos_1k":109,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":539,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1086159,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":24550972,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Carolina",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85633729,
         102191575,
@@ -71,6 +99,17 @@
         "gn:id":4562869,
         "gp:id":24550972,
         "qs_pg:id":1086159
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4562869
+        ],
+        "gp:id":[
+            24550972
+        ],
+        "qs_pg:id":[
+            1086159
+        ]
     },
     "wof:country":"PR",
     "wof:geom_alt":[
@@ -93,13 +132,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582358355,
+    "wof:lastmodified":1706240611,
     "wof:name":"Biascochea",
     "wof:parent_id":101919197,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126091633
+    ],
     "wof:tags":[]
 },
   "bbox": [

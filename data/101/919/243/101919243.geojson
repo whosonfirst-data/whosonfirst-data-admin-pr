@@ -9,8 +9,12 @@
     "geom:bbox":"-65.772884,18.146338,-65.740851,18.174825",
     "geom:latitude":18.161796,
     "geom:longitude":-65.75866,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
     "gn:id":"4566992,7274984",
+    "gn:population":5803,
     "iso:country":"PR",
+    "lbl:bbox":"-65.76822,18.14635,-65.72822,18.18635",
     "lbl:latitude":18.164219,
     "lbl:longitude":-65.755986,
     "lbl:max_zoom":18.0,
@@ -20,6 +24,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fra_x_preferred":[
         "Pointe Santiago"
     ],
@@ -40,10 +45,35 @@
     "qs:pop":0,
     "qs:source":"IUS Census",
     "qs:type":"G4210",
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4566992,
+    "qs_pg:gn_pop":5803,
+    "qs_pg:name":"Punta Santiago",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Humacao",
+    "qs_pg:photos":186,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":186,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":154517,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":161592,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":33,
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Humacao",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -54,7 +84,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566992,
-        "gp:id":161592
+        "gp:id":161592,
+        "qs_pg:id":154517
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4566992
+        ],
+        "gp:id":[
+            161592
+        ]
     },
     "wof:country":"PR",
     "wof:geomhash":"66ba65eddfda8a3545f7f97e631d082e",
@@ -70,13 +109,17 @@
         }
     ],
     "wof:id":101919243,
-    "wof:lastmodified":1566600319,
+    "wof:lastmodified":1706240613,
     "wof:name":"Punta Santiago",
     "wof:parent_id":102080351,
     "wof:placetype":"locality",
+    "wof:population":5803,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125913107
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-66.35073,18.44634,-66.35073,18.44634",
@@ -19,7 +21,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -146,14 +148,16 @@
         }
     ],
     "wof:id":1126038509,
-    "wof:lastmodified":1566600347,
+    "wof:lastmodified":1706240613,
     "wof:name":"Ceiba",
     "wof:parent_id":102080305,
     "wof:placetype":"locality",
     "wof:population":6576,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919317
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

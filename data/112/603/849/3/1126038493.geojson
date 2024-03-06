@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-66.10572,18.46633,-66.10572,18.46633",
@@ -19,7 +21,7 @@
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
@@ -404,14 +406,16 @@
         }
     ],
     "wof:id":1126038493,
-    "wof:lastmodified":1690855910,
+    "wof:lastmodified":1706240613,
     "wof:name":"San Juan",
     "wof:parent_id":102080441,
     "wof:placetype":"locality",
     "wof:population":418140,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-pr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919427
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

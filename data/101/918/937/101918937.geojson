@@ -9,9 +9,12 @@
     "geom:bbox":"-66.862939,18.473311,-66.835769,18.490352",
     "geom:latitude":18.482387,
     "geom:longitude":-66.850232,
+    "gn:country":"PR",
+    "gn:fcode":"PPL",
     "gn:id":"4563064,7276413",
     "gn:population":4240,
     "iso:country":"PR",
+    "lbl:bbox":"-66.8649,18.46383,-66.8249,18.50383",
     "lbl:latitude":18.48303,
     "lbl:longitude":-66.853423,
     "lbl:max_zoom":15.0,
@@ -21,6 +24,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0648\u064a"
     ],
@@ -107,10 +111,34 @@
     "qs:pop":0,
     "qs:source":"IUS Census",
     "qs:type":"G4210",
+    "qs_pg:aaroncc":"PR",
+    "qs_pg:gn_country":"PR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4563064,
+    "qs_pg:gn_pop":4240,
+    "qs_pg:name":"Camuy",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"Camuy",
+    "qs_pg:photos":229,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":229,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":211129,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":160764,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"Camuy",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85633729,
         85687331,
@@ -126,6 +154,20 @@
         "wd:id":"Q2380860",
         "wk:page":"Camuy, Puerto Rico"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4563064
+        ],
+        "gp:id":[
+            160764
+        ],
+        "qs_pg:id":[
+            211129
+        ],
+        "wd:id":[
+            "Q2380860"
+        ]
+    },
     "wof:country":"PR",
     "wof:geomhash":"cb1237934c8ae0da213fcad186e6e682",
     "wof:hierarchy":[
@@ -140,7 +182,7 @@
         }
     ],
     "wof:id":101918937,
-    "wof:lastmodified":1690855876,
+    "wof:lastmodified":1706240612,
     "wof:name":"Camuy",
     "wof:parent_id":102080293,
     "wof:placetype":"locality",
@@ -148,7 +190,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125889813
+    ],
     "wof:tags":[]
 },
   "bbox": [

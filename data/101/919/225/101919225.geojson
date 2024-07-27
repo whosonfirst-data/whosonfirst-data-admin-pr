@@ -18,7 +18,7 @@
     "mps:latitude":17.978496,
     "mps:longitude":-66.888189,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -38,16 +38,18 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080429,
+        85633729,
         136253057,
-        102080429
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":55870111
+        "gp:id":55870111,
+        "uscensus:geoid":"7250754"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"4b45c7bddebbf6bf084de66eb5f28b85",
     "wof:hierarchy":[
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":101919225,
-    "wof:lastmodified":1566600331,
+    "wof:lastmodified":1722051536,
     "wof:name":"Mar\u00eda Antonia",
     "wof:parent_id":102080429,
     "wof:placetype":"locality",

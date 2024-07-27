@@ -51,16 +51,18 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":28,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080381,
+        85633729,
         136253057,
-        102080381
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":24550897
+        "gp:id":24550897,
+        "uscensus:geoid":"7268556"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"0c5d30cc63ca72719925edd4fa644d75",
     "wof:hierarchy":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":101919279,
-    "wof:lastmodified":1566600330,
+    "wof:lastmodified":1722051537,
     "wof:name":"Rafael Gonz\u00e1lez",
     "wof:parent_id":102080381,
     "wof:placetype":"locality",

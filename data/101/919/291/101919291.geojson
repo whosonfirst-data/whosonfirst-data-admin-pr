@@ -132,20 +132,22 @@
     "src:population":"geonames",
     "wd:wordcount":1737,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080417,
+        85633729,
         136253057,
-        102080417
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4564133,
         "gp:id":160880,
         "qs_pg:id":489359,
+        "uscensus:geoid":"7224008",
         "wd:id":"Q2217567",
         "wk:page":"Dorado, Puerto Rico"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"301c0f09c97fa87b252cd3ebe5e311ad",
     "wof:hierarchy":[
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":101919291,
-    "wof:lastmodified":1690855904,
+    "wof:lastmodified":1722051538,
     "wof:name":"Dorado",
     "wof:parent_id":102080417,
     "wof:placetype":"locality",

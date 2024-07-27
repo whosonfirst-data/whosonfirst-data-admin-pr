@@ -21,7 +21,7 @@
     "mps:latitude":17.957644,
     "mps:longitude":-66.226309,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Central Aguirre"
@@ -68,18 +68,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080337,
+        85633729,
         136253057,
-        102080337
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4563411,
         "gp:id":160799,
-        "qs_pg:id":154494
+        "qs_pg:id":154494,
+        "uscensus:geoid":"7216526"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"5a08f00dd3572df64de19521fbf95fcc",
     "wof:hierarchy":[
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101919413,
-    "wof:lastmodified":1566600318,
+    "wof:lastmodified":1722051535,
     "wof:name":"Central Aguirre",
     "wof:parent_id":102080337,
     "wof:placetype":"locality",

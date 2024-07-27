@@ -21,7 +21,7 @@
     "mps:latitude":18.028049,
     "mps:longitude":-66.533075,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -60,18 +60,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080415,
+        85633729,
         136253057,
-        102080415
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4562524,
         "gp:id":160648,
-        "qs_pg:id":1117751
+        "qs_pg:id":1117751,
+        "uscensus:geoid":"7201089"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"5d98fcc8d6141106a4f142b935cf747a",
     "wof:hierarchy":[
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101919353,
-    "wof:lastmodified":1566600316,
+    "wof:lastmodified":1722051535,
     "wof:name":"Aguilita",
     "wof:parent_id":102080415,
     "wof:placetype":"locality",

@@ -21,7 +21,7 @@
     "mps:latitude":18.428356,
     "mps:longitude":-66.609704,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sabana Hoyos Barrio"
@@ -66,18 +66,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080283,
+        85633729,
         136253057,
-        102080283
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568017,
         "gp:id":161651,
-        "qs_pg:id":1117810
+        "qs_pg:id":1117810,
+        "uscensus:geoid":"7273716"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"103e9266c2b1e927eaeba474e90287e0",
     "wof:hierarchy":[
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101919129,
-    "wof:lastmodified":1566600324,
+    "wof:lastmodified":1722051536,
     "wof:name":"Sabana Hoyos",
     "wof:parent_id":102080283,
     "wof:placetype":"locality",

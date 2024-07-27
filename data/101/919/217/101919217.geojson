@@ -68,18 +68,20 @@
     "src:population":"geonames",
     "wd:wordcount":94,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080343,
+        85633729,
         136253057,
-        102080343
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566472,
         "gp:id":24550893,
-        "qs_pg:id":507477
+        "qs_pg:id":507477,
+        "uscensus:geoid":"7257862"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"b170c7fc6733e247bc9e4b3ae21dd123",
     "wof:hierarchy":[
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101919217,
-    "wof:lastmodified":1566600319,
+    "wof:lastmodified":1722051536,
     "wof:name":"Pajonal",
     "wof:parent_id":102080343,
     "wof:placetype":"locality",

@@ -21,7 +21,7 @@
     "mps:latitude":17.992481,
     "mps:longitude":-66.497523,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -60,18 +60,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080415,
+        85633729,
         136253057,
-        102080415
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566900,
         "gp:id":24550904,
-        "qs_pg:id":154516
+        "qs_pg:id":154516,
+        "uscensus:geoid":"7264127"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"10ae3015f9c85613c039c37c4e778bab",
     "wof:hierarchy":[
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101919355,
-    "wof:lastmodified":1566600317,
+    "wof:lastmodified":1722051535,
     "wof:name":"Potala Pastillo",
     "wof:parent_id":102080415,
     "wof:placetype":"locality",

@@ -86,23 +86,25 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080321,
+        85633729,
         136253057,
-        102080321
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568201,
         "gp:id":24550873,
         "qs_pg:id":1193248,
+        "uscensus:geoid":"7277826",
         "wd:id":"Q2001529"
     },
     "wof:concordances_alt":{
         "gn:id":4568200,
         "qs_pg:id":98630
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"d704f3573768e728c5d9fbb30d89eb59",
     "wof:hierarchy":[
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101919007,
-    "wof:lastmodified":1690855890,
+    "wof:lastmodified":1722051537,
     "wof:name":"Santa Clara",
     "wof:parent_id":102080321,
     "wof:placetype":"locality",

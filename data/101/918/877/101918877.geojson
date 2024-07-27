@@ -18,7 +18,7 @@
     "mps:latitude":18.09679,
     "mps:longitude":-66.619694,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Monte Verde"
@@ -89,17 +89,19 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080299,
+        85633729,
         136253057,
-        102080299
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7315444,
-        "gp:id":55870325
+        "gp:id":55870325,
+        "uscensus:geoid":"7254688"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"d6ea73aa2169148587643fec1c2f2bd2",
     "wof:hierarchy":[
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101918877,
-    "wof:lastmodified":1566600312,
+    "wof:lastmodified":1722051535,
     "wof:name":"Monte Verde",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

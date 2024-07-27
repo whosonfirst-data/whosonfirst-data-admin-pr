@@ -125,19 +125,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080401,
+        85633729,
         136253057,
-        102080401
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566333,
         "gp:id":161466,
         "qs_pg:id":228619,
+        "uscensus:geoid":"7255097",
         "wd:id":"Q2623982"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"dd0724e7268ae7dc6c38922321c2cc11",
     "wof:hierarchy":[
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":101919111,
-    "wof:lastmodified":1690855893,
+    "wof:lastmodified":1722051537,
     "wof:name":"Morovis",
     "wof:parent_id":102080401,
     "wof:placetype":"locality",

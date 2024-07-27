@@ -63,16 +63,18 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":125,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080373,
+        85633729,
         136253057,
-        102080373
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":24550895
+        "gp:id":24550895,
+        "uscensus:geoid":"7220353"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"731cdc5115a80ae22796f1cdc7008fab",
     "wof:hierarchy":[
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101919311,
-    "wof:lastmodified":1566600335,
+    "wof:lastmodified":1722051537,
     "wof:name":"Coraz\u00f3n",
     "wof:parent_id":102080373,
     "wof:placetype":"locality",

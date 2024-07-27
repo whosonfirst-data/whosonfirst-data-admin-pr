@@ -236,20 +236,22 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080425,
+        85633729,
         136253057,
-        102080425
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4563008,
         "gp:id":160738,
         "qs_pg:id":1049314,
+        "uscensus:geoid":"7210334",
         "wd:id":"Q527268",
         "wk:page":"Caguas, Puerto Rico"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"0872d983bc96eefa3c69ad8804945b05",
     "wof:hierarchy":[
@@ -264,7 +266,7 @@
         }
     ],
     "wof:id":101919173,
-    "wof:lastmodified":1690855893,
+    "wof:lastmodified":1722051537,
     "wof:name":"Caguas",
     "wof:parent_id":102080425,
     "wof:placetype":"locality",

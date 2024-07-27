@@ -78,19 +78,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080351,
+        85633729,
         136253057,
-        102080351
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4562710,
         "gp:id":160679,
         "qs_pg:id":1049312,
+        "uscensus:geoid":"7204701",
         "wd:id":"Q2576863"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"a4b5bf9b84b3d06bec572e56b2b55aee",
     "wof:hierarchy":[
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101919251,
-    "wof:lastmodified":1690855892,
+    "wof:lastmodified":1722051537,
     "wof:name":"Bajandas",
     "wof:parent_id":102080351,
     "wof:placetype":"locality",

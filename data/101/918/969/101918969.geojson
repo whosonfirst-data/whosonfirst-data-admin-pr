@@ -18,7 +18,7 @@
     "mps:latitude":18.058789,
     "mps:longitude":-65.911916,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -38,16 +38,18 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080371,
+        85633729,
         136253057,
-        102080371
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":24550936
+        "gp:id":24550936,
+        "uscensus:geoid":"7272555"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"573762ee6ca68d61157138c82a144278",
     "wof:hierarchy":[
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":101918969,
-    "wof:lastmodified":1566600312,
+    "wof:lastmodified":1722051535,
     "wof:name":"Rosa S\u00e1nchez",
     "wof:parent_id":102080371,
     "wof:placetype":"locality",

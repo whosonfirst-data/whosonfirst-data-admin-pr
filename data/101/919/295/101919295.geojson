@@ -140,20 +140,22 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080325,
+        85633729,
         136253057,
-        102080325
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4567552,
         "gp:id":161597,
         "qs_pg:id":489380,
+        "uscensus:geoid":"7268040",
         "wd:id":"Q2057872",
         "wk:page":"Quebradillas, Puerto Rico"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"cd8e7900390e62465460376fa39b124b",
     "wof:hierarchy":[
@@ -168,7 +170,7 @@
         }
     ],
     "wof:id":101919295,
-    "wof:lastmodified":1690855889,
+    "wof:lastmodified":1722051537,
     "wof:name":"Quebradillas",
     "wof:parent_id":102080325,
     "wof:placetype":"locality",

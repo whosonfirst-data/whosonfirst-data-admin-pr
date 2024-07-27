@@ -21,7 +21,7 @@
     "mps:latitude":17.996756,
     "mps:longitude":-66.714429,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tallaboa"
@@ -87,22 +87,24 @@
     "src:population":"geonames",
     "wd:wordcount":40,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080319,
+        85633729,
         136253057,
-        102080319
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568367,
         "gp:id":55870332,
         "qs_pg:id":228626,
+        "uscensus:geoid":"7281413",
         "wd:id":"Q7680000"
     },
     "wof:concordances_alt":{
         "gp:id":161757
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"671a920e73118daffd250cf2e9c5def7",
     "wof:hierarchy":[
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101919205,
-    "wof:lastmodified":1690855892,
+    "wof:lastmodified":1722051536,
     "wof:name":"Tallaboa",
     "wof:parent_id":102080319,
     "wof:placetype":"locality",

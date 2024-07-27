@@ -213,20 +213,22 @@
     "src:population":"geonames",
     "wd:wordcount":841,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080423,
+        85633729,
         136253057,
-        102080423
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566270,
         "gp:id":161451,
         "qs_pg:id":266484,
+        "uscensus:geoid":"7253807",
         "wd:id":"Q2288079",
         "wk:page":"Moca, Puerto Rico"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"cfc4c83886a3c3a27dc300441290a470",
     "wof:hierarchy":[
@@ -241,7 +243,7 @@
         }
     ],
     "wof:id":101919385,
-    "wof:lastmodified":1690855894,
+    "wof:lastmodified":1722051538,
     "wof:name":"Moca",
     "wof:parent_id":102080423,
     "wof:placetype":"locality",

@@ -21,7 +21,7 @@
     "mps:latitude":18.339436,
     "mps:longitude":-65.711283,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Ramos"
@@ -334,19 +334,21 @@
     "src:population":"geonames",
     "wd:wordcount":288,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080339,
+        85633729,
         136253057,
-        102080339
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4567586,
         "gp:id":24550910,
         "qs_pg:id":259738,
+        "uscensus:geoid":"7268771",
         "wd:id":"Q1643088"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"bec1a6280089103162d327f85214c7e5",
     "wof:hierarchy":[
@@ -361,7 +363,7 @@
         }
     ],
     "wof:id":101918921,
-    "wof:lastmodified":1690855882,
+    "wof:lastmodified":1722051536,
     "wof:name":"Ramos",
     "wof:parent_id":102080339,
     "wof:placetype":"locality",

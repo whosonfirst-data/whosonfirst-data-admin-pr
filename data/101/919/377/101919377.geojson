@@ -107,17 +107,19 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080271,
+        85633729,
         136253057,
-        102080271
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":160854,
+        "uscensus:geoid":"7250152",
         "wd:id":"Q674599"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"8b1236eedbd3cd9f6290c18fa96c4207",
     "wof:hierarchy":[
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101919377,
-    "wof:lastmodified":1690855893,
+    "wof:lastmodified":1722051537,
     "wof:name":"Manat\u00ed",
     "wof:parent_id":102080271,
     "wof:placetype":"locality",

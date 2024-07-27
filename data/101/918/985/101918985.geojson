@@ -149,19 +149,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080335,
+        85633729,
         136253057,
-        102080335
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568212,
         "gp:id":161712,
         "qs_pg:id":1174582,
+        "uscensus:geoid":"7278145",
         "wd:id":"Q2485604"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"0874e4a6ffb5c8b65fe92fbcd9ebd2e1",
     "wof:hierarchy":[
@@ -176,7 +178,7 @@
         }
     ],
     "wof:id":101918985,
-    "wof:lastmodified":1690855879,
+    "wof:lastmodified":1722051537,
     "wof:name":"Santa Isabel",
     "wof:parent_id":102080335,
     "wof:placetype":"locality",

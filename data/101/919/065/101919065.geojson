@@ -21,7 +21,7 @@
     "mps:latitude":18.42648,
     "mps:longitude":-66.180721,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Sabana Seca"
@@ -68,18 +68,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080329,
+        85633729,
         136253057,
-        102080329
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568023,
         "gp:id":161655,
-        "qs_pg:id":489383
+        "qs_pg:id":489383,
+        "uscensus:geoid":"7274189"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"32d8c1bb09c042193701b7902230a525",
     "wof:hierarchy":[
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101919065,
-    "wof:lastmodified":1566600320,
+    "wof:lastmodified":1722051535,
     "wof:name":"Sabana Seca",
     "wof:parent_id":102080329,
     "wof:placetype":"locality",

@@ -18,7 +18,7 @@
     "mps:latitude":18.065971,
     "mps:longitude":-66.235408,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aar_x_preferred":[
         "V\u00e1squez"
@@ -693,17 +693,19 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":621,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080337,
+        85633729,
         136253057,
-        102080337
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":161795,
+        "uscensus:geoid":"7285111",
         "wd:id":"Q21507201"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"e6fd901ad53f33ddaac08b6df06563ac",
     "wof:hierarchy":[
@@ -718,7 +720,7 @@
         }
     ],
     "wof:id":101919425,
-    "wof:lastmodified":1690855886,
+    "wof:lastmodified":1722051536,
     "wof:name":"V\u00e1zquez",
     "wof:parent_id":102080337,
     "wof:placetype":"locality",

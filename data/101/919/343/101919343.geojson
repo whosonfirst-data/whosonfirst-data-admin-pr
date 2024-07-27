@@ -54,17 +54,19 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1384,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080363,
+        85633729,
         136253057,
-        102080363
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":161748,
+        "uscensus:geoid":"7280639",
         "wd:id":"Q2198184"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"9e8ca3933160fd87414bcfd45cae979b",
     "wof:hierarchy":[
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":101919343,
-    "wof:lastmodified":1690855908,
+    "wof:lastmodified":1722051538,
     "wof:name":"Su\u00e1rez",
     "wof:parent_id":102080363,
     "wof:placetype":"locality",

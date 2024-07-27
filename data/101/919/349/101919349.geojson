@@ -118,20 +118,22 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080415,
+        85633729,
         136253057,
-        102080415
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565712,
         "gp:id":161250,
         "qs_pg:id":1024152,
+        "uscensus:geoid":"7238972",
         "wd:id":"Q2361577",
         "wk:page":"Juana D\u00edaz, Puerto Rico"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"1fcc3985881ca5e4ea32e22e4fc44f2c",
     "wof:hierarchy":[
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":101919349,
-    "wof:lastmodified":1690855894,
+    "wof:lastmodified":1722051538,
     "wof:name":"Juana D\u00edaz",
     "wof:parent_id":102080415,
     "wof:placetype":"locality",

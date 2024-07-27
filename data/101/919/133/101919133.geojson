@@ -21,7 +21,7 @@
     "mps:latitude":18.400291,
     "mps:longitude":-66.59797,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -58,18 +58,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080283,
+        85633729,
         136253057,
-        102080283
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565731,
         "gp:id":161258,
-        "qs_pg:id":1204845
+        "qs_pg:id":1204845,
+        "uscensus:geoid":"7239875"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"30725224c9db1955f88c48838f3ada4f",
     "wof:hierarchy":[
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":101919133,
-    "wof:lastmodified":1566600316,
+    "wof:lastmodified":1722051535,
     "wof:name":"La Alianza",
     "wof:parent_id":102080283,
     "wof:placetype":"locality",

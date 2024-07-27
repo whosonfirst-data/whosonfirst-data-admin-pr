@@ -78,18 +78,20 @@
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080283,
+        85633729,
         136253057,
-        102080283
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4562615,
         "gp:id":24550877,
-        "qs_pg:id":1049311
+        "qs_pg:id":1049311,
+        "uscensus:geoid":"7203024"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"6908dfbd29ebe296f0c735c10790c98c",
     "wof:hierarchy":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101919131,
-    "wof:lastmodified":1566600327,
+    "wof:lastmodified":1722051537,
     "wof:name":"Animas",
     "wof:parent_id":102080283,
     "wof:placetype":"locality",

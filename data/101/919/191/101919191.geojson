@@ -69,16 +69,18 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":363,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080387,
+        85633729,
         136253057,
-        102080387
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":160706
+        "gp:id":160706,
+        "uscensus:geoid":"7207496"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"9e7f10c2b99afd8f9b867513da8110ef",
     "wof:hierarchy":[
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101919191,
-    "wof:lastmodified":1566600327,
+    "wof:lastmodified":1722051537,
     "wof:name":"Ben\u00edtez",
     "wof:parent_id":102080387,
     "wof:placetype":"locality",

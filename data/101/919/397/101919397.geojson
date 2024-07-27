@@ -88,23 +88,25 @@
     "woe:name_adm1":"Naguabo",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080355,
+        85633729,
         136253057,
-        102080355
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4564149,
         "gp:id":160883,
-        "qs_pg:id":1117766
+        "qs_pg:id":1117766,
+        "uscensus:geoid":"7224395"
     },
     "wof:concordances_alt":{
         "gp:id":[
             160883
         ]
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"f2531d8ac555616a12a8437fd8fa6207",
     "wof:hierarchy":[
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101919397,
-    "wof:lastmodified":1706240613,
+    "wof:lastmodified":1722051538,
     "wof:name":"Duque",
     "wof:parent_id":102080355,
     "wof:placetype":"locality",

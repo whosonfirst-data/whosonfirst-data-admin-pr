@@ -104,17 +104,19 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080319,
+        85633729,
         136253057,
-        102080319
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":161534,
+        "uscensus:geoid":"7261074",
         "wd:id":"Q369880"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"7e58a7a8b9fb086871999770279c87f3",
     "wof:hierarchy":[
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101919209,
-    "wof:lastmodified":1690855902,
+    "wof:lastmodified":1722051538,
     "wof:name":"Pe\u00f1uelas",
     "wof:parent_id":102080319,
     "wof:placetype":"locality",

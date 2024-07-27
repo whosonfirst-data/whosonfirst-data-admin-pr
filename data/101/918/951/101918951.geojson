@@ -81,18 +81,20 @@
     "src:population":"geonames",
     "wd:wordcount":126,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080293,
+        85633729,
         136253057,
-        102080293
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566997,
         "gp:id":161594,
-        "qs_pg:id":489369
+        "qs_pg:id":489369,
+        "uscensus:geoid":"7266660"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"67a02ac5370f45adca3b996d55ce6712",
     "wof:hierarchy":[
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101918951,
-    "wof:lastmodified":1566600312,
+    "wof:lastmodified":1722051536,
     "wof:name":"Quebrada",
     "wof:parent_id":102080293,
     "wof:placetype":"locality",

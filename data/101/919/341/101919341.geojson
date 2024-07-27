@@ -21,7 +21,7 @@
     "mps:latitude":18.427312,
     "mps:longitude":-65.836059,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -62,21 +62,23 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080363,
+        85633729,
         136253057,
-        102080363
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568570,
         "gp:id":161439,
-        "qs_pg:id":1214882
+        "qs_pg:id":1214882,
+        "uscensus:geoid":"7285971"
     },
     "wof:concordances_alt":{
         "gp:id":161803
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"d3717154dcf99cbe7b00695e6420b5c7",
     "wof:hierarchy":[
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101919341,
-    "wof:lastmodified":1566600323,
+    "wof:lastmodified":1722051536,
     "wof:name":"Vieques",
     "wof:parent_id":102080363,
     "wof:placetype":"locality",

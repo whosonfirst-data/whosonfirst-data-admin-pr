@@ -21,7 +21,7 @@
     "mps:latitude":18.43264,
     "mps:longitude":-66.44082,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Coto Norte"
@@ -74,21 +74,23 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080271,
+        85633729,
         136253057,
-        102080271
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4564028,
         "gp:id":55870542,
-        "qs_pg:id":501083
+        "qs_pg:id":501083,
+        "uscensus:geoid":"7221385"
     },
     "wof:concordances_alt":{
         "gp:id":160853
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"5edd2496f4e49e64345e06b6cb9140f9",
     "wof:hierarchy":[
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101919381,
-    "wof:lastmodified":1566600336,
+    "wof:lastmodified":1722051536,
     "wof:name":"Coto Norte",
     "wof:parent_id":102080271,
     "wof:placetype":"locality",

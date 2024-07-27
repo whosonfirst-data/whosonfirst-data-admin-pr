@@ -21,7 +21,7 @@
     "mps:latitude":18.387645,
     "mps:longitude":-66.377927,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Miranda"
@@ -214,18 +214,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080305,
+        85633729,
         136253057,
-        102080305
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566267,
         "gp:id":161450,
-        "qs_pg:id":1204857
+        "qs_pg:id":1204857,
+        "uscensus:geoid":"7253678"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"f0703804a64e923d559ce28f245e998b",
     "wof:hierarchy":[
@@ -240,7 +242,7 @@
         }
     ],
     "wof:id":101919401,
-    "wof:lastmodified":1636502703,
+    "wof:lastmodified":1722051536,
     "wof:name":"Miranda",
     "wof:parent_id":102080305,
     "wof:placetype":"locality",

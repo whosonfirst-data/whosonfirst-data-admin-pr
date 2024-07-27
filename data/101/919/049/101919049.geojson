@@ -21,7 +21,7 @@
     "mps:latitude":17.973402,
     "mps:longitude":-67.182535,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -62,18 +62,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080409,
+        85633729,
         136253057,
-        102080409
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566877,
         "gp:id":161566,
-        "qs_pg:id":489368
+        "qs_pg:id":489368,
+        "uscensus:geoid":"7263697"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"9102abc28744eafae817188830fab853",
     "wof:hierarchy":[
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":101919049,
-    "wof:lastmodified":1566600319,
+    "wof:lastmodified":1722051535,
     "wof:name":"Pole Ojea",
     "wof:parent_id":102080409,
     "wof:placetype":"locality",

@@ -132,19 +132,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080411,
+        85633729,
         136253057,
-        102080411
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565352,
         "gp:id":161198,
         "qs_pg:id":1117772,
+        "uscensus:geoid":"7233597",
         "wd:id":"Q2413209"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"743e1ad5029165e1b330da3dac21fb03",
     "wof:hierarchy":[
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":101919003,
-    "wof:lastmodified":1690855902,
+    "wof:lastmodified":1722051538,
     "wof:name":"Hato Arriba",
     "wof:parent_id":102080411,
     "wof:placetype":"locality",

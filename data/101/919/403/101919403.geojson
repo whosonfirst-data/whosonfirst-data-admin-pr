@@ -143,19 +143,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080305,
+        85633729,
         136253057,
-        102080305
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568533,
         "gp:id":161797,
         "qs_pg:id":298169,
+        "uscensus:geoid":"7285326",
         "wd:id":"Q2179051"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"294560ec6c1b1146fdd4cdffe10c7408",
     "wof:hierarchy":[
@@ -170,7 +172,7 @@
         }
     ],
     "wof:id":101919403,
-    "wof:lastmodified":1690855906,
+    "wof:lastmodified":1722051538,
     "wof:name":"Vega Baja",
     "wof:parent_id":102080305,
     "wof:placetype":"locality",

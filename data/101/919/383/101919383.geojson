@@ -136,20 +136,22 @@
     "src:population":"geonames",
     "wd:wordcount":725,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080303,
+        85633729,
         136253057,
-        102080303
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566402,
         "gp:id":161475,
         "qs_pg:id":251614,
+        "uscensus:geoid":"7256129",
         "wd:id":"Q2623972",
         "wk:page":"Naranjito, Puerto Rico"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"b385bedee87fa56a36c028a74a19c8eb",
     "wof:hierarchy":[
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":101919383,
-    "wof:lastmodified":1690855893,
+    "wof:lastmodified":1722051537,
     "wof:name":"Naranjito",
     "wof:parent_id":102080303,
     "wof:placetype":"locality",

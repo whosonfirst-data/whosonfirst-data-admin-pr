@@ -98,17 +98,19 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080323,
+        85633729,
         136253057,
-        102080323
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":161341,
+        "uscensus:geoid":"7243702",
         "wd:id":"Q2485590"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"9dbbb1cbda15842347a05c0676984849",
     "wof:hierarchy":[
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101919031,
-    "wof:lastmodified":1690855890,
+    "wof:lastmodified":1722051537,
     "wof:name":"Las Mar\u00edas",
     "wof:parent_id":102080323,
     "wof:placetype":"locality",

@@ -63,21 +63,23 @@
     "src:population":"geonames",
     "wd:wordcount":196,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080297,
+        85633729,
         136253057,
-        102080297
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565544,
         "gp:id":55870100,
-        "qs_pg:id":498771
+        "qs_pg:id":498771,
+        "uscensus:geoid":"7236177"
     },
     "wof:concordances_alt":{
         "gp:id":24550896
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"cecb6d0f7e75268a059e14871bdfeb0d",
     "wof:hierarchy":[
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101919367,
-    "wof:lastmodified":1566600328,
+    "wof:lastmodified":1722051537,
     "wof:name":"Indios",
     "wof:parent_id":102080297,
     "wof:placetype":"locality",

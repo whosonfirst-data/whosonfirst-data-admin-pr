@@ -107,17 +107,19 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080411,
+        85633729,
         136253057,
-        102080411
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":161696,
+        "uscensus:geoid":"7277500",
         "wd:id":"Q2413209"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"a6d9c5eb10400e8b915409b472b46787",
     "wof:hierarchy":[
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101919005,
-    "wof:lastmodified":1690855905,
+    "wof:lastmodified":1722051538,
     "wof:name":"San Sebasti\u00e1n",
     "wof:parent_id":102080411,
     "wof:placetype":"locality",

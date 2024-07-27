@@ -21,7 +21,7 @@
     "mps:latitude":18.292152,
     "mps:longitude":-66.734474,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Cayuco"
@@ -69,19 +69,21 @@
     "src:population":"geonames",
     "wd:wordcount":346,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080433,
+        85633729,
         136253057,
-        102080433
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4563376,
         "gp:id":160794,
         "qs_pg:id":501068,
+        "uscensus:geoid":"7215623",
         "wd:id":"Q5055449"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"d162b228201a5b292d5392a68d767897",
     "wof:hierarchy":[
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101919021,
-    "wof:lastmodified":1690855901,
+    "wof:lastmodified":1722051536,
     "wof:name":"Cayuco",
     "wof:parent_id":102080433,
     "wof:placetype":"locality",

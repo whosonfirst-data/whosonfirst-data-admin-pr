@@ -167,18 +167,20 @@
     "src:population":"geonames",
     "wd:wordcount":177,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080371,
+        85633729,
         136253057,
-        102080371
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566198,
         "gp:id":161428,
-        "qs_pg:id":1204856
+        "qs_pg:id":1204856,
+        "uscensus:geoid":"7251657"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"77f8a008a6b7b3ca2f78f13eefb9c58f",
     "wof:hierarchy":[
@@ -193,7 +195,7 @@
         }
     ],
     "wof:id":101918967,
-    "wof:lastmodified":1566600312,
+    "wof:lastmodified":1722051536,
     "wof:name":"Martorell",
     "wof:parent_id":102080371,
     "wof:placetype":"locality",

@@ -80,22 +80,24 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080445,
+        85633729,
         136253057,
-        102080445
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565904,
         "gp:id":55870343,
         "qs_pg:id":53685,
+        "uscensus:geoid":"7241466",
         "wd:id":"Q2305796"
     },
     "wof:concordances_alt":{
         "gp:id":161313
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"1170828aff348449692fcd9e1aed3df6",
     "wof:hierarchy":[
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101918917,
-    "wof:lastmodified":1690855883,
+    "wof:lastmodified":1722051537,
     "wof:name":"Lamboglia",
     "wof:parent_id":102080445,
     "wof:placetype":"locality",

@@ -122,17 +122,19 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080357,
+        85633729,
         136253057,
-        102080357
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":161677,
+        "uscensus:geoid":"7276167",
         "wd:id":"Q1598808"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"cdc04295b937721e4fd38587e8179643",
     "wof:hierarchy":[
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":101919095,
-    "wof:lastmodified":1690855903,
+    "wof:lastmodified":1722051538,
     "wof:name":"San Germ\u00e1n",
     "wof:parent_id":102080357,
     "wof:placetype":"locality",

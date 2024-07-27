@@ -79,18 +79,20 @@
     "src:population":"geonames",
     "wd:wordcount":68,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080329,
+        85633729,
         136253057,
-        102080329
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565551,
         "gp:id":161219,
-        "qs_pg:id":194083
+        "qs_pg:id":194083,
+        "uscensus:geoid":"7236263"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"467ea4f903dd287ab90bd4752bf081cf",
     "wof:hierarchy":[
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101919073,
-    "wof:lastmodified":1566600330,
+    "wof:lastmodified":1722051537,
     "wof:name":"Ingenio",
     "wof:parent_id":102080329,
     "wof:placetype":"locality",

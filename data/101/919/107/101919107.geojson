@@ -18,7 +18,7 @@
     "mps:latitude":18.20414,
     "mps:longitude":-66.180803,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -38,16 +38,18 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080345,
+        85633729,
         136253057,
-        102080345
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":55870148
+        "gp:id":55870148,
+        "uscensus:geoid":"7271996"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"13222b76ad277342a91bff4fb6e0f4f3",
     "wof:hierarchy":[
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":101919107,
-    "wof:lastmodified":1566600328,
+    "wof:lastmodified":1722051536,
     "wof:name":"Rodr\u00edguez Hevia",
     "wof:parent_id":102080345,
     "wof:placetype":"locality",

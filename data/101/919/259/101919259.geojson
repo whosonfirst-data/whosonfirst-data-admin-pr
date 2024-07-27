@@ -83,19 +83,21 @@
     "src:population":"geonames",
     "wd:wordcount":123,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080399,
+        85633729,
         136253057,
-        102080399
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565755,
         "gp:id":161268,
         "qs_pg:id":1204846,
+        "uscensus:geoid":"7240348",
         "wd:id":"Q1962281"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"fd3068c1dd4fe564b60454ce29b33414",
     "wof:hierarchy":[
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101919259,
-    "wof:lastmodified":1690855889,
+    "wof:lastmodified":1722051537,
     "wof:name":"La Dolores",
     "wof:parent_id":102080399,
     "wof:placetype":"locality",

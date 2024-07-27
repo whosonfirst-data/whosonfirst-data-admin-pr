@@ -156,20 +156,22 @@
     "src:population":"geonames",
     "wd:wordcount":1309,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080379,
+        85633729,
         136253057,
-        102080379
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565908,
         "gp:id":161314,
         "qs_pg:id":489366,
+        "uscensus:geoid":"7242498",
         "wd:id":"Q1026894",
         "wk:page":"Lares, Puerto Rico"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"1200132881d8c6b0d2947d17e6666bf1",
     "wof:hierarchy":[
@@ -184,7 +186,7 @@
         }
     ],
     "wof:id":101918963,
-    "wof:lastmodified":1690855877,
+    "wof:lastmodified":1722051537,
     "wof:name":"Lares",
     "wof:parent_id":102080379,
     "wof:placetype":"locality",

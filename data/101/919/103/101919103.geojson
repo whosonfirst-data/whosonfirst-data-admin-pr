@@ -128,19 +128,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080345,
+        85633729,
         136253057,
-        102080345
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4563777,
         "gp:id":160814,
         "qs_pg:id":898918,
+        "uscensus:geoid":"7218074",
         "wd:id":"Q2485552"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"9cb7f6e2458deccb1765f9420eae7180",
     "wof:hierarchy":[
@@ -155,7 +157,7 @@
         }
     ],
     "wof:id":101919103,
-    "wof:lastmodified":1690855883,
+    "wof:lastmodified":1722051537,
     "wof:name":"Cidra",
     "wof:parent_id":102080345,
     "wof:placetype":"locality",

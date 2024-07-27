@@ -173,20 +173,22 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080273,
+        85633729,
         136253057,
-        102080273
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4564070,
         "gp:id":160870,
         "qs_pg:id":489358,
+        "uscensus:geoid":"7222589",
         "wd:id":"Q775056",
         "wk:page":"Culebra Town"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"1ccf4811ba9b7d0ca1e715a1486f7377",
     "wof:hierarchy":[
@@ -201,7 +203,7 @@
         }
     ],
     "wof:id":101919287,
-    "wof:lastmodified":1690855886,
+    "wof:lastmodified":1722051537,
     "wof:name":"Culebra",
     "wof:parent_id":102080273,
     "wof:placetype":"locality",

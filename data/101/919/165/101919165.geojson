@@ -18,7 +18,7 @@
     "mps:latitude":18.187276,
     "mps:longitude":-66.076303,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -38,17 +38,19 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080425,
+        85633729,
         136253057,
-        102080425
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7315442,
-        "gp:id":160702
+        "gp:id":160702,
+        "uscensus:geoid":"7247336"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"279501678ad66f710bcd1a1e398da3a3",
     "wof:hierarchy":[
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":101919165,
-    "wof:lastmodified":1566600327,
+    "wof:lastmodified":1722051536,
     "wof:name":"Los Panes",
     "wof:parent_id":102080425,
     "wof:placetype":"locality",

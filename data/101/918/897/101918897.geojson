@@ -76,21 +76,23 @@
     "src:population":"geonames",
     "wd:wordcount":34,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080415,
+        85633729,
         136253057,
-        102080415
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4563220,
         "gp:id":55870047,
-        "qs_pg:id":1117756
+        "qs_pg:id":1117756,
+        "uscensus:geoid":"7213925"
     },
     "wof:concordances_alt":{
         "gp:id":160779
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"6f9ca48b3fb02898cdf8d81cdc1b442f",
     "wof:hierarchy":[
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101918897,
-    "wof:lastmodified":1566600314,
+    "wof:lastmodified":1722051536,
     "wof:name":"Capitanejo",
     "wof:parent_id":102080415,
     "wof:placetype":"locality",

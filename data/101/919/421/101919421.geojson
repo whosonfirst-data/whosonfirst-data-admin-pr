@@ -18,7 +18,7 @@
     "mps:latitude":17.962319,
     "mps:longitude":-66.289327,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -38,16 +38,18 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080337,
+        85633729,
         136253057,
-        102080337
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":24550925
+        "gp:id":24550925,
+        "uscensus:geoid":"7263503"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"51d9083cac8002815b0854c780e74e30",
     "wof:hierarchy":[
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":101919421,
-    "wof:lastmodified":1566600329,
+    "wof:lastmodified":1722051536,
     "wof:name":"Playita",
     "wof:parent_id":102080337,
     "wof:placetype":"locality",

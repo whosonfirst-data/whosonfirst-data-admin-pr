@@ -21,7 +21,7 @@
     "mps:latitude":18.050787,
     "mps:longitude":-66.70174,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062a\u0627\u0644\u0627\u0628\u0648\u0627 \u0622\u0644\u062a\u0627"
@@ -77,19 +77,21 @@
     "src:population":"geonames",
     "wd:wordcount":42,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080319,
+        85633729,
         136253057,
-        102080319
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568368,
         "gp:id":161758,
         "qs_pg:id":287333,
+        "uscensus:geoid":"7281456",
         "wd:id":"Q7680001"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"67284a215b18ef79dde5644f05693014",
     "wof:hierarchy":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101919203,
-    "wof:lastmodified":1690855890,
+    "wof:lastmodified":1722051536,
     "wof:name":"Tallaboa Alta",
     "wof:parent_id":102080319,
     "wof:placetype":"locality",

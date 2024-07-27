@@ -68,18 +68,20 @@
     "src:population":"geonames",
     "wd:wordcount":64,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080371,
+        85633729,
         136253057,
-        102080371
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4564214,
         "gp:id":55870186,
-        "qs_pg:id":280041
+        "qs_pg:id":280041,
+        "uscensus:geoid":"7225685"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"3fc822571650e22efaeb8fa37749a441",
     "wof:hierarchy":[
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101918975,
-    "wof:lastmodified":1706240612,
+    "wof:lastmodified":1722051538,
     "wof:name":"El Negro",
     "wof:parent_id":102080371,
     "wof:placetype":"locality",

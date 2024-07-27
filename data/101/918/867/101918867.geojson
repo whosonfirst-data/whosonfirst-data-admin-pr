@@ -18,7 +18,7 @@
     "mps:latitude":18.054133,
     "mps:longitude":-66.585685,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0627\u06cc\u0627\u0633"
@@ -60,20 +60,22 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":733,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080299,
+        85633729,
         136253057,
-        102080299
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"0263463e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4568526,
         "gp:id":55870309,
+        "uscensus:geoid":"7285025",
         "wd:id":"Q7917560",
         "wk:page":"Vayas"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"c2b3c172b83c8745f87b8f345adb76c0",
     "wof:hierarchy":[
@@ -91,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690855878,
+    "wof:lastmodified":1722051536,
     "wof:name":"Vayas",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

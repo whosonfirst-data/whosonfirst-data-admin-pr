@@ -66,17 +66,19 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080359,
+        85633729,
         136253057,
-        102080359
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870226,
+        "uscensus:geoid":"7257806",
         "wd:id":"Q2100260"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"3226568e5d25c05765d6a2de058b3cb6",
     "wof:hierarchy":[
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101918927,
-    "wof:lastmodified":1566600314,
+    "wof:lastmodified":1722051536,
     "wof:name":"P\u00e1jaros",
     "wof:parent_id":102080359,
     "wof:placetype":"locality",

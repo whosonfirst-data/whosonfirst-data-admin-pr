@@ -18,7 +18,7 @@
     "mps:latitude":18.081193,
     "mps:longitude":-66.562169,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -38,16 +38,18 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080299,
+        85633729,
         136253057,
-        102080299
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7315446
+        "gn:id":7315446,
+        "uscensus:geoid":"7259422"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"62b2bac154ee5da7fcb1f52fecc9b67e",
     "wof:hierarchy":[
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":101918883,
-    "wof:lastmodified":1566600313,
+    "wof:lastmodified":1722051535,
     "wof:name":"Parcelas Mandry",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

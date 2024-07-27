@@ -87,22 +87,24 @@
     "src:population":"geonames",
     "wd:wordcount":767,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080307,
+        85633729,
         136253057,
-        102080307
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568347,
         "gp:id":55870299,
         "qs_pg:id":1182270,
+        "uscensus:geoid":"7280596",
         "wd:id":"Q2379484"
     },
     "wof:concordances_alt":{
         "gp:id":24550921
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"283946da8b8cb1736396ecf2e44fa574",
     "wof:hierarchy":[
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101918999,
-    "wof:lastmodified":1690855877,
+    "wof:lastmodified":1722051537,
     "wof:name":"Stella",
     "wof:parent_id":102080307,
     "wof:placetype":"locality",

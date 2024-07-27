@@ -21,7 +21,7 @@
     "mps:latitude":18.103224,
     "mps:longitude":-65.478856,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Esperanza"
@@ -140,18 +140,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080315,
+        85633729,
         136253057,
-        102080315
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4564861,
         "gp:id":160937,
-        "qs_pg:id":489361
+        "qs_pg:id":489361,
+        "uscensus:geoid":"7227190"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"939601a5e75342e210eb3cbb408c417b",
     "wof:hierarchy":[
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":101919121,
-    "wof:lastmodified":1636502703,
+    "wof:lastmodified":1722051536,
     "wof:name":"Esperanza",
     "wof:parent_id":102080315,
     "wof:placetype":"locality",

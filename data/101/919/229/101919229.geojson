@@ -21,7 +21,7 @@
     "mps:latitude":17.985811,
     "mps:longitude":-66.91716,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -60,18 +60,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080429,
+        85633729,
         136253057,
-        102080429
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565031,
         "gp:id":160970,
-        "qs_pg:id":1117767
+        "qs_pg:id":1117767,
+        "uscensus:geoid":"7229727"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"047d096d60742a950feed546b3cc4b4d",
     "wof:hierarchy":[
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101919229,
-    "wof:lastmodified":1566600317,
+    "wof:lastmodified":1722051535,
     "wof:name":"Fuig",
     "wof:parent_id":102080429,
     "wof:placetype":"locality",

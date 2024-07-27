@@ -81,19 +81,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080417,
+        85633729,
         136253057,
-        102080417
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568074,
         "gp:id":161666,
         "qs_pg:id":1117811,
+        "uscensus:geoid":"7275694",
         "wd:id":"Q7413299"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"f607d381c8b6ceae067ece5bec7b6628",
     "wof:hierarchy":[
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101919283,
-    "wof:lastmodified":1690855898,
+    "wof:lastmodified":1722051538,
     "wof:name":"San Antonio",
     "wof:parent_id":102080417,
     "wof:placetype":"locality",

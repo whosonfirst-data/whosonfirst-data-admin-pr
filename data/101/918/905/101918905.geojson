@@ -152,20 +152,22 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080287,
+        85633729,
         136253057,
-        102080287
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4564946,
         "gp:id":160948,
         "qs_pg:id":489362,
+        "uscensus:geoid":"7227964",
         "wd:id":"Q542833",
         "wk:page":"Fajardo, Puerto Rico"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"fd95507775af7f9f43df74f9a369b707",
     "wof:hierarchy":[
@@ -180,7 +182,7 @@
         }
     ],
     "wof:id":101918905,
-    "wof:lastmodified":1690855881,
+    "wof:lastmodified":1722051537,
     "wof:name":"Fajardo",
     "wof:parent_id":102080287,
     "wof:placetype":"locality",

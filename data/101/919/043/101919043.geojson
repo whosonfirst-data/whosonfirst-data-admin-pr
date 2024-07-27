@@ -21,7 +21,7 @@
     "mps:latitude":18.029682,
     "mps:longitude":-67.133546,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u043c\u043e\u043d \u0415\u043c\u0435\u0442\u0435\u0440\u0438\u043e \u0411\u0435\u0442\u0430\u043d\u0441\u0435\u0441"
@@ -92,18 +92,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080409,
+        85633729,
         136253057,
-        102080409
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4562866,
         "gp:id":160709,
-        "qs_pg:id":1174585
+        "qs_pg:id":1174585,
+        "uscensus:geoid":"7207668"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"92c41c7438d8593ca6e51bfc489fe80b",
     "wof:hierarchy":[
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101919043,
-    "wof:lastmodified":1566600331,
+    "wof:lastmodified":1722051536,
     "wof:name":"Betances",
     "wof:parent_id":102080409,
     "wof:placetype":"locality",

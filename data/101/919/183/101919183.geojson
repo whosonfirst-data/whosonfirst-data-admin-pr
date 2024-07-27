@@ -130,22 +130,24 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080387,
+        85633729,
         136253057,
-        102080387
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4564035,
         "gp:id":160769,
         "qs_pg:id":1199193,
+        "uscensus:geoid":"7212828",
         "wd:id":"Q2361552"
     },
     "wof:concordances_alt":{
         "gp:id":55869998
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"266b091ed72c996321d4bdde3cbae40c",
     "wof:hierarchy":[
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":101919183,
-    "wof:lastmodified":1690855906,
+    "wof:lastmodified":1722051538,
     "wof:name":"Can\u00f3vanas",
     "wof:parent_id":102080387,
     "wof:placetype":"locality",

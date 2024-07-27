@@ -21,7 +21,7 @@
     "mps:latitude":18.043318,
     "mps:longitude":-67.07713,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Palmarejo"
@@ -69,21 +69,23 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080327,
+        85633729,
         136253057,
-        102080327
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566477,
         "gp:id":55870032,
-        "qs_pg:id":251615
+        "qs_pg:id":251615,
+        "uscensus:geoid":"7258150"
     },
     "wof:concordances_alt":{
         "gp:id":161498
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"ea6f87dc05c92c5bb811bc1eaf77c807",
     "wof:hierarchy":[
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101919079,
-    "wof:lastmodified":1566600318,
+    "wof:lastmodified":1722051535,
     "wof:name":"Palmarejo",
     "wof:parent_id":102080327,
     "wof:placetype":"locality",

@@ -87,18 +87,20 @@
     "src:population":"geonames",
     "wd:wordcount":70,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080399,
+        85633729,
         136253057,
-        102080399
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4562812,
         "gp:id":160696,
-        "qs_pg:id":1049313
+        "qs_pg:id":1049313,
+        "uscensus:geoid":"7206421"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"96a6699b11c652b7ddf3467921f7f2c5",
     "wof:hierarchy":[
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101919261,
-    "wof:lastmodified":1566600320,
+    "wof:lastmodified":1722051536,
     "wof:name":"Bartolo",
     "wof:parent_id":102080399,
     "wof:placetype":"locality",

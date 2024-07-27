@@ -104,17 +104,19 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080323,
+        85633729,
         136253057,
-        102080323
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":161341,
+        "uscensus:geoid":"7202680",
         "wd:id":"Q2390910"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"467151da88410f6fbdb3494a1df1cb8d",
     "wof:hierarchy":[
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101919029,
-    "wof:lastmodified":1690855900,
+    "wof:lastmodified":1722051538,
     "wof:name":"A\u00f1asco",
     "wof:parent_id":102080323,
     "wof:placetype":"locality",

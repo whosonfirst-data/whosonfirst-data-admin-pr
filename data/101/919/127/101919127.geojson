@@ -84,19 +84,21 @@
     "src:population":"geonames",
     "wd:wordcount":149,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080283,
+        85633729,
         136253057,
-        102080283
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4562709,
         "gp:id":160678,
         "qs_pg:id":211127,
+        "uscensus:geoid":"7204658",
         "wd:id":"Q2641072"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"e21125dbe97b35d0e11a073b74da70ba",
     "wof:hierarchy":[
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101919127,
-    "wof:lastmodified":1690855894,
+    "wof:lastmodified":1722051537,
     "wof:name":"Bajadero",
     "wof:parent_id":102080283,
     "wof:placetype":"locality",

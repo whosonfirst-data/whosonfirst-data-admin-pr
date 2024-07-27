@@ -107,17 +107,19 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080363,
+        85633729,
         136253057,
-        102080363
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":161371,
+        "uscensus:geoid":"7246368",
         "wd:id":"Q1853983"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"9a13ccf8068aa97945bf56a6141995e2",
     "wof:hierarchy":[
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101919337,
-    "wof:lastmodified":1690855884,
+    "wof:lastmodified":1722051537,
     "wof:name":"Lo\u00edza",
     "wof:parent_id":102080363,
     "wof:placetype":"locality",

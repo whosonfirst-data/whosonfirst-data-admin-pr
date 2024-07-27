@@ -21,7 +21,7 @@
     "mps:latitude":18.223961,
     "mps:longitude":-66.392225,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Barros"
@@ -65,18 +65,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080427,
+        85633729,
         136253057,
-        102080427
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566454,
         "gp:id":161490,
-        "qs_pg:id":228620
+        "qs_pg:id":228620,
+        "uscensus:geoid":"7257290"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"57f393d290fe5cdba840907ae6694c42",
     "wof:hierarchy":[
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101918993,
-    "wof:lastmodified":1566600312,
+    "wof:lastmodified":1722051535,
     "wof:name":"Orocovis",
     "wof:parent_id":102080427,
     "wof:placetype":"locality",

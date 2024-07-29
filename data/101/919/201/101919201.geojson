@@ -143,20 +143,22 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080419,
+        85633729,
         136253057,
-        102080419
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4563308,
         "gp:id":160793,
         "qs_pg:id":154492,
+        "uscensus:geoid":"7215494",
         "wd:id":"Q2307508",
         "wk:page":"Cayey, Puerto Rico"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"7fa2f193e04e07507a6314caaeb06b98",
     "wof:hierarchy":[
@@ -171,7 +173,7 @@
         }
     ],
     "wof:id":101919201,
-    "wof:lastmodified":1690855905,
+    "wof:lastmodified":1722051538,
     "wof:name":"Cayey",
     "wof:parent_id":102080419,
     "wof:placetype":"locality",

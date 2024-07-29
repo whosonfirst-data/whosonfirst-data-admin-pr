@@ -114,16 +114,18 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":524,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080337,
+        85633729,
         136253057,
-        102080337
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":160820
+        "gp:id":160820,
+        "uscensus:geoid":"7218891"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"c3d5da97c3183abc6089821b33c73573",
     "wof:hierarchy":[
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":101919415,
-    "wof:lastmodified":1636502702,
+    "wof:lastmodified":1722051537,
     "wof:name":"Coco",
     "wof:parent_id":102080337,
     "wof:placetype":"locality",

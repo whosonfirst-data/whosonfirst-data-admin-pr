@@ -75,17 +75,18 @@
     "woe:name_adm1":"Humacao",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080351,
+        85633729,
         136253057,
-        102080351
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566992,
         "gp:id":161592,
-        "qs_pg:id":154517
+        "qs_pg:id":154517,
+        "uscensus:geoid":"7266492"
     },
     "wof:concordances_alt":{
         "gn:id":[
@@ -95,6 +96,7 @@
             161592
         ]
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"66ba65eddfda8a3545f7f97e631d082e",
     "wof:hierarchy":[
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101919243,
-    "wof:lastmodified":1706240613,
+    "wof:lastmodified":1722051538,
     "wof:name":"Punta Santiago",
     "wof:parent_id":102080351,
     "wof:placetype":"locality",

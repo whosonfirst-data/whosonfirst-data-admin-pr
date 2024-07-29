@@ -94,18 +94,20 @@
     "src:population":"geonames",
     "wd:wordcount":550,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080305,
+        85633729,
         136253057,
-        102080305
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566285,
         "gp:id":161453,
-        "qs_pg:id":251613
+        "qs_pg:id":251613,
+        "uscensus:geoid":"7253979"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"a86e5cc30263285d5c7ccd6b6f1e2855",
     "wof:hierarchy":[
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101919319,
-    "wof:lastmodified":1566600336,
+    "wof:lastmodified":1722051537,
     "wof:name":"Monserrate",
     "wof:parent_id":102080305,
     "wof:placetype":"locality",

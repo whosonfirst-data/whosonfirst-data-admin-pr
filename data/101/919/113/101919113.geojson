@@ -100,18 +100,20 @@
     "src:population":"geonames",
     "wd:wordcount":133,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080401,
+        85633729,
         136253057,
-        102080401
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4562765,
         "gp:id":24550915,
-        "qs_pg:id":1168198
+        "qs_pg:id":1168198,
+        "uscensus:geoid":"7205217"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"5529f4195c51944412d8d11dde64cb0e",
     "wof:hierarchy":[
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101919113,
-    "wof:lastmodified":1636502704,
+    "wof:lastmodified":1722051537,
     "wof:name":"Barahona",
     "wof:parent_id":102080401,
     "wof:placetype":"locality",

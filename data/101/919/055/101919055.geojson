@@ -73,19 +73,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080285,
+        85633729,
         136253057,
-        102080285
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4562972,
         "gp:id":24550879,
         "qs_pg:id":59756,
+        "uscensus:geoid":"7209087",
         "wd:id":"Q4985431"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"83bb282b6a56de7eed134ce0ac85368e",
     "wof:hierarchy":[
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101919055,
-    "wof:lastmodified":1690855891,
+    "wof:lastmodified":1722051537,
     "wof:name":"Buena Vista",
     "wof:parent_id":102080285,
     "wof:placetype":"locality",

@@ -138,20 +138,22 @@
     "src:population":"geonames",
     "wd:wordcount":1298,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080375,
+        85633729,
         136253057,
-        102080375
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4562768,
         "gp:id":160686,
         "qs_pg:id":211128,
+        "uscensus:geoid":"7205346",
         "wd:id":"Q2025087",
         "wk:page":"Barceloneta, Puerto Rico"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"adf1b3e7a88d752d475bc6adac270689",
     "wof:hierarchy":[
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":101919157,
-    "wof:lastmodified":1690855884,
+    "wof:lastmodified":1722051537,
     "wof:name":"Barceloneta",
     "wof:parent_id":102080375,
     "wof:placetype":"locality",

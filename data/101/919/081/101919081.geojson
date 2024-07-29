@@ -143,19 +143,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080327,
+        85633729,
         136253057,
-        102080327
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565898,
         "gp:id":161311,
         "qs_pg:id":154504,
+        "uscensus:geoid":"7240950",
         "wd:id":"Q1832296"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"99ce24a5fda30354f374f111b60e7dbc",
     "wof:hierarchy":[
@@ -170,7 +172,7 @@
         }
     ],
     "wof:id":101919081,
-    "wof:lastmodified":1690855900,
+    "wof:lastmodified":1722051538,
     "wof:name":"Lajas",
     "wof:parent_id":102080327,
     "wof:placetype":"locality",

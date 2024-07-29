@@ -63,17 +63,19 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":76,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080275,
+        85633729,
         136253057,
-        102080275
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870505,
+        "uscensus:geoid":"7268599",
         "wd:id":"Q2998503"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"e61fca3bdf759d5341f33719c06f1723",
     "wof:hierarchy":[
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":101919019,
-    "wof:lastmodified":1690855901,
+    "wof:lastmodified":1722051538,
     "wof:name":"Rafael Hern\u00e1ndez",
     "wof:parent_id":102080275,
     "wof:placetype":"locality",

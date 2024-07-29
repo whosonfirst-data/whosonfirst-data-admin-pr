@@ -98,17 +98,19 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080291,
+        85633729,
         136253057,
-        102080291
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":160830,
+        "uscensus:geoid":"7219665",
         "wd:id":"Q2222328"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"4c8a59a1e039fd9544b1a8bcf117c9d6",
     "wof:hierarchy":[
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101918909,
-    "wof:lastmodified":1690855876,
+    "wof:lastmodified":1722051537,
     "wof:name":"Comer\u00edo",
     "wof:parent_id":102080291,
     "wof:placetype":"locality",

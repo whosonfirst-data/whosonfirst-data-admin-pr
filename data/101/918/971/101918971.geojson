@@ -155,17 +155,18 @@
     "woe:name_adm1":"Yabucoa",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080371,
+        85633729,
         136253057,
-        102080371
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568908,
         "gp:id":161835,
         "qs_pg:id":475024,
+        "uscensus:geoid":"7287863",
         "wd:id":"Q2361097",
         "wk:page":"Yabucoa, Puerto Rico"
     },
@@ -183,6 +184,7 @@
             "Q2361097"
         ]
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"bacef49e5bc60d4adaa3bcaedf6bdbe1",
     "wof:hierarchy":[
@@ -197,7 +199,7 @@
         }
     ],
     "wof:id":101918971,
-    "wof:lastmodified":1706240612,
+    "wof:lastmodified":1722051538,
     "wof:name":"Yabucoa",
     "wof:parent_id":102080371,
     "wof:placetype":"locality",

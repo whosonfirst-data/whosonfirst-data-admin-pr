@@ -21,7 +21,7 @@
     "mps:latitude":18.00314,
     "mps:longitude":-66.392075,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -58,21 +58,23 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080335,
+        85633729,
         136253057,
-        102080335
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4564216,
         "gp:id":55870234,
-        "qs_pg:id":59771
+        "qs_pg:id":59771,
+        "uscensus:geoid":"7225771"
     },
     "wof:concordances_alt":{
         "gp:id":24550927
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"24fd19ed09c4ed44b6568f0517d21b0d",
     "wof:hierarchy":[
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101918991,
-    "wof:lastmodified":1566600308,
+    "wof:lastmodified":1722051535,
     "wof:name":"El Ojo",
     "wof:parent_id":102080335,
     "wof:placetype":"locality",

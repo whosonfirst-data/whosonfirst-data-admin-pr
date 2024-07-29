@@ -86,18 +86,20 @@
     "src:population":"geonames",
     "wd:wordcount":53,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080415,
+        85633729,
         136253057,
-        102080415
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565101,
         "gp:id":160986,
-        "qs_pg:id":1204821
+        "qs_pg:id":1204821,
+        "uscensus:geoid":"7231877"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"6b1091b5902a2bb9052f7a8c2d3cd424",
     "wof:hierarchy":[
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101919351,
-    "wof:lastmodified":1566600328,
+    "wof:lastmodified":1722051537,
     "wof:name":"Guayabal",
     "wof:parent_id":102080415,
     "wof:placetype":"locality",

@@ -21,7 +21,7 @@
     "mps:latitude":17.960468,
     "mps:longitude":-66.365105,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Jauca"
@@ -66,18 +66,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080335,
+        85633729,
         136253057,
-        102080335
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565676,
         "gp:id":161239,
-        "qs_pg:id":1117775
+        "qs_pg:id":1117775,
+        "uscensus:geoid":"7238241"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"2772550b4cf3ac3dae0fad7ab90dffde",
     "wof:hierarchy":[
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101918989,
-    "wof:lastmodified":1566600314,
+    "wof:lastmodified":1722051535,
     "wof:name":"Jauca",
     "wof:parent_id":102080335,
     "wof:placetype":"locality",

@@ -21,7 +21,7 @@
     "mps:latitude":17.975955,
     "mps:longitude":-66.446065,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -62,18 +62,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080335,
+        85633729,
         136253057,
-        102080335
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566814,
         "gp:id":161563,
-        "qs_pg:id":495088
+        "qs_pg:id":495088,
+        "uscensus:geoid":"7263568"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"cf3bb346e282dcaf983532d39a0f161e",
     "wof:hierarchy":[
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":101918987,
-    "wof:lastmodified":1566600314,
+    "wof:lastmodified":1722051535,
     "wof:name":"Playita Cortada",
     "wof:parent_id":102080335,
     "wof:placetype":"locality",

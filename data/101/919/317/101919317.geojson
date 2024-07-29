@@ -22,7 +22,7 @@
     "mps:latitude":18.443338,
     "mps:longitude":-66.345395,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -137,23 +137,25 @@
     "woe:name_adm1":"Vega Baja",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080413,
+        85633729,
         136253057,
-        102080413
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4563379,
         "gp:id":24550934,
-        "qs_pg:id":154493
+        "qs_pg:id":154493,
+        "uscensus:geoid":"7216139"
     },
     "wof:concordances_alt":{
         "gp:id":[
             160796
         ]
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"d5b2f2a21f60133af7c7829333980d0f",
     "wof:hierarchy":[
@@ -168,7 +170,7 @@
         }
     ],
     "wof:id":101919317,
-    "wof:lastmodified":1706240613,
+    "wof:lastmodified":1722051536,
     "wof:name":"Ceiba",
     "wof:parent_id":102080413,
     "wof:placetype":"locality",

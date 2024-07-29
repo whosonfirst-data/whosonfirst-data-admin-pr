@@ -63,16 +63,18 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":370,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080413,
+        85633729,
         136253057,
-        102080413
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":24550933
+        "gp:id":24550933,
+        "uscensus:geoid":"7208700"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"46369107a429fb8db9204281d409ade8",
     "wof:hierarchy":[
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101919323,
-    "wof:lastmodified":1566600324,
+    "wof:lastmodified":1722051537,
     "wof:name":"Bre\u00f1as",
     "wof:parent_id":102080413,
     "wof:placetype":"locality",

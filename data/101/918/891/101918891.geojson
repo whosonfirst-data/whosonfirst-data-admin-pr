@@ -337,19 +337,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080299,
+        85633729,
         136253057,
-        102080299
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566880,
         "gp:id":161567,
         "qs_pg:id":489376,
+        "uscensus:geoid":"7263820",
         "wd:id":"Q864024"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"4667275ab35eecfc55c7397a49b61289",
     "wof:hierarchy":[
@@ -364,7 +366,7 @@
         }
     ],
     "wof:id":101918891,
-    "wof:lastmodified":1690855881,
+    "wof:lastmodified":1722051537,
     "wof:name":"Ponce",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

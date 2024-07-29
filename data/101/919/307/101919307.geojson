@@ -21,7 +21,7 @@
     "mps:latitude":17.962017,
     "mps:longitude":-66.164454,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -62,18 +62,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080373,
+        85633729,
         136253057,
-        102080373
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565689,
         "gp:id":161242,
-        "qs_pg:id":211137
+        "qs_pg:id":211137,
+        "uscensus:geoid":"7238671"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"472ef9bb5ca32a4d59aa4c0cfe2280d4",
     "wof:hierarchy":[
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":101919307,
-    "wof:lastmodified":1566600315,
+    "wof:lastmodified":1722051535,
     "wof:name":"Jobos",
     "wof:parent_id":102080373,
     "wof:placetype":"locality",

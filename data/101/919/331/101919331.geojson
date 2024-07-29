@@ -134,19 +134,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080391,
+        85633729,
         136253057,
-        102080391
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565980,
         "gp:id":161352,
         "qs_pg:id":154505,
+        "uscensus:geoid":"7244390",
         "wd:id":"Q969918"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"744559400c22f3ac56ef27a7afb4ab28",
     "wof:hierarchy":[
@@ -161,7 +163,7 @@
         }
     ],
     "wof:id":101919331,
-    "wof:lastmodified":1690855884,
+    "wof:lastmodified":1722051537,
     "wof:name":"Las Piedras",
     "wof:parent_id":102080391,
     "wof:placetype":"locality",

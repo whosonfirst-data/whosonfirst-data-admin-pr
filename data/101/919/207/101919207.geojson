@@ -89,17 +89,18 @@
     "woe:name_adm1":"Pe\u00f1uelas",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080319,
+        85633729,
         136253057,
-        102080319
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568253,
         "gp:id":161734,
         "qs_pg:id":1204900,
+        "uscensus:geoid":"7279564",
         "wd:id":"Q4365313"
     },
     "wof:concordances_alt":{
@@ -110,6 +111,7 @@
             "Q4365313"
         ]
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"5a138ea3098589c22d753961a88e2026",
     "wof:hierarchy":[
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101919207,
-    "wof:lastmodified":1706240613,
+    "wof:lastmodified":1722051538,
     "wof:name":"Santo Domingo",
     "wof:parent_id":102080319,
     "wof:placetype":"locality",

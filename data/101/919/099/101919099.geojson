@@ -164,17 +164,19 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080345,
+        85633729,
         136253057,
-        102080345
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24550887,
+        "uscensus:geoid":"7206679",
         "wd:id":"Q739675"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"d860454757087c48f38103760a162cba",
     "wof:hierarchy":[
@@ -189,7 +191,7 @@
         }
     ],
     "wof:id":101919099,
-    "wof:lastmodified":1690855891,
+    "wof:lastmodified":1722051537,
     "wof:name":"Bayam\u00f3n",
     "wof:parent_id":102080345,
     "wof:placetype":"locality",

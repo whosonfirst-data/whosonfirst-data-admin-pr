@@ -131,20 +131,22 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080389,
+        85633729,
         136253057,
-        102080389
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566208,
         "gp:id":161434,
         "qs_pg:id":154513,
+        "uscensus:geoid":"7252345",
         "wd:id":"Q967149",
         "wk:page":"Maunabo, Puerto Rico"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"7e44e30240bb90b7d97a84a43d52d7b4",
     "wof:hierarchy":[
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":101919215,
-    "wof:lastmodified":1690855899,
+    "wof:lastmodified":1722051538,
     "wof:name":"Maunabo",
     "wof:parent_id":102080389,
     "wof:placetype":"locality",

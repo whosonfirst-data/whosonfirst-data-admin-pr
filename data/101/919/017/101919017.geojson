@@ -164,20 +164,22 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080275,
+        85633729,
         136253057,
-        102080275
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4562506,
         "gp:id":160644,
         "qs_pg:id":1082662,
+        "uscensus:geoid":"7200745",
         "wd:id":"Q397826",
         "wk:page":"Aguadilla, Puerto Rico"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"87051cd3beab58e398f42600ff72caff",
     "wof:hierarchy":[
@@ -192,7 +194,7 @@
         }
     ],
     "wof:id":101919017,
-    "wof:lastmodified":1690855901,
+    "wof:lastmodified":1722051538,
     "wof:name":"Aguadilla",
     "wof:parent_id":102080275,
     "wof:placetype":"locality",

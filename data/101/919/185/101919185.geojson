@@ -21,7 +21,7 @@
     "mps:latitude":18.337724,
     "mps:longitude":-65.898148,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -53,18 +53,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080387,
+        85633729,
         136253057,
-        102080387
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4563059,
         "gp:id":55869991,
-        "qs_pg:id":98619
+        "qs_pg:id":98619,
+        "uscensus:geoid":"7211710"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"b1ae4134f0aa1cdaf5dfc002f3dc5043",
     "wof:hierarchy":[
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":101919185,
-    "wof:lastmodified":1566600337,
+    "wof:lastmodified":1722051536,
     "wof:name":"Campo Rico",
     "wof:parent_id":102080387,
     "wof:placetype":"locality",

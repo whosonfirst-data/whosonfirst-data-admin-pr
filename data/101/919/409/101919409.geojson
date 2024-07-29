@@ -97,22 +97,24 @@
     "src:population":"geonames",
     "wd:wordcount":600,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080337,
+        85633729,
         136253057,
-        102080337
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565807,
         "gp:id":55870283,
         "qs_pg:id":1117785,
+        "uscensus:geoid":"7242197",
         "wd:id":"Q1824355"
     },
     "wof:concordances_alt":{
         "gp:id":161295
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"1ed48fbf9f2f48915769ea6063ebcfab",
     "wof:hierarchy":[
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101919409,
-    "wof:lastmodified":1690855891,
+    "wof:lastmodified":1722051537,
     "wof:name":"La Plena",
     "wof:parent_id":102080337,
     "wof:placetype":"locality",

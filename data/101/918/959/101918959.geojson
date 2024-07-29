@@ -21,7 +21,7 @@
     "mps:latitude":18.160729,
     "mps:longitude":-65.996417,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -60,18 +60,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080309,
+        85633729,
         136253057,
-        102080309
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565621,
         "gp:id":161228,
-        "qs_pg:id":886363
+        "qs_pg:id":886363,
+        "uscensus:geoid":"7237166"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"e0fc52dc852e642381008b1348f5b86d",
     "wof:hierarchy":[
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101918959,
-    "wof:lastmodified":1566600311,
+    "wof:lastmodified":1722051535,
     "wof:name":"Jagual",
     "wof:parent_id":102080309,
     "wof:placetype":"locality",

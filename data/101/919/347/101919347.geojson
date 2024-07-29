@@ -72,17 +72,19 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":670,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080415,
+        85633729,
         136253057,
-        102080415
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":161226,
+        "uscensus:geoid":"7247615",
         "wd:id":"Q2777383"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"f6ff697d38277ce1ae2b278944f4967d",
     "wof:hierarchy":[
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":101919347,
-    "wof:lastmodified":1566600326,
+    "wof:lastmodified":1722051537,
     "wof:name":"Luis Llor\u00e9ns Torres",
     "wof:parent_id":102080415,
     "wof:placetype":"locality",

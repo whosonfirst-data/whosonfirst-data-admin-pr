@@ -18,7 +18,7 @@
     "mps:latitude":18.461226,
     "mps:longitude":-66.488509,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tierras Nuevas Poniente"
@@ -44,16 +44,18 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080271,
+        85633729,
         136253057,
-        102080271
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":55870456
+        "gp:id":55870456,
+        "uscensus:geoid":"7282187"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"c26e70fb8e77e2edaaa6ce2be8dd8f24",
     "wof:hierarchy":[
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":101919373,
-    "wof:lastmodified":1566600335,
+    "wof:lastmodified":1722051536,
     "wof:name":"Tierras Nuevas Poniente",
     "wof:parent_id":102080271,
     "wof:placetype":"locality",

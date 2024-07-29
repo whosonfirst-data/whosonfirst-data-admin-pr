@@ -21,7 +21,7 @@
     "mps:latitude":18.08613,
     "mps:longitude":-65.840478,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -60,18 +60,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080371,
+        85633729,
         136253057,
-        102080371
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4563939,
         "gp:id":160832,
-        "qs_pg:id":194068
+        "qs_pg:id":194068,
+        "uscensus:geoid":"7219837"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"796e3b965be593ebcb82683142fb1971",
     "wof:hierarchy":[
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101918977,
-    "wof:lastmodified":1566600310,
+    "wof:lastmodified":1722051535,
     "wof:name":"Comunas",
     "wof:parent_id":102080371,
     "wof:placetype":"locality",

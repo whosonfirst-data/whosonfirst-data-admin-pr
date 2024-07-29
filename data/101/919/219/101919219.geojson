@@ -128,22 +128,24 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080343,
+        85633729,
         136253057,
-        102080343
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4564990,
         "gp:id":160961,
         "qs_pg:id":154499,
+        "uscensus:geoid":"7228824",
         "wd:id":"Q2271950"
     },
     "wof:concordances_alt":{
         "gn:id":4564991
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"82c12bf498759c27d6835fa795572396",
     "wof:hierarchy":[
@@ -158,7 +160,7 @@
         }
     ],
     "wof:id":101919219,
-    "wof:lastmodified":1690855888,
+    "wof:lastmodified":1722051537,
     "wof:name":"Florida",
     "wof:parent_id":102080343,
     "wof:placetype":"locality",

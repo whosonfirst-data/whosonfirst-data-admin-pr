@@ -147,18 +147,20 @@
     "src:population":"geonames",
     "wd:wordcount":431,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080399,
+        85633729,
         136253057,
-        102080399
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566485,
         "gp:id":24550922,
-        "qs_pg:id":224020
+        "qs_pg:id":224020,
+        "uscensus:geoid":"7258666"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"05ff51c23c0e58c736d31fd9c34fcd94",
     "wof:hierarchy":[
@@ -173,7 +175,7 @@
         }
     ],
     "wof:id":101919257,
-    "wof:lastmodified":1636502703,
+    "wof:lastmodified":1722051537,
     "wof:name":"Palmer",
     "wof:parent_id":102080399,
     "wof:placetype":"locality",

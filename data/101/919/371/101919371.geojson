@@ -21,7 +21,7 @@
     "mps:latitude":18.021433,
     "mps:longitude":-66.765234,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -58,21 +58,23 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080297,
+        85633729,
         136253057,
-        102080297
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566119,
         "gp:id":55870096,
-        "qs_pg:id":1204855
+        "qs_pg:id":1204855,
+        "uscensus:geoid":"7248604"
     },
     "wof:concordances_alt":{
         "gp:id":161400
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"9055d02d6cdd585c7585ebc677297bfd",
     "wof:hierarchy":[
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101919371,
-    "wof:lastmodified":1566600325,
+    "wof:lastmodified":1722051536,
     "wof:name":"Magas Arriba",
     "wof:parent_id":102080297,
     "wof:placetype":"locality",

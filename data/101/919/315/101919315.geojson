@@ -73,21 +73,23 @@
     "src:population":"geonames",
     "wd:wordcount":216,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080305,
+        85633729,
         136253057,
-        102080305
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568009,
         "gp:id":161643,
-        "qs_pg:id":186934
+        "qs_pg:id":186934,
+        "uscensus:geoid":"7273200"
     },
     "wof:concordances_alt":{
         "gp:id":55870198
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"f9bc1367cbbc98b9fdb6c77de544b187",
     "wof:hierarchy":[
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101919315,
-    "wof:lastmodified":1566600325,
+    "wof:lastmodified":1722051537,
     "wof:name":"Sabana",
     "wof:parent_id":102080305,
     "wof:placetype":"locality",

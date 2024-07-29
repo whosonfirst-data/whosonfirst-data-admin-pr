@@ -110,17 +110,19 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080399,
+        85633729,
         136253057,
-        102080399
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":161624,
+        "uscensus:geoid":"7271136",
         "wd:id":"Q979996"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"6c8e556b4ea0b5547810451a998771b0",
     "wof:hierarchy":[
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":101919255,
-    "wof:lastmodified":1690855905,
+    "wof:lastmodified":1722051538,
     "wof:name":"R\u00edo Grande",
     "wof:parent_id":102080399,
     "wof:placetype":"locality",

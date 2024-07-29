@@ -18,7 +18,7 @@
     "mps:latitude":18.042845,
     "mps:longitude":-66.942413,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -38,16 +38,18 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080395,
+        85633729,
         136253057,
-        102080395
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":24550923
+        "gp:id":24550923,
+        "uscensus:geoid":"7245379"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"21cb3d414543f11a052ebdf8a8077c26",
     "wof:hierarchy":[
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":101919327,
-    "wof:lastmodified":1566600335,
+    "wof:lastmodified":1722051536,
     "wof:name":"Liborio Negr\u00f3n Torres",
     "wof:parent_id":102080395,
     "wof:placetype":"locality",

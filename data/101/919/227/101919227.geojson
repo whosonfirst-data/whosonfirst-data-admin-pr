@@ -104,17 +104,19 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080429,
+        85633729,
         136253057,
-        102080429
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":160930,
+        "uscensus:geoid":"7231189",
         "wd:id":"Q1019645"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"1018d1d4335435011bfb589be3209b72",
     "wof:hierarchy":[
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101919227,
-    "wof:lastmodified":1690855886,
+    "wof:lastmodified":1722051537,
     "wof:name":"Gu\u00e1nica",
     "wof:parent_id":102080429,
     "wof:placetype":"locality",

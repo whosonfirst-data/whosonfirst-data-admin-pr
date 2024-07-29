@@ -149,17 +149,18 @@
     "woe:name_adm1":"Yauco",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080397,
+        85633729,
         136253057,
-        102080397
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568917,
         "gp:id":161836,
         "qs_pg:id":154524,
+        "uscensus:geoid":"7288035",
         "wd:id":"Q368526",
         "wk:page":"Yauco, Puerto Rico"
     },
@@ -177,6 +178,7 @@
             "Q368526"
         ]
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"b6e5403fa8cd7152ef7b03f427f47c1d",
     "wof:hierarchy":[
@@ -191,7 +193,7 @@
         }
     ],
     "wof:id":101919405,
-    "wof:lastmodified":1706240613,
+    "wof:lastmodified":1722051538,
     "wof:name":"Yauco",
     "wof:parent_id":102080397,
     "wof:placetype":"locality",

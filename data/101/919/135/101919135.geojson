@@ -322,19 +322,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080283,
+        85633729,
         136253057,
-        102080283
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4562635,
         "gp:id":160667,
         "qs_pg:id":1082658,
+        "uscensus:geoid":"7203368",
         "wd:id":"Q640728"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"8c48521927a0e6a7bdebdc0bf3f4f652",
     "wof:hierarchy":[
@@ -349,7 +351,7 @@
         }
     ],
     "wof:id":101919135,
-    "wof:lastmodified":1690855883,
+    "wof:lastmodified":1722051537,
     "wof:name":"Arecibo",
     "wof:parent_id":102080283,
     "wof:placetype":"locality",

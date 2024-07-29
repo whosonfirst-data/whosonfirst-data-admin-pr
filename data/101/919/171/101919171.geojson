@@ -18,7 +18,7 @@
     "mps:latitude":18.290402,
     "mps:longitude":-66.050477,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Primera Divisi\u00f3n"
@@ -436,18 +436,20 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3315,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080425,
+        85633729,
         136253057,
-        102080425
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7315440,
         "gp:id":55869969,
+        "uscensus:geoid":"7241274",
         "wd:id":"Q324867"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"1a266f1be2cb3e104862595abb13edb6",
     "wof:hierarchy":[
@@ -462,7 +464,7 @@
         }
     ],
     "wof:id":101919171,
-    "wof:lastmodified":1690855908,
+    "wof:lastmodified":1722051536,
     "wof:name":"La Liga",
     "wof:parent_id":102080425,
     "wof:placetype":"locality",

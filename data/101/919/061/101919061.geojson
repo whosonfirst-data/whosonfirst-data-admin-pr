@@ -99,19 +99,21 @@
     "src:population":"geonames",
     "wd:wordcount":164,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080329,
+        85633729,
         136253057,
-        102080329
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566002,
         "gp:id":161363,
         "qs_pg:id":495087,
+        "uscensus:geoid":"7245336",
         "wd:id":"Q2704021"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"d36cb21fbe4583d0419e21cb4c27f605",
     "wof:hierarchy":[
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101919061,
-    "wof:lastmodified":1690855903,
+    "wof:lastmodified":1722051538,
     "wof:name":"Levittown",
     "wof:parent_id":102080329,
     "wof:placetype":"locality",

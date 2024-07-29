@@ -87,19 +87,21 @@
     "src:population":"geonames",
     "wd:wordcount":1888,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080409,
+        85633729,
         136253057,
-        102080409
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566955,
         "gp:id":161585,
         "qs_pg:id":1341560,
+        "uscensus:geoid":"7265589",
         "wd:id":"Q1921212"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"24daf133c19de16887bbb25859fe6506",
     "wof:hierarchy":[
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101919047,
-    "wof:lastmodified":1690855888,
+    "wof:lastmodified":1722051537,
     "wof:name":"Puerto Real",
     "wof:parent_id":102080409,
     "wof:placetype":"locality",

@@ -81,19 +81,21 @@
     "src:population":"geonames",
     "wd:wordcount":60,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080423,
+        85633729,
         136253057,
-        102080423
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4562483,
         "gp:id":160639,
         "qs_pg:id":1049310,
+        "uscensus:geoid":"7200186",
         "wd:id":"Q1813870"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"fd445db35af8a12a1e02a86cd2710448",
     "wof:hierarchy":[
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101919387,
-    "wof:lastmodified":1566600336,
+    "wof:lastmodified":1722051537,
     "wof:name":"Aceitunas",
     "wof:parent_id":102080423,
     "wof:placetype":"locality",

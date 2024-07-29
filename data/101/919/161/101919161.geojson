@@ -39,17 +39,19 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":37,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080425,
+        85633729,
         136253057,
-        102080425
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7315443,
-        "gp:id":160738
+        "gp:id":160738,
+        "uscensus:geoid":"7247422"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"7552545d2dc17071839759c1b8b252c6",
     "wof:hierarchy":[
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":101919161,
-    "wof:lastmodified":1566600316,
+    "wof:lastmodified":1722051536,
     "wof:name":"Los Prados",
     "wof:parent_id":102080425,
     "wof:placetype":"locality",

@@ -18,7 +18,7 @@
     "mps:latitude":18.039184,
     "mps:longitude":-66.467236,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Juan Rius Rivera"
@@ -41,16 +41,18 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080415,
+        85633729,
         136253057,
-        102080415
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":24550903
+        "gp:id":24550903,
+        "uscensus:geoid":"7270706"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"34649dd8bee39162d649dfad4077df9e",
     "wof:hierarchy":[
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":101919345,
-    "wof:lastmodified":1566600335,
+    "wof:lastmodified":1722051536,
     "wof:name":"R\u00edo Ca\u00f1as Abajo",
     "wof:parent_id":102080415,
     "wof:placetype":"locality",

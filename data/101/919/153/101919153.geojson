@@ -21,7 +21,7 @@
     "mps:latitude":18.439364,
     "mps:longitude":-66.57979,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "C.D. Tiburones"
@@ -73,19 +73,21 @@
     "src:population":"geonames",
     "wd:wordcount":51,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080375,
+        85633729,
         136253057,
-        102080375
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568395,
         "gp:id":161762,
         "qs_pg:id":1204906,
+        "uscensus:geoid":"7282125",
         "wd:id":"Q5006075"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"f99fadf486a311aae160ef8e304250be",
     "wof:hierarchy":[
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101919153,
-    "wof:lastmodified":1566600327,
+    "wof:lastmodified":1722051536,
     "wof:name":"Tiburones",
     "wof:parent_id":102080375,
     "wof:placetype":"locality",

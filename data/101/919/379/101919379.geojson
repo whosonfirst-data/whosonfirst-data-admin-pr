@@ -21,7 +21,7 @@
     "mps:latitude":18.448808,
     "mps:longitude":-66.507627,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -60,21 +60,23 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080271,
+        85633729,
         136253057,
-        102080271
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565780,
         "gp:id":24550911,
-        "qs_pg:id":1168211
+        "qs_pg:id":1168211,
+        "uscensus:geoid":"7241294"
     },
     "wof:concordances_alt":{
         "gp:id":24550912
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"0c0dfbc1587993d8edb253357f60d116",
     "wof:hierarchy":[
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101919379,
-    "wof:lastmodified":1566600323,
+    "wof:lastmodified":1722051536,
     "wof:name":"La Luisa",
     "wof:parent_id":102080271,
     "wof:placetype":"locality",

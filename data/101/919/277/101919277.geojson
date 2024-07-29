@@ -144,19 +144,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080383,
+        85633729,
         136253057,
-        102080383
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565577,
         "gp:id":161222,
         "qs_pg:id":489363,
+        "uscensus:geoid":"7236478",
         "wd:id":"Q2307520"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"eff6af5d1a7804b38c44ed2d255a1330",
     "wof:hierarchy":[
@@ -171,7 +173,7 @@
         }
     ],
     "wof:id":101919277,
-    "wof:lastmodified":1690855899,
+    "wof:lastmodified":1722051538,
     "wof:name":"Isabela",
     "wof:parent_id":102080383,
     "wof:placetype":"locality",

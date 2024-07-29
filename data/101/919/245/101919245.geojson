@@ -149,17 +149,18 @@
     "woe:name_adm1":"Humacao",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080351,
+        85633729,
         136253057,
-        102080351
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565564,
         "gp:id":161213,
         "qs_pg:id":222197,
+        "uscensus:geoid":"7235532",
         "wd:id":"Q2307535"
     },
     "wof:concordances_alt":{
@@ -176,6 +177,7 @@
             "Q2307535"
         ]
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"4f83a86823d10a0cdd8c21b25525c2d0",
     "wof:hierarchy":[
@@ -190,7 +192,7 @@
         }
     ],
     "wof:id":101919245,
-    "wof:lastmodified":1706240613,
+    "wof:lastmodified":1722051538,
     "wof:name":"Humacao",
     "wof:parent_id":102080351,
     "wof:placetype":"locality",

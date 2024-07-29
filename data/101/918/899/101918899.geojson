@@ -200,17 +200,19 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080311,
+        85633729,
         136253057,
-        102080311
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":161435,
+        "uscensus:geoid":"7252431",
         "wd:id":"Q632727"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"33c2450f307c31e5839450551aa60a8f",
     "wof:hierarchy":[
@@ -225,7 +227,7 @@
         }
     ],
     "wof:id":101918899,
-    "wof:lastmodified":1690855882,
+    "wof:lastmodified":1722051537,
     "wof:name":"Mayag\u00fcez",
     "wof:parent_id":102080311,
     "wof:placetype":"locality",

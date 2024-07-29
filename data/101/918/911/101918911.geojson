@@ -85,18 +85,20 @@
     "src:population":"geonames",
     "wd:wordcount":30,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080291,
+        85633729,
         136253057,
-        102080291
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566497,
         "gp:id":161508,
-        "qs_pg:id":1117793
+        "qs_pg:id":1117793,
+        "uscensus:geoid":"7258967"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"43942d84348c2fb27922eea0ff9f88dd",
     "wof:hierarchy":[
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101918911,
-    "wof:lastmodified":1566600314,
+    "wof:lastmodified":1722051536,
     "wof:name":"Palomas",
     "wof:parent_id":102080291,
     "wof:placetype":"locality",

@@ -122,18 +122,20 @@
     "src:population":"geonames",
     "wd:wordcount":1052,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080387,
+        85633729,
         136253057,
-        102080387
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568109,
         "gp:id":161680,
-        "qs_pg:id":1204887
+        "qs_pg:id":1204887,
+        "uscensus:geoid":"7276339"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"65d07d5a8c671c41469f8e27bc27bce7",
     "wof:hierarchy":[
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":101919187,
-    "wof:lastmodified":1566600323,
+    "wof:lastmodified":1722051537,
     "wof:name":"San Isidro",
     "wof:parent_id":102080387,
     "wof:placetype":"locality",

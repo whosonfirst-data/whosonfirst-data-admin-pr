@@ -146,20 +146,22 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080433,
+        85633729,
         136253057,
-        102080433
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568490,
         "gp:id":161785,
         "qs_pg:id":1341584,
+        "uscensus:geoid":"7284509",
         "wd:id":"Q617096",
         "wk:page":"Utuado, Puerto Rico"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"3f83e25098e65518ef64397e05c5893c",
     "wof:hierarchy":[
@@ -174,7 +176,7 @@
         }
     ],
     "wof:id":101919023,
-    "wof:lastmodified":1690855886,
+    "wof:lastmodified":1722051537,
     "wof:name":"Utuado",
     "wof:parent_id":102080433,
     "wof:placetype":"locality",

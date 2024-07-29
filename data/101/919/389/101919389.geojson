@@ -18,7 +18,7 @@
     "mps:latitude":18.212839,
     "mps:longitude":-65.793683,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "R\u00edo Blanco"
@@ -68,16 +68,18 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080355,
+        85633729,
         136253057,
-        102080355
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":55870068
+        "gp:id":55870068,
+        "uscensus:geoid":"7270448"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"19449263ca409a07bd972228c6c7245d",
     "wof:hierarchy":[
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101919389,
-    "wof:lastmodified":1566600335,
+    "wof:lastmodified":1722051536,
     "wof:name":"R\u00edo Blanco",
     "wof:parent_id":102080355,
     "wof:placetype":"locality",

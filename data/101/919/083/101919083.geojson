@@ -80,19 +80,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080327,
+        85633729,
         136253057,
-        102080327
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565796,
         "gp:id":24550906,
         "qs_pg:id":224019,
+        "uscensus:geoid":"7241767",
         "wd:id":"Q1833442"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"7aeec69204dd4fe0a47e10aa05073efb",
     "wof:hierarchy":[
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101919083,
-    "wof:lastmodified":1690855887,
+    "wof:lastmodified":1722051537,
     "wof:name":"La Parguera",
     "wof:parent_id":102080327,
     "wof:placetype":"locality",

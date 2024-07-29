@@ -71,18 +71,20 @@
     "src:population":"geonames",
     "wd:wordcount":34,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080389,
+        85633729,
         136253057,
-        102080389
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566492,
         "gp:id":24550913,
-        "qs_pg:id":59773
+        "qs_pg:id":59773,
+        "uscensus:geoid":"7259139"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"ce5e82201148fede8028035f76c3890d",
     "wof:hierarchy":[
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":101919221,
-    "wof:lastmodified":1566600318,
+    "wof:lastmodified":1722051536,
     "wof:name":"Palo Seco",
     "wof:parent_id":102080389,
     "wof:placetype":"locality",

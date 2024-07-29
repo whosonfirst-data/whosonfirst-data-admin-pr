@@ -22,7 +22,7 @@
     "mps:latitude":18.402594,
     "mps:longitude":-66.250646,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
@@ -238,18 +238,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080329,
+        85633729,
         136253057,
-        102080329
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568122,
         "gp:id":24550932,
-        "qs_pg:id":98629
+        "qs_pg:id":98629,
+        "uscensus:geoid":"7276683"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"f78becc720e1cc8f4dfa44d8bf057476",
     "wof:hierarchy":[
@@ -264,7 +266,7 @@
         }
     ],
     "wof:id":101919071,
-    "wof:lastmodified":1706240612,
+    "wof:lastmodified":1722051536,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":102080329,
     "wof:placetype":"locality",

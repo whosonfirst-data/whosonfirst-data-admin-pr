@@ -162,18 +162,20 @@
     "src:population":"geonames",
     "wd:wordcount":457,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080381,
+        85633729,
         136253057,
-        102080381
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4563994,
         "gp:id":160842,
-        "qs_pg:id":228617
+        "qs_pg:id":228617,
+        "uscensus:geoid":"7220482"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"1bc6502a9df919fad1889cf6a419c783",
     "wof:hierarchy":[
@@ -188,7 +190,7 @@
         }
     ],
     "wof:id":101919269,
-    "wof:lastmodified":1566600322,
+    "wof:lastmodified":1722051536,
     "wof:name":"Corcovado",
     "wof:parent_id":102080381,
     "wof:placetype":"locality",

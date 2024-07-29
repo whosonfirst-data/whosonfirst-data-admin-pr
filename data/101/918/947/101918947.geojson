@@ -137,19 +137,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080279,
+        85633729,
         136253057,
-        102080279
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4563811,
         "gp:id":160819,
         "qs_pg:id":154495,
+        "uscensus:geoid":"7218719",
         "wd:id":"Q1942303"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"6ab21357379fb9e9cc11d32e178578b1",
     "wof:hierarchy":[
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":101918947,
-    "wof:lastmodified":1690855879,
+    "wof:lastmodified":1722051537,
     "wof:name":"Coamo",
     "wof:parent_id":102080279,
     "wof:placetype":"locality",

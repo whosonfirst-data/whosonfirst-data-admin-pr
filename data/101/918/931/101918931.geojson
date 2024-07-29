@@ -86,19 +86,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080339,
+        85633729,
         136253057,
-        102080339
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566767,
         "gp:id":24550909,
         "qs_pg:id":956691,
+        "uscensus:geoid":"7263310",
         "wd:id":"Q1984746"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"c41f6f7f967c5a7c09f0c03f6b0da15e",
     "wof:hierarchy":[
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101918931,
-    "wof:lastmodified":1690855876,
+    "wof:lastmodified":1722051537,
     "wof:name":"Playa Fortuna",
     "wof:parent_id":102080339,
     "wof:placetype":"locality",

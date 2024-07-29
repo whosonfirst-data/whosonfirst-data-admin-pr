@@ -140,19 +140,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080321,
+        85633729,
         136253057,
-        102080321
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4562513,
         "gp:id":160645,
         "qs_pg:id":211126,
+        "uscensus:geoid":"7200874",
         "wd:id":"Q2361568"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"82c0fa5dfc139dee19c4107e75c6b8dd",
     "wof:hierarchy":[
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":101919009,
-    "wof:lastmodified":1690855890,
+    "wof:lastmodified":1722051537,
     "wof:name":"Aguas Buenas",
     "wof:parent_id":102080321,
     "wof:placetype":"locality",

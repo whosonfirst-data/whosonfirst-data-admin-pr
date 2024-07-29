@@ -68,21 +68,23 @@
     "src:population":"geonames",
     "wd:wordcount":26,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080353,
+        85633729,
         136253057,
-        102080353
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566110,
         "gp:id":55870520,
-        "qs_pg:id":1204854
+        "qs_pg:id":1204854,
+        "uscensus:geoid":"7247873"
     },
     "wof:concordances_alt":{
         "gp:id":161393
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"cfd9da5f024c6d236305fde095899ce0",
     "wof:hierarchy":[
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":101919139,
-    "wof:lastmodified":1566600328,
+    "wof:lastmodified":1722051537,
     "wof:name":"Luyando",
     "wof:parent_id":102080353,
     "wof:placetype":"locality",

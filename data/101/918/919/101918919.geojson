@@ -134,20 +134,22 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080339,
+        85633729,
         136253057,
-        102080339
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566103,
         "gp:id":161392,
         "qs_pg:id":154508,
+        "uscensus:geoid":"7247787",
         "wd:id":"Q1984618",
         "wk:page":"Luquillo, Puerto Rico"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"d374b5a370ae27c4b8f5774d7e80ba1e",
     "wof:hierarchy":[
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":101918919,
-    "wof:lastmodified":1690855882,
+    "wof:lastmodified":1722051537,
     "wof:name":"Luquillo",
     "wof:parent_id":102080339,
     "wof:placetype":"locality",

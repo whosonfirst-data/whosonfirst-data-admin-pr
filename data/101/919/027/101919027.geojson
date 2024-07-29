@@ -78,21 +78,23 @@
     "src:population":"geonames",
     "wd:wordcount":92,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080323,
+        85633729,
         136253057,
-        102080323
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565804,
         "gp:id":55870479,
-        "qs_pg:id":532040
+        "qs_pg:id":532040,
+        "uscensus:geoid":"7242068"
     },
     "wof:concordances_alt":{
         "gp:id":24550875
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"bd51b717817718da5963aaf57e258d44",
     "wof:hierarchy":[
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101919027,
-    "wof:lastmodified":1566600330,
+    "wof:lastmodified":1722051537,
     "wof:name":"La Playa",
     "wof:parent_id":102080323,
     "wof:placetype":"locality",

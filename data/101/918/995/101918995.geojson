@@ -104,17 +104,19 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080307,
+        85633729,
         136253057,
-        102080307
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":161616,
+        "uscensus:geoid":"7269588",
         "wd:id":"Q1815896"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"bb461701515ea980158e45fcc44c18a0",
     "wof:hierarchy":[
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101918995,
-    "wof:lastmodified":1690855880,
+    "wof:lastmodified":1722051537,
     "wof:name":"Rinc\u00f3n",
     "wof:parent_id":102080307,
     "wof:placetype":"locality",

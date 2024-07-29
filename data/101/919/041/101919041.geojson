@@ -60,14 +60,17 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":95,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080409,
+        85633729,
         136253057,
-        102080409
+        85687331
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "uscensus:geoid":"7207969"
+    },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"cf06e4b6229c78f1b0343e55e2f76d6c",
     "wof:hierarchy":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101919041,
-    "wof:lastmodified":1566600318,
+    "wof:lastmodified":1722051536,
     "wof:name":"Boquer\u00f3n",
     "wof:parent_id":102080409,
     "wof:placetype":"locality",

@@ -21,7 +21,7 @@
     "mps:latitude":18.030445,
     "mps:longitude":-66.055382,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Yaurel"
@@ -61,18 +61,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080285,
+        85633729,
         136253057,
-        102080285
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4568957,
         "gp:id":24550878,
-        "qs_pg:id":59759
+        "qs_pg:id":59759,
+        "uscensus:geoid":"7288121"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"bb08da584c2005d4e783709b733716ac",
     "wof:hierarchy":[
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101919059,
-    "wof:lastmodified":1566600333,
+    "wof:lastmodified":1722051536,
     "wof:name":"Yaurel",
     "wof:parent_id":102080285,
     "wof:placetype":"locality",

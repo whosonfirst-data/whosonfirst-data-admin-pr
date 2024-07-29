@@ -21,7 +21,7 @@
     "mps:latitude":18.222621,
     "mps:longitude":-65.679293,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "R\u00edo Daguao"
@@ -73,22 +73,24 @@
     "src:population":"geonames",
     "wd:wordcount":52,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080355,
+        85633729,
         136253057,
-        102080355
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4564085,
         "gp:id":161422,
         "qs_pg:id":924575,
+        "uscensus:geoid":"7223062",
         "wd:id":"Q7386265"
     },
     "wof:concordances_alt":{
         "gp:id":160871
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"ba12363135fd8e6fdc88256571e873da",
     "wof:hierarchy":[
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101919399,
-    "wof:lastmodified":1690855885,
+    "wof:lastmodified":1722051536,
     "wof:name":"Daguao",
     "wof:parent_id":102080355,
     "wof:placetype":"locality",

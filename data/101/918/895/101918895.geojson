@@ -81,19 +81,21 @@
     "src:population":"geonames",
     "wd:wordcount":436,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080299,
+        85633729,
         136253057,
-        102080299
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4564026,
         "gp:id":160851,
         "qs_pg:id":1341537,
+        "uscensus:geoid":"7221213",
         "wd:id":"Q5175410"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"a23ede120058da672ad9f9bd07a68438",
     "wof:hierarchy":[
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101918895,
-    "wof:lastmodified":1566600310,
+    "wof:lastmodified":1722051536,
     "wof:name":"Coto Laurel",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

@@ -17,7 +17,7 @@
     "mps:latitude":18.065434,
     "mps:longitude":-66.568974,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cerrillos Barrio"
@@ -47,16 +47,18 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":666,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080299,
+        85633729,
         136253057,
-        102080299
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "uscensus:geoid":"7217050",
         "wd:id":"Q5064825"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"385b0e5bb5db88eb96d9060251c74077",
     "wof:hierarchy":[
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":101918865,
-    "wof:lastmodified":1690855881,
+    "wof:lastmodified":1722051536,
     "wof:name":"Cerrillos Hoyos",
     "wof:parent_id":102080299,
     "wof:placetype":"locality",

@@ -21,7 +21,7 @@
     "mps:latitude":18.423162,
     "mps:longitude":-66.239441,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:a0":"Puerto Rico",
     "qs:a1":"*Puerto Rico",
@@ -60,18 +60,20 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080329,
+        85633729,
         136253057,
-        102080329
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4563053,
         "gp:id":160760,
-        "qs_pg:id":924574
+        "qs_pg:id":924574,
+        "uscensus:geoid":"7211581"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"f008235b35f0e8f04c49d621d55be45d",
     "wof:hierarchy":[
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101919085,
-    "wof:lastmodified":1566600319,
+    "wof:lastmodified":1722051535,
     "wof:name":"Campanilla",
     "wof:parent_id":102080329,
     "wof:placetype":"locality",

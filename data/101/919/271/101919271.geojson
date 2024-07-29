@@ -21,7 +21,7 @@
     "mps:latitude":18.462207,
     "mps:longitude":-67.032768,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Mora"
@@ -157,21 +157,23 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080383,
+        85633729,
         136253057,
-        102080383
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566330,
         "gp:id":55870064,
-        "qs_pg:id":1204865
+        "qs_pg:id":1204865,
+        "uscensus:geoid":"7254882"
     },
     "wof:concordances_alt":{
         "gp:id":161463
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"a987d065e7ad81870d68e4498a91c9f1",
     "wof:hierarchy":[
@@ -186,7 +188,7 @@
         }
     ],
     "wof:id":101919271,
-    "wof:lastmodified":1566600331,
+    "wof:lastmodified":1722051536,
     "wof:name":"Mora",
     "wof:parent_id":102080383,
     "wof:placetype":"locality",

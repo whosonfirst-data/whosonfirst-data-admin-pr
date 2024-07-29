@@ -149,20 +149,22 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080373,
+        85633729,
         136253057,
-        102080373
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565105,
         "gp:id":160988,
         "qs_pg:id":211134,
+        "uscensus:geoid":"7232221",
         "wd:id":"Q1870997",
         "wk:page":"Guayama, Puerto Rico"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"d4f02adeb3b6cc88f106d4e1884922f9",
     "wof:hierarchy":[
@@ -177,7 +179,7 @@
         }
     ],
     "wof:id":101919309,
-    "wof:lastmodified":1690855883,
+    "wof:lastmodified":1722051537,
     "wof:name":"Guayama",
     "wof:parent_id":102080373,
     "wof:placetype":"locality",

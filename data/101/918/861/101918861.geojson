@@ -125,19 +125,21 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080301,
+        85633729,
         136253057,
-        102080301
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4565718,
         "gp:id":161252,
         "qs_pg:id":1049325,
+        "uscensus:geoid":"7239574",
         "wd:id":"Q2347667"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"df34f2a95c5524af1c361f213f018b63",
     "wof:hierarchy":[
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":101918861,
-    "wof:lastmodified":1690855878,
+    "wof:lastmodified":1722051537,
     "wof:name":"Juncos",
     "wof:parent_id":102080301,
     "wof:placetype":"locality",

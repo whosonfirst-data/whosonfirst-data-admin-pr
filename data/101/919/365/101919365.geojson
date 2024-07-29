@@ -137,18 +137,20 @@
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080435,
+        85633729,
         136253057,
-        102080435
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4563382,
         "gp:id":160798,
-        "qs_pg:id":1204808
+        "qs_pg:id":1204808,
+        "uscensus:geoid":"7216440"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"8f7aa017f84d880c58f6d1da5648ef6e",
     "wof:hierarchy":[
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":101919365,
-    "wof:lastmodified":1566600316,
+    "wof:lastmodified":1722051536,
     "wof:name":"Celada",
     "wof:parent_id":102080435,
     "wof:placetype":"locality",

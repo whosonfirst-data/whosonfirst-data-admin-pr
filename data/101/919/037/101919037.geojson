@@ -101,21 +101,23 @@
     "wd:longitude":-58.466667,
     "wd:wordcount":254,
     "wof:belongsto":[
-        85633729,
-        85687331,
         102191575,
+        102080409,
+        85633729,
         136253057,
-        102080409
+        85687331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4566305,
         "gp:id":55870452,
-        "qs_pg:id":1204864
+        "qs_pg:id":1204864,
+        "uscensus:geoid":"7254366"
     },
     "wof:concordances_alt":{
         "gp:id":161458
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"PR",
     "wof:geomhash":"d05e9c9bbfbf972981cfaca48c006fce",
     "wof:hierarchy":[
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101919037,
-    "wof:lastmodified":1566600323,
+    "wof:lastmodified":1722051537,
     "wof:name":"Monte Grande",
     "wof:parent_id":102080409,
     "wof:placetype":"locality",

@@ -48,7 +48,6 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         102080363
     ],
@@ -66,8 +65,7 @@
             "country_id":-1,
             "county_id":102080363,
             "dependency_id":85633729,
-            "locality_id":1125994789,
-            "region_id":85687331
+            "locality_id":1125994789
         }
     ],
     "wof:id":1125994789,

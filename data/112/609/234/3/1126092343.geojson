@@ -792,8 +792,7 @@
         85633729,
         102191575,
         101919293,
-        102080365,
-        85687331
+        102080365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -811,8 +810,7 @@
             "county_id":102080365,
             "dependency_id":85633729,
             "locality_id":101919293,
-            "neighbourhood_id":1126092343,
-            "region_id":85687331
+            "neighbourhood_id":1126092343
         }
     ],
     "wof:id":1126092343,

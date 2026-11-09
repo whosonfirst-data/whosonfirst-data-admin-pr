@@ -106,7 +106,6 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
-        85687331,
         102191575,
         136253057,
         102080299
@@ -124,8 +123,7 @@
             "county_id":102080299,
             "dependency_id":85633729,
             "empire_id":136253057,
-            "locality_id":1243300503,
-            "region_id":85687331
+            "locality_id":1243300503
         }
     ],
     "wof:id":1243300503,

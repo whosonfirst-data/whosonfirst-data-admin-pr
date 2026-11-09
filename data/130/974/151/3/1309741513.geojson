@@ -48,7 +48,7 @@
         "wk:page":"Hyde_Park_%28Hato_Rey%29"
     },
     "wof:country":"PR",
-    "wof:geomhash":"a053b7855470d69300e4855aea30ddbb",
+    "wof:geomhash":"388e10f007232d50b22c5334a8011c88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,5 +76,5 @@
     -66.06128000000001,
     18.40745
 ],
-  "geometry": {"coordinates":[-66.06128000000001,18.40745],"type":"Point"}
+  "geometry": {"coordinates":[-66.06128,18.40745],"type":"Point"}
 }

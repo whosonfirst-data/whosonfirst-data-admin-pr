@@ -87,7 +87,7 @@
     },
     "wof:country":"PR",
     "wof:created":1497300717,
-    "wof:geomhash":"d4744357d718ed432bf02aae77b90b1c",
+    "wof:geomhash":"14dbc4bb9ff37a0a71057407a77e4e77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,5 +115,5 @@
     -66.398781,
     18.2703315
 ],
-  "geometry": {"coordinates":[-66.398781,18.2703315],"type":"Point"}
+  "geometry": {"coordinates":[-66.398781,18.270332],"type":"Point"}
 }

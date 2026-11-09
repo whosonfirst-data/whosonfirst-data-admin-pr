@@ -40,7 +40,7 @@
         "gn:id":4567617
     },
     "wof:country":"PR",
-    "wof:geomhash":"eb2cadb009c912b91c56491aa9ed3cb5",
+    "wof:geomhash":"f62d9d22cfe7b4fdbef820ea2c174063",
     "wof:hierarchy":[
         {
             "dependency_id":85633729,
@@ -63,5 +63,5 @@
     -66.19294000000001,
     18.40245
 ],
-  "geometry": {"coordinates":[-66.19294000000001,18.40245],"type":"Point"}
+  "geometry": {"coordinates":[-66.19294,18.40245],"type":"Point"}
 }

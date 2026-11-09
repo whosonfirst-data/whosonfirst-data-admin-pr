@@ -74,7 +74,7 @@
         "wk:page":"Old_San_Juan"
     },
     "wof:country":"PR",
-    "wof:geomhash":"1697b422a7e38979a37a93e773c9200f",
+    "wof:geomhash":"86376abde045412be7c744fe1f3caa02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -102,5 +102,5 @@
     -66.11598000000001,
     18.4661
 ],
-  "geometry": {"coordinates":[-66.11598000000001,18.4661],"type":"Point"}
+  "geometry": {"coordinates":[-66.11598,18.4661],"type":"Point"}
 }

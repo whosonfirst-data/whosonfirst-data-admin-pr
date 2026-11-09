@@ -101,7 +101,7 @@
         "gn:id":4562976
     },
     "wof:country":"PR",
-    "wof:geomhash":"1bf08c29931504122bca1a0cac0ee17f",
+    "wof:geomhash":"d8c0c11d622d71997fefab22fed4346e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,5 +129,5 @@
     -67.13879,
     18.19662000000001
 ],
-  "geometry": {"coordinates":[-67.13879,18.19662000000001],"type":"Point"}
+  "geometry": {"coordinates":[-67.13879,18.19662],"type":"Point"}
 }

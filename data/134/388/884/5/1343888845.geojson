@@ -100,12 +100,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng San Martin"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5723\u9a6c\u4e01\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u8056\u99ac\u4e01\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633729,
@@ -132,7 +126,7 @@
         }
     ],
     "wof:id":1343888845,
-    "wof:lastmodified":1636502692,
+    "wof:lastmodified":1794999722,
     "wof:name":"San Martin",
     "wof:parent_id":102080441,
     "wof:placetype":"locality",

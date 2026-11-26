@@ -1,0 +1,75 @@
+{
+  "id": 9895053749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.68849,18.21968,-65.68849,18.21968",
+    "geom:latitude":18.21968,
+    "geom:longitude":-65.68849,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 4564858: name \"Esperanza\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/4564858"
+        },
+        {
+            "citation":"GeoNames populated place 4564858: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/4564858"
+        },
+        {
+            "citation":"GeoNames populated place 4564858: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/4564858"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080355 (Naguabo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        102080355,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4564858
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"a15a07cabd0e85afb3b5f8b581e57707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080355,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":9895053749
+        }
+    ],
+    "wof:id":9895053749,
+    "wof:lastmodified":1795735190,
+    "wof:name":"Esperanza",
+    "wof:parent_id":102080355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.68849,
+    18.21968,
+    -65.68849,
+    18.21968
+],
+  "geometry": {"coordinates":[-65.68849,18.21968],"type":"Point"}
+}

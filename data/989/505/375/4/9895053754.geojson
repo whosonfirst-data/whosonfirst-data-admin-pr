@@ -1,0 +1,75 @@
+{
+  "id": 9895053754,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.48795,18.438,-66.48795,18.438",
+    "geom:latitude":18.438,
+    "geom:longitude":-66.48795,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 4568117: name \"San Jos\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/4568117"
+        },
+        {
+            "citation":"GeoNames populated place 4568117: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/4568117"
+        },
+        {
+            "citation":"GeoNames populated place 4568117: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/4568117"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080271 (Manat\u00ed), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        102080271,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4568117
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"9fb496369703010901a90205f4f301fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080271,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":9895053754
+        }
+    ],
+    "wof:id":9895053754,
+    "wof:lastmodified":1795735190,
+    "wof:name":"San Jos\u00e9",
+    "wof:parent_id":102080271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.48795,
+    18.438,
+    -66.48795,
+    18.438
+],
+  "geometry": {"coordinates":[-66.48795,18.438],"type":"Point"}
+}

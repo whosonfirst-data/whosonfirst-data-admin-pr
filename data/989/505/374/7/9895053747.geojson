@@ -1,0 +1,75 @@
+{
+  "id": 9895053747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.68738,18.35106,-65.68738,18.35106",
+    "geom:latitude":18.35106,
+    "geom:longitude":-65.68738,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 4562906: name \"Boquer\u00f3n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/4562906"
+        },
+        {
+            "citation":"GeoNames populated place 4562906: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/4562906"
+        },
+        {
+            "citation":"GeoNames populated place 4562906: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/4562906"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080339 (Luquillo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633729,
+        102080339,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4562906
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"a9ad45f227a185c5c4006c426d1013a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080339,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":9895053747
+        }
+    ],
+    "wof:id":9895053747,
+    "wof:lastmodified":1795735190,
+    "wof:name":"Boquer\u00f3n",
+    "wof:parent_id":102080339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.68738,
+    18.35106,
+    -65.68738,
+    18.35106
+],
+  "geometry": {"coordinates":[-65.68738,18.35106],"type":"Point"}
+}
